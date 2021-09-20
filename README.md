@@ -17,6 +17,7 @@ Do note that this addon has references to slavery and organized crime (pirates).
 
 # Copyrights
 Plugin copyright: Copyright (C) Lemuria#0685 2021. License: GPLv3, view in LICENSE.md
+
 Contact:          Lemuria#0685 (Discord)
 
 
