@@ -22,26 +22,15 @@ Contact:          Lemuria#0685 (Discord)
 
 Can't find the attribution for your image? Use the search feature of your code editor or whatever program you're using to read this.
 
-To make it easier to contact the author, you may join the Endless Sky discord server at:
-                  X####################################X
-                  | https://discord.com/invite/ZeuASSx |
-                  X####################################X
+To make it easier to contact the author, you may join the Endless Sky discord server at: https://discord.com/invite/ZeuASSx
+             
 
 
- - Laateli landscape image, Themanilaxperience, CC BY-SA 3.0
+ * Laateli landscape image, Themanilaxperience, CC BY-SA 3.0
    https://commons.wikimedia.org/wiki/File:Makatiskyline.jpg
 
- - Leroo Station landscape image, Bill Ebbesen, CC BY 3.0
+ * Leroo Station landscape image, Bill Ebbesen, CC BY 3.0
    https://commons.wikimedia.org/wiki/File:Heatpipe_tunnel_copenhagen_2009.jpg
 
- - Markaii landscape image, Aleksandar Pasaric, Downloaded from pexels.com
+ * Markaii landscape image, Aleksandar Pasaric, Downloaded from pexels.com
    https://www.pexels.com/photo/concrete-high-rise-buildings-under-blue-sky-618079/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
- -
-  
- -
-  
- -
-  
- -
-  
- -
