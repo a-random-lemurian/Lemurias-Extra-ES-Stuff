@@ -1,0 +1,54 @@
+news lizzFan.miner
+	location
+		government Republic "Free Worlds" Syndicate Neutral Independent
+		attributes mining
+		attributes north south rim frontier core
+	name
+		word
+			Miner
+	message
+		word
+			"Man, I like to listen to old 2020s music from this person called Lizz Robinett! 1,000-year old music is simply the best and it helps me get through shifts at the mine!"
+
+news lizzFan.farmer
+	location
+		government Republic "Free Worlds" Syndicate Neutral Independent
+		attributes mining
+		attributes north south rim frontier core
+	name
+		word
+			Farmer
+	message
+		word
+			"Man, I like to listen to old 2020s music from this person called Lizz Robinett! 1,000-year old music is simply the best and it helps me get through tough farm work!"
+
+news sayari.impersonator
+	location
+		government Hai
+	name
+		word
+			"Sayari impersonator"
+	message
+		word
+			"I was the envoy to the human government back then. Yes, I am none other than Sayari herself. Nope, just kidding!"
+
+news laateliWarn.neistat
+	location
+		system Illumina
+	name
+		word
+			Explorer
+	message
+		word
+			"Stay away from the Neistat system! That place is a warzone! Pirates and Republic ships in a never-ending fight. How did they even get those Bactrians?"
+
+news laateliPromote.neistatSalvage
+	location
+		system Illumina
+	name
+		word
+			"Salvage captain"
+	message
+		word
+			"The Neistat system has a fair ammount of pirate Bactrians. You should go and board them! Big profits await!"
+

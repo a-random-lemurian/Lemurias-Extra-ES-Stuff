@@ -1,0 +1,10 @@
+government "Rainych Federation"
+	swizzle 3
+	color 0.67058825 0.8509804 0.78823531
+	"player reputation" 1000
+	bribe 0.05
+	fine 0
+	"friendly hail" "friendly civilian"
+	"hostile hail" "hostile civilian"
+	raid "Large Southern Pirates"
+

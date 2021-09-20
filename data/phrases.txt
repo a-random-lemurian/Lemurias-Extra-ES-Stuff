@@ -1,0 +1,32 @@
+phrase datavisit1
+	word
+		`You've reached your destination, but the dockworkers and computer technicians say "Sorry, not all the cargo is here." You realize you need to depart and wait for the other ships to arrive.`
+
+phrase datavisit2
+	word
+		"Not all the cargo is in the system. Better depart and wait for the rest of the fleet to catch up!"
+
+phrase datavisit.sayari
+	word
+		"Not all the photos of Sayari are in the system yet. You should depart and wait for the rest of your fleet to arrive before landing."
+
+phrase datacomp1
+	word
+		"Computer technicians and dockworkers work meticulously to drop off the cargo at one of the faraway landing bays of the spaceport, loading the data onto a truck. You assume it is being delivered to a datacenter. When you return to your ship, you recieve a notification that <payment> has been transferred to your account."
+
+phrase datacomp.sayari
+	word
+		"An unknown person, whose face you can't see as it is covered by a large piece of cloth with holes cut out for his/her eyes, alongside some dockworkers, unload the Sayari photos from your ship. The unknown person gives you a credit chip containing <payment>."
+
+phrase datacomp2
+	word
+		"Hundreds of dockworkers and their machinery gather around your ships to unload the <commodity>. Upon returning to your ship, you recieve a message from your bank that the client has transferred <credits> into your account."
+
+phrase comp.sayariPlushie
+	word
+		"You unload the life-size Sayari plushies at <planet> and recieve your payment of <credits>."
+
+phrase visit.sayariPlushie
+	word
+		"Not all the Sayari plushies have arrived at the system. Better wait for the rest to arrive."
+

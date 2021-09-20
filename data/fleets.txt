@@ -1,0 +1,68 @@
+fleet pirates.bactrianLarge
+	government Pirate
+	names pirate
+	cargo 5
+	personality
+		confusion 15
+		plunders harvests
+	variant 5
+		Bactrian
+		Leviathan
+		Sparrow
+	variant 2
+		Sparrow
+
+fleet pirates.bactrianOnly.3
+	government Pirate
+	names snComp.PirateShipId.1
+	cargo 1
+	personality
+		confusion 12
+		plunders heroic vindictive harvests
+	variant 10
+		Bactrian 3
+
+fleet yuyuko.sayariPlushie.attack
+	government Pirate
+	names ""
+	cargo 0
+	personality
+		plunders vindictive harvests
+	variant 4
+		Falcon
+		Leviathan 2
+		Bactrian
+
+fleet megaPirates.capitalShip
+	government Pirate
+	names snComp.PirateShipId.1
+	cargo 0
+	personality
+		disables
+	variant 19
+		Bactrian 2
+		Falcon
+		Leviathan
+		Sparrow 2
+		Fury
+		Quicksilver
+	variant 15
+		Argosy
+		"Modified Argosy"
+		Argosy
+		Splinter
+		Vanguard 2
+	variant 2
+		Cruiser
+		Falcon
+		Bactrian
+
+fleet rep.bactrianOnly.3
+	government Republic
+	names "republic capital"
+	cargo 0
+	personality
+		confusion 12
+	variant
+		Bactrian 3
+

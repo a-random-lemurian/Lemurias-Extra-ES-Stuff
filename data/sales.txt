@@ -1,0 +1,3 @@
+shipyard "Basic Ships"
+	"Ursa Polaris"
+

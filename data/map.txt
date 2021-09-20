@@ -1,0 +1,587 @@
+planet Laateli
+	attributes illumina
+	shipyard "Basic Ships"
+	shipyard "Betelgeuse Advanced"
+	shipyard "Navy Advanced"
+	shipyard "Navy Basics"
+	outfitter "Ammo North"
+	outfitter "Basic Outfits"
+	outfitter "Basic Weapons"
+	outfitter "Common Outfits"
+	outfitter "Deep Sky Advanced"
+	outfitter "Delta V Basics"
+	outfitter "Lovelace Basics"
+	outfitter Nuke
+	landscape land/laateli
+	description "Laateli is an Earth-like planet home to a large shipyard and over 1.34 billion people. The streets of it's largest city, Laadecki is bustling with small businesses strewn across the cityscape with the occasional chop-shop. The slave trade has proliferated deep within the planet's mantle. Amongst the inhabitants, there is rumor that deep in the nearby uninhabited systems lies an entrance to an alien civillization. No explorer has been daring enough to investigate this, and it is often dismissed as mere nonsense."
+	spaceport "The spaceport is busy with ships docking and undocking constantly. Air traffic controllers continue to exist, but ever since spacecraft made atmospheric-based vehicles obsolete, their main responsibility is now to control the flow of ships into the system."
+	government Republic
+	security 0.67
+
+system Hiljaak
+	pos -807.36111 -69.555556
+	government Republic
+	link Limen
+	link Jarkiiens
+	asteroids "medium rock" 10 2.002
+	asteroids "large rock" 41 2.548
+	asteroids "small metal" 5 2.002
+	asteroids "medium metal" 10 1.69
+	asteroids "large metal" 1 2.288
+	minables aluminum 12 4.3789041
+	habitable 1574
+	belt 1181
+	trade Clothing 453
+	trade "Data drives" 7097
+	trade Electronics 987
+	trade Equipment 509
+	trade Food 664
+	trade "Heavy Metals" 887
+	trade Industrial 770
+	trade "Luxury Goods" 1208
+	trade Medical 876
+	trade Metal 1009
+	trade Plastic 855
+	object
+		sprite star/m-giant
+		period 10
+	object
+		sprite planet/gas15
+		distance 1044
+		period 0.0034686091
+		object
+			sprite planet/dust1
+			distance 198
+			period 1033.815
+		object
+			sprite planet/rock17-b
+			distance 313
+			period 263.64
+		object
+			sprite planet/rock7-b
+			distance 416
+			period 446.865
+		object
+			sprite planet/dust4
+			distance 562
+			period 1033.815
+	object
+		sprite planet/gas5-b
+		distance 2361
+		period 0.0034686091
+		object
+			sprite planet/station8
+			distance 240
+			period 699.84
+	object
+		sprite planet/uranus
+		distance 3152
+		period 0.0034686091
+
+system Neistat
+	pos -768.33333 -161.91667
+	government Republic
+	link Orbona
+	link Illuria
+	link Leideete
+	fleet "" 600
+	fleet "" 600
+	fleet "" 600
+	fleet "" 600
+	fleet pirates.bactrianLarge 1200
+	fleet pirates.bactrianOnly.3 4000
+	habitable 9525.6
+	object
+		sprite star/k0-old
+		period 10
+	object
+		sprite planet/io-b
+		distance 245
+		period 0.030234316
+	object
+		sprite planet/ice5-b
+		distance 669
+		period 0.030234316
+		object
+			sprite planet/oberon-b
+			distance 154
+			period 263.64
+	object
+		sprite planet/gas7
+		distance 1692
+		period 0.030234316
+		object
+			sprite planet/dyson2
+			distance 272
+			period 1460.04
+		object
+			sprite planet/europa
+			distance 395
+			period 446.865
+		object
+			sprite planet/callisto
+			distance 528
+			period 1460.04
+		object
+			sprite planet/dust5-b
+			distance 701
+			period 1460.04
+	object
+		sprite planet/station1k
+		distance 3013
+		period 0.030234316
+	object
+		sprite planet/dust0-b
+		distance 3417
+		period 0.030234316
+
+system Orbona
+	link Neistat
+	link Serfeiia
+
+system Aljuik
+	pos -961.66667 -129.58333
+	link Deriie
+	link Duffeni
+	link Alkxaai
+
+system Duffeni
+	pos -914.33333 -184.91667
+	link Illuria
+	link Aljuik
+	fleet "" 200
+
+system Illumina
+	pos -853 -124.58333
+	government Republic
+	link Jarkiiens
+	link Illuria
+	link Serfeiia
+	link Deriie
+	asteroids "large metal" 19 0
+	fleet "Large Northern Merchants" 600
+	fleet "Paradise Merchants" 600
+	fleet "Republic Logistics" 600
+	fleet "" 600
+	fleet "" 600
+	fleet "" 600
+	fleet "" 600
+	fleet "Small Core Merchants" 600
+	fleet "Large Core Merchants" 600
+	fleet "Large Northern Pirates" 1700
+	fleet pirates.bactrianLarge 7000
+	fleet pirates.bactrianOnly.3 6000
+	habitable 890
+	belt 1362
+	trade Clothing 231
+	trade "Data drives" 8098
+	trade Electronics 499
+	trade Equipment 450
+	trade Food 705
+	trade "Heavy Metals" 890
+	trade Industrial 398
+	trade "Luxury Goods" 1344
+	trade Medical 502
+	trade Metal 664
+	trade Plastic 320
+	attributes earthlike illumina republic
+	object
+		sprite star/k0
+		period 10
+	object Laateli
+		sprite planet/earth-b
+		distance 1100.9497
+		period 348.92
+	object
+		sprite planet/desert3-b
+		distance 1516.3931
+		period 340
+	object
+		sprite planet/cloud0-b
+		distance 2058.8573
+		period 567
+
+system Illuria
+	pos -836.33333 -187.91667
+	government Republic
+	link Neistat
+	link Duffeni
+	link Illumina
+	link Suerolii
+	asteroids "small rock" 0 4.95
+	asteroids "medium rock" 0 5.225
+	asteroids "large rock" 0 2.805
+	asteroids "small metal" 0 3.41
+	asteroids "medium metal" 56 5.005
+	asteroids "large metal" 90 3
+	minables uranium 300 4
+	minables gold 300 4
+	habitable 889.35
+	belt 853
+	trade Clothing 308
+	trade "Data drives" 10988
+	trade Electronics 733
+	trade Equipment 388
+	trade Food 765
+	trade "Heavy Metals" 897
+	trade Industrial 654
+	trade "Luxury Goods" 1290
+	trade Medical 409
+	trade Metal 443
+	trade Plastic 560
+	attributes mining
+	object
+		sprite star/k0
+		period 10
+	object
+		sprite planet/cloud4
+		distance 229.27413
+		period -3299431.4
+	object
+		sprite planet/gas1-b
+		distance 3673.6485
+		period -3093199.3
+		object
+			sprite planet/dust4
+			distance 385.99851
+			period 3989781.3
+	object
+		sprite planet/lava5-b
+		distance 1990.2154
+		period -3451698.3
+	object
+		sprite planet/gas7
+		distance 2533.4188
+		period -2945051.5
+		object
+			sprite planet/desert4-b
+			distance 350.00506
+			period 8892424.6
+	object Markaai
+		sprite planet/earth
+		distance 930.98197
+		period 2357367.3
+
+system Deriie
+	pos -925 -90.25
+	government Republic
+	link Jarkiiens
+	link Aljuik
+	link Illumina
+
+system Suerolii
+	pos -850.33333 -238.58333
+	link Illuria
+	link Leideete
+	link Ladosak
+
+system Kailoo-ereki
+	pos -939.66667 -234.91667
+	link Iloke
+
+system Jarkiiens
+	pos -873.66667 -63.25
+	government Republic
+	link Hiljaak
+	link Deriie
+	link Illumina
+
+system Serfeiia
+	pos -809 -107.91667
+	government Republic
+	link Orbona
+	link Illumina
+
+system Fevbaa
+	pos -1033.0278 -323.25
+	link Iloke
+	link Zusul
+	link Sedlai
+
+system Iloke
+	pos -975.47222 -287.69444
+	government Republic
+	link Kailoo-ereki
+	link Fevbaa
+	link Ghesie
+	link Zikut
+
+system Suhail
+
+system Zusul
+	pos -1115.6944 -303.25
+	link Lesarkei
+	link Fevbaa
+
+system Zikut
+	pos -987.69444 -343.02778
+	link Sundum
+	link Iloke
+
+system Sedlai
+	pos -1039.0278 -284.58333
+	link Jalak
+	link Minjuuk
+	link Fevbaa
+
+system Jalak
+	pos -995.69444 -241.25
+	link Alkxaai
+	link Sedlai
+
+system Ghesie
+	pos -921.27778 -309.16666
+	link Lorfreei
+	link Ladosak
+	link Iloke
+	fleet "Small Northern Pirates" 3000
+	fleet "Small Northern Pirates" 3000
+	fleet "Large Northern Pirates" 6000
+	fleet megaPirates.capitalShip 7000
+	fleet "Small Republic" 600
+	fleet "Small Republic" 600
+	fleet "Small Republic" 600
+	fleet "Small Republic" 600
+	fleet "Large Republic" 600
+	habitable 2158.95
+	object
+		sprite star/k0
+		distance 75.566178
+		period 28.040025
+	object
+		sprite star/a5
+		distance 52.933822
+		period 28.040025
+		offset 180
+	object "Leroo Station"
+		sprite planet/station9
+		distance 550.12316
+		period -3334073.7
+	object
+		sprite planet/desert1
+		distance 726
+		period 0.13339818
+	object
+		sprite planet/browndwarf-y
+		distance 1776
+		period 0.13339818
+		object
+			sprite planet/dust0
+			distance 280
+			period 263.64
+		object
+			sprite planet/rock3
+			distance 404
+			period 699.84
+		object
+			sprite planet/rock0
+			distance 541
+			period 699.84
+
+system Leideete
+	pos -745.94444 -245.83333
+	government Republic
+	link Neistat
+	link Suerolii
+
+system Ladosak
+	pos -860.61111 -276.5
+	link Suerolii
+	link Ghesie
+
+system Minjuuk
+	pos -1083.0278 -219.25
+	link Sedlai
+
+system Alkxaai
+	pos -1012.3611 -173.91667
+	link Jalak
+	link Aljuik
+
+system Arculus
+	pos 308.87 394.57533
+
+system Merulie
+	pos -871.13889 -504.38889
+	link Akkolie
+	link Pekora
+
+system "14 Pole"
+	add link Finduue
+
+system Julitius
+	pos -926.25 -366.83333
+	link Litiedei
+	link Lorfreei
+	link Sundum
+
+system Macali
+	pos -837.80556 -316.83333
+	link Lekkoli
+	link Ronsulka
+	link Lorfreei
+
+system Zaxlai
+	pos -772.02778 -387.27778
+	link Ronsulka
+	link Akkolie
+
+system Finduue
+	pos -1279.0278 -197.80556
+	link Lesarkei
+	link "14 Pole"
+
+system Litiedei
+	pos -850.69444 -381.72222
+	link Julitius
+	link Ronsulka
+	link Akkolie
+	link Pekora
+
+system Lekkoli
+	pos -767.80556 -300.61111
+	link Macali
+
+system Sundum
+	pos -975.13889 -411.94444
+	link Julitius
+	link Radonei
+	link Pekora
+	link Zikut
+
+system Lorfreei
+	pos -879.58333 -332.83333
+	link Julitius
+	link Macali
+	link Ghesie
+
+system Lesarkei
+	pos -1191.0278 -268.80556
+	link Finduue
+	link Zusul
+
+system Radonei
+	pos -966.25 -478.61111
+	government Pirate
+	link Lenseiia
+	link Eileri
+	link Sundum
+
+system Akkolie
+	pos -824.91667 -448.38889
+	link Litiedei
+	link Zaxlai
+	link Merulie
+
+system Ronsulka
+	pos -800.91667 -357.72222
+	link Litiedei
+	link Macali
+	link Zaxlai
+
+system Pekora
+	pos -905.80556 -439.05556
+	link Litiedei
+	link Merulie
+	link Sundum
+
+planet "Leroo Station"
+	attributes station
+	shipyard "Advanced Northern Pirates"
+	outfitter "Ammo North"
+	outfitter "Basic Outfits"
+	outfitter "Basic Weapons"
+	outfitter "Pirate Outfits"
+	landscape land/stationLeroo
+	description "Leroo Station is a pirate station in the Illumina Regions. It serves as some kind of governing building for organized pirate activity. Due to it's size, pirate fleets often use this as a staging point to launch attacks on northwestern traders and occasionally the Deep. The Republic and the Deep remain baffled as to how pirates were able to obtain a large ammount of Bactrians."
+	spaceport "At the docking bays, people give you weird looks, most of them being pirates. It's also possible to buy whatever you want for the right price, but this station has no stores selling slaves."
+	government Pirate
+	"required reputation" 10
+	bribe 0.1
+	security 0
+
+system Lenseiia
+	pos -1037.7778 -470.58333
+	government Pirate
+	link Radonei
+	link Laixadd
+
+system Zosma
+
+system Arneb
+	add link Kiselot
+
+system Eileri
+	pos -953.77778 -549.25
+	government Pirate
+	link Radonei
+	link Laixadd
+	link Lindookor
+	link Kilooew
+
+system Adhara
+
+system Limen
+	add link Hiljaak
+	remove link Orbona
+
+system Luduras
+	pos -779.16667 -606.27777
+	link Kiselot
+	link Kilooew
+
+system Lindookor
+	pos -1006.6667 -580.80555
+	government Pirate
+	link Eileri
+	link Laixadd
+
+system Kiselot
+	pos -624.16667 -596.27777
+	link Arneb
+	link Luduras
+
+system Laixadd
+	pos -1020.4444 -518.58333
+	government Pirate
+	link Lenseiia
+	link Eileri
+	link Lindookor
+
+system Kilooew
+	pos -917.33333 -608.80555
+	government Pirate
+	link Eileri
+	link Luduras
+
+planet Markaai
+	shipyard "Basic Ships"
+	shipyard "Betelgeuse Advanced"
+	shipyard "Betelgeuse Basics"
+	shipyard "Lionheart Advanced"
+	shipyard "Lionheart Basics"
+	shipyard "Luxury Ships"
+	shipyard "Megaparsec Advanced"
+	shipyard "Megaparsec Basics"
+	shipyard "Southbound Advanced"
+	shipyard "Southbound Basics"
+	shipyard "Syndicate Advanced"
+	shipyard "Syndicate Basics"
+	shipyard "Tarazed Advanced"
+	shipyard "Tarazed Basics"
+	outfitter "Ammo North"
+	outfitter "Ammo South"
+	outfitter "Basic Outfits"
+	outfitter "Basic Weapons"
+	outfitter "Common Outfits"
+	outfitter "Deep Sky Advanced"
+	outfitter "Deep Sky Basics"
+	outfitter "Kraz Basics"
+	outfitter "Lovelace Basics"
+	landscape land/markaai
+	description "Markaii is a thriving world in the Illuria system. However, it's cousin, Illumina, has a similar name, meaning people regularly confuse the two planets together. Due to this, the residents have been discussing changing the name of the system lately but it is unlikely the Republic will approve of this."
+	spaceport "Most dockworkers you see at the port have been continually annoyed at constant cargo arrivals bound for Illumina."
+	spaceport "Annoyed dockworkers aside, merchants haggle for hours on end with sellers to get the lowest possible price. In addition, Markaai is home to a large ship refurbishment company, offering various types of ships for anyone's needs."
+	government Republic
+	security 0.66
+
