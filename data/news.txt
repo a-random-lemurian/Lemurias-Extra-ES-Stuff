@@ -10,10 +10,23 @@ news lizzFan.miner
 		word
 			"Man, I like to listen to old 2020s music from this person called Lizz Robinett! 1,000-year old music is simply the best and it helps me get through shifts at the mine!"
 
-news lizzFan.farmer
+news lizzComplaint.miner
 	location
 		government Republic "Free Worlds" Syndicate Neutral Independent
 		attributes mining
+		attributes north south rim frontier core
+	name
+		word
+			"Mine safety supervisor"
+	message
+		word
+			"Man, I've heard Lizz Robinett's old music in the shafts of mines I do safety inspections for, now I instantly associate her songs with mining to the point that her videos are part of my mine ambience playlist."
+			"Taking off your ear protection is an absolute no-no just because you want to hear Lizz Robinett's songs better."
+			
+news lizzFan.farmer
+	location
+		government Republic "Free Worlds" Syndicate Neutral Independent
+		attributes farming
 		attributes north south rim frontier core
 	name
 		word
@@ -31,6 +44,18 @@ news sayari.impersonator
 	message
 		word
 			"I was the envoy to the human government back then. Yes, I am none other than Sayari herself. Nope, just kidding!"
+
+news dockWork.puzzlegame
+	location
+		government Republic "Free Worlds" Syndicate Neutral Independent
+	name
+		word
+			"Dockworker"
+			"Stevedore"
+			"Longspaceman"
+	message
+		word
+			"Dockworkers play massive puzzle games all the time! Have you ever tried to fit 15 boxes of different shapes and sizes all in one cargo hold?"
 
 news laateliWarn.neistat
 	location
@@ -50,5 +75,5 @@ news laateliPromote.neistatSalvage
 			"Salvage captain"
 	message
 		word
-			"The Neistat system has a fair ammount of pirate Bactrians. You should go and board them! Big profits await!"
+			"The Neistat system has a fair amount of pirate Bactrians. You should go and board them! Big profits await!"
 
