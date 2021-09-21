@@ -20,11 +20,11 @@ phrase datacomp.sayari
 
 phrase datacomp2
 	word
-		"Hundreds of dockworkers and their machinery gather around your ships to unload the <commodity>. Upon returning to your ship, you recieve a message from your bank that the client has transferred <credits> into your account."
+		"Hundreds of dockworkers and their machinery gather around your ships to unload the <commodity>. Upon returning to your ship, you recieve a message from your bank that the client has transferred <payment> into your account."
 
 phrase comp.sayariPlushie
 	word
-		"You unload the life-size Sayari plushies at <planet> and recieve your payment of <credits>."
+		"You unload the life-size Sayari plushies at <planet> and recieve your payment of <payment>."
 
 phrase visit.sayariPlushie
 	word
