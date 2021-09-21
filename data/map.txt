@@ -330,6 +330,7 @@ system Jalak
 	link Sedlai
 
 system Ghesie
+	government Pirate
 	pos -921.27778 -309.16666
 	link Lorfreei
 	link Ladosak
@@ -338,8 +339,6 @@ system Ghesie
 	fleet "Small Northern Pirates" 3000
 	fleet "Large Northern Pirates" 6000
 	fleet megaPirates.capitalShip 7000
-	fleet "Small Republic" 600
-	fleet "Small Republic" 600
 	fleet "Small Republic" 600
 	fleet "Small Republic" 600
 	fleet "Large Republic" 600
@@ -377,7 +376,6 @@ system Ghesie
 			sprite planet/rock0
 			distance 541
 			period 699.84
-
 system Leideete
 	pos -745.94444 -245.83333
 	government Republic
