@@ -1,1 +1,14 @@
 
+government "Sayari Plushie"
+    "display name" "Sayari Plushie Authority"
+    swizzle 12
+    "attitude toward"
+        "Yuyuko Saigyouji" -1
+    "player reputation" 0
+
+government "Yuyuko Saigyouji"
+    "display name" "Counter-Sayari Strike Force"
+    swizzle 13
+    "attitude toward"
+        "Sayari Plushie" -1
+    "player reputation" 0
