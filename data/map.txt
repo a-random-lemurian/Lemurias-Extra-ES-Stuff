@@ -139,6 +139,9 @@ system Orbona
 	link Neistat
 	link Serfeiia
 
+	fleet "SayariProt" 600
+	fleet "AntiSayari" 600
+
 system Aljuik
 	pos -961.66667 -129.58333
 	link Deriie
@@ -376,6 +379,7 @@ system Ghesie
 			sprite planet/rock0
 			distance 541
 			period 699.84
+
 system Leideete
 	pos -745.94444 -245.83333
 	government Republic
@@ -578,8 +582,16 @@ planet Markaai
 	outfitter "Lovelace Basics"
 	landscape land/markaai
 	description "Markaii is a thriving world in the Illuria system. However, it's cousin, Illumina, has a similar name, meaning people regularly confuse the two planets together. Due to this, the residents have been discussing changing the name of the system lately but it is unlikely the Republic will approve of this."
-	spaceport "Most dockworkers you see at the port have been continually annoyed at constant cargo arrivals bound for Illumina."
-	spaceport "Annoyed dockworkers aside, merchants haggle for hours on end with sellers to get the lowest possible price. In addition, Markaai is home to a large ship refurbishment company, offering various types of ships for anyone's needs."
+	spaceport "Most dockworkers you see at the port have been continually annoyed at constant cargo arrivals bound for Illumina. Annoyed dockworkers aside, merchants haggle for hours on end with sellers to get the lowest possible price. In addition, Markaai is home to a large ship refurbishment company, offering various types of ships for anyone's needs."
 	government Republic
 	security 0.66
+
+	fleet "Large Northern Merchants" 500
+	fleet "Large Northern Merchants" 500
+	fleet "Large Northern Merchants" 500
+	
+	fleet "Large Northern Pirates" 7000
+
+	fleet "Small Republic" 1300
+	
 
