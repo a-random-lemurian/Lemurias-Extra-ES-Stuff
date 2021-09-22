@@ -138,9 +138,8 @@ system Neistat
 system Orbona
 	link Neistat
 	link Serfeiia
-
-	fleet "SayariProt" 600
-	fleet "AntiSayari" 600
+	fleet SayariProt 600
+	fleet AntiSayari 600
 
 system Aljuik
 	pos -961.66667 -129.58333
@@ -313,19 +312,19 @@ system Suhail
 
 system Zusul
 	pos -1115.6944 -303.25
-	link Lesarkei
 	link Fevbaa
+	link Lesarkei
 
 system Zikut
 	pos -987.69444 -343.02778
-	link Sundum
 	link Iloke
+	link Sundum
 
 system Sedlai
 	pos -1039.0278 -284.58333
+	link Fevbaa
 	link Jalak
 	link Minjuuk
-	link Fevbaa
 
 system Jalak
 	pos -995.69444 -241.25
@@ -333,11 +332,11 @@ system Jalak
 	link Sedlai
 
 system Ghesie
-	government Pirate
 	pos -921.27778 -309.16666
-	link Lorfreei
+	government Pirate
 	link Ladosak
 	link Iloke
+	link Lorfreei
 	fleet "Small Northern Pirates" 3000
 	fleet "Small Northern Pirates" 3000
 	fleet "Large Northern Pirates" 6000
@@ -394,11 +393,13 @@ system Ladosak
 system Minjuuk
 	pos -1083.0278 -219.25
 	link Sedlai
+	link Raidei
 
 system Alkxaai
 	pos -1012.3611 -173.91667
-	link Jalak
+	link Oldothe
 	link Aljuik
+	link Jalak
 
 system Arculus
 	pos 308.87 394.57533
@@ -413,67 +414,133 @@ system "14 Pole"
 
 system Julitius
 	pos -926.25 -366.83333
-	link Litiedei
-	link Lorfreei
 	link Sundum
+	link Lorfreei
+	link Litiedei
 
 system Macali
 	pos -837.80556 -316.83333
+	link Lorfreei
 	link Lekkoli
 	link Ronsulka
-	link Lorfreei
+	habitable 11059.2
+	object
+		sprite star/g5-old
+		distance 117.5
+		period 30.63973
+	object
+		sprite star/g5-old
+		distance 117.5
+		period 30.63973
+		offset 180
+	object
+		sprite planet/rock6-b
+		distance 737
+		period 0.026041667
+		object
+			sprite planet/dust4
+			distance 151
+			period 1033.815
+	object
+		sprite planet/ocean2-b
+		distance 1208
+		period 0.026041667
+		object
+			sprite "planet/asteroid base"
+			distance 174
+			period 1460.04
 
 system Zaxlai
 	pos -772.02778 -387.27778
-	link Ronsulka
 	link Akkolie
+	link Ronsulka
 
 system Finduue
 	pos -1279.0278 -197.80556
-	link Lesarkei
 	link "14 Pole"
+	link Lesarkei
 
 system Litiedei
 	pos -850.69444 -381.72222
-	link Julitius
-	link Ronsulka
 	link Akkolie
 	link Pekora
+	link Julitius
+	link Ronsulka
 
 system Lekkoli
-	pos -767.80556 -300.61111
+	pos -767.13889 -300.61111
 	link Macali
+	habitable 29991
+	object
+		sprite star/giant
+		distance 263.03827
+		period 37.05646
+	object
+		sprite star/neutron
+		distance 108.96173
+		period 37.05646
+		offset 180
+	object
+		sprite planet/forest6-b
+		distance 532
+		period 0.0096028809
+		object
+			sprite planet/io
+			distance 148
+			period 699.84
+	object
+		sprite planet/dust0-b
+		distance 792
+		period 0.0096028809
+	object
+		sprite planet/dyson1
+		distance 1544
+		period 0.0096028809
+	object
+		sprite planet/gas14
+		object
+			sprite planet/dust7-b
+			distance 228
+			period 699.84
+		object
+			sprite planet/rock20
+			distance 332
+			period 699.84
+		object
+			sprite planet/rock3
+			distance 493
+			period 699.84
 
 system Sundum
 	pos -975.13889 -411.94444
+	link Zikut
+	link Pekora
 	link Julitius
 	link Radonei
-	link Pekora
-	link Zikut
 
 system Lorfreei
 	pos -879.58333 -332.83333
+	link Ghesie
 	link Julitius
 	link Macali
-	link Ghesie
 
 system Lesarkei
 	pos -1191.0278 -268.80556
-	link Finduue
 	link Zusul
+	link Finduue
 
 system Radonei
 	pos -966.25 -478.61111
 	government Pirate
+	link Sundum
 	link Lenseiia
 	link Eileri
-	link Sundum
 
 system Akkolie
 	pos -824.91667 -448.38889
+	link Merulie
 	link Litiedei
 	link Zaxlai
-	link Merulie
 
 system Ronsulka
 	pos -800.91667 -357.72222
@@ -483,9 +550,9 @@ system Ronsulka
 
 system Pekora
 	pos -905.80556 -439.05556
-	link Litiedei
-	link Merulie
 	link Sundum
+	link Merulie
+	link Litiedei
 
 planet "Leroo Station"
 	attributes station
@@ -586,12 +653,57 @@ planet Markaai
 	government Republic
 	security 0.66
 
-	fleet "Large Northern Merchants" 500
-	fleet "Large Northern Merchants" 500
-	fleet "Large Northern Merchants" 500
-	
-	fleet "Large Northern Pirates" 7000
+system Lakodelfraddi
+	pos -1172.4722 -112.41666
+	link Littike
+	link Sayreopli
 
-	fleet "Small Republic" 1300
-	
+system Oldothe
+	pos -1026.4722 -93.416663
+	link Alkxaai
+	link Littike
+	link Aixafer
+
+system Jurluo
+	pos -1133.4722 38.583337
+	link Sayreopli
+
+system Raidei
+	pos -1183.4722 -173.41666
+	link Minjuuk
+	link Littike
+
+system Littike
+	pos -1096.4722 -142.41666
+	link Lakodelfraddi
+	link Oldothe
+	link Raidei
+	link Denleitt
+
+system Aixafer
+	pos -1007.4722 -23.416663
+	link Oldothe
+	link Zarkxaa
+	link Denleitt
+
+system Sayreopli
+	pos -1117.4722 -46.416663
+	link Lakodelfraddi
+	link Jurluo
+	link Denleitt
+
+system Luisark
+	pos -1059.4722 6.5833367
+	link Denleitt
+
+system Zarkxaa
+	pos -916.47223 -20.416663
+	link Aixafer
+
+system Denleitt
+	pos -1095.4722 -83.416663
+	link Littike
+	link Aixafer
+	link Sayreopli
+	link Luisark
 
