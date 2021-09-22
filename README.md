@@ -8,6 +8,10 @@ Ingredients: VS Code, Endless Sky, Lemuria's brain cells, electricity, mac, swea
 
 ## v0.1
  First version of the plugin.
+ 
+## v0.2
+* Added 2 governments.
+* Made Orbona a battlefield.
 
 
 # Content Rating
