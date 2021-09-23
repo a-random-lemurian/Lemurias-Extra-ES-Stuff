@@ -1,10 +1,31 @@
+# The syntax is meant for Python 2.7.10
+import datetime
 import random
+
+
 
 print("SHIPMENT MANIFEST GENERATOR")
 print("Would you like to generate a cargo manifest report? Please fill out some information.")
+
+dataFormat = 0
 shipName = raw_input("1. Name of ship: ")
 shipType = raw_input("2. Type of ship: ")
 requestedByUser = input("3. Manifests: ")
+print("How would you like your data? \n 1: Terminal output \n 2: .csv \n 3: .txt")
+dataFormat = input()
+if dataFormat == 1:
+	print("Terminal output selected. Initiating generation.")
+elif dataFormat == 2:
+	print("CSV selected. Please choose a filename.")
+	csvNameIn = raw_input("File name: ")
+	csvName = (csvNameIn+".csv")
+	f = open(csvName, "a")
+elif dataFormat == 3:
+	print("TXT selected. Please choose a filename.")
+	txtNameIn = raw_input("File name: ")
+	txtName = (txtNameIn+".txt")
+	f = open(txtName, "a")
+
 dupeCount = 0
 debugIncrmn = 0
 manifestGen = 0
@@ -307,8 +328,8 @@ cargoList = [
 		"Linen sheets",
 		"Mannequins",
 		"Men's shoes",
-		"parkas",
-		"protective clothing",
+		"Parkas",
+		"Protective clothing",
 		"Rayon",
 		"Running shoes",
 		"Sailcloth",
@@ -728,11 +749,23 @@ cargoList = [
         ]
 
 
+
 print("==========================================================================")
 print("Sayari Protection Fleet | Bulletin                                        ")
 print("Order Recipient: %s (%s)"%(shipName, shipType))
 print("==========================================================================")
-print("SHIPMENT BULLETIN")
+print("SHIPMENT BULLETIN \n")
+
+if dataFormat == 3:
+	f.write("=========================================================================='\n'")
+	f.write("Sayari Protection Fleet | Bulletin                                        '\n'")
+	f.write("Order Recipient: %s (%s)'\n'"%(shipName, shipType))
+	f.write("=========================================================================='\n'")
+	f.write("SHIPMENT BULLETIN '\n'")
+elif dataFormat == 2:
+	f.write("Cargo, tons, Fleet, Departure planet, Departure system, Arrival planet, Arrival system, Shipment ID, Debug No.")
+	
+
 while manifestGen < requestedByUser:
 	debugIncrmn  += 1
 	shipAmmount   = random.randint(4000,5000)
@@ -748,11 +781,21 @@ while manifestGen < requestedByUser:
 
 	else:
     		newManif =	(" %s (%r tons) \n Transport Fleet No. %r \n DEP: %s \n ARR: %s \n Shipment ID: %r-%r \n"%(cargo, shipAmmount, fleetNo, depart, arrive, sID, debugIncrmn))
-		print(newManif)
-		# reason for variable is to allow it to also write to a file in the future
 		manifestGen += 1
-			
+		newManifcsv = ()
+
+		if dataFormat == 1:
+			print(newManif)
+		elif dataFormat == 2:
+			f.write("%s, %r, TF %r, %s, %s, %r, %r '\n'" %(cargo, shipAmmount, fleetNo, depart, arrive, sID, debugIncrmn))
+		elif dataFormat == 3:
+			f.write(newManif+"\n")
 		
+		# reason for variable is to allow it to also write to a file in the future
+		
+			
+if manifestGen == requestedByUser:
+	f.close()
 
 		
 
