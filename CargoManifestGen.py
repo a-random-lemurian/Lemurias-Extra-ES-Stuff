@@ -747,7 +747,9 @@ while manifestGen < requestedByUser:
 		dupeCount += 1
 
 	else:
-    		print(" %s (%r tons) \n Transport Fleet No. %r \n DEP: %s \n ARR: %s \n Shipment ID: %r-%r \n"%(cargo, shipAmmount, fleetNo, depart, arrive, sID, debugIncrmn))
+    		newManif =	(" %s (%r tons) \n Transport Fleet No. %r \n DEP: %s \n ARR: %s \n Shipment ID: %r-%r \n"%(cargo, shipAmmount, fleetNo, depart, arrive, sID, debugIncrmn))
+		print(newManif)
+		# reason for variable is to allow it to also write to a file in the future
 		manifestGen += 1
 			
 		
