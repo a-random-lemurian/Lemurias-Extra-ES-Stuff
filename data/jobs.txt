@@ -159,6 +159,7 @@ mission dataTransport.large.3
 	cargo "Data drives" 155 40 .04
 	to offer
 		"cargo space" > 1200
+		random < 50
 	source
 		government Republic "Free Worlds" Syndicate Neutral Independent
 	destination
@@ -178,6 +179,7 @@ mission dataTransport.large.4
 	cargo "Data drives" 155 40 .04
 	to offer
 		"cargo space" > 1200
+		random < 40
 	source
 		government Republic "Free Worlds" Syndicate Neutral Independent
 	destination
@@ -197,6 +199,7 @@ mission dataTransport.large.5
 	cargo "Data drives" 155 40 .04
 	to offer
 		"cargo space" > 1200
+		random < 40
 	source
 		government Republic "Free Worlds" Syndicate Neutral Independent
 	destination
@@ -213,9 +216,11 @@ mission dataTransport.huge.1
 	description "<tons> of data drives containing <commodity> too sensitive to be transferred via the Worlds Wide Web require physical transport to a datacenter in <planet>, <system> for a reward of <payment>."
 	job
 	repeat
-	cargo "Data drives" 2700 5400
+	cargo "Data drives" 2700 3700
 	to offer
 		"cargo space" > 2780
+		random > 50
+
 	source
 		government Republic "Free Worlds" Syndicate Neutral Independent
 	destination
@@ -235,6 +240,7 @@ mission dataTransport.huge.2
 	cargo "Data drives" 2700 5400
 	to offer
 		"cargo space" > 2780
+		random > 2
 	source
 		government Republic "Free Worlds" Syndicate Neutral Independent
 	destination
@@ -245,3 +251,4 @@ mission dataTransport.huge.2
 	on complete
 		payment 76000 165
 		dialog phrase datacomp2
+
