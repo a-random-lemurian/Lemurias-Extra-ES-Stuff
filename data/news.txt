@@ -20,7 +20,7 @@ news lizzComplaint.miner
 			"Mine safety supervisor"
 	message
 		word
-			"Man, I've heard Lizz Robinett's old music in the shafts of mines I do safety inspections for, now I instantly associate her songs with mining to the point that her videos are part of my mine ambience playlist."
+			"Man, I've heard Lizz Robinett's old music in the shafts of mines I do safety inspections for, now I instantly associate her songs with mining to the point that her videos are part of my mining ambience playlist."
 			"Taking off your ear protection is an absolute no-no just because you want to hear Lizz Robinett's songs better."
 			
 news lizzFan.farmer
