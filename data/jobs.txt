@@ -252,3 +252,23 @@ mission dataTransport.huge.2
 		payment 76000 165
 		dialog phrase datacomp2
 
+
+mission SpoiledKid.transport.1
+	name "Parent and child to <system>"
+	description "Transport a kid and their parents to <planet>, <system>. They will pay you <payment> for the ride."
+	job
+	repeat
+	bunks 2 3
+	to offer
+		bunks > 2
+		random > 75
+	source
+		government Republic "Free Worlds"
+	destination
+		distance 8
+		government Republic "Free Worlds"
+	on visit
+		dialog phrase spoiledChild.Visit
+	on complete
+		payment 80000 20
+		dialog phrase spoiledChild.Comp
