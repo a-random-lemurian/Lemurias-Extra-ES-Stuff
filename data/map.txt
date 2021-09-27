@@ -707,3 +707,6 @@ system Denleitt
 	link Sayreopli
 	link Luisark
 
+system Sol
+	object Earth
+		sprite planet/betterearth
