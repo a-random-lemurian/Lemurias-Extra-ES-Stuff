@@ -1,5 +1,6 @@
 Yes, a changelog.
 
+
 # Changes
 ## 0
 ### 0.1
@@ -19,3 +20,7 @@ Yes, a changelog.
 * Populated some star systems with random stellar objects
 #### Notes
 Well, we hope this plugin makes you happy!
+ 
+# Roadmap
+### 0.4
+* Better earth textur
