@@ -1,23 +1,3 @@
-planet Laateli
-	attributes illumina
-	shipyard "Basic Ships"
-	shipyard "Betelgeuse Advanced"
-	shipyard "Navy Advanced"
-	shipyard "Navy Basics"
-	outfitter "Ammo North"
-	outfitter "Basic Outfits"
-	outfitter "Basic Weapons"
-	outfitter "Common Outfits"
-	outfitter "Deep Sky Advanced"
-	outfitter "Delta V Basics"
-	outfitter "Lovelace Basics"
-	outfitter Nuke
-	landscape land/laateli
-	description "Laateli is an Earth-like planet home to a large shipyard and over 1.34 billion people. The streets of it's largest city, Laadecki is bustling with small businesses strewn across the cityscape with the occasional chop-shop. The slave trade has proliferated deep within the planet's mantle. Amongst the inhabitants, there is rumor that deep in the nearby uninhabited systems lies an entrance to an alien civillization. No explorer has been daring enough to investigate this, and it is often dismissed as mere nonsense."
-	spaceport "The spaceport is busy with ships docking and undocking constantly. Air traffic controllers continue to exist, but ever since spacecraft made atmospheric-based vehicles obsolete, their main responsibility is now to control the flow of ships into the system."
-	government Republic
-	security 0.67
-
 system Hiljaak
 	pos -807.36111 -69.555556
 	government Republic
@@ -307,9 +287,6 @@ system Iloke
 	link Fevbaa
 	link Ghesie
 	link Zikut
-
-system Suhail
-
 system Zusul
 	pos -1115.6944 -303.25
 	link Fevbaa
@@ -553,30 +530,11 @@ system Pekora
 	link Sundum
 	link Merulie
 	link Litiedei
-
-planet "Leroo Station"
-	attributes station
-	shipyard "Advanced Northern Pirates"
-	outfitter "Ammo North"
-	outfitter "Basic Outfits"
-	outfitter "Basic Weapons"
-	outfitter "Pirate Outfits"
-	landscape land/stationLeroo
-	description "Leroo Station is a pirate station in the Illumina Regions. It serves as some kind of governing building for organized pirate activity. Due to it's size, pirate fleets often use this as a staging point to launch attacks on northwestern traders and occasionally the Deep. The Republic and the Deep remain baffled as to how pirates were able to obtain a large ammount of Bactrians."
-	spaceport "At the docking bays, people give you weird looks, most of them being pirates. It's also possible to buy whatever you want for the right price, but this station has no stores selling slaves."
-	government Pirate
-	"required reputation" 10
-	bribe 0.1
-	security 0
-
 system Lenseiia
 	pos -1037.7778 -470.58333
 	government Pirate
 	link Radonei
 	link Laixadd
-
-system Zosma
-
 system Arneb
 	add link Kiselot
 
@@ -588,7 +546,7 @@ system Eileri
 	link Lindookor
 	link Kilooew
 
-system Adhara
+
 
 system Limen
 	add link Hiljaak
@@ -622,36 +580,6 @@ system Kilooew
 	government Pirate
 	link Eileri
 	link Luduras
-
-planet Markaai
-	shipyard "Basic Ships"
-	shipyard "Betelgeuse Advanced"
-	shipyard "Betelgeuse Basics"
-	shipyard "Lionheart Advanced"
-	shipyard "Lionheart Basics"
-	shipyard "Luxury Ships"
-	shipyard "Megaparsec Advanced"
-	shipyard "Megaparsec Basics"
-	shipyard "Southbound Advanced"
-	shipyard "Southbound Basics"
-	shipyard "Syndicate Advanced"
-	shipyard "Syndicate Basics"
-	shipyard "Tarazed Advanced"
-	shipyard "Tarazed Basics"
-	outfitter "Ammo North"
-	outfitter "Ammo South"
-	outfitter "Basic Outfits"
-	outfitter "Basic Weapons"
-	outfitter "Common Outfits"
-	outfitter "Deep Sky Advanced"
-	outfitter "Deep Sky Basics"
-	outfitter "Kraz Basics"
-	outfitter "Lovelace Basics"
-	landscape land/markaai
-	description "Markaii is a thriving world in the Illuria system. However, it's cousin, Illumina, has a similar name, meaning people regularly confuse the two planets together. Due to this, the residents have been discussing changing the name of the system lately but it is unlikely the Republic will approve of this."
-	spaceport "Most dockworkers you see at the port have been continually annoyed at constant cargo arrivals bound for Illumina. Annoyed dockworkers aside, merchants haggle for hours on end with sellers to get the lowest possible price. In addition, Markaai is home to a large ship refurbishment company, offering various types of ships for anyone's needs."
-	government Republic
-	security 0.66
 
 system Lakodelfraddi
 	pos -1172.4722 -112.41666
@@ -710,3 +638,82 @@ system Denleitt
 system Sol
 	object Earth
 		sprite planet/earth3
+
+
+#
+#
+#
+#
+#
+#
+#
+
+
+planet "Leroo Station"
+	attributes station
+	shipyard "Advanced Northern Pirates"
+	outfitter "Ammo North"
+	outfitter "Basic Outfits"
+	outfitter "Basic Weapons"
+	outfitter "Pirate Outfits"
+	landscape land/stationLeroo
+	description "Leroo Station is a pirate station in the Illumina Regions. It serves as some kind of governing building for organized pirate activity. Due to it's size, pirate fleets often use this as a staging point to launch attacks on northwestern traders and occasionally the Deep. The Republic and the Deep remain baffled as to how pirates were able to obtain a large ammount of Bactrians."
+	spaceport "At the docking bays, people give you weird looks, most of them being pirates. It's also possible to buy whatever you want for the right price, but this station has no stores selling slaves."
+	government Pirate
+	"required reputation" 10
+	bribe 0.1
+	security 0
+
+planet Markaai
+	shipyard "Basic Ships"
+	shipyard "Betelgeuse Advanced"
+	shipyard "Betelgeuse Basics"
+	shipyard "Lionheart Advanced"
+	shipyard "Lionheart Basics"
+	shipyard "Luxury Ships"
+	shipyard "Megaparsec Advanced"
+	shipyard "Megaparsec Basics"
+	shipyard "Southbound Advanced"
+	shipyard "Southbound Basics"
+	shipyard "Syndicate Advanced"
+	shipyard "Syndicate Basics"
+	shipyard "Tarazed Advanced"
+	shipyard "Tarazed Basics"
+	outfitter "Ammo North"
+	outfitter "Ammo South"
+	outfitter "Basic Outfits"
+	outfitter "Basic Weapons"
+	outfitter "Common Outfits"
+	outfitter "Deep Sky Advanced"
+	outfitter "Deep Sky Basics"
+	outfitter "Kraz Basics"
+	outfitter "Lovelace Basics"
+	landscape land/markaai
+	description "Markaii is a thriving world in the Illuria system. However, it's cousin, Illumina, has a similar name, meaning people regularly confuse the two planets together. Due to this, the residents have been discussing changing the name of the system lately but it is unlikely the Republic will approve of this."
+	spaceport "Most dockworkers you see at the port have been continually annoyed at constant cargo arrivals bound for Illumina. Annoyed dockworkers aside, merchants haggle for hours on end with sellers to get the lowest possible price. In addition, Markaai is home to a large ship refurbishment company, offering various types of ships for anyone's needs."
+	government Republic
+	security 0.66
+planet Laateli
+	attributes illumina
+	shipyard "Basic Ships"
+	shipyard "Betelgeuse Advanced"
+	shipyard "Navy Advanced"
+	shipyard "Navy Basics"
+	outfitter "Ammo North"
+	outfitter "Basic Outfits"
+	outfitter "Basic Weapons"
+	outfitter "Common Outfits"
+	outfitter "Deep Sky Advanced"
+	outfitter "Delta V Basics"
+	outfitter "Lovelace Basics"
+	outfitter Nuke
+	landscape land/laateli
+	description "Laateli is an Earth-like planet home to a large shipyard and over 1.34 billion people. The streets of it's largest city, Laadecki is bustling with small businesses strewn across the cityscape with the occasional chop-shop. The slave trade has proliferated deep within the planet's mantle. Amongst the inhabitants, there is rumor that deep in the nearby uninhabited systems lies an entrance to an alien civillization. No explorer has been daring enough to investigate this, and it is often dismissed as mere nonsense."
+	spaceport "The spaceport is busy with ships docking and undocking constantly. Air traffic controllers continue to exist, but ever since spacecraft made atmospheric-based vehicles obsolete, their main responsibility is now to control the flow of ships into the system."
+	government Republic
+	security 0.67
+
+planet Eldrosky
+planet Mirukka
+#
+
