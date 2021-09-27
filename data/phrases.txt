@@ -1,13 +1,9 @@
-phrase genderPronouns.3rd
+phrase genderPronouns.third
 	word
 		" his"
 		" her"
 
-phrase childPunishments
-
-
-
-
+###############################################################################################################################
 
 phrase datavisit1
 	word
@@ -27,7 +23,7 @@ phrase datacomp1
 
 phrase datacomp.sayari
 	word
-		"An unknown person, whose face you can't see as it is covered by a large piece of cloth with holes cut out for his/her eyes, alongside some dockworkers, unload the Sayari photos from your ship. The unknown person gives you a credit chip containing <payment>."
+		"An unknown person, whose face you can't see as it is covered by a large piece of cloth with holes cut out for their eyes, alongside some dockworkers, unload the Sayari photos from your ship. The unknown person gives you a credit chip containing <payment>."
 
 phrase datacomp2
 	word
@@ -45,7 +41,7 @@ phrase spoiledChild.Comp
 	word
 		"The parents and their only child depart your ship, while the kid (who you believe is spoiled based on"
 	word
-		phrase genderPronouns.3rd
+		phrase genderPronouns.third
 	word
 		" behavior throughout the entire ride) screams at you for no reason at all. The parents notice this and drag their child off the ship. You suddenly recieve a notification on your datapad that they have transferred the promised <payment>."
 
