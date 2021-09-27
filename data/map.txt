@@ -709,4 +709,4 @@ system Denleitt
 
 system Sol
 	object Earth
-		sprite planet/betterearth
+		sprite planet/earth3
