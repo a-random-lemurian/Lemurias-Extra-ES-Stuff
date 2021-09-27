@@ -23,4 +23,4 @@ Well, we hope this plugin makes you happy!
  
 # Roadmap
 ### 0.4
-* Better earth textur
+* Better earth texture
