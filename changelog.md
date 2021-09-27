@@ -24,3 +24,6 @@ Well, we hope this plugin makes you happy!
 # Roadmap
 ### 0.4
 * Better earth texture
+* 2 new populated planets
+* Sporadic SPA-CSSF fleet battles in Republic/Synd space
+* Populate Illumina Regions with stellar objects
