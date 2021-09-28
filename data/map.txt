@@ -308,6 +308,13 @@ system Jarkiiens
 	link Hiljaak
 	link Deriie
 	link Illumina
+	object
+		sprite star/g3
+	object Yinachr
+		sprite planet/desert3
+		period 288
+		distance 355.5
+
 
 system Serfeiia
 	pos -809 -107.91667
@@ -848,8 +855,9 @@ planet Markaai
 	spaceport "Most dockworkers you see at the port have been continually annoyed at constant cargo arrivals bound for Illumina. Annoyed dockworkers aside, merchants haggle for hours on end with sellers to get the lowest possible price. In addition, Markaai is home to a large ship refurbishment company, offering various types of ships for anyone's needs."
 	government Republic
 	security 0.66
+	attributes illuminareg
 planet Laateli
-	attributes illumina
+	attributes illuminareg
 	shipyard "Basic Ships"
 	shipyard "Betelgeuse Advanced"
 	shipyard "Navy Advanced"
@@ -868,6 +876,16 @@ planet Laateli
 	government Republic
 	security 0.67
 
-planet Mirukka
+planet Yinachr
+	attributes illuminareg
+	outfitter "Basic Outfits"
+	outfitter "Basic Weapons"
+	outfitter "Common Outfits"
+	landscape land/yinachr
+	description "Yinachr is a densely settled desert planet home to around 3.81 billion people. You are at one of the more sparse parts of the planet where the spaceport happens to be. The buildings of this part of Yinachr seem to match the color of the sand."
+	spaceport "At the spaceport, which is quite small for the planet's size, is overcrowded and extremely hot to the point where you would want to wear your temperature-controlled environment suit."
+	government Republic
+	security 0.32
+	
 #
 
