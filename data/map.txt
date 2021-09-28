@@ -868,7 +868,6 @@ planet Laateli
 	government Republic
 	security 0.67
 
-planet Eldrosky
 planet Mirukka
 #
 
