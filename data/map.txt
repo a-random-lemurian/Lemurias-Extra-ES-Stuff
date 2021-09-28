@@ -61,13 +61,12 @@ system Hiljaak
 system Neistat
 	pos -768.33333 -161.91667
 	government Republic
-	link Orbona
 	link Illuria
 	link Leideete
-	fleet "" 600
-	fleet "" 600
-	fleet "" 600
-	fleet "" 600
+	fleet sayariProt 600
+	fleet sayariProt 600
+	fleet "yuyuko.sayariPlushie.attack" 600
+	fleet "yuyuko.sayariPlushie.attack" 600
 	fleet pirates.bactrianLarge 1200
 	fleet pirates.bactrianOnly.3 4000
 	habitable 9525.6
@@ -115,12 +114,6 @@ system Neistat
 		distance 3417
 		period 0.030234316
 
-system Orbona
-	link Neistat
-	link Serfeiia
-	fleet SayariProt 600
-	fleet AntiSayari 600
-
 system Aljuik
 	pos -961.66667 -129.58333
 	link Deriie
@@ -131,7 +124,7 @@ system Duffeni
 	pos -914.33333 -184.91667
 	link Illuria
 	link Aljuik
-	fleet "" 200
+	fleet "sayariProt" 200
 
 system Illumina
 	pos -853 -124.58333
@@ -271,7 +264,6 @@ system Jarkiiens
 system Serfeiia
 	pos -809 -107.91667
 	government Republic
-	link Orbona
 	link Illumina
 
 system Fevbaa
@@ -545,12 +537,6 @@ system Eileri
 	link Laixadd
 	link Lindookor
 	link Kilooew
-
-
-
-system Limen
-	add link Hiljaak
-	remove link Orbona
 
 system Luduras
 	pos -779.16667 -606.27777
