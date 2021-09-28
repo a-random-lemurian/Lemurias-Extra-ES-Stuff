@@ -24,7 +24,7 @@ fleet pirates.bactrianOnly.3
 
 fleet yuyuko.sayariPlushie.attack
 	government Pirate
-	names "anti.sayari"
+	names ""
 	cargo 0
 	personality
 		plunders vindictive harvests
@@ -68,54 +68,31 @@ fleet rep.bactrianOnly.3
 
 fleet SayariProt
 	government "Sayari Plushie"
-	names "spTransport"
+	names ""
 	cargo 13
 	personality
 		confusion 8
 		disables harvests
 	variant 7
 		"Syndicate Bulk Freighter"
-		"Hauler III"
-		"Hauler III"
-		"Hauler III"
-		"Hauler III"
-		"Hauler III"
-		"Hauler III"
-		"Hauler III"
-		"Bactrian"
-		Falcon
-		Falcon
-		Falcon
-		Falcon
-		Falcon
-		Firebird
-		Firebird
+		"Hauler III" 7
+		Bactrian
+		Falcon 5
+		Firebird 2
 		Leviathan
-	variant 1
-		"Kar Ik Vot 349"
-		"Kar Ik Vot 349"
-		"Kar Ik Vot 349"
-		Falcon
-		Falcon
-		Falcon
-		Falcon
-		Falcon
-		"Syndicate Bulk Freighter"
-		"Syndicate Bulk Freighter"
-		"Syndicate Bulk Freighter"
-		"Syndicate Bulk Freighter"
-		"Syndicate Bulk Freighter"
+	variant
+		"Kar Ik Vot 349" 3
+		Falcon 5
+		"Syndicate Bulk Freighter" 5
 
 fleet AntiSayari
 	government "Yuyuko Saigyouji"
-	names "anti.sayari"
+	names ""
+	personality
+		disables
 	variant 7
-		Falcon
-		Falcon
-		Falcon
-		Falcon
-		Falcon
-		Firebird
-		Firebird
+		Falcon 5
+		Firebird 2
 		Leviathan
 		"Kar Ik Vot 349"
+

@@ -89,6 +89,7 @@ phrase snComp.PirateShipId.1
 	phrase
 		snSub.digit
 
+<<<<<<< Updated upstream
 phrase anti.sayari
 	word
 		"Yuyuko Saigyouji"
@@ -100,3 +101,5 @@ phrase anti.sayari
 		snSub.digit
 	phrase
 		snSub.digit
+=======
+>>>>>>> Stashed changes

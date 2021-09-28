@@ -220,7 +220,6 @@ mission dataTransport.huge.1
 	to offer
 		"cargo space" > 2780
 		random > 50
-
 	source
 		government Republic "Free Worlds" Syndicate Neutral Independent
 	destination

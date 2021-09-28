@@ -1,14 +1,14 @@
-
 government "Sayari Plushie"
-    "display name" "Sayari Plushies"
-    swizzle 12
-    "attitude toward"
-        "Yuyuko Saigyouji" -999
-    "player reputation" 0
+	"display name" "Sayari Plushies"
+	swizzle 12
+	color 1 1 1
+	"attitude toward"
+		"Yuyuko Saigyouji" -999
 
 government "Yuyuko Saigyouji"
-    "display name" "CSSF"
-    swizzle 13
-    "attitude toward"
-        "Sayari Plushie" -999
-    "player reputation" 0
+	"display name" CSSF
+	swizzle 13
+	color 1 1 1
+	"attitude toward"
+		"Sayari Plushie" -999
+

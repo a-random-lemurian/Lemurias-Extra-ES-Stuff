@@ -22,7 +22,7 @@ news lizzComplaint.miner
 		word
 			"Man, I've heard Lizz Robinett's old music in the shafts of mines I do safety inspections for, now I instantly associate her songs with mining to the point that her videos are part of my mining ambience playlist."
 			"Taking off your ear protection is an absolute no-no just because you want to hear Lizz Robinett's songs better."
-			
+
 news lizzFan.farmer
 	location
 		government Republic "Free Worlds" Syndicate Neutral Independent
@@ -50,9 +50,9 @@ news dockWork.puzzlegame
 		government Republic "Free Worlds" Syndicate Neutral Independent
 	name
 		word
-			"Dockworker"
-			"Stevedore"
-			"Longspaceman"
+			Dockworker
+			Stevedore
+			Longspaceman
 	message
 		word
 			"Dockworkers play massive puzzle games all the time! Have you ever tried to fit 15 boxes of different shapes and sizes all in one cargo hold?"
