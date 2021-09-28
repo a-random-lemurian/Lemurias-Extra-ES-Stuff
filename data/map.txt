@@ -636,8 +636,116 @@ system Denleitt
 	link Luisark
 
 system Sol
+	pos -400 100
+	government Republic
+	attributes "near earth"
+	habitable 1080
+	belt 1529
+	haze _menu/haze-67
+	link Vega
+	link "Alpha Centauri"
+	link Altair
+	link Sirius
+	link Denebola
+	link Caph
+	asteroids "small rock" 30 2.691
+	asteroids "large rock" 50 5.0508
+	asteroids "medium metal" 4 2.8566
+	asteroids "large metal" 1 2.2356
+	minables iron 8 4.64499
+	trade Clothing 282
+	trade Electronics 745
+	trade Equipment 491
+	trade Food 505
+	trade "Heavy Metals" 849
+	trade Industrial 635
+	trade "Luxury Goods" 1159
+	trade Medical 480
+	trade Metal 402
+	trade Plastic 272
+	fleet "Small Northern Merchants" 300
+	fleet "Large Northern Merchants" 500
+	fleet "Paradise Merchants" 800
+	fleet "Small Republic" 600
+	fleet "Large Republic" 900
+	fleet "Republic Logistics" 2000
+	fleet "Small Core Merchants" 1000
+	fleet "Large Core Merchants" 2000
+	object
+		sprite star/g0
+		period 25.38
+	object
+		sprite planet/mercury
+		distance 289.647
+		period 88
+	object
+		sprite planet/venus
+		distance 533.534
+		period 225
 	object Earth
 		sprite planet/earth3
+		distance 965.669
+		period 365.25
+		object Luna
+			sprite planet/luna
+			distance 201.24
+			period 27.3
+	object Mars
+		sprite planet/mars
+		distance 1471.43
+		period 687
+	object
+		sprite planet/jupiter
+		distance 3339
+		period 4333
+		object
+			sprite planet/io
+			distance 238.221
+			period 10.614
+		object
+			sprite planet/europa
+			distance 379.078
+			period 21.306
+		object
+			sprite planet/ganymede
+			distance 604.739
+			period 42.93
+		object
+			sprite planet/callisto
+			distance 811.717
+			period 66.76
+	object
+		sprite planet/saturn
+		distance 5562
+		period 10759
+		object
+			sprite planet/tethys
+			distance 590
+			period 1.9
+		object
+			sprite planet/rhea
+			distance 791
+			period 4.5
+		object
+			sprite planet/titan
+			distance 1222
+			period 16
+	object
+		sprite planet/uranus
+		distance 10373
+		period 30689
+		object
+			sprite planet/miranda
+			distance 195
+			period 1.4
+		object
+			sprite planet/oberon
+			distance 584
+			period 13
+	object
+		sprite planet/neptune
+		distance 15730
+		period 60182
 
 
 #
