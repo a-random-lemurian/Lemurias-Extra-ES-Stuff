@@ -88,3 +88,15 @@ phrase snComp.PirateShipId.1
 		snSub.digit
 	phrase
 		snSub.digit
+
+phrase anti.sayari
+	word
+		"Yuyuko Saigyouji"
+	word
+		" - "
+	phrase
+		snSub.digit
+	phrase
+		snSub.digit
+	phrase
+		snSub.digit
