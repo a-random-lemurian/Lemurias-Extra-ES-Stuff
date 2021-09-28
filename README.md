@@ -35,9 +35,9 @@ To make it easier to contact the author, you may join the Endless Sky discord se
 
 ### Planet landscape images
 > LI = landscape image
-* Laateli LI, Themanilaxperience, CC BY-SA 3.0 - (orig)[https://commons.wikimedia.org/wiki/File:Makatiskyline.jpg]
-* Markaii LI, Aleksandar Pasaric, Downloaded from pexels.com: (orig)[https://www.pexels.com/photo/concrete-high-rise-buildings-under-blue-sky-618079/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels]
-* Yinachr LI, Vyacheslav Argenberg, CC-BY 4.0 ((orig)[https://commons.wikimedia.org/wiki/File:Nile_River,_West_bank_2,_Aswan,_Egypt.jpg] / author webpage: (en)[http://vascoplanet.com] * (ru[http://vascoplanet.ru]))
+* Laateli LI, Themanilaxperience, CC BY-SA 3.0 - [orig](https://commons.wikimedia.org/wiki/File:Makatiskyline.jpg)
+* Markaii LI, Aleksandar Pasaric, Downloaded from pexels.com: [orig](https://www.pexels.com/photo/concrete-high-rise-buildings-under-blue-sky-618079/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+* Yinachr LI, Vyacheslav Argenberg, CC-BY 4.0 ([orig](https://commons.wikimedia.org/wiki/File:Nile_River,_West_bank_2,_Aswan,_Egypt.jpg) / author webpage: [en](http://vascoplanet.com) * [ru](http://vascoplanet.ru))
 #### Stations
 * Leroo Station landscape image, Bill Ebbesen, CC BY 3.0: https://commons.wikimedia.org/wiki/File:Heatpipe_tunnel_copenhagen_2009.jpg
 ### Planet sprites
