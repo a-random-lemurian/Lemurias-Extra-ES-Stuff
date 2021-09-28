@@ -119,6 +119,14 @@ system Aljuik
 	link Deriie
 	link Duffeni
 	link Alkxaai
+	object
+		sprite star/g2
+	object Lisuga
+		sprite planet/desert4
+	object
+		sprite planet/rock17
+	object
+		sprite planet/rock15
 
 system Duffeni
 	pos -914.33333 -184.91667
@@ -759,6 +767,8 @@ planet "Leroo Station"
 	security 0
 
 planet Markaai
+	attributes illuminareg
+		
 	shipyard "Basic Ships"
 	shipyard "Betelgeuse Advanced"
 	shipyard "Betelgeuse Basics"
@@ -787,8 +797,9 @@ planet Markaai
 	spaceport "Most dockworkers you see at the port have been continually annoyed at constant cargo arrivals bound for Illumina. Annoyed dockworkers aside, merchants haggle for hours on end with sellers to get the lowest possible price. In addition, Markaai is home to a large ship refurbishment company, offering various types of ships for anyone's needs."
 	government Republic
 	security 0.66
+
 planet Laateli
-	attributes illumina
+	attributes illuminareg
 	shipyard "Basic Ships"
 	shipyard "Betelgeuse Advanced"
 	shipyard "Navy Advanced"
@@ -807,7 +818,17 @@ planet Laateli
 	government Republic
 	security 0.67
 
-planet Eldrosky
+planet Yinachr
+	landscape land/yinachr
+	outfitter "Basic Outfits"
+	outfitter "Basic Weapons"
+	outfitter "Common Outfits"
+
+	government "Republic"
+
+	description "Yinachr is a desert world, unique in the fact that immensely rich mineral deposits have been found 17 km below the surface of where it's sole city is. Aside from this city, there are many small mining settlements where miners work and live."
+
+	attributes mining illuminareg
 planet Mirukka
 #
 
