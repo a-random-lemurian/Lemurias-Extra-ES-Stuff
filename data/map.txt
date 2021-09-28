@@ -61,13 +61,12 @@ system Hiljaak
 system Neistat
 	pos -768.33333 -161.91667
 	government Republic
-	link Orbona
 	link Illuria
 	link Leideete
-	fleet "" 600
-	fleet "" 600
-	fleet "" 600
-	fleet "" 600
+	fleet sayariProt 600
+	fleet sayariProt 600
+	fleet "yuyuko.sayariPlushie.attack" 600
+	fleet "yuyuko.sayariPlushie.attack" 600
 	fleet pirates.bactrianLarge 1200
 	fleet pirates.bactrianOnly.3 4000
 	habitable 9525.6
@@ -115,64 +114,25 @@ system Neistat
 		distance 3417
 		period 0.030234316
 
-system Orbona
-	link Neistat
-	link Serfeiia
-	fleet SayariProt 600
-	fleet AntiSayari 600
-	object
-		sprite star/b-giant
-		distance 25
-		period 9.71046
-	object
-		sprite star/k0
-		distance 100
-		period 9.71046
-		offset 180
-	object
-		sprite planet/ice6
-		distance 479.70208
-		period -78220770
-		object
-			sprite planet/desert4
-			distance 149
-			period 22.8635
-	object
-		sprite planet/desert3-b
-		distance 862.846
-		period 189.592
-	object
-		sprite planet/ice1
-		distance 1210.49
-		period 315.035
-		object
-			sprite planet/rock3-b
-			distance 175
-			period 19.7858
-	object
-		sprite planet/ocean1-b
-		distance 1594.3
-		period 476.182
-	object
-		sprite planet/gas4-b
-		distance 2057.86
-		period 698.3
-		object
-			sprite planet/dust1
-			distance 273
-			period 15.9089
-
 system Aljuik
 	pos -961.66667 -129.58333
 	link Deriie
 	link Duffeni
 	link Alkxaai
+	object
+		sprite star/g2
+	object Lisuga
+		sprite planet/desert4
+	object
+		sprite planet/rock17
+	object
+		sprite planet/rock15
 
 system Duffeni
 	pos -914.33333 -184.91667
 	link Illuria
 	link Aljuik
-	fleet "" 200
+	fleet "sayariProt" 200
 
 system Illumina
 	pos -853 -124.58333
@@ -312,7 +272,6 @@ system Jarkiiens
 system Serfeiia
 	pos -809 -107.91667
 	government Republic
-	link Orbona
 	link Illumina
 
 system Fevbaa
@@ -415,9 +374,9 @@ system Minjuuk
 
 system Alkxaai
 	pos -1012.3611 -173.91667
+	link Oldothe
 	link Aljuik
 	link Jalak
-	link Oldothe
 
 system Arculus
 	pos 308.87 394.57533
@@ -550,8 +509,8 @@ system Lesarkei
 system Radonei
 	pos -966.25 -478.61111
 	government Pirate
-	link Lenseiia
 	link Sundum
+	link Lenseiia
 	link Eileri
 
 system Akkolie
@@ -574,30 +533,18 @@ system Pekora
 system Lenseiia
 	pos -1037.7778 -470.58333
 	government Pirate
-	link Laixadd
-<<<<<<< Updated upstream
-=======
 	link Radonei
-
-system Zosma
-
->>>>>>> Stashed changes
+	link Laixadd
 system Arneb
 	add link Kiselot
 
 system Eileri
 	pos -953.77778 -549.25
 	government Pirate
-	link Laixadd
 	link Radonei
+	link Laixadd
 	link Lindookor
 	link Kilooew
-
-
-
-system Limen
-	add link Hiljaak
-	remove link Orbona
 
 system Luduras
 	pos -779.16667 -606.27777
@@ -607,8 +554,8 @@ system Luduras
 system Lindookor
 	pos -1006.6667 -580.80555
 	government Pirate
-	link Laixadd
 	link Eileri
+	link Laixadd
 
 system Kiselot
 	pos -624.16667 -596.27777
@@ -650,16 +597,16 @@ system Raidei
 
 system Littike
 	pos -1096.4722 -142.41666
-	link Raidei
-	link Oldothe
 	link Lakodelfraddi
+	link Oldothe
+	link Raidei
 	link Denleitt
 
 system Aixafer
 	pos -1007.4722 -23.416663
 	link Oldothe
-	link Denleitt
 	link Zarkxaa
+	link Denleitt
 
 system Sayreopli
 	pos -1117.4722 -46.416663
@@ -678,8 +625,8 @@ system Zarkxaa
 system Denleitt
 	pos -1095.4722 -83.416663
 	link Littike
-	link Sayreopli
 	link Aixafer
+	link Sayreopli
 	link Luisark
 
 system Sol
@@ -820,6 +767,8 @@ planet "Leroo Station"
 	security 0
 
 planet Markaai
+	attributes illuminareg
+		
 	shipyard "Basic Ships"
 	shipyard "Betelgeuse Advanced"
 	shipyard "Betelgeuse Basics"
@@ -848,8 +797,9 @@ planet Markaai
 	spaceport "Most dockworkers you see at the port have been continually annoyed at constant cargo arrivals bound for Illumina. Annoyed dockworkers aside, merchants haggle for hours on end with sellers to get the lowest possible price. In addition, Markaai is home to a large ship refurbishment company, offering various types of ships for anyone's needs."
 	government Republic
 	security 0.66
+
 planet Laateli
-	attributes illumina
+	attributes illuminareg
 	shipyard "Basic Ships"
 	shipyard "Betelgeuse Advanced"
 	shipyard "Navy Advanced"
@@ -868,7 +818,17 @@ planet Laateli
 	government Republic
 	security 0.67
 
-planet Eldrosky
+planet Yinachr
+	landscape land/yinachr
+	outfitter "Basic Outfits"
+	outfitter "Basic Weapons"
+	outfitter "Common Outfits"
+
+	government "Republic"
+
+	description "Yinachr is a desert world, unique in the fact that immensely rich mineral deposits have been found 17 km below the surface of where it's sole city is. Aside from this city, there are many small mining settlements where miners work and live."
+
+	attributes mining illuminareg
 planet Mirukka
 #
 
