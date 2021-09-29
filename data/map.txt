@@ -64,10 +64,8 @@ system Neistat
 	link Orbona
 	link Illuria
 	link Leideete
-	fleet "" 600
-	fleet "" 600
-	fleet "" 600
-	fleet "" 600
+	fleet SayariProt 600
+	fleet AntiSayari 600
 	fleet pirates.bactrianLarge 1200
 	fleet pirates.bactrianOnly.3 4000
 	habitable 9525.6
@@ -120,6 +118,8 @@ system Orbona
 	link Serfeiia
 	fleet SayariProt 600
 	fleet AntiSayari 600
+	fleet SayariProt 600
+	fleet AntiSayari 600
 	object
 		sprite star/b-giant
 		distance 25
@@ -167,6 +167,8 @@ system Aljuik
 	link Deriie
 	link Duffeni
 	link Alkxaai
+	fleet SayariProt 600
+	fleet AntiSayari 600
 	object
 		sprite star/k8
 	object
@@ -194,7 +196,8 @@ system Duffeni
 	pos -914.33333 -184.91667
 	link Illuria
 	link Aljuik
-	fleet "" 200
+	fleet SayariProt 600
+	fleet AntiSayari 600
 	object
 		sprite star/k5
 		period 1
@@ -222,6 +225,8 @@ system Illumina
 	link Illuria
 	link Serfeiia
 	link Deriie
+	fleet SayariProt 600
+	fleet AntiSayari 600
 	asteroids "large metal" 19 0
 	fleet "Large Northern Merchants" 600
 	fleet "Paradise Merchants" 600
@@ -272,6 +277,8 @@ system Illuria
 	link Duffeni
 	link Illumina
 	link Suerolii
+	fleet SayariProt 600
+	fleet AntiSayari 600
 	asteroids "small rock" 0 4.95
 	asteroids "medium rock" 0 5.225
 	asteroids "large rock" 0 2.805
@@ -332,6 +339,8 @@ system Deriie
 	link Jarkiiens
 	link Aljuik
 	link Illumina
+	fleet SayariProt 600
+	fleet AntiSayari 600
 	object
 		sprite star/g0
 		distance 3
