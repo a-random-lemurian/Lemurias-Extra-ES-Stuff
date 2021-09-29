@@ -4,7 +4,6 @@ government "Sayari Plushie"
 	color 1 1 1
 	"attitude toward"
 		"Yuyuko Saigyouji" -999
-		Pirate -2
 
 government "Yuyuko Saigyouji"
 	"display name" CSSF
@@ -12,5 +11,4 @@ government "Yuyuko Saigyouji"
 	color 1 1 1
 	"attitude toward"
 		"Sayari Plushie" -999
-		Pirate -2
 

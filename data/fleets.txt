@@ -87,7 +87,7 @@ fleet SayariProt
 
 fleet AntiSayari
 	government "Yuyuko Saigyouji"
-	names anti.sayari
+	names ""
 	personality
 		disables
 	variant 7
