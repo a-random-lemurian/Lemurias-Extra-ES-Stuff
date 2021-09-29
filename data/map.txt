@@ -577,6 +577,42 @@ system Iloke
 	link Fevbaa
 	link Ghesie
 	link Zikut
+	object
+		sprite star/k-giant
+		distance 0
+		period 0
+	object
+		sprite planet/lava5
+		distance 402
+		period 134
+	object
+		sprite planet/rock11
+		distance 776
+		period 345
+	object
+		sprite planet/forest6
+		distance 1209
+		period 402
+	object
+		sprite planet/cloud0
+		distance 1776
+		period 532
+	object
+		sprite planet/cloud2
+		distance 2145
+		period 667
+	object
+		sprite planet/dust1
+		distance 2587
+		period 1033
+	object
+		sprite planet/gas14
+		distance 4095
+		period 1334
+	object
+		sprite planet/gas4
+		distance 5078
+		period 1509
 system Zusul
 	pos -1115.6944 -303.25
 	link Fevbaa
