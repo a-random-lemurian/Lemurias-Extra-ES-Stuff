@@ -36,6 +36,7 @@ To make it easier to contact the author, you may join the Endless Sky discord se
 
 ### Planet landscape images
 > LI = landscape image
+
 | planet | author | license | links |
 | --------------- | --------------- | --------------- | --------------- |
 Laateli | Themanilaxperience | CC BY-SA 3.0 | ([orig](https://commons.wikimedia.org/wiki/File:Makatiskyline.jpg))
