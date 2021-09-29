@@ -168,6 +168,8 @@ system Aljuik
 	link Duffeni
 	link Alkxaai
 	object
+		sprite star/k8
+	object
 		sprite planet/dust1
 		period 190
 		distance 509
@@ -193,6 +195,26 @@ system Duffeni
 	link Illuria
 	link Aljuik
 	fleet "sayariProt" 200
+	object
+		sprite star/k5
+		distance 0
+		period 1
+	object
+		sprite planet/cloud2-b
+		distance 560
+		period 245
+	object
+		sprite planet/rock12
+		distance 762
+		period 457
+	object
+		sprite planet/ice1
+		distance 1099
+		period 694.20
+	object
+		sprite planet/ice5
+		distance 1397
+		period 704.62
 
 system Illumina
 	pos -853 -124.58333
