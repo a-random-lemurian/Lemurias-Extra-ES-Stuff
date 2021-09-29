@@ -22,7 +22,8 @@ Dialogue and "strings" visible to players do not contain mild/major swear words,
 Do note that this addon has references to slavery and organized crime (pirates).
 
 # Copyrights
-Plugin copyright: Copyright (C) Lemuria#0685 2021. License: GPLv3, view in LICENSE.md
+Plugin copyright (C) Lemuria#0685 2021. License: GPLv3, view in LICENSE.md
+Image copyright (C) Several authors, licenses vary: see Pictures section.
 
 Contact:          Lemuria#0685 (Discord)
 
@@ -35,9 +36,13 @@ To make it easier to contact the author, you may join the Endless Sky discord se
 
 ### Planet landscape images
 > LI = landscape image
-* Laateli LI, Themanilaxperience, CC BY-SA 3.0 - [orig](https://commons.wikimedia.org/wiki/File:Makatiskyline.jpg)
-* Markaii LI, Aleksandar Pasaric, Downloaded from pexels.com: [orig](https://www.pexels.com/photo/concrete-high-rise-buildings-under-blue-sky-618079/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
-* Yinachr LI, Vyacheslav Argenberg, CC-BY 4.0 ([orig](https://commons.wikimedia.org/wiki/File:Nile_River,_West_bank_2,_Aswan,_Egypt.jpg) / author webpage: [en](http://vascoplanet.com) * [ru](http://vascoplanet.ru))
+| planet | author | license | links |
+| --------------- | --------------- | --------------- | --------------- |
+Laateli | Themanilaxperience | CC BY-SA 3.0 | ([orig](https://commons.wikimedia.org/wiki/File:Makatiskyline.jpg))
+Markaii | Aleksandar Pasaric | Downloaded from Pexels. | ([orig](https://www.pexels.com/photo/concrete-high-rise-buildings-under-blue-sky-618079/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels))
+Yinachr | Vyacheslav Argenberg | CC-BY 4.0 | ([orig](https://commons.wikimedia.org/wiki/File:Nile_River,_West_bank_2,_Aswan,_Egypt.jpg) / author webpage: [en](http://vascoplanet.com) - [ru](http://vascoplanet.ru))
+Pedinai | Vyacheslav Argenberg | CC-BY 4.0 | ([orig](https://commons.wikimedia.org/wiki/File:Manila_skyline_from_above,_approaching_the_Manila_airport,_Manila,_Philippines.jpg))
+
 #### Stations
 * Leroo Station landscape image, Bill Ebbesen, CC BY 3.0: https://commons.wikimedia.org/wiki/File:Heatpipe_tunnel_copenhagen_2009.jpg
 ### Planet sprites
