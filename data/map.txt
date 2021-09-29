@@ -167,12 +167,32 @@ system Aljuik
 	link Deriie
 	link Duffeni
 	link Alkxaai
+	object
+		sprite planet/dust1
+		period 190
+		distance 509
+	object
+		sprite planet/forest6
+		period 287
+		distance 874
+	object
+		sprite planet/rock5
+		period 398
+		distance 1132
+	object
+		sprite planet/rock12
+		period 439
+		distance 1490
+	object
+		sprite planet/ice4
+		period 559
+		distance 1709
 
 system Duffeni
 	pos -914.33333 -184.91667
 	link Illuria
 	link Aljuik
-	fleet "" 200
+	fleet "sayariProt" 200
 
 system Illumina
 	pos -853 -124.58333
@@ -625,13 +645,10 @@ system Lenseiia
 	pos -1037.7778 -470.58333
 	government Pirate
 	link Laixadd
-<<<<<<< Updated upstream
-=======
 	link Radonei
 
 system Zosma
 
->>>>>>> Stashed changes
 system Arneb
 	add link Kiselot
 
