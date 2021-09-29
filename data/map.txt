@@ -334,7 +334,7 @@ system Deriie
 	link Aljuik
 	link Illumina
 	object
-		sprite star/g2
+		sprite star/g0
 		period 10
 		distance 3
 	object
