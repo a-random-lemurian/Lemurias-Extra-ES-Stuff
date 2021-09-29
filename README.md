@@ -7,7 +7,9 @@ Ingredients: VS Code, Endless Sky, Lemuria's brain cells, electricity, mac, swea
 
 ## Sayari disclaimer
 
-This Endless Sky plugin may contain traces of the Hai ambassador "Sayari". Exposure to Sayari may result in the following effects: Simping, being targeted by Yuyuko Saigyouji, being killed by Yuyuko Saigyouji, insomnia due to thinking about Sayari and Endless Sky constantly at night, gaming addiction, cease and desist letter from anti-gaming groups (rare), and for developers, overload of any MongoDB databases, bill shock if GitHub autopay is on and price is based upon your use of storage and computing power, being denied access to APIs and web services due to storing excessive photos of Sayari, writing too much code that keeps track of Sayari, sending too many requests for a search for Sayari, and excessive posting of Sayari images to aforementioned web services (Stack Overflow, Discord, animal forums, r/aww, r/squirrel, subreddits related to squirrels) respectively.
+This Endless Sky plugin may contain traces of the Hai ambassador "Sayari". Exposure to Sayari may result in the following effects: Simping, being targeted by Yuyuko Saigyouji, being killed by Yuyuko Saigyouji, insomnia due to thinking about Sayari and Endless Sky constantly at night, gaming addiction.
+
+Additional effects include a cease and desist letter from anti-gaming groups (rare), and for developers, overload of any MongoDB databases, bill shock if GitHub autopay is on and price is based upon your use of storage and computing power, being denied access to APIs and web services due to storing excessive photos of Sayari, writing too much code that keeps track of Sayari, sending too many requests for a search for Sayari, and excessive posting of Sayari images to aforementioned web services (Stack Overflow, Discord, animal forums, r/aww, r/squirrel, subreddits related to squirrels) respectively.
 
 > I've never seen someone simp so hard for a digital squirrel alien
 > 
