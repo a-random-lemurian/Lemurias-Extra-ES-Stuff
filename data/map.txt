@@ -546,7 +546,30 @@ system Fevbaa
 	link Iloke
 	link Zusul
 	link Sedlai
-
+	object
+		sprite star/g0
+		distance 0
+		period 0
+	object
+		sprite planet/rock12
+		distance 345
+		period 210
+	object
+		sprite planet/dust7
+		distance 773
+		period 344
+	object
+		sprite planet/dust1
+		distance 1500
+		period 421
+	object
+		sprite planet/ice3
+		distance 1988
+		period 660
+	object
+		sprite planet/gas14
+		distance 3934
+		period 1209
 system Iloke
 	pos -975.47222 -287.69444
 	government Republic
