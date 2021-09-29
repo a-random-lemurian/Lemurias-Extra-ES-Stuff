@@ -3,8 +3,6 @@ phrase genderPronouns.third
 		" his"
 		" her"
 
-###############################################################################################################################
-
 phrase datavisit1
 	word
 		`You've reached your destination, but the dockworkers and computer technicians say "Sorry, not all the cargo is here." You realize you need to depart and wait for the other ships to arrive.`

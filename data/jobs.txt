@@ -251,7 +251,6 @@ mission dataTransport.huge.2
 		payment 76000 165
 		dialog phrase datacomp2
 
-
 mission SpoiledKid.transport.1
 	name "Parent and child to <system>"
 	description "Transport a kid and their parents to <planet>, <system>. They will pay you <payment> for the ride."
@@ -271,3 +270,4 @@ mission SpoiledKid.transport.1
 	on complete
 		payment 80000 20
 		dialog phrase spoiledChild.Comp
+

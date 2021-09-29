@@ -171,33 +171,32 @@ system Aljuik
 		sprite star/k8
 	object
 		sprite planet/dust1
-		period 190
 		distance 509
+		period 190
 	object
 		sprite planet/forest6
-		period 287
 		distance 874
+		period 287
 	object
 		sprite planet/rock5
-		period 398
 		distance 1132
+		period 398
 	object
 		sprite planet/rock12
-		period 439
 		distance 1490
+		period 439
 	object
 		sprite planet/ice4
-		period 559
 		distance 1709
+		period 559
 
 system Duffeni
 	pos -914.33333 -184.91667
 	link Illuria
 	link Aljuik
-	fleet "sayariProt" 200
+	fleet "" 200
 	object
 		sprite star/k5
-		distance 0
 		period 1
 	object
 		sprite planet/cloud2-b
@@ -210,7 +209,7 @@ system Duffeni
 	object
 		sprite planet/ice1
 		distance 1099
-		period 694.20
+		period 694.2
 	object
 		sprite planet/ice5
 		distance 1397
@@ -335,8 +334,8 @@ system Deriie
 	link Illumina
 	object
 		sprite star/g0
-		period 10
 		distance 3
+		period 10
 	object
 		sprite planet/dust5
 		distance 490
@@ -355,7 +354,6 @@ system Deriie
 		period 780
 	object
 		sprite planet/ice1
-		distace 1887
 		period 1090
 	object
 		sprite planet/ice3
@@ -364,18 +362,17 @@ system Deriie
 
 system Suerolii
 	pos -850.33333 -238.58333
+	government Republic
+	link Ladosak
 	link Illuria
 	link Leideete
-	link Ladosak
-
 	fleet "Large Northern Merchants" 600
-	fleet "SayariProt" 600
-	fleet "antiSayari" 8000
+	fleet SayariProt 600
+	fleet "" 8000
 	fleet "Paradise Merchants" 1400
 	fleet "Large Northern Pirates" 4000
 	object
 		sprite star/g0
-		distance 0
 		period 10
 	object
 		sprite planet/rock13
@@ -405,38 +402,37 @@ system Suerolii
 		sprite planet/ice3
 		distance 1776
 		period 1006
-	
+
 system Kailoo-ereki
 	pos -939.66667 -234.91667
 	link Iloke
 	object
 		sprite star/g0
-		distance 0
 		period 0
 	object
 		sprite planet/lava5
-		distance 296 
+		distance 296
 		period 34
 	object
 		sprite planet/rock12
-		distance 338
-		period 129
+		distance 837.29917
+		period -6512617.8
 	object
 		sprite planet/rock13
-		distance 773
-		period 189
+		distance 1214.9891
+		period -2993182.4
 	object
 		sprite planet/forest6
-		distance 1209
-		period 330
+		distance 1733.1704
+		period -4338350
 	object
 		sprite planet/dust4
-		distance 1446
-		period 409
+		distance 3268.2936
+		period -3362585.3
 	object
 		sprite planet/dust2
-		distance 1770
-		period 557
+		distance 5011.8296
+		period -3732957
 
 system Jarkiiens
 	pos -873.66667 -63.25
@@ -448,24 +444,20 @@ system Jarkiiens
 		sprite star/g3
 	object Yinachr
 		sprite planet/desert2
+		distance 355.5449
 		period 288
-		distance 355.54490
-
 	object
 		sprite planet/rock2
-		period 356
 		distance 887.36772
-
+		period 356
 	object
 		sprite planet/rock5
+		distance 1443.9091
 		period 409
-		distance 1443.90913
-
 	object
 		sprite planet/19b
-		period 773
 		distance 2708.8853
-
+		period 773
 
 system Serfeiia
 	pos -809 -107.91667
@@ -474,7 +466,6 @@ system Serfeiia
 	link Illumina
 	object
 		sprite star/k0
-		distance 0
 		period 0
 	object
 		sprite planet/rock12
@@ -518,7 +509,6 @@ system Serfeiia
 			period 445
 		object
 			sprite planet/rock17
-			distance
 			period 580
 		object
 			sprite planet/cloud1-b
@@ -543,12 +533,11 @@ system Serfeiia
 
 system Fevbaa
 	pos -1033.0278 -323.25
-	link Iloke
 	link Zusul
 	link Sedlai
+	link Iloke
 	object
 		sprite star/g0
-		distance 0
 		period 0
 	object
 		sprite planet/rock12
@@ -570,16 +559,16 @@ system Fevbaa
 		sprite planet/gas14
 		distance 3934
 		period 1209
+
 system Iloke
 	pos -975.47222 -287.69444
 	government Republic
-	link Kailoo-ereki
 	link Fevbaa
 	link Ghesie
 	link Zikut
+	link Kailoo-ereki
 	object
 		sprite star/k-giant
-		distance 0
 		period 0
 	object
 		sprite planet/lava5
@@ -613,6 +602,7 @@ system Iloke
 		sprite planet/gas4
 		distance 5078
 		period 1509
+
 system Zusul
 	pos -1115.6944 -303.25
 	link Fevbaa
@@ -620,8 +610,8 @@ system Zusul
 
 system Zikut
 	pos -987.69444 -343.02778
-	link Iloke
 	link Sundum
+	link Iloke
 
 system Sedlai
 	pos -1039.0278 -284.58333
@@ -638,8 +628,8 @@ system Ghesie
 	pos -921.27778 -309.16666
 	government Pirate
 	link Ladosak
-	link Iloke
 	link Lorfreei
+	link Iloke
 	fleet "Small Northern Pirates" 3000
 	fleet "Small Northern Pirates" 3000
 	fleet "Large Northern Pirates" 6000
@@ -835,8 +825,8 @@ system Lesarkei
 system Radonei
 	pos -966.25 -478.61111
 	government Pirate
-	link Lenseiia
 	link Sundum
+	link Lenseiia
 	link Eileri
 
 system Akkolie
@@ -856,11 +846,12 @@ system Pekora
 	link Sundum
 	link Merulie
 	link Litiedei
+
 system Lenseiia
 	pos -1037.7778 -470.58333
 	government Pirate
-	link Laixadd
 	link Radonei
+	link Laixadd
 
 system Zosma
 
@@ -870,12 +861,10 @@ system Arneb
 system Eileri
 	pos -953.77778 -549.25
 	government Pirate
-	link Laixadd
 	link Radonei
+	link Laixadd
 	link Lindookor
 	link Kilooew
-
-
 
 system Limen
 	add link Hiljaak
@@ -889,8 +878,8 @@ system Luduras
 system Lindookor
 	pos -1006.6667 -580.80555
 	government Pirate
-	link Laixadd
 	link Eileri
+	link Laixadd
 
 system Kiselot
 	pos -624.16667 -596.27777
@@ -965,126 +954,6 @@ system Denleitt
 	link Luisark
 
 system Sol
-	pos -400 100
-	government Republic
-	attributes "near earth"
-	habitable 1080
-	belt 1529
-	haze _menu/haze-67
-	link Vega
-	link "Alpha Centauri"
-	link Altair
-	link Sirius
-	link Denebola
-	link Caph
-	asteroids "small rock" 30 2.691
-	asteroids "large rock" 50 5.0508
-	asteroids "medium metal" 4 2.8566
-	asteroids "large metal" 1 2.2356
-	minables iron 8 4.64499
-	trade Clothing 282
-	trade Electronics 745
-	trade Equipment 491
-	trade Food 505
-	trade "Heavy Metals" 849
-	trade Industrial 635
-	trade "Luxury Goods" 1159
-	trade Medical 480
-	trade Metal 402
-	trade Plastic 272
-	fleet "Small Northern Merchants" 300
-	fleet "Large Northern Merchants" 500
-	fleet "Paradise Merchants" 800
-	fleet "Small Republic" 600
-	fleet "Large Republic" 900
-	fleet "Republic Logistics" 2000
-	fleet "Small Core Merchants" 1000
-	fleet "Large Core Merchants" 2000
-	object
-		sprite star/g0
-		period 25.38
-	object
-		sprite planet/mercury
-		distance 289.647
-		period 88
-	object
-		sprite planet/venus
-		distance 533.534
-		period 225
-	object Earth
-		sprite planet/earth3
-		distance 965.669
-		period 365.25
-		object Luna
-			sprite planet/luna
-			distance 201.24
-			period 27.3
-	object Mars
-		sprite planet/mars
-		distance 1471.43
-		period 687
-	object
-		sprite planet/jupiter
-		distance 3339
-		period 4333
-		object
-			sprite planet/io
-			distance 238.221
-			period 10.614
-		object
-			sprite planet/europa
-			distance 379.078
-			period 21.306
-		object
-			sprite planet/ganymede
-			distance 604.739
-			period 42.93
-		object
-			sprite planet/callisto
-			distance 811.717
-			period 66.76
-	object
-		sprite planet/saturn
-		distance 5562
-		period 10759
-		object
-			sprite planet/tethys
-			distance 590
-			period 1.9
-		object
-			sprite planet/rhea
-			distance 791
-			period 4.5
-		object
-			sprite planet/titan
-			distance 1222
-			period 16
-	object
-		sprite planet/uranus
-		distance 10373
-		period 30689
-		object
-			sprite planet/miranda
-			distance 195
-			period 1.4
-		object
-			sprite planet/oberon
-			distance 584
-			period 13
-	object
-		sprite planet/neptune
-		distance 15730
-		period 60182
-
-
-#
-#
-#
-#
-#
-#
-#
-
 
 planet "Leroo Station"
 	attributes station
@@ -1102,6 +971,7 @@ planet "Leroo Station"
 	security 0
 
 planet Markaai
+	attributes illuminareg
 	shipyard "Basic Ships"
 	shipyard "Betelgeuse Advanced"
 	shipyard "Betelgeuse Basics"
@@ -1130,7 +1000,7 @@ planet Markaai
 	spaceport "Most dockworkers you see at the port have been continually annoyed at constant cargo arrivals bound for Illumina. Annoyed dockworkers aside, merchants haggle for hours on end with sellers to get the lowest possible price. In addition, Markaai is home to a large ship refurbishment company, offering various types of ships for anyone's needs."
 	government Republic
 	security 0.66
-	attributes illuminareg
+
 planet Laateli
 	attributes illuminareg
 	shipyard "Basic Ships"
@@ -1168,6 +1038,5 @@ planet Pedinai
 	description "Pedinai is a forest world. Over 80% of the planet's land consists solely of forests, consisting of various tree species. The largest settlement on Pedinai is home to the spaceport and hosts most of the planet's population of 14 million. The planet is home to a large lumber industry, supplying lumber to most of human space to provide the Paradise Planets and anyone with the right ammount of money with wooden furniture."
 	spaceport "Merchant ships often stop by the area to purchase large ammounts of lumber to sell to the Paradise Planets. Most of the dockworker's equipment seem to be specialized for carrying wood, and only wood. At least one section of the spaceport is made out of wood, from what you could discern when you landed."
 	government Republic
-	security 038
-#
+	security 38
 
