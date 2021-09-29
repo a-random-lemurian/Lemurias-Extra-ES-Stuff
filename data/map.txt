@@ -409,6 +409,34 @@ system Suerolii
 system Kailoo-ereki
 	pos -939.66667 -234.91667
 	link Iloke
+	object
+		sprite star/g0
+		distance 0
+		period 0
+	object
+		sprite planet/lava5
+		distance 296 
+		period 34
+	object
+		sprite planet/rock12
+		distance 338
+		period 129
+	object
+		sprite planet/rock13
+		distance 773
+		period 189
+	object
+		sprite planet/forest6
+		distance 1209
+		period 330
+	object
+		sprite planet/dust4
+		distance 1446
+		period 409
+	object
+		sprite planet/dust2
+		distance 1770
+		period 557
 
 system Jarkiiens
 	pos -873.66667 -63.25
@@ -1009,8 +1037,8 @@ planet Yinachr
 
 planet Pedinai
 	attributes illuminareg
-	landscape land/Pedinai
-	description "Pedinai is a forest world. Over 80% of the planet's land consists solely of forests, consisting of various tree species. The largest settlement on Pedinai is home to the spaceport. and hosts most of the planet's population of 14 million. The planet is home to a large lumber industry, supplying lumber to most of human space to provide the Paradise Planets and anyone with the right ammount of money with wooden furniture."
+	landscape land/pedinai
+	description "Pedinai is a forest world. Over 80% of the planet's land consists solely of forests, consisting of various tree species. The largest settlement on Pedinai is home to the spaceport and hosts most of the planet's population of 14 million. The planet is home to a large lumber industry, supplying lumber to most of human space to provide the Paradise Planets and anyone with the right ammount of money with wooden furniture."
 	spaceport "Merchant ships often stop by the area to purchase large ammounts of lumber to sell to the Paradise Planets. Most of the dockworker's equipment seem to be specialized for carrying wood, and only wood. At least one section of the spaceport is made out of wood, from what you could discern when you landed."
 	government Republic
 	security 038
