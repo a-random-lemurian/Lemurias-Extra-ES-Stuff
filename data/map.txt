@@ -367,10 +367,10 @@ system Suerolii
 	link Illuria
 	link Leideete
 	fleet "Large Northern Merchants" 600
-	fleet SayariProt 600
-	fleet "" 8000
+	fleet SayariProt 1200
+	fleet AntiSayari 1200
 	fleet "Paradise Merchants" 1400
-	fleet "Large Northern Pirates" 4000
+	fleet "Large Northern Pirates" 600
 	object
 		sprite star/g0
 		period 10
