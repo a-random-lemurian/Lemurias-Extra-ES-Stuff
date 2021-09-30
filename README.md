@@ -45,6 +45,8 @@ Laateli | Themanilaxperience | CC BY-SA 3.0 | ([orig](https://commons.wikimedia.
 Markaii | Aleksandar Pasaric | Downloaded from Pexels. | ([orig](https://www.pexels.com/photo/concrete-high-rise-buildings-under-blue-sky-618079/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels))
 Yinachr | Vyacheslav Argenberg | CC-BY 4.0 | ([orig](https://commons.wikimedia.org/wiki/File:Nile_River,_West_bank_2,_Aswan,_Egypt.jpg) / author webpage: [en](http://vascoplanet.com) - [ru](http://vascoplanet.ru))
 Pedinai | Vyacheslav Argenberg | CC-BY 4.0 | ([orig](https://commons.wikimedia.org/wiki/File:Manila_skyline_from_above,_approaching_the_Manila_airport,_Manila,_Philippines.jpg))
+Rodoluki | Vyacheslav Argenberg | CC BY 4.0 | ([orig](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Damascus%2C_Syria%2C_Panoramic_view_of_Damascus.jpg/800px-Damascus%2C_Syria%2C_Panoramic_view_of_Damascus.jpg))
+Khoramelia | Vyacheslav Argenberg | CC BY 4.0 | ([orig](https://commons.wikimedia.org/wiki/File:Karachay-Cherkessia,_Arkhyz_Valley,_%D0%A1%D0%BA%D0%BB%D0%BE%D0%BD%D1%8B_%D0%90%D0%B1%D0%B8%D1%88%D0%B8%D1%80%D0%B0-%D0%90%D1%85%D1%83%D0%B1%D0%B0,_%D0%9A%D0%B0%D1%80%D0%B0%D1%87%D0%B0%D0%B5%D0%B2%D0%BE-%D0%A7%D0%B5%D1%80%D0%BA%D0%B5%D1%81%D0%B8%D1%8F.jpg))
 
 #### Stations
 * Leroo Station landscape image, Bill Ebbesen, CC BY 3.0: https://commons.wikimedia.org/wiki/File:Heatpipe_tunnel_copenhagen_2009.jpg
