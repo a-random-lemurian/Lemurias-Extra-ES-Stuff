@@ -1,7 +1,7 @@
 government "Sayari Plushie"
 	"display name" "Sayari Plushies"
 	swizzle 12
-	color 1 1 1
+	color .0.714 0.506 0.741
 	"attitude toward"
 		"Yuyuko Saigyouji" -999
 		"Pirate" -1
@@ -9,7 +9,7 @@ government "Sayari Plushie"
 government "Yuyuko Saigyouji"
 	"display name" CSSF
 	swizzle 13
-	color 1 1 1
+	color .170 .187 .203 2
 	"attitude toward"
 		"Sayari Plushie" -999
 		"Pirate" -1
