@@ -1081,5 +1081,5 @@ planet Pedinai
 	description "Pedinai is a forest world. Over 80% of the planet's land consists solely of forests, consisting of various tree species. The largest settlement on Pedinai is home to the spaceport and hosts most of the planet's population of 14 million. The planet is home to a large lumber industry, supplying lumber to most of human space to provide the Paradise Planets and anyone with the right ammount of money with wooden furniture."
 	spaceport "Merchant ships often stop by the area to purchase large ammounts of lumber to sell to the Paradise Planets. Most of the dockworker's equipment seem to be specialized for carrying wood, and only wood. At least one section of the spaceport is made out of wood, from what you could discern when you landed."
 	government Republic
-	security 38
+	security 0.38
 
