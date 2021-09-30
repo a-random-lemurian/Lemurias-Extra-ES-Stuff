@@ -346,7 +346,7 @@ system Deriie
 	link Aljuik
 	link Illumina
 	fleet SayariProt 600
-	fleet AntiSayari 600
+	fleet AntiSayari 1600
 	object
 		sprite star/g0
 		distance 3
