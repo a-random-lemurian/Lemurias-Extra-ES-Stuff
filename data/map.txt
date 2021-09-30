@@ -466,6 +466,10 @@ system Jarkiiens
 	link Hiljaak
 	link Deriie
 	link Illumina
+	fleet "Large Northern Merchants" 300
+	fleet SayariProt 800
+	fleet AntiSayari 2400
+	fleet "Small Northern Merchants" 400
 	trade Clothing 343
 	trade "Data drives" 13201 
 	trade Electronics 678
