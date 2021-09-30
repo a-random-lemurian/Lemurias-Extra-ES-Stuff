@@ -89,9 +89,9 @@ fleet SayariProt
 		Leviathan 8
 		Auxillary 11
 	variant 10
-		Falcon 18
-		Leviathan 24
-		Corvette 39
+		Falcon 12
+		Leviathan 12
+		Corvette 3
 		"Kar Ik Vot 349" 10
 
 fleet AntiSayari
@@ -104,6 +104,12 @@ fleet AntiSayari
 		Firebird 2
 		Leviathan
 		"Kar Ik Vot 349"
+	variant 1
+		Firebird 35
+		Leviathan 20
+		Vanguard 4
+		Corvette 3
+		Auxillary 4
 
 fleet IlluminaMiners
 	government "Illumina Mining Corporation"
