@@ -386,6 +386,17 @@ system Suerolii
 	fleet AntiSayari 600
 	fleet "Paradise Merchants" 1400
 	fleet "Large Northern Pirates" 4000
+	trade Clothing 448
+	trade "Data drives" 8948
+	trade Electronics 998
+	trade Equipment 612
+	trade Food 509
+	trade "Heavy Metals" 1244
+	trade Industrial 339
+	trade "Luxury Goods" 1398
+	trade Medical 409
+	trade Metal 211
+	trade Plastic 673
 	object
 		sprite star/g0
 		period 10
