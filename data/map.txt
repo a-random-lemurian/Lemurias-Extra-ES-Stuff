@@ -231,15 +231,16 @@ system Illumina
 	fleet "Large Northern Merchants" 600
 	fleet "Paradise Merchants" 600
 	fleet "Republic Logistics" 600
-	fleet "" 600
-	fleet "" 600
-	fleet "" 600
-	fleet "" 600
+	fleet SayariProt 600
+	fleet SayariProt 600
+	fleet SayariProt 600
+	fleet SayariProt 600
 	fleet "Small Core Merchants" 600
 	fleet "Large Core Merchants" 600
 	fleet "Large Northern Pirates" 1700
 	fleet pirates.bactrianLarge 7000
 	fleet pirates.bactrianOnly.3 6000
+	fleet IlluminaMiners 1200
 	habitable 890
 	belt 1362
 	trade Clothing 231
@@ -279,6 +280,11 @@ system Illuria
 	link Suerolii
 	fleet SayariProt 600
 	fleet AntiSayari 600
+	fleet "Large Northern Merchants" 600
+	fleet "Large Northern Merchants" 600
+	fleet "Large Northern Merchants" 600
+	fleet "Large Southern Merchants" 600
+	fleet IlluminaMiners 600
 	asteroids "small rock" 0 4.95
 	asteroids "medium rock" 0 5.225
 	asteroids "large rock" 0 2.805
@@ -300,7 +306,7 @@ system Illuria
 	trade Medical 409
 	trade Metal 443
 	trade Plastic 560
-	attributes mining
+	attributes mining illuminareg
 	object
 		sprite star/k0
 		period 10

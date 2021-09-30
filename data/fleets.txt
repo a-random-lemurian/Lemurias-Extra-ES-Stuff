@@ -68,7 +68,7 @@ fleet rep.bactrianOnly.3
 
 fleet SayariProt
 	government "Sayari Plushie"
-	names ""
+	names civillian
 	cargo 13
 	personality
 		confusion 8
@@ -80,10 +80,19 @@ fleet SayariProt
 		Falcon 5
 		Firebird 2
 		Leviathan
-	variant
+	variant 4
 		"Kar Ik Vot 349" 3
 		Falcon 5
-		"Syndicate Bulk Freighter" 5
+		"Bulk Freighter" 5
+	variant 6
+		Falcon 20
+		Leviathan 8
+		Auxillary 11
+	variant 10
+		Falcon 18
+		Leviathan 24
+		Corvette 39
+		"Kar Ik Vot 349" 10
 
 fleet AntiSayari
 	government "Yuyuko Saigyouji"
@@ -100,8 +109,11 @@ fleet IlluminaMiners
 	government "Illumina Mining Corporation"
 	names civillian
 	personality
-		mines harvests
+		mining harvests
 	variant 1
 		Sparrow 12
 		Firebird 3
+	variant 1
+		Sparrow 24
+		Firebird 6
 
