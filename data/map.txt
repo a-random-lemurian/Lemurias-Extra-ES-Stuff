@@ -466,6 +466,17 @@ system Jarkiiens
 	link Hiljaak
 	link Deriie
 	link Illumina
+	trade Clothing 343
+	trade "Data drives" 13201 
+	trade Electronics 678
+	trade Equipment 732
+	trade Food 309
+	trade "Heavy Metals" 554
+	trade Industrial 608
+	trade "Luxury Goods" 1277 
+	trade Medical 435
+	trade Metal 552
+	trade Plastic 780
 	object
 		sprite star/g3
 	object Yinachr
