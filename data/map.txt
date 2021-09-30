@@ -207,15 +207,15 @@ system Duffeni
 		period 245
 	object
 		sprite planet/rock12
-		distance 762
+		distance 863
 		period 457
-	object
+	object Rodoluki
 		sprite planet/ice1
-		distance 1099
+		distance 1208
 		period 694.2
 	object
 		sprite planet/ice5
-		distance 1397
+		distance 1784
 		period 704.62
 
 system Illumina
@@ -346,7 +346,9 @@ system Deriie
 	link Aljuik
 	link Illumina
 	fleet SayariProt 600
-	fleet AntiSayari 1600
+	fleet AntiSayari 2600
+	fleet "Large Northern Merchants" 600
+	fleet "Small Northern Pirates" 1200
 	object
 		sprite star/g0
 		distance 3
@@ -355,8 +357,8 @@ system Deriie
 		sprite planet/dust5
 		distance 490
 		period 298
-	object
-		sprite planet/rock13
+	object Khoramelia
+		sprite planet/earth
 		distance 776
 		period 345
 	object
