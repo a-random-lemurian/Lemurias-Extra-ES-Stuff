@@ -1083,3 +1083,14 @@ planet Pedinai
 	government Republic
 	security 0.38
 
+planet Khoramelia
+	government "Sayari Plushie"
+	attributes illuminareg
+	landscape land/khoramelia
+	description "Khoramelia is the headquarters of the Sayari Plushie Authority, one of the major powers of the Illumina Regions. It's main enemy, the CSSF, has surprisingly stayed out of this area. You do wonder why the Republic has not taken any action regarding this battle, considering their role as a peacekeeping organization. You're in one of the few spaceport complexes open to the general public, but even here you can still purchase a few ships and some decent outfits."
+	spaceport "The spaceport is full of ships decked out in the livery of the Sayari Plushie Authority, but you can see a few merchant ships, if any. Most of the SPA officers ignore you, as they mind their own business trying to command the fleets of the Sayari Protection Fleet,the SPA's naval wing, which reportedly consists of 3-6,000 capital ships, far outnumbering the Republic Navy."
+	shipyard "Basic Ships"
+	outfitter "Common Outfits"
+	outfitter "Ammo North"
+	outfitter Nuke
+	outfitter "Ammo South"
