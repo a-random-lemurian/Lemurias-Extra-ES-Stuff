@@ -12,3 +12,11 @@ government "Yuyuko Saigyouji"
 	"attitude toward"
 		"Sayari Plushie" -999
 
+government "Illumina Mining Company"
+	"display name" "Illumina Miners"
+	swizzle 15
+	color 23 12 52
+	"attitude toward"
+		"Pirate" -1
+		"Republic" 1
+		"Syndicate" 0.4

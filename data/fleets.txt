@@ -74,7 +74,7 @@ fleet SayariProt
 		confusion 8
 		disables harvests
 	variant 7
-		"Syndicate Bulk Freighter"
+		"Bulk Freighter" 6
 		"Hauler III" 7
 		Bactrian
 		Falcon 5
@@ -87,7 +87,7 @@ fleet SayariProt
 
 fleet AntiSayari
 	government "Yuyuko Saigyouji"
-	names ""
+	names anti.sayari
 	personality
 		disables
 	variant 7
@@ -95,4 +95,13 @@ fleet AntiSayari
 		Firebird 2
 		Leviathan
 		"Kar Ik Vot 349"
+
+fleet IlluminaMiners
+	government "Illumina Mining Corporation"
+	names civillian
+	personality
+		mines harvests
+	variant 1
+		Sparrow 12
+		Firebird 3
 
