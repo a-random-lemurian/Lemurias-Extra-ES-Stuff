@@ -194,6 +194,7 @@ system Aljuik
 
 system Duffeni
 	pos -914.33333 -184.91667
+	government "Sayari Plushie"
 	link Illuria
 	link Aljuik
 	fleet SayariProt 600
@@ -341,7 +342,7 @@ system Illuria
 
 system Deriie
 	pos -925 -90.25
-	government Republic
+	government "Sayari Plushie"
 	link Jarkiiens
 	link Aljuik
 	link Illumina
