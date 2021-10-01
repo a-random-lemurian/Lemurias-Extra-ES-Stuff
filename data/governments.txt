@@ -1,7 +1,7 @@
 government "Sayari Plushie"
 	"display name" "Sayari Plushies"
 	swizzle 12
-	color .0.714 0.506 0.741
+	color 0.714 0.506 0.741
 	"attitude toward"
 		"Yuyuko Saigyouji" -999
 		"Pirate" -1
