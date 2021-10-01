@@ -17,7 +17,6 @@ trade
         "ship weapons logs"
         "ship engines logs"
         "ship logs"
-        "photos of Sayari"
         "product review videos"
         "immersive simulations"
         "ancestral simulation data"
@@ -26,4 +25,11 @@ trade
 
     commodity "4th wall breaker"
         "Endless Sky game files"  
+    
+    commodity "Sayari goodies"
+        "Sayari plushies"
+        "Sayari merchandise"
+        "photos of Sayari"
+        "Sayari memes"
+        "CSSF intel"
 
