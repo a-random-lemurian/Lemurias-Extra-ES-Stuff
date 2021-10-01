@@ -3,7 +3,7 @@ event spaRecruit
 mission spaRecruitPitch
 	landing
 	source
-		government "Republic" "Syndicate" "Free Worlds"
+		government "Republic" "Syndicate" "Free Worlds" "Sayari Plushie"
 		attributes
 	to offer
 		day    == 16
@@ -11,7 +11,6 @@ mission spaRecruitPitch
 		year   == 3018
 	on offer
 		log "Factions" "Sayari Plushie Authority" `The Sayari Plushie Authority, primarily operating in the Illumina Regions, is a major quasi-national organization performing most of the functions of an actual country like the Republic. It is notorious for it's large trade caravans, transporting goods across the galaxy. However, it is even more well-known for producing life-size plushies of a character named "Sayari". You assume that Sayari is a fictional character of some sort.`
-
 		conversation
 			`Once you step off your ship, a woman dressed in a blue uniform confronts you. She doesn't look like someone from the Navy or Parliament.`
 			`	"Hello, I'm from the Sayari Plushie Authority. We're always looking for experienced pilots. We offer high rewards for missions. Want to join us?"`
@@ -40,17 +39,19 @@ mission spaRecruitPitch
 			accept
 
 	on accept
-	"give ship" "Falcon" "SPA - New Member Ship no. 4639187"
-	"reputation: Sayari Plushie" +3000
-	"reputation: Yuyuko Saigyouji" -3000
-	set "isSpaMember"
+		give ship "Falcon" "SPA - New Member Ship no. 4639187"
+		"reputation: Sayari Plushie"   == +000
+		"reputation: Yuyuko Saigyouji" == -3000
+		set "isSpaMember"
 
 mission spaContactFomalhaut
 	landing
 	source "Millrace"
+	destination "Khoramelia"
+	bunks 2
 	on offer
 		conversation
-			`As you open the main cargo door of your ship, you see a tall man wearing a tuxedo with a blue tie in front of you.`
+			`As you open the main cargo door of your ship, you see a tall man wearing a tuxedo with a blue tie in front of you. Before you even ask him who he is, he suddenly speaks.`
 			`	"Hey, are you the new SPA recruit?", the man says.`
 			choice
 				`Yes.`
@@ -58,8 +59,8 @@ mission spaContactFomalhaut
 
 			label followMan
 			`"Alright. Follow me.", the man says.`
-			`As you look to the right, you see a group of strange soldiers running toward you. They don't look like they're from the Republic. Suddenly, the man runs while screaming at you to follow him.`
-			`	"They're dangerous! Run!", the man says.`
+			`As you look to the right, you see a group of strange soldiers running toward you. They don't look like they're from the Republic. Suddenly, the man runs while screaming at you to follow him. The man notices the soldiers.`
+			`	"They're dangerous! Run!", the man screams..`
 			choice
 				`(Run).`
 					goto soldierRun
@@ -97,4 +98,6 @@ mission spaContactFomalhaut
 					goto missionBrief
 
 			label missionBrief
-			`	"Alright, I have another recruit who wants to join the Sayari Plushie Authority, or SPA for short. He's already on my ship, so we just have to depart together and hopefully we'll make it to Khoramelia in one piece. Before you ask, Khoramelia is our headquarters. That's where we do stuff and it's where you'll pick up missions that you can do for us."`
+			`	"Alright, I have another recruit who wants to join us. He's already on my ship, so we just have to depart together and hopefully we'll make it to Khoramelia in one piece. Before you ask, Khoramelia is our headquarters. That's where we do stuff and it's where you'll pick up missions that you can do for us."`
+
+	npc

@@ -1111,3 +1111,9 @@ planet Mindai
 	landscape land/mindai
 	description "Mindai seems to be the manufacturing hub of the Sayari Plushie Authority. The smog on this planet is so intense that there are scrubber ships flying across the atmosphere trying to capture any smog and filter it into oxygen. Lately, many manufacturing processes have moved into orbit to fix this, but due to the fear of micrometeorites, this process has been relatively slow."
 	spaceport "Most of the attire the people here wear are usually yellow hard hats, basic t-shirts and pants, and some people look like they have not bathed in weeks, reminding you of the conditions of this planet. "
+
+planet Arlok
+	landscape land/arlok
+	government "Sayari Plushie"
+	description 
+	spaceport 
