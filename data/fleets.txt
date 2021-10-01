@@ -138,3 +138,14 @@ fleet spaTrade
 		"Geocoris" 20
 		"Shield Beetle" 4
 
+fleet spaFalcon
+	government "Sayari Plushie"
+	names ""
+	personality
+		heroic
+	variant 4
+		"Falcon" 20
+	variant 4
+		"Marauder Falcon (Weapons)" 20
+	variant 1
+		"Marauder Falcon (Engines)" 30
