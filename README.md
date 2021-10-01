@@ -59,3 +59,6 @@ https://en.wikipedia.org/wiki/File:Blue_Marble_2002.png
 ## Other
 * This plugin contains copy-pasted code in map.txt from the base game, specifically the Sol System's code.
 * This plugin is written in Endless Sky plugin language using Visual Code Editor.
+
+## Mission flowcharts
+For visualization purposes, a flowchart in Mermaid format is available in a seperate repository (a-random-lemurian/leest-docs).
