@@ -123,3 +123,18 @@ fleet IlluminaMiners
 		Sparrow 24
 		Firebird 6
 
+
+fleet spaTrade
+	government "Sayari Plushie"
+	names ""
+	personality
+		heroic
+	variant 1
+		"Hauler III" 20
+		"Hauler II" 10
+		"Falcon" 4
+	variant 1
+		"Deep River" 5
+		"Geocoris" 20
+		"Shield Beetle" 4
+
