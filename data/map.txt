@@ -164,11 +164,13 @@ system Orbona
 
 system Aljuik
 	pos -961.66667 -129.58333
+	government "Sayari Plushie"
 	link Deriie
 	link Duffeni
 	link Alkxaai
-	fleet SayariProt 600
-	fleet AntiSayari 600
+	fleet SayariProt 200
+	fleet "Large Northern Merchants" 200
+	fleet AntiSayari 16000
 	object
 		sprite star/k8
 	object
@@ -179,7 +181,7 @@ system Aljuik
 		sprite planet/forest6
 		distance 874
 		period 287
-	object
+	object Mindai
 		sprite planet/rock5
 		distance 1132
 		period 398
@@ -1102,3 +1104,10 @@ planet Rodoluki
 	landscape land/rodoluki
 	description "Whereas Khoramelia is the headquarters of the Sayari Plushie Authority, it's main fleet yard is located here, on Rodoluki. Even far away from the spaceport, you can hear the noise of repulsor engines and ships as they make their way out of the atmosphere into orbit, and eventually to be destroyed in battle against the CSSF."
 	spaceport "The spaceport is so loud that you were stopped by a SPA ship and boarded, during which you were all instructed to wear ear protection before coming this close to the spaceport. The officer claims that the spaceport noise levels can go as high as 120 decibels."
+
+planet Mindai
+	government "Sayari Plushie"
+	attributes illuminareg sayariplush
+	landscape land/mindai
+	description "Mindai seems to be the manufacturing hub of the Sayari Plushie Authority. The smog on this planet is so intense that there are scrubber ships flying across the atmosphere trying to capture any smog and filter it into oxygen. Lately, many manufacturing processes have moved into orbit to fix this, but due to the fear of micrometeorites, this process has been relatively slow."
+	spaceport "Most of the attire the people here wear are usually yellow hard hats, basic t-shirts and pants, and some people look like they have not bathed in weeks, reminding you of the conditions of this planet. "
