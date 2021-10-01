@@ -13,7 +13,8 @@ mission spaRecruitPitch
 		log "Factions" "Sayari Plushie Authority" `The Sayari Plushie Authority, primarily operating in the Illumina Regions, is a major quasi-national organization performing most of the functions of an actual country like the Republic. It is notorious for it's large trade caravans, transporting goods across the galaxy. However, it is even more well-known for producing life-size plushies of a character named "Sayari". You assume that Sayari is a fictional character of some sort.`
 
 		conversation
-			`Once you step off your ship, a woman dressed in a blue uniform confronts you. She doesn't look like someone from the Navy or Parliament. Immediately, she says "Hello, I'm from the Sayari Plushie Authority. We're always looking for experienced pilots. We offer high rewards for missions. Want to join us?"`
+			`Once you step off your ship, a woman dressed in a blue uniform confronts you. She doesn't look like someone from the Navy or Parliament.`
+			`	"Hello, I'm from the Sayari Plushie Authority. We're always looking for experienced pilots. We offer high rewards for missions. Want to join us?"`
 			choice
 				`	"Sure, I'm in."`
 					goto acceptNoAsk
@@ -21,6 +22,7 @@ mission spaRecruitPitch
 					goto acceptAsk
 				`	"Sorry, I'm not interested."`
 					decline
+
 			label acceptNoAsk
 			`	"Thanks for joining the Sayari Plushie Authority! We're happy to have you onboard. Here's the information of one of my contacts. Meet him on Millrace, Fomalhaut."`
 				accept
@@ -34,10 +36,65 @@ mission spaRecruitPitch
 					goto finalAccept
 			
 			label finalAccept
-			`Your ship is of no use to us. We have a little something for you.`
+			`Your ship is of no use to us. We have a little something for you. One of our standard ships, a Falcon.`
 			accept
 
 	on accept
 	"give ship" "Falcon" "SPA - New Member Ship no. 4639187"
 	"reputation: Sayari Plushie" +3000
 	"reputation: Yuyuko Saigyouji" -3000
+	set "isSpaMember"
+
+mission spaContactFomalhaut
+	landing
+	source "Millrace"
+	on offer
+		conversation
+			`As you open the main cargo door of your ship, you see a tall man wearing a tuxedo with a blue tie in front of you.`
+			`	"Hey, are you the new SPA recruit?", the man says.`
+			choice
+				`Yes.`
+					goto followMan
+
+			label followMan
+			`"Alright. Follow me.", the man says.`
+			`As you look to the right, you see a group of strange soldiers running toward you. They don't look like they're from the Republic. Suddenly, the man runs while screaming at you to follow him.`
+			`	"They're dangerous! Run!", the man says.`
+			choice
+				`(Run).`
+					goto soldierRun
+				`(See who they are.)`
+					goto soldierDidNotRun
+			
+			label soldierDidNotRun
+			`You hesitate for a moment before the soldiers catch up to you. As the soldiers are about to grab you, the man suddenly grabs you by the back and you both run to a dark alleyway of the spaceport, where you're sure the unknown soldiers can't find you. They run in the wrong direction and the man finally introduces himself.`
+			`	"I'm George", the man says.`
+			choice
+				`I'm glad we're safe.`
+					goto gladWereSafe
+				`Who were those soldiers?`
+					goto askedAboutSoldier
+			
+			label soldierRun
+			`Immediately without hesitation, you both run to a dark alleyway of the spaceport, where you're sure the unknown soldiers can't find you. They run in the wrong direction and the man finally introduces himself.`
+			`	"I'm George", the man says.`
+			choice
+				`I'm glad we're safe.`
+					goto gladWereSafe
+				`Who were those soldiers?`
+					goto askedAboutSoldier
+
+			label gladWereSafe
+				`	"Well, of course. We're safe now. They can't get us.", George says. So, here's the mission brief.`
+			choice
+				`Alright.`
+				goto missionBrief
+
+			label askedAboutSoldier
+			`Those soldiers? They're from the Counter-Sayari Strike Force. They've been attacking our plushie shipments since the beginning. They want to kill you or interrogate you. Anyway, the CSSF soldiers are long gone now, so let's get onto your ship.`
+				choice
+					`What's the mission about?`
+					goto missionBrief
+
+			label missionBrief
+			`	"Alright, I have another recruit who wants to join the Sayari Plushie Authority, or SPA for short. He's already on my ship, so we just have to depart together and hopefully we'll make it to Khoramelia in one piece. Before you ask, Khoramelia is our headquarters. That's where we do stuff and it's where you'll pick up missions that you can do for us."`
