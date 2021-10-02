@@ -57,7 +57,7 @@ fleet pirate.war.capitalShip.large.1
 		Falcon
 		Bactrian
 
-fleet rep.bactrianOnly.3
+fleet rep.war.bactrianOnly.small
 	government Republic
 	names "republic capital"
 	cargo 0
@@ -65,23 +65,8 @@ fleet rep.bactrianOnly.3
 		confusion 12
 	variant
 		Bactrian 3
-
-fleet spa.war.illuminaReg.large.1
-	government "Sayari Plushie"
+	government "Republic"
 	names spa.Sayari.comp1
-	cargo 13
-	personality
-		confusion 8
-		disables harvests
-	variant 1
-		Falcon 12
-		Leviathan 12
-		Corvette 3
-		"Kar Ik Vot 349" 10
-	variant 1
-		Falcon 13
-
-
 fleet cssf.war.illuminaReg.large.2
 	government "Yuyuko Saigyouji"
 	names anti.sayari
@@ -106,7 +91,7 @@ fleet cssf.general.emeraldSword.med.1
 	variant
 		"Emerald Sword" 4
 		Firebird 8
-
+###################################################################################################################
 fleet imc.mining.illuminaMiners.med.1
 	government "Illumina Mining Corporation"
 	names ""
@@ -133,6 +118,7 @@ fleet imc.mining.illuminaMiners.small.2
 		"Firebird" 1
 		"Berserker Miner" 2
 	
+###################################################################################################################
 fleet spa.trade.HumanSpace.lrg.1
 	government "Sayari Plushie"
 	names spa.Sayari.comp1
@@ -173,3 +159,15 @@ fleet spa.general.HeliarchPunishers.med.1
 	variant
 		"Heliarch Punisher" 15
 
+fleet spa.war.illuminaReg.large.1
+	cargo 13
+	personality
+		confusion 8
+		disables harvests
+	variant 1
+		Falcon 12
+		Leviathan 12
+		Corvette 3
+		"Kar Ik Vot 349" 10
+	variant 1
+		Falcon 13
