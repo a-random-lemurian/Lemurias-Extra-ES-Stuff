@@ -75,6 +75,7 @@ fleet cssf.war.illuminaReg.large.2
 		Auxillary 4
 
 fleet cssf.general.emeraldSword.med.1
+	government "Yuyuko Saigyouji"
 	names anti.sayari
 	personality
 		disables plunders
@@ -82,8 +83,8 @@ fleet cssf.general.emeraldSword.med.1
 		"Emerald Sword" 4
 		Firebird 8
 fleet cssf.war.sayariPlushieAttack.small.1
-	government Pirate
-	names ""
+	government "Yuyuko Saigyouji"
+	names anti.sayari
 	cargo 0
 	personality
 		plunders vindictive harvests
@@ -93,7 +94,7 @@ fleet cssf.war.sayariPlushieAttack.small.1
 		Bactrian
 ###################################################################################################################
 fleet imc.mining.illuminaMiners.small.1
-	government "Illumina Mining Corporation"
+	government "Illumina Mining Company"
 	names ""
 	personality
 		timid waiting harvests mining
@@ -108,7 +109,7 @@ fleet imc.mining.illuminaMiners.small.1
 		"Hawk" 1
 
 fleet imc.mining.illuminaMiners.small.2
-	government
+	government "Illumina Mining Company"
 	names "Civillian"
 	personality
 		timid waiting harvests mining
