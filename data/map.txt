@@ -170,7 +170,7 @@ system Aljuik
 	link Duffeni
 	fleet spa.war.illuminaReg.large.1 200
 	fleet "Large Northern Merchants" 200
-	fleet cssf.war.illuminaReg.large.1 16000
+	fleet cssf.war.illuminaReg.large.1 1600
 	trade Clothing 432
 	trade "Data drives" 9800
 	trade Electronics 639
