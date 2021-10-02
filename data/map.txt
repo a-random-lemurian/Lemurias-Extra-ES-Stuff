@@ -1018,9 +1018,6 @@ system Denleitt
 	link Littike
 	link Luisark
 	link Sayreopli
-
-system Sol
-
 planet "Leroo Station"
 	attributes station
 	shipyard "Advanced Northern Pirates"
