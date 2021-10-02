@@ -171,6 +171,7 @@ system Aljuik
 	fleet spa.war.illuminaReg.large.1 200
 	fleet "Large Northern Merchants" 200
 	fleet cssf.war.illuminaReg.large.1 1600
+	fleet spa.general.EmeraldSword.med.1 1400
 	trade Clothing 432
 	trade "Data drives" 9800
 	trade Electronics 639
@@ -212,6 +213,7 @@ system Duffeni
 	link Illuria
 	fleet spa.war.illuminaReg.large.1 600
 	fleet cssf.war.illuminaReg.large.1 1600
+	fleet spa.general.EmeraldSword.med.1 1400
 	object
 		sprite star/k5
 		period 1
@@ -367,6 +369,7 @@ system Deriie
 	link Jarkiiens
 	fleet spa.war.illuminaReg.large.1 600
 	fleet cssf.war.illuminaReg.large.1 2600
+	fleet spa.general.EmeraldSword.med.1 1400
 	fleet "Large Northern Merchants" 600
 	fleet "Small Northern Pirates" 1200
 	object
