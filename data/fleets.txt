@@ -119,7 +119,7 @@ fleet imc.mining.illuminaMiners.small.2
 		"Berserker Miner" 2
 	
 ###################################################################################################################
-fleet spa.trade.HumanSpace.lrg.1
+fleet spa.trade.HumanSpace.large.1
 	government "Sayari Plushie"
 	names spa.Sayari.comp1
 	personality
@@ -132,8 +132,15 @@ fleet spa.trade.HumanSpace.lrg.1
 		"Deep River" 5
 		Geocoris 20
 		"Shield Beetle" 4
-
-fleet spa.general.Falcon.lrg.1
+fleet spa.trade.haiSpace.large.1
+	government "Sayari Plushie"
+	names spa.Sayari.comp1
+	personality
+		heroic
+	variant
+		"Shield Beetle" 15
+		"Emerald Sword" 4
+fleet spa.general.Falcon.large.1
 	government "Sayari Plushie"
 	names spa.Sayari.comp1
 	personality
@@ -151,6 +158,7 @@ fleet spa.general.Bactrian.small.1
 		heroic
 	variant
 		"Marauder Bactrian" 5
+	government "Sayari Plushie"
 
 fleet spa.general.HeliarchPunishers.med.1
 	names spa.Sayari.comp1
@@ -158,9 +166,11 @@ fleet spa.general.HeliarchPunishers.med.1
 		heroic
 	variant
 		"Heliarch Punisher" 15
-
+	government "Sayari Plushie"
 fleet spa.war.illuminaReg.large.1
+	names spa.Sayari.comp1
 	cargo 13
+	government "Sayari Plushie"
 	personality
 		confusion 8
 		disables harvests
@@ -171,3 +181,11 @@ fleet spa.war.illuminaReg.large.1
 		"Kar Ik Vot 349" 10
 	variant 1
 		Falcon 13
+fleet spa.general.EmeraldSword.med.1
+	government "Sayari Plushie"
+	names spa.Sayari.comp1
+	personality
+		confusion 5
+		heroic disables harvests plunders
+	variant 1
+		"Emerald Sword" 4
