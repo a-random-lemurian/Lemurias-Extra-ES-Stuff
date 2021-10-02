@@ -124,13 +124,15 @@ fleet IlluminaMiners
 	names ""
 	personality
 		mining harvests
-	variant
-		Sparrow 12
+	variant 1
+		"Berserker Miner" 12
 		Firebird 3
-	variant
-		Sparrow 24
+	variant 3 
+		"Berserker Miner" 6
 		Firebird 6
-
+	variant 3
+		"Berserker Miner" 2
+		"Hawk" 1
 fleet spaTrade
 	government "Sayari Plushie"
 	names ""
