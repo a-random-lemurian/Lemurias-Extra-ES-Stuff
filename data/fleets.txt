@@ -112,13 +112,12 @@ fleet AntiSayari
 		Auxillary 4
 
 fleet cssf.emeraldSword
-	government
 	names anti.sayari
 	personality
 		disables plunders
-	variant 1
+	variant
 		"Emerald Sword" 4
-		"Firebird" 8
+		Firebird 8
 
 fleet IlluminaMiners
 	government "Illumina Mining Corporation"
@@ -166,9 +165,9 @@ fleet spaMarauderBactrian
 		"Marauder Bactrian" 5
 
 fleet spaHeliarchPunishers
-	government
 	names ""
 	personality
 		heroic
-	variant 1
+	variant
 		"Heliarch Punisher" 15
+
