@@ -364,6 +364,10 @@ system Deriie
 		sprite planet/earth
 		distance 776
 		period 345
+		object "Khoramelia Mission Office"
+			sprite planet/station3
+			distance 134
+			period 35
 	object
 		sprite planet/rock4
 		distance 1290
@@ -1104,6 +1108,12 @@ planet Rodoluki
 	landscape land/rodoluki
 	description "Whereas Khoramelia is the headquarters of the Sayari Plushie Authority, it's main fleet yard is located here, on Rodoluki. Even far away from the spaceport, you can hear the noise of repulsor engines and ships as they make their way out of the atmosphere into orbit, and eventually to be destroyed in battle against the CSSF."
 	spaceport "The spaceport is so loud that you were stopped by a SPA ship and boarded, during which you were all instructed to wear ear protection before coming this close to the spaceport. The officer claims that the spaceport noise levels can go as high as 120 decibels."
+
+planet "Khoramelia Mission Office"
+	landscape land/stationKhorameliaMission
+	government "Sayari Plushie"
+	description `The mission office is located here. As you walk through the ornate halls, you find a large room containing several boards with jobs of different kinds.`
+	spaceport `There are many drones at the docking bay alongside small ships.`
 
 planet Mindai
 	government "Sayari Plushie"
