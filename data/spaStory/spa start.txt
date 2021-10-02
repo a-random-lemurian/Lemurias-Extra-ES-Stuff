@@ -143,4 +143,40 @@ mission spaContactFomalhaut
 			`	"Alright, I have another recruit who wants to join us. He's already on my ship, so we just have to depart together and hopefully we'll make it to Khoramelia in one piece. Before you ask, Khoramelia is our headquarters. That's where we do stuff and it's where you'll pick up missions that you can do for us.", says George.`
 			accept
 
-	npc 
+	npc accompany save
+		government "Sayari Plushie"
+		personality escort timid
+		fleet
+			names "civilian"
+			variant
+				"Kar Ik Vot 349"
+				"Firebird"
+	on complete
+		payment 20000
+		conversation
+			`You land on the spaceport. As George and the new recruit leave the ship, George approaches you.`
+			`	"Thanks for the escort back to Khoramelia. Very much appreciated. Anyways, there's a mission office in orbit. Depart and dock at that station and they will provide you with a decent variety of missions.", says George.`
+			choice
+				`	"That new recruit, what's their name?"`
+					goto askedForRecruitName
+				
+				`	"Thanks, man. I'll make sure to pay that mission office a visit."`
+					goto payVisit
+			
+			label askedForRecruitName
+			`	"The recruit?", says George.`
+			`As George is about to tell you their name, the recruit overhears George and approaches you.`
+			`	"Hi, I'm Scott. Nice to meet you.", says the recruit.`
+			choice
+				`	"Nice to meet you too, George."`
+					goto niceToMeetYou
+
+			label niceToMeetYou
+			`	"Of course.", says Scott.`
+			`	"Well, that was a nice introduction. You should go to the mission office. They need new pilots like you willing to do jobs for the Sayari Plushie Authority.", George says as Scott finishes speaking.`
+			`Scott and George leave the spaceport as you wave to them. You sit at one of the benches on the spaceport as you decide your next move.`
+
+			label payVisit
+			`	"You better!", says George and the recruit as they both leave the spaceport while you wave to them. Considering your next move, you decide to sit on a bench to think for a while...`
+	on visit
+		dialog phrase spaContactFomalhaut.arrKhor.visit
