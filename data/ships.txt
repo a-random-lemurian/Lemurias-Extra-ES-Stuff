@@ -5,15 +5,12 @@ ship Berserker "Berserker Miner"
 		cost 130000
 		mass 15
 	outfits
+		"Beam Laser" 0
 		"D23-QP Shield Generator"
 		Hyperdrive
 		"LP072a Battery Pack"
 		"X2700 Ion Thruster"
 		"X3200 Ion Steering"
 		"nGVF-CC Fuel Cell"
-	gun -20 12 "Beam Laser"
-	gun 20 12 "Beam Laser"
-	gun -44 10 "Beam Laser"
-	gun 44 10 "Beam Laser"
 	description "Once one of the most popular interceptor-class ships, the Berserker's popularity is now waning in favor of more modern and versatile ships like the Hawk. Although limited numbers are still produced by Betelgeuse Shipyards, most Berserkers that are in service today are more than half a century old. This Berserker clearly was built with mining in mind."
 
