@@ -249,6 +249,7 @@ system Illumina
 	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.general.EmeraldSword.med.1 1400
 	fleet "Small Core Merchants" 600
 	fleet "Large Core Merchants" 600
 	fleet "Large Northern Pirates" 1700
