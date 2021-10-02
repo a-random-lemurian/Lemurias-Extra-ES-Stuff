@@ -1,0 +1,3 @@
+mission spaDestroyCSSF.patrol.small.1
+	name "Destroy small CSSF patrol"
+		3

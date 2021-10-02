@@ -1,3 +1,6 @@
 
 images/.DS_Store
 .vscode/extensions.json
+.vscode
+.DS_Store
+

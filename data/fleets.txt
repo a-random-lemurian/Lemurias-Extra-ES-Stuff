@@ -149,3 +149,11 @@ fleet spaFalcon
 		"Marauder Falcon (Weapons)" 20
 	variant 1
 		"Marauder Falcon (Engines)" 30
+
+fleet spaMarauderBactrian
+	government
+	names ""
+	personality
+		heroic
+	variant 1
+		"Marauder Bactrian" 5
