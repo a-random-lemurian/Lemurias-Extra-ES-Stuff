@@ -298,8 +298,13 @@ system Illuria
 	asteroids "small metal" 0 3.41
 	asteroids "medium metal" 56 5.005
 	asteroids "large metal" 90 3
-	minables uranium 300 4
-	minables gold 300 4
+	asteroids "small rock" 1 1
+	minables uranium 56 4
+	minables gold 12 4
+	minables neodymium 25 4
+	minables aluminum 1 1
+	minables copper 70 4
+	minables lead 33 4
 	fleet SayariProt 600
 	fleet AntiSayari 600
 	fleet "Large Northern Merchants" 600
@@ -350,7 +355,7 @@ system Illuria
 			period 8892424.6
 	object Markaai
 		sprite planet/earth
-		distance 930.98197
+		distance 1173.2485
 		period 2357367.3
 
 system Deriie
