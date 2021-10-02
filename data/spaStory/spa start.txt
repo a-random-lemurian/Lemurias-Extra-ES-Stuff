@@ -4,6 +4,8 @@ mission spaRecruitPitch
 	landing
 	source
 		government "Republic" "Syndicate" "Free Worlds" "Sayari Plushie"
+	name "SPA - Contact on Millrace"
+	description "The SPA recruitment officer on <origin> has instructed you to meet another officer in Millrace, Fomalhaut."
 	destination
 		system "Fomalhaut"
 	to offer
@@ -26,7 +28,11 @@ mission spaRecruitPitch
 			label acceptNoAsk
 			`	"Thanks for joining the Sayari Plushie Authority! We're happy to have you onboard. Here's the information of one of my contacts. Meet him on Millrace, Fomalhaut.", the woman says.`
 			`She gives you two items: a datapad containing your full contract with the Sayari Plushie Authority, and a captain's keycard to access what seems to be a Falcon. Searching through the datapad, you find a message.`
+			choice
+				`Open the message.`
+					goto spaMsg
 			
+			label spaMsg
 			`SAYARI PLUSHIE AUTHORITY`
 			
 			`	Dear <first> <last>,`
@@ -116,25 +122,25 @@ mission spaContactFomalhaut
 			`Immediately without hesitation, you both run to a dark alleyway of the spaceport, where you're sure the unknown soldiers can't find you. They run in the wrong direction and the man finally introduces himself.`
 			`	"I'm George", the man says.`
 			choice
-				`I'm glad we're safe.`
+				`	"I'm glad we're safe."`
 					goto gladWereSafe
-				`Who were those soldiers?`
+				`	"Who were those soldiers?"`
 					goto askedAboutSoldier
 
 			label gladWereSafe
-				`	"Well, of course. We're safe now. They can't get us.", George says. So, here's the mission brief.`
+				`	"Well, of course. We're safe now. They can't get us.", George says. "So, here's the mission brief."`
 			choice
-				`Alright.`
+				`	"Alright."`
 				goto missionBrief
 
 			label askedAboutSoldier
-			`Those soldiers? They're from the Counter-Sayari Strike Force. They've been attacking our plushie shipments since the beginning. They want to kill you or interrogate you. Anyway, the CSSF soldiers are long gone now, so let's get onto your ship.`
+			`	Hearing your question, George whispers to you, "Those soldiers? They're from the Counter-Sayari Strike Force. They've been attacking our plushie shipments since the beginning. They want to kill you or interrogate you. Anyway, the CSSF soldiers are long gone now, so let's get onto your ship.".`
 			choice
-				`What's the mission about?`
+				`	"What's the mission about?"`
 					goto missionBrief
 
 			label missionBrief
-			`	"Alright, I have another recruit who wants to join us. He's already on my ship, so we just have to depart together and hopefully we'll make it to Khoramelia in one piece. Before you ask, Khoramelia is our headquarters. That's where we do stuff and it's where you'll pick up missions that you can do for us."`
-
+			`	"Alright, I have another recruit who wants to join us. He's already on my ship, so we just have to depart together and hopefully we'll make it to Khoramelia in one piece. Before you ask, Khoramelia is our headquarters. That's where we do stuff and it's where you'll pick up missions that you can do for us.", says George.`
+			accept
 
 	npc 
