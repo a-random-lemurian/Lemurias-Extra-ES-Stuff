@@ -353,7 +353,7 @@ system Deriie
 	fleet "Large Northern Merchants" 600
 	fleet "Small Northern Pirates" 1200
 	object
-		sprite star/g0
+		sprite star/k5
 		distance 3
 		period 10
 	object
