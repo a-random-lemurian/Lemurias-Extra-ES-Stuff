@@ -64,10 +64,10 @@ system Neistat
 	link Illuria
 	link Leideete
 	link Orbona
-	fleet SayariProt 600
-	fleet AntiSayari 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 600
 	fleet pirates.bactrianLarge 1200
-	fleet pirates.bactrianOnly.3 4000
+	fleet pirates.war.3bactrians.1 4000
 	habitable 9525.6
 	object
 		sprite star/k0-old
@@ -116,10 +116,10 @@ system Neistat
 system Orbona
 	link Neistat
 	link Serfeiia
-	fleet SayariProt 600
-	fleet AntiSayari 600
-	fleet SayariProt 600
-	fleet AntiSayari 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 600
 	object
 		sprite star/b-giant
 		distance 25
@@ -168,9 +168,9 @@ system Aljuik
 	link Alkxaai
 	link Deriie
 	link Duffeni
-	fleet SayariProt 200
+	fleet spa.war.illuminaReg.large.1 200
 	fleet "Large Northern Merchants" 200
-	fleet AntiSayari 16000
+	fleet cssf.war.illuminaReg.large.1 16000
 	trade Clothing 432
 	trade "Data drives" 9800
 	trade Electronics 639
@@ -210,8 +210,8 @@ system Duffeni
 	government "Sayari Plushie"
 	link Aljuik
 	link Illuria
-	fleet SayariProt 600
-	fleet AntiSayari 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 600
 	object
 		sprite star/k5
 		period 1
@@ -240,21 +240,21 @@ system Illumina
 	link Jarkiiens
 	link Serfeiia
 	asteroids "large metal" 19 0
-	fleet SayariProt 600
-	fleet AntiSayari 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 600
 	fleet "Large Northern Merchants" 600
 	fleet "Paradise Merchants" 600
 	fleet "Republic Logistics" 600
-	fleet SayariProt 600
-	fleet SayariProt 600
-	fleet SayariProt 600
-	fleet SayariProt 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.war.illuminaReg.large.1 600
 	fleet "Small Core Merchants" 600
 	fleet "Large Core Merchants" 600
 	fleet "Large Northern Pirates" 1700
 	fleet pirates.bactrianLarge 7000
 	fleet pirates.bactrianOnly.3 6000
-	fleet IlluminaMiners 1200
+	fleet imc.mining.illuminaMiners.med.1 1200
 	habitable 890
 	belt 1362
 	trade Clothing 231
@@ -305,13 +305,13 @@ system Illuria
 	minables aluminum 1 1
 	minables copper 70 4
 	minables lead 33 4
-	fleet SayariProt 600
-	fleet AntiSayari 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 2400
 	fleet "Large Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
 	fleet "Large Southern Merchants" 600
-	fleet IlluminaMiners 600
+	fleet imc.mining.illuminaMiners.med.1 600
 	habitable 889.35
 	belt 853
 	trade Clothing 308
@@ -364,8 +364,8 @@ system Deriie
 	link Aljuik
 	link Illumina
 	link Jarkiiens
-	fleet SayariProt 600
-	fleet AntiSayari 2600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 2600
 	fleet "Large Northern Merchants" 600
 	fleet "Small Northern Pirates" 1200
 	object
@@ -407,8 +407,8 @@ system Suerolii
 	link Ladosak
 	link Leideete
 	fleet "Large Northern Merchants" 600
-	fleet SayariProt 600
-	fleet AntiSayari 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 600
 	fleet "Paradise Merchants" 1400
 	fleet "Large Northern Pirates" 4000
 	trade Clothing 448
@@ -492,8 +492,8 @@ system Jarkiiens
 	link Hiljaak
 	link Illumina
 	fleet "Large Northern Merchants" 300
-	fleet SayariProt 800
-	fleet AntiSayari 2400
+	fleet spa.war.illuminaReg.large.1 800
+	fleet cssf.war.illuminaReg.large.1 2400
 	fleet "Small Northern Merchants" 400
 	trade Clothing 343
 	trade "Data drives" 13201
@@ -759,7 +759,6 @@ system Alkxaai
 	link Aljuik
 	link Jalak
 	link Oldothe
-
 system Arculus
 	pos 308.87 394.57533
 

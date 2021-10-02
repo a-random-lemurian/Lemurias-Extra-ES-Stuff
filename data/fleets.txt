@@ -1,4 +1,4 @@
-fleet pirates.bactrianLarge
+fleet pirates.war.bactrian.small.1
 	government Pirate
 	names pirate
 	cargo 5
@@ -12,7 +12,7 @@ fleet pirates.bactrianLarge
 	variant 2
 		Sparrow
 
-fleet pirates.bactrianOnly.3
+fleet pirates.war.3bactrians.1
 	government Pirate
 	names snComp.PirateShipId.1
 	cargo 1
@@ -22,7 +22,7 @@ fleet pirates.bactrianOnly.3
 	variant 10
 		Bactrian 3
 
-fleet yuyuko.sayariPlushie.attack
+fleet cssf.war.sayariPlushieAttack.small.1
 	government Pirate
 	names ""
 	cargo 0
@@ -33,7 +33,7 @@ fleet yuyuko.sayariPlushie.attack
 		Leviathan 2
 		Bactrian
 
-fleet megaPirates.capitalShip
+fleet pirate.war.capitalShip.large.1
 	government Pirate
 	names snComp.PirateShipId.1
 	cargo 0
@@ -66,35 +66,23 @@ fleet rep.bactrianOnly.3
 	variant
 		Bactrian 3
 
-fleet SayariProt
+fleet spa.war.illuminaReg.large.1
 	government "Sayari Plushie"
 	names spa.Sayari.comp1
 	cargo 13
 	personality
 		confusion 8
 		disables harvests
-	variant 7
-		"Bulk Freighter" 6
-		"Hauler III" 7
-		Bactrian
-		Falcon 5
-		Firebird 2
-		Leviathan
-	variant 4
-		"Kar Ik Vot 349" 3
-		Falcon 5
-		"Bulk Freighter" 5
-	variant 6
-		Falcon 20
-		Leviathan 8
-		Auxillary 11
-	variant 10
+	variant 1
 		Falcon 12
 		Leviathan 12
 		Corvette 3
 		"Kar Ik Vot 349" 10
+	variant 1
+		Falcon 13
 
-fleet AntiSayari
+
+fleet cssf.war.illuminaReg.large.2
 	government "Yuyuko Saigyouji"
 	names anti.sayari
 	personality
@@ -111,7 +99,7 @@ fleet AntiSayari
 		Corvette 3
 		Auxillary 4
 
-fleet cssf.emeraldSword
+fleet cssf.general.emeraldSword.med.1
 	names anti.sayari
 	personality
 		disables plunders
@@ -119,7 +107,7 @@ fleet cssf.emeraldSword
 		"Emerald Sword" 4
 		Firebird 8
 
-fleet IlluminaMiners
+fleet imc.mining.illuminaMiners.med.1
 	government "Illumina Mining Corporation"
 	names ""
 	personality
@@ -133,8 +121,19 @@ fleet IlluminaMiners
 	variant 3
 		"Berserker Miner" 2
 		"Hawk" 1
+
+fleet imc.mining.illuminaMiners.small.2
+	government
+	names "Civillian"
+	personality
+		mining harvests stays
+	variant 1
+		"Berserker Miner" 3
+	variant 2
+		"Firebird" 1
+		"Berserker Miner" 2
 	
-fleet spaTrade
+fleet spa.trade.HumanSpace.lrg.1
 	government "Sayari Plushie"
 	names spa.Sayari.comp1
 	personality
@@ -148,7 +147,7 @@ fleet spaTrade
 		Geocoris 20
 		"Shield Beetle" 4
 
-fleet spaFalcon
+fleet spa.general.Falcon.lrg.1
 	government "Sayari Plushie"
 	names spa.Sayari.comp1
 	personality
@@ -160,14 +159,14 @@ fleet spaFalcon
 	variant
 		"Marauder Falcon (Engines)" 30
 
-fleet spaMarauderBactrian
+fleet spa.general.Bactrian.small.1
 	names spa.Sayari.comp1
 	personality
 		heroic
 	variant
 		"Marauder Bactrian" 5
 
-fleet spaHeliarchPunishers
+fleet spa.general.HeliarchPunishers.med.1
 	names spa.Sayari.comp1
 	personality
 		heroic
