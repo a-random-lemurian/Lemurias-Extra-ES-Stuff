@@ -156,3 +156,10 @@ fleet spaMarauderBactrian
 	variant
 		"Marauder Bactrian" 5
 
+fleet spaHeliarchPunishers
+	government
+	names ""
+	personality
+		heroic
+	variant 1
+		"Heliarch Punisher" 15
