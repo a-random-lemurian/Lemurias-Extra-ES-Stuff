@@ -147,6 +147,6 @@ phrase spa.sayariOfLocation.comp
 		snSub.digit
 phrase spa.allNames
 	phrase
-		spa.sun.Sayari.sp1
+		spa.sub.Sayari.sp1
 		spa.sayariOfLocation.comp
 
