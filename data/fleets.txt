@@ -22,18 +22,7 @@ fleet pirates.war.3bactrians.1
 	variant 10
 		Bactrian 3
 
-fleet cssf.war.sayariPlushieAttack.small.1
-	government Pirate
-	names ""
-	cargo 0
-	personality
-		plunders vindictive harvests
-	variant 4
-		Falcon
-		Leviathan 2
-		Bactrian
-
-fleet pirate.war.capitalShip.large.1
+fleet pirates.war.capitalShip.large.1
 	government Pirate
 	names snComp.PirateShipId.1
 	cargo 0
@@ -56,7 +45,7 @@ fleet pirate.war.capitalShip.large.1
 		Cruiser
 		Falcon
 		Bactrian
-
+###################################################################################################################
 fleet rep.war.bactrianOnly.small
 	government Republic
 	names "republic capital"
@@ -67,6 +56,7 @@ fleet rep.war.bactrianOnly.small
 		Bactrian 3
 	government "Republic"
 	names spa.Sayari.comp1
+###################################################################################################################
 fleet cssf.war.illuminaReg.large.2
 	government "Yuyuko Saigyouji"
 	names anti.sayari
@@ -91,6 +81,16 @@ fleet cssf.general.emeraldSword.med.1
 	variant
 		"Emerald Sword" 4
 		Firebird 8
+fleet cssf.war.sayariPlushieAttack.small.1
+	government Pirate
+	names ""
+	cargo 0
+	personality
+		plunders vindictive harvests
+	variant 4
+		Falcon
+		Leviathan 2
+		Bactrian
 ###################################################################################################################
 fleet imc.mining.illuminaMiners.med.1
 	government "Illumina Mining Corporation"
