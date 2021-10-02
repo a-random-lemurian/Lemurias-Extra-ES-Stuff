@@ -92,26 +92,26 @@ fleet cssf.war.sayariPlushieAttack.small.1
 		Leviathan 2
 		Bactrian
 ###################################################################################################################
-fleet imc.mining.illuminaMiners.med.1
+fleet imc.mining.illuminaMiners.small.1
 	government "Illumina Mining Corporation"
 	names ""
 	personality
-		mining harvests
+		timid waiting harvests mining
 	variant 1
-		"Berserker Miner" 12
-		Firebird 3
+		"Berserker Miner" 4
+		Firebird 2
 	variant 3 
-		"Berserker Miner" 6
-		Firebird 6
-	variant 3
 		"Berserker Miner" 2
+		Firebird 1
+	variant 3
+		"Berserker Miner" 1
 		"Hawk" 1
 
 fleet imc.mining.illuminaMiners.small.2
 	government
 	names "Civillian"
 	personality
-		mining harvests stays
+		timid waiting harvests mining
 	variant 1
 		"Berserker Miner" 3
 	variant 2
