@@ -101,3 +101,46 @@ phrase anti.sayari
 	phrase
 		snSub.digit
 
+# Don't tell Yuyuko Saigyouji!
+phrase spa.sub.Sayari.sp1
+	word
+		Goddess
+		Queen
+		Ambassador
+		"Supreme Ambassador%"
+		"Great Ambassador%"
+		"Her Majesty "
+	word
+		Sayari
+	word
+		", Ruler of all the Hai"
+		", %the Great Diplomat"
+		", Demise of the Unfettered"
+	replace
+		"% the Great Diplomat" "Ruler of all the Hai"
+
+
+phrase spa.sub.Sayari.comp1
+	phrase
+		spa.sub.Sayari.sp1
+	word
+		" - "
+	phrase
+		snSub.digit
+	phrase
+		snSub.digit
+	phrase
+		snSub.digit
+	phrase
+		snSub.digit
+	phrase
+		snSub.digit
+	word
+		.
+	phrase
+		snSub.digit
+	phrase
+		snSub.digit
+	phrase
+		snSub.digit
+
