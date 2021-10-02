@@ -254,7 +254,7 @@ system Illumina
 	fleet "Large Northern Pirates" 1700
 	fleet pirates.bactrianLarge 7000
 	fleet pirates.bactrianOnly.3 6000
-	fleet imc.mining.illuminaMiners.med.1 1200
+	fleet imc.mining.illuminaMiners.small.1 1200
 	habitable 890
 	belt 1362
 	trade Clothing 231
