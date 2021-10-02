@@ -5,6 +5,16 @@ Disclaimer: May contain mild traces of the Hai ambassador "Sayari".
 
 Ingredients: VS Code, Endless Sky, Lemuria's brain cells, electricity, mac, sweat, hardwork, MSG, plugins, GitHub, copyrights, credits, coding experience, natural flavors, Sayari photos, Sayari, immersive simulations of Sayari, wizards, Kar Ik Vot 349s, Bactrians, Bactrains, Leviathans, Yuyuko, cheese, data drives, food, luxury goods, industrial, electronics, missions, failed missions, free worlds, actual Free Worlds, humans, Hai, Korath, Korath Raiders, Korath World Ships, Syndicate Bulk Freighters, Clippers, frogs, ants, terraformers, hyperdrives, jump drives, heat shunts, variables, Discord pings, @everyone pings, memes, Sayari plushie smugglers, Dreadnoughts, natural flavors, pexels.com images, GPL licenses, code, machine-readable code, binary, human-readable code and more.
 
+# Let's play! (Installation instructions)
+First of all, make sure that your version of Endless Sky is the continuous build. If you are on v0.9.14, update now.
+
+## What version do I get?
+Want a stable plugin with solid content? Check out the releases and get yourself the latest version.
+Want more updates and you don't care about stability and don't mind having to redownload everyday? Press that green/orange (colorblind mode) Code button and download a .zip file.
+
+Now, put that thing in the Endless Sky plugin folder.
+
+
 ## Sayari disclaimer
 
 This Endless Sky plugin may contain traces of the Hai ambassador "Sayari". Exposure to Sayari may result in the following effects: Simping, being targeted by Yuyuko Saigyouji, being killed by Yuyuko Saigyouji, insomnia due to thinking about Sayari and Endless Sky constantly at night, gaming addiction.
