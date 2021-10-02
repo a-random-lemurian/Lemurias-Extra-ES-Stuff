@@ -118,7 +118,7 @@ phrase spa.sub.Sayari.sp1
 	replace
 		"% the Great Diplomat" "Ruler of all the Hai"
 
-phrase spa.sub.Sayari.comp1
+phrase spa.Sayari.comp1
 	phrase
 		spa.sub.Sayari.sp1
 	word
