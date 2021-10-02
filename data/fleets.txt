@@ -68,7 +68,7 @@ fleet rep.bactrianOnly.3
 
 fleet SayariProt
 	government "Sayari Plushie"
-	names ""
+	names spa.Sayari.comp1
 	cargo 13
 	personality
 		confusion 8
@@ -133,9 +133,10 @@ fleet IlluminaMiners
 	variant 3
 		"Berserker Miner" 2
 		"Hawk" 1
+	
 fleet spaTrade
 	government "Sayari Plushie"
-	names ""
+	names spa.Sayari.comp1
 	personality
 		heroic
 	variant
@@ -149,7 +150,7 @@ fleet spaTrade
 
 fleet spaFalcon
 	government "Sayari Plushie"
-	names ""
+	names spa.Sayari.comp1
 	personality
 		heroic
 	variant 4
@@ -160,14 +161,14 @@ fleet spaFalcon
 		"Marauder Falcon (Engines)" 30
 
 fleet spaMarauderBactrian
-	names ""
+	names spa.Sayari.comp1
 	personality
 		heroic
 	variant
 		"Marauder Bactrian" 5
 
 fleet spaHeliarchPunishers
-	names ""
+	names spa.Sayari.comp1
 	personality
 		heroic
 	variant
