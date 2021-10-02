@@ -918,9 +918,6 @@ system Lenseiia
 	government Pirate
 	link Laixadd
 	link Radonei
-
-system Zosma
-
 system Arneb
 	add link Kiselot
 
