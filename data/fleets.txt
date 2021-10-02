@@ -55,7 +55,7 @@ fleet rep.war.bactrianOnly.small
 	variant
 		Bactrian 3
 	government "Republic"
-	names spa.sub.Sayari.sp1
+	names spa.allNames
 ###################################################################################################################
 fleet cssf.war.illuminaReg.large.2
 	government "Yuyuko Saigyouji"
@@ -122,7 +122,7 @@ fleet imc.mining.illuminaMiners.small.2
 ###################################################################################################################
 fleet spa.trade.HumanSpace.large.1
 	government "Sayari Plushie"
-	names spa.sub.Sayari.sp1
+	names spa.allNames
 	personality
 		heroic
 	variant
@@ -135,7 +135,7 @@ fleet spa.trade.HumanSpace.large.1
 		"Shield Beetle" 4
 fleet spa.trade.haiSpace.large.1
 	government "Sayari Plushie"
-	names spa.sub.Sayari.sp1
+	names spa.allNames
 	personality
 		heroic
 	variant
@@ -143,7 +143,7 @@ fleet spa.trade.haiSpace.large.1
 		"Emerald Sword" 4
 fleet spa.general.Falcon.large.1
 	government "Sayari Plushie"
-	names spa.sub.Sayari.sp1
+	names spa.allNames
 	personality
 		heroic
 	variant 4
@@ -154,7 +154,7 @@ fleet spa.general.Falcon.large.1
 		"Marauder Falcon (Engines)" 30
 
 fleet spa.general.Bactrian.small.1
-	names spa.sub.Sayari.sp1
+	names spa.allNames
 	personality
 		heroic
 	variant
@@ -162,14 +162,14 @@ fleet spa.general.Bactrian.small.1
 	government "Sayari Plushie"
 
 fleet spa.general.HeliarchPunishers.med.1
-	names spa.sub.Sayari.sp1
+	names spa.allNames
 	personality
 		heroic
 	variant
 		"Heliarch Punisher" 15
 	government "Sayari Plushie"
 fleet spa.war.illuminaReg.large.1
-	names spa.sub.Sayari.sp1
+	names spa.allNames
 	cargo 13
 	government "Sayari Plushie"
 	personality
@@ -184,7 +184,7 @@ fleet spa.war.illuminaReg.large.1
 		Falcon 13
 fleet spa.general.EmeraldSword.med.1
 	government "Sayari Plushie"
-	names spa.sub.Sayari.sp1
+	names spa.allNames
 	personality
 		confusion 5
 		heroic disables harvests plunders
