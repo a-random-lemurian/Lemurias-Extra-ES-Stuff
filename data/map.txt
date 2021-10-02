@@ -1,8 +1,8 @@
 system Hiljaak
 	pos -807.36111 -69.555556
 	government Republic
-	link Limen
 	link Jarkiiens
+	link Limen
 	asteroids "medium rock" 10 2.002
 	asteroids "large rock" 41 2.548
 	asteroids "small metal" 5 2.002
@@ -61,9 +61,9 @@ system Hiljaak
 system Neistat
 	pos -768.33333 -161.91667
 	government Republic
-	link Orbona
 	link Illuria
 	link Leideete
+	link Orbona
 	fleet SayariProt 600
 	fleet AntiSayari 600
 	fleet pirates.bactrianLarge 1200
@@ -165,12 +165,23 @@ system Orbona
 system Aljuik
 	pos -961.66667 -129.58333
 	government "Sayari Plushie"
+	link Alkxaai
 	link Deriie
 	link Duffeni
-	link Alkxaai
 	fleet SayariProt 200
 	fleet "Large Northern Merchants" 200
 	fleet AntiSayari 16000
+	trade Clothing 432
+	trade "Data drives" 9800
+	trade Electronics 639
+	trade Equipment 681
+	trade Food 108
+	trade "Heavy Metals" 771
+	trade Industrial 700
+	trade "Luxury Goods" 1151
+	trade Medical 452
+	trade Metal 405
+	trade Plastic 501
 	object
 		sprite star/k8
 	object
@@ -197,8 +208,8 @@ system Aljuik
 system Duffeni
 	pos -914.33333 -184.91667
 	government "Sayari Plushie"
-	link Illuria
 	link Aljuik
+	link Illuria
 	fleet SayariProt 600
 	fleet AntiSayari 600
 	object
@@ -224,13 +235,13 @@ system Duffeni
 system Illumina
 	pos -853 -124.58333
 	government Republic
-	link Jarkiiens
-	link Illuria
-	link Serfeiia
 	link Deriie
+	link Illuria
+	link Jarkiiens
+	link Serfeiia
+	asteroids "large metal" 19 0
 	fleet SayariProt 600
 	fleet AntiSayari 600
-	asteroids "large metal" 19 0
 	fleet "Large Northern Merchants" 600
 	fleet "Paradise Merchants" 600
 	fleet "Republic Logistics" 600
@@ -277,17 +288,10 @@ system Illumina
 system Illuria
 	pos -836.33333 -187.91667
 	government Republic
-	link Neistat
 	link Duffeni
 	link Illumina
+	link Neistat
 	link Suerolii
-	fleet SayariProt 600
-	fleet AntiSayari 600
-	fleet "Large Northern Merchants" 600
-	fleet "Large Northern Merchants" 600
-	fleet "Large Northern Merchants" 600
-	fleet "Large Southern Merchants" 600
-	fleet IlluminaMiners 600
 	asteroids "small rock" 0 4.95
 	asteroids "medium rock" 0 5.225
 	asteroids "large rock" 0 2.805
@@ -296,6 +300,13 @@ system Illuria
 	asteroids "large metal" 90 3
 	minables uranium 300 4
 	minables gold 300 4
+	fleet SayariProt 600
+	fleet AntiSayari 600
+	fleet "Large Northern Merchants" 600
+	fleet "Large Northern Merchants" 600
+	fleet "Large Northern Merchants" 600
+	fleet "Large Southern Merchants" 600
+	fleet IlluminaMiners 600
 	habitable 889.35
 	belt 853
 	trade Clothing 308
@@ -309,7 +320,7 @@ system Illuria
 	trade Medical 409
 	trade Metal 443
 	trade Plastic 560
-	attributes mining illuminareg
+	attributes illuminareg mining
 	object
 		sprite star/k0
 		period 10
@@ -345,9 +356,9 @@ system Illuria
 system Deriie
 	pos -925 -90.25
 	government "Sayari Plushie"
-	link Jarkiiens
 	link Aljuik
 	link Illumina
+	link Jarkiiens
 	fleet SayariProt 600
 	fleet AntiSayari 2600
 	fleet "Large Northern Merchants" 600
@@ -387,8 +398,8 @@ system Deriie
 system Suerolii
 	pos -850.33333 -238.58333
 	government Republic
-	link Ladosak
 	link Illuria
+	link Ladosak
 	link Leideete
 	fleet "Large Northern Merchants" 600
 	fleet SayariProt 600
@@ -472,21 +483,21 @@ system Kailoo-ereki
 system Jarkiiens
 	pos -873.66667 -63.25
 	government Republic
-	link Hiljaak
 	link Deriie
+	link Hiljaak
 	link Illumina
 	fleet "Large Northern Merchants" 300
 	fleet SayariProt 800
 	fleet AntiSayari 2400
 	fleet "Small Northern Merchants" 400
 	trade Clothing 343
-	trade "Data drives" 13201 
+	trade "Data drives" 13201
 	trade Electronics 678
 	trade Equipment 732
 	trade Food 309
 	trade "Heavy Metals" 554
 	trade Industrial 608
-	trade "Luxury Goods" 1277 
+	trade "Luxury Goods" 1277
 	trade Medical 435
 	trade Metal 552
 	trade Plastic 780
@@ -512,8 +523,8 @@ system Jarkiiens
 system Serfeiia
 	pos -809 -107.91667
 	government Republic
-	link Orbona
 	link Illumina
+	link Orbona
 	object
 		sprite star/k0
 		period 0
@@ -583,9 +594,9 @@ system Serfeiia
 
 system Fevbaa
 	pos -1033.0278 -323.25
-	link Zusul
-	link Sedlai
 	link Iloke
+	link Sedlai
+	link Zusul
 	object
 		sprite star/g0
 		period 0
@@ -615,8 +626,8 @@ system Iloke
 	government Republic
 	link Fevbaa
 	link Ghesie
-	link Zikut
 	link Kailoo-ereki
+	link Zikut
 	object
 		sprite star/k-giant
 		period 0
@@ -660,8 +671,8 @@ system Zusul
 
 system Zikut
 	pos -987.69444 -343.02778
-	link Sundum
 	link Iloke
+	link Sundum
 
 system Sedlai
 	pos -1039.0278 -284.58333
@@ -677,9 +688,9 @@ system Jalak
 system Ghesie
 	pos -921.27778 -309.16666
 	government Pirate
+	link Iloke
 	link Ladosak
 	link Lorfreei
-	link Iloke
 	fleet "Small Northern Pirates" 3000
 	fleet "Small Northern Pirates" 3000
 	fleet "Large Northern Pirates" 6000
@@ -730,13 +741,13 @@ system Leideete
 
 system Ladosak
 	pos -860.61111 -276.5
-	link Suerolii
 	link Ghesie
+	link Suerolii
 
 system Minjuuk
 	pos -1083.0278 -219.25
-	link Sedlai
 	link Raidei
+	link Sedlai
 
 system Alkxaai
 	pos -1012.3611 -173.91667
@@ -757,14 +768,14 @@ system "14 Pole"
 
 system Julitius
 	pos -926.25 -366.83333
-	link Sundum
-	link Lorfreei
 	link Litiedei
+	link Lorfreei
+	link Sundum
 
 system Macali
 	pos -837.80556 -316.83333
-	link Lorfreei
 	link Lekkoli
+	link Lorfreei
 	link Ronsulka
 	habitable 11059.2
 	object
@@ -806,8 +817,8 @@ system Finduue
 system Litiedei
 	pos -850.69444 -381.72222
 	link Akkolie
-	link Pekora
 	link Julitius
+	link Pekora
 	link Ronsulka
 
 system Lekkoli
@@ -856,10 +867,10 @@ system Lekkoli
 
 system Sundum
 	pos -975.13889 -411.94444
-	link Zikut
-	link Pekora
 	link Julitius
+	link Pekora
 	link Radonei
+	link Zikut
 
 system Lorfreei
 	pos -879.58333 -332.83333
@@ -869,20 +880,20 @@ system Lorfreei
 
 system Lesarkei
 	pos -1191.0278 -268.80556
-	link Zusul
 	link Finduue
+	link Zusul
 
 system Radonei
 	pos -966.25 -478.61111
 	government Pirate
-	link Sundum
-	link Lenseiia
 	link Eileri
+	link Lenseiia
+	link Sundum
 
 system Akkolie
 	pos -824.91667 -448.38889
-	link Merulie
 	link Litiedei
+	link Merulie
 	link Zaxlai
 
 system Ronsulka
@@ -893,15 +904,15 @@ system Ronsulka
 
 system Pekora
 	pos -905.80556 -439.05556
-	link Sundum
-	link Merulie
 	link Litiedei
+	link Merulie
+	link Sundum
 
 system Lenseiia
 	pos -1037.7778 -470.58333
 	government Pirate
-	link Radonei
 	link Laixadd
+	link Radonei
 
 system Zosma
 
@@ -911,10 +922,10 @@ system Arneb
 system Eileri
 	pos -953.77778 -549.25
 	government Pirate
-	link Radonei
+	link Kilooew
 	link Laixadd
 	link Lindookor
-	link Kilooew
+	link Radonei
 
 system Limen
 	add link Hiljaak
@@ -922,8 +933,8 @@ system Limen
 
 system Luduras
 	pos -779.16667 -606.27777
-	link Kiselot
 	link Kilooew
+	link Kiselot
 
 system Lindookor
 	pos -1006.6667 -580.80555
@@ -939,8 +950,8 @@ system Kiselot
 system Laixadd
 	pos -1020.4444 -518.58333
 	government Pirate
-	link Lenseiia
 	link Eileri
+	link Lenseiia
 	link Lindookor
 
 system Kilooew
@@ -956,9 +967,9 @@ system Lakodelfraddi
 
 system Oldothe
 	pos -1026.4722 -93.416663
+	link Aixafer
 	link Alkxaai
 	link Littike
-	link Aixafer
 
 system Jurluo
 	pos -1133.4722 38.583337
@@ -966,27 +977,27 @@ system Jurluo
 
 system Raidei
 	pos -1183.4722 -173.41666
-	link Minjuuk
 	link Littike
+	link Minjuuk
 
 system Littike
 	pos -1096.4722 -142.41666
-	link Raidei
-	link Oldothe
-	link Lakodelfraddi
 	link Denleitt
+	link Lakodelfraddi
+	link Oldothe
+	link Raidei
 
 system Aixafer
 	pos -1007.4722 -23.416663
-	link Oldothe
 	link Denleitt
+	link Oldothe
 	link Zarkxaa
 
 system Sayreopli
 	pos -1117.4722 -46.416663
-	link Lakodelfraddi
-	link Jurluo
 	link Denleitt
+	link Jurluo
+	link Lakodelfraddi
 
 system Luisark
 	pos -1059.4722 6.5833367
@@ -998,10 +1009,10 @@ system Zarkxaa
 
 system Denleitt
 	pos -1095.4722 -83.416663
-	link Littike
-	link Sayreopli
 	link Aixafer
+	link Littike
 	link Luisark
+	link Sayreopli
 
 system Sol
 
@@ -1091,39 +1102,38 @@ planet Pedinai
 	security 0.38
 
 planet Khoramelia
-	government "Sayari Plushie"
 	attributes illuminareg sayariplush
+	shipyard "Basic Ships"
+	outfitter "Ammo North"
+	outfitter "Ammo South"
+	outfitter "Common Outfits"
+	outfitter Nuke
 	landscape land/khoramelia
 	description "Khoramelia is the headquarters of the Sayari Plushie Authority, one of the major powers of the Illumina Regions. It's main enemy, the CSSF, has surprisingly stayed out of this area. You do wonder why the Republic has not taken any action regarding this battle, considering their role as a peacekeeping organization. You're in one of the few spaceport complexes open to the general public, but even here you can still purchase a few ships and some decent outfits."
 	spaceport "The spaceport is full of ships decked out in the livery of the Sayari Plushie Authority, but you can see a few merchant ships, if any. Most of the SPA officers ignore you, as they mind their own business trying to command the fleets of the Sayari Protection Fleet,the SPA's naval wing, which reportedly consists of 3-6,000 capital ships, far outnumbering the Republic Navy."
-	shipyard "Basic Ships"
-	outfitter "Common Outfits"
-	outfitter "Ammo North"
-	outfitter Nuke
-	outfitter "Ammo South"
+	government "Sayari Plushie"
 
 planet Rodoluki
-	government "Sayari Plushie"
 	attributes illuminareg sayariplush
 	landscape land/rodoluki
 	description "Whereas Khoramelia is the headquarters of the Sayari Plushie Authority, it's main fleet yard is located here, on Rodoluki. Even far away from the spaceport, you can hear the noise of repulsor engines and ships as they make their way out of the atmosphere into orbit, and eventually to be destroyed in battle against the CSSF."
 	spaceport "The spaceport is so loud that you were stopped by a SPA ship and boarded, during which you were all instructed to wear ear protection before coming this close to the spaceport. The officer claims that the spaceport noise levels can go as high as 120 decibels."
+	government "Sayari Plushie"
 
 planet "Khoramelia Mission Office"
 	landscape land/stationKhorameliaMission
+	description "The mission office is located here. As you walk through the ornate halls, you find a large room containing several boards with jobs of different kinds."
+	spaceport "There are many drones at the docking bay alongside small ships."
 	government "Sayari Plushie"
-	description `The mission office is located here. As you walk through the ornate halls, you find a large room containing several boards with jobs of different kinds.`
-	spaceport `There are many drones at the docking bay alongside small ships.`
 
 planet Mindai
-	government "Sayari Plushie"
 	attributes illuminareg sayariplush
 	landscape land/mindai
 	description "Mindai seems to be the manufacturing hub of the Sayari Plushie Authority. The smog on this planet is so intense that there are scrubber ships flying across the atmosphere trying to capture any smog and filter it into oxygen. Lately, many manufacturing processes have moved into orbit to fix this, but due to the fear of micrometeorites, this process has been relatively slow."
 	spaceport "Most of the attire the people here wear are usually yellow hard hats, basic t-shirts and pants, and some people look like they have not bathed in weeks, reminding you of the conditions of this planet. "
+	government "Sayari Plushie"
 
 planet Arlok
 	landscape land/arlok
 	government "Sayari Plushie"
-	description 
-	spaceport 
+

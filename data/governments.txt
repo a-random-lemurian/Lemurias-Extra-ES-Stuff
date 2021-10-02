@@ -1,24 +1,25 @@
 government "Sayari Plushie"
 	"display name" "Sayari Plushies"
 	swizzle 12
-	color 0.714 0.506 0.741
+	color 0.71399999 0.50599998 0.741
 	"attitude toward"
+		Pirate -1
 		"Yuyuko Saigyouji" -999
-		"Pirate" -1
 
 government "Yuyuko Saigyouji"
 	"display name" CSSF
 	swizzle 13
-	color .170 .187 .203 2
+	color 0.17 0.18700001 0.20299999
 	"attitude toward"
+		Pirate -1
 		"Sayari Plushie" -999
-		"Pirate" -1
 
 government "Illumina Mining Company"
 	"display name" "Illumina Miners"
 	swizzle 15
 	color 23 12 52
 	"attitude toward"
-		"Pirate" -1
-		"Republic" 1
-		"Syndicate" 0.4
+		Syndicate 0.4
+		Republic 1
+		Pirate -1
+

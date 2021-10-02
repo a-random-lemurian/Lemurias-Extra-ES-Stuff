@@ -68,7 +68,7 @@ fleet rep.bactrianOnly.3
 
 fleet SayariProt
 	government "Sayari Plushie"
-	names civillian
+	names ""
 	cargo 13
 	personality
 		confusion 8
@@ -104,7 +104,7 @@ fleet AntiSayari
 		Firebird 2
 		Leviathan
 		"Kar Ik Vot 349"
-	variant 1
+	variant
 		Firebird 35
 		Leviathan 20
 		Vanguard 4
@@ -113,29 +113,28 @@ fleet AntiSayari
 
 fleet IlluminaMiners
 	government "Illumina Mining Corporation"
-	names civillian
+	names ""
 	personality
 		mining harvests
-	variant 1
+	variant
 		Sparrow 12
 		Firebird 3
-	variant 1
+	variant
 		Sparrow 24
 		Firebird 6
-
 
 fleet spaTrade
 	government "Sayari Plushie"
 	names ""
 	personality
 		heroic
-	variant 1
+	variant
 		"Hauler III" 20
 		"Hauler II" 10
-		"Falcon" 4
-	variant 1
+		Falcon 4
+	variant
 		"Deep River" 5
-		"Geocoris" 20
+		Geocoris 20
 		"Shield Beetle" 4
 
 fleet spaFalcon
@@ -144,16 +143,16 @@ fleet spaFalcon
 	personality
 		heroic
 	variant 4
-		"Falcon" 20
+		Falcon 20
 	variant 4
 		"Marauder Falcon (Weapons)" 20
-	variant 1
+	variant
 		"Marauder Falcon (Engines)" 30
 
 fleet spaMarauderBactrian
-	government
 	names ""
 	personality
 		heroic
-	variant 1
+	variant
 		"Marauder Bactrian" 5
+

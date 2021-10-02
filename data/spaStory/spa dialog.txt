@@ -1,3 +1,4 @@
 phrase spaContactFomalhaut.arrKhor.visit
 	word
 		"George and the new recruit aren't here yet. Depart and wait for them."
+
