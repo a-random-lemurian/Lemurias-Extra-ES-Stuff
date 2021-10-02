@@ -101,7 +101,6 @@ phrase anti.sayari
 	phrase
 		snSub.digit
 
-# Don't tell Yuyuko Saigyouji!
 phrase spa.sub.Sayari.sp1
 	word
 		Goddess
@@ -118,7 +117,6 @@ phrase spa.sub.Sayari.sp1
 		", Demise of the Unfettered"
 	replace
 		"% the Great Diplomat" "Ruler of all the Hai"
-
 
 phrase spa.sub.Sayari.comp1
 	phrase
