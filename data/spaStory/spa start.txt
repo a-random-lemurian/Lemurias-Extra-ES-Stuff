@@ -27,15 +27,40 @@ mission spaRecruitPitch
 				accept
 
 			label acceptAsk
-			`"You want to know who she is? Oh. She's a fictional character we made up just so we could sell plushies of her. They bring in lots of credits for our operations. By the way, there's a group that has been actively attacking us - I'm sure you've seen them before if you go around the Illumina Regions often."`
+			`	"Who is Sayari?", you say.
+
+				"You want to know who she is? Oh. She's a fictional character we made up just so we could sell plushies of her. They bring in lots of credits for our operations. By the way, there's a group that has been actively attacking us - I'm sure you've seen them before if you go around the Illumina Regions often.", says the woman.`
 			choice
-				`	"No thanks. I like it when my ship stays in one piece."`
+				`	"There's a group attacking you constantly? Well, I don't wanna be destroyed."`
 					decline
 				`	"High mission payout? The excitement of combat? I'm in!"`
+					goto falconGive
+			
+			label falconGive
+			`The woman seems to be happy about your decision to join the Sayari Plushie Authority. You lead the woman to your ship where she presents a few datapads containing the contract and other documents which you gleefully sign. You hear the sound of a Falcon land right next to your landing pad.
+			
+				"By the way, we have a new member bonus. We don't want any of our members to be destroyed, so we're giving you a free Falcon we stole from the marauders a few years back.", the woman says, just as you hear the Falcon's landing legs thump onto the pad.`
+			choice
+				`	"Wait, that Falcon's mine?"`
+					goto falconSurprised
+				`	"I already have a lot of capital ships, but this Marauder will be a nice add-on."`
+					goto falconUnsurprised
+
+			label falconSurprised
+			`	"Well, we have a lot of Falcons. A lot actually. In the meantime, do you want to do your first mission with us?", the woman asks in reply. `
+			choice
+				`	"Yes, I'm excited for my first mission indeed."`
+					goto finalAccept
+
+			label falconUnsurprised 
+			`	"Nice. At least you have a Marauder Falcon to add to your collection now.", the woman replies.`
+			choice
+				`	"Thanks for the compliment. Now, where's my first mission?"`
 					goto finalAccept
 			
 			label finalAccept
-			`Your ship is of no use to us. We have a little something for you. One of our standard ships, a Falcon.`
+			`	"I'm short on time. I need to move on to the next recruit. The things you need are on the table."
+			The woman exits your ship immediately. There seems to be a datapad on the table and a captain's keycard for accessing the bridge of a Falcon. Upon reading the datapad, you realize that it is your mission interface. There is a message on it, instructing you to go to Khoramelia immediately.`
 			accept
 
 	on accept
