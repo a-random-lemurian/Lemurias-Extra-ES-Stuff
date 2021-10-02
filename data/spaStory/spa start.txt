@@ -24,7 +24,17 @@ mission spaRecruitPitch
 					decline
 
 			label acceptNoAsk
-			`	"Thanks for joining the Sayari Plushie Authority! We're happy to have you onboard. Here's the information of one of my contacts. Meet him on Millrace, Fomalhaut."`
+			`	"Thanks for joining the Sayari Plushie Authority! We're happy to have you onboard. Here's the information of one of my contacts. Meet him on Millrace, Fomalhaut.", the woman says.`
+			`She gives you two items: a datapad containing your full contract with the Sayari Plushie Authority, and a captain's keycard to access what seems to be a Falcon. Searching through the datapad, you find a message.`
+			
+			`SAYARI PLUSHIE AUTHORITY`
+			
+			`	Dear <first> <last>,`
+
+			`Thank you for joining the Sayari Plushie Authority. As a thank you for joining our organization, we have provided you with a complimentary Falcon, free of charge, no questions asked. We hope that you can contribute productively towards our goal of providing all of Humanity's 100 billion people with Sayari plushies.`
+
+			`Best regards,`
+			`	SPA Recruitment Division`
 				accept
 
 			label acceptAsk
@@ -61,8 +71,8 @@ mission spaRecruitPitch
 			
 			label finalAccept
 			`	"I'm short on time. I need to move on to the next recruit. The things you need are on the table."`
-			`The woman exits your ship immediately. There seems to be a datapad on the table and a captain's keycard for accessing the bridge of a Falcon. Upon reading the datapad, you realize that it is your mission interface. There is a message on it, instructing you to go to Khoramelia immediately.`
-			accept
+			`The woman exits your ship immediately. There seems to be a datapad on the table and a captain's keycard for accessing the bridge of a Falcon. Upon reading the datapad, you realize that it is your mission interface. There is a message on it, instructing you to go to Millrace, Fomalhaut immediately.`
+				accept
 
 	on accept
 		give ship "Falcon" "SPA - New Member Ship no. 4639187"
