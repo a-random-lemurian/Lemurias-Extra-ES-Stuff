@@ -65,7 +65,7 @@ system Neistat
 	link Leideete
 	link Orbona
 	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 2100
 	fleet pirates.bactrianLarge 1200
 	fleet pirates.war.3bactrians.1 4000
 	habitable 9525.6
@@ -117,9 +117,9 @@ system Orbona
 	link Neistat
 	link Serfeiia
 	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 2100
 	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 2100
 	object
 		sprite star/b-giant
 		distance 25
@@ -211,7 +211,7 @@ system Duffeni
 	link Aljuik
 	link Illuria
 	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 1600
 	object
 		sprite star/k5
 		period 1
@@ -241,7 +241,7 @@ system Illumina
 	link Serfeiia
 	asteroids "large metal" 19 0
 	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 1600
 	fleet "Large Northern Merchants" 600
 	fleet "Paradise Merchants" 600
 	fleet "Republic Logistics" 600
@@ -408,7 +408,7 @@ system Suerolii
 	link Leideete
 	fleet "Large Northern Merchants" 600
 	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 2100
 	fleet "Paradise Merchants" 1400
 	fleet "Large Northern Pirates" 4000
 	trade Clothing 448
