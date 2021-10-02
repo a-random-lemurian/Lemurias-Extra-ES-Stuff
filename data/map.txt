@@ -673,6 +673,38 @@ system Zusul
 	pos -1115.6944 -303.25
 	link Fevbaa
 	link Lesarkei
+	object 
+		sprite planet/g0
+		distance 539
+		period 217
+	object 
+		sprite planet/rock12
+		distance 886
+		period 321
+	object
+		sprite planet/rock4
+		distance 1987
+		period 446
+	object
+		sprite planet/earth
+		distance 2449
+		period 452
+	object
+		sprite planet/desert3
+		distance 3564
+		period 553
+	object
+		sprite planet/gas5
+		distance 5632
+		period 776
+	object
+		sprite planet/gas14
+		distance 8904
+		period 1103
+	object
+		sprite planet/gas7
+		distance 13345
+		period 1452
 
 system Zikut
 	pos -987.69444 -343.02778
@@ -759,6 +791,7 @@ system Alkxaai
 	link Aljuik
 	link Jalak
 	link Oldothe
+
 system Arculus
 	pos 308.87 394.57533
 
@@ -917,6 +950,7 @@ system Lenseiia
 	government Pirate
 	link Laixadd
 	link Radonei
+
 system Arneb
 	add link Kiselot
 
@@ -1014,6 +1048,7 @@ system Denleitt
 	link Littike
 	link Luisark
 	link Sayreopli
+
 planet "Leroo Station"
 	attributes station
 	shipyard "Advanced Northern Pirates"
