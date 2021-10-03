@@ -24,6 +24,8 @@ phrase spa.color-item
 		Violet
 		Yellow
 	word
+		" "
+	word
 		Ramen
 		Cat
 		Bread
