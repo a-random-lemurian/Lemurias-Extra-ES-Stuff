@@ -202,7 +202,7 @@ phrase spa.allNames
 	word
 		"S.P.S "
 	phrase
-		spa.sub.Sayari.sp1 300
-		spa.sayariOfLocation.comp 10
+		spa.sub.Sayari.sp1
+		spa.sayariOfLocation.comp
 		spa.oneWordNames
 
