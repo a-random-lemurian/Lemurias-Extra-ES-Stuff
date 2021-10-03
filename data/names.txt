@@ -148,7 +148,6 @@ phrase spa.sayariOfLocation.comp
 		snSub.digit
 phrase spa.oneWordNames
 	word
-
 		Chatroom
 		Lersey
 		Archon
@@ -237,6 +236,32 @@ phrase spa.oneWordNames
 		Pretzel
 		Ramen
 		Sushi
+		Octocat
+		Source
+		Sorcery
+		Witch
+		Witchcraft
+		Rana
+		Orange
+		Apple
+		Breadcrumb
+		Bread
+		Lepitai
+		Agrosai
+		Wuhan
+		Hebei
+		Microwave
+		Oven
+		Megawave
+		Ultrawave
+		Mender
+		Unbroken
+		Resistor
+		Transistor
+		Corn
+		Chord
+		Guitar
+		Violin
 
 phrase spa.allNames
 	word
