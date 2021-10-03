@@ -95,7 +95,7 @@ fleet cssf.war.sayariPlushieAttack.small.1
 ###################################################################################################################
 fleet imc.mining.illuminaMiners.small.1
 	government "Illumina Mining Company"
-	names ""
+	names "Civilian"
 	personality
 		timid waiting harvests mining
 	variant 1
@@ -110,7 +110,7 @@ fleet imc.mining.illuminaMiners.small.1
 
 fleet imc.mining.illuminaMiners.small.2
 	government "Illumina Mining Company"
-	names "Civillian"
+	names "Civilian"
 	personality
 		timid waiting harvests mining
 	variant 1
