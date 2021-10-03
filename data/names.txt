@@ -236,7 +236,7 @@ phrase spa.oneWordNames
 		Luditschel
 		Pretzel
 		Ramen
-		Sushis
+		Sushi
 
 phrase spa.allNames
 	word
