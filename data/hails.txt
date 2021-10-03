@@ -4,6 +4,7 @@ phrase spa.hails.hostile
 phrase spa.hails.friendly
 	phrase
 		spa.hails.friendly.sp1
+
 phrase spa.hails.hostile.sp1
 	word
 		"You shall pay for "
