@@ -83,6 +83,15 @@ fleet cssf.general.emeraldSword.med.1
 	variant
 		"Emerald Sword" 4
 		Firebird 8
+fleet cssf.general.emeraldSword.large.1
+	government "Yuyuko Saigyouji"
+	names anti.sayari
+	personality
+		disables plunders heroic
+		confusion 12
+	variant
+		"Emerald Sword" 12
+		Firebird 4
 fleet cssf.war.sayariPlushieAttack.small.1
 	government "Yuyuko Saigyouji"
 	names anti.sayari
