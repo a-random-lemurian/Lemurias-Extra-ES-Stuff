@@ -5,7 +5,7 @@ ship Berserker "Berserker Miner"
 		cost 130000
 		mass 15
 	outfits
-		"Beam Laser" 0
+		"Beam Laser" 4
 		"D23-QP Shield Generator"
 		Hyperdrive
 		"LP072a Battery Pack"
