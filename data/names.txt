@@ -114,6 +114,7 @@ phrase spa.sub.Sayari.sp1
 		snSub.digit
 	phrase
 		snSub.digit
+phrase 
 phrase spa.sub.HaiLocations
 	word
 		"Hevru Hai"
@@ -145,8 +146,63 @@ phrase spa.sayariOfLocation.comp
 		snSub.digit
 	phrase
 		snSub.digit
+phrase spa.oneWordNames
+	word
+
+		Chatroom
+		Lersey
+		Archon
+		Keter
+		Euclid
+		Mardiat
+		Amelia
+		Distarai
+		Ikkelipa
+		Cheria
+		Aparia
+		Lorkrutta
+		Discord
+		Dawncore
+		Daycore
+		Duskcore
+		Nightcore
+		Manticore
+		Lion
+		Tiger
+		Cat
+		Irons
+		Ilona
+		Cretisai
+		Crete
+		Sarioni
+		Pekari
+		Chrasei
+		Mitrup
+		Onsorra
+		Corjakii
+		Volga
+		Siberia
+		Antonov
+		Barkov
+		Binsky
+		Darieche
+		Elnisik
+		Oltruk
+		Lopetai
+		Xaltapi
+		Jakarta
+		Riau
+		Sumatra
+		Java
+		Aloha
+		Iokepa
+		Burhan
+
 phrase spa.allNames
+	word
+		"S.P.S "
 	phrase
-		spa.sub.Sayari.sp1
-		spa.sayariOfLocation.comp
+		spa.sub.Sayari.sp1 300
+		spa.sayariOfLocation.comp 10
+		spa.oneWordNames
 
