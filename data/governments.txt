@@ -5,8 +5,8 @@ government "Sayari Plushie"
 	"attitude toward"
 		Pirate -1
 		"Yuyuko Saigyouji" -999
-	"friendly hail" spa.hails.Friendly
-	"hostile hail" spa.hails.Hostile
+	"friendly hail" spa.hails.friendly
+	"hostile hail" spa.hails.hostile
 
 government "Yuyuko Saigyouji"
 	"display name" CSSF
