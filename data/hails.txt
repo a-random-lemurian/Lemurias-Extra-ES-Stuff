@@ -1,0 +1,30 @@
+phrase spa.hails.hostile
+	phrase
+		spa.hails.hostile.sp1
+phrase spa.hails.friendly
+	phrase
+		spa.hails.friendly.sp1
+phrase spa.hails.hostile.sp1
+	word
+		"You shall pay for "
+		"We shall bring you to justice for "
+		"Nobody will ever get away with "
+		"We have no tolerance for "
+	word
+		"insulting Sayari"
+		"trying to kill Sayari"
+		"attacking Her protectors"
+		"obstructing our duty to protect and serve Sayari"
+		"your crimes against Sayari"
+		"your attempts to kill Sayari"
+	word
+		"."
+		"!"
+phrase spa.hails.friendly.sp1
+	word
+		"Greetings <first> <last>, we welcome you."
+		"We appreciate your presence here."
+		"Long live our great Ambassador!"
+		"It is great that you have chosen not to associate yourself with the CSSF."
+		"Join us in glorious combat against the CSSF at Orbona!"
+		"Do your patriotic duty - hold off the CSSF fleets at Orbona!"
