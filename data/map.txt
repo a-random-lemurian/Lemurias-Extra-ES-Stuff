@@ -132,8 +132,8 @@ system Orbona
 		distance 100
 		period 9.71046
 		offset 180
-	object
-		sprite planet/ice6
+	object Arlok
+		sprite planet/earth
 		distance 479.70208
 		period -78220770
 		object
@@ -1178,4 +1178,7 @@ planet Mindai
 planet Arlok
 	landscape land/arlok
 	government "Sayari Plushie"
+	description "Arlok is the home of the Sayari Plushie Authority's research facilities. Here, experimental technology of all kinds are experimented on and reverse-engineered. Outside the laboratories, the place is relatively pristine however there are plans to move most of the labs to somewhere else since SPA fleets have to cross through Republic space to get here."
+	spaceport "Arlok's spaceport is relatively large, with landing pads strewn across the surface of what seems to be a total land area of 1.32 square kilometers."
+	attributes illuminareg sayariplush research
 
