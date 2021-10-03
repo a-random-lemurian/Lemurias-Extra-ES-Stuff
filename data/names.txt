@@ -136,11 +136,6 @@ phrase spa.sayariOfLocation.comp
 	phrase 
 		spa.sub.HaiLocations
 	word
-		" "
-	phrase
-		snSub.digit
-	phrase
-		snSub.digit
 phrase spa.oneWordNames
 	word
 		Chatroom
@@ -267,7 +262,7 @@ phrase spa.allNames
 		spa.oneWordNames
 		spa.multiWordNames
 		spa.color-item
-	phrase
+	word
 		" "
 	phrase
 		digit
