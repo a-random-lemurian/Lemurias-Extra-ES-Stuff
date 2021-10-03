@@ -132,7 +132,7 @@ system Orbona
 		distance 100
 		period 9.71046
 		offset 180
-	object Arlok
+	object
 		sprite planet/earth
 		distance 479.70208
 		period -78220770
@@ -550,8 +550,8 @@ system Serfeiia
 		sprite planet/rock13
 		distance 809
 		period 452
-	object
-		sprite planet/rock5
+	object Arlok
+		sprite planet/earth
 		distance 1108
 		period 588
 	object
