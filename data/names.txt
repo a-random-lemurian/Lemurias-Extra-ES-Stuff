@@ -252,7 +252,14 @@ phrase spa.oneWordNames
 		Chord
 		Guitar
 		Violin
-
+phrase all.none.leest
+	word
+		""
+phrase all.2digitNum.leest
+	phrase
+		digit
+	phrase
+		digit
 phrase spa.allNames
 	word
 		"S.P.S "
@@ -265,6 +272,5 @@ phrase spa.allNames
 	word
 		" "
 	phrase
-		digit
-	phrase
-		digit
+		all.none.leest
+		all.2digitNum.leest
