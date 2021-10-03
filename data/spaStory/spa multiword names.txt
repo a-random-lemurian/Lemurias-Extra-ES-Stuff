@@ -1,11 +1,11 @@
 phrase spa.multiWordNames
 	word
-		New Moon
-		Old Moon
-		Discord Moderator
-		Discord Administrator
-		Discord User
-		Discord Nitro
-		Free Nitroglycerin
-		Berserker Bear
-		Sayari's Reign
+		"New Moon"
+		"Old Moon"
+		"Discord Moderator"
+		"Discord Administrator"
+		"Discord User"
+		"Discord Nitro"
+		"Free Nitroglycerin"
+		"Berserker Bear"
+		"Sayari's Reign"
