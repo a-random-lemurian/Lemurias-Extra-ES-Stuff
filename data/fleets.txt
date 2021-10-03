@@ -190,3 +190,14 @@ fleet spa.general.EmeraldSword.med.1
 		heroic disables harvests plunders
 	variant 1
 		"Emerald Sword" 4
+
+
+
+fleet spa.war.vanguard.large.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		timid heroic
+	variant 1
+		"Vanguard" 16
+		"Firebird" 5
