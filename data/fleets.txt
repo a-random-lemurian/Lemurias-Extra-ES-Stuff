@@ -57,7 +57,7 @@ fleet rep.war.bactrianOnly.small
 	government "Republic"
 	names spa.allNames
 ###################################################################################################################
-fleet cssf.war.illuminaReg.large.2
+fleet cssf.war.illuminaReg.large.1
 	government "Yuyuko Saigyouji"
 	names anti.sayari
 	personality
