@@ -106,15 +106,9 @@ phrase spa.sub.Sayari.sp1
 		"Goddess "
 		"Queen "
 		"Ambassador "
+		"Great "
 	word
 		Sayari
-	word
-		" "
-	phrase
-		snSub.digit
-	phrase
-		snSub.digit
-phrase 
 phrase spa.sub.HaiLocations
 	word
 		"Hevru Hai"
@@ -135,6 +129,7 @@ phrase spa.sub.HaiLocations
 		"Da Ent"
 		"Uwa Fahn"
 		"Ya Hai"
+
 phrase spa.sayariOfLocation.comp
 	word
 		"Sayari of "
@@ -271,4 +266,10 @@ phrase spa.allNames
 		spa.sayariOfLocation.comp
 		spa.oneWordNames
 		spa.multiWordNames
-
+		spa.color-item
+	phrase
+		" "
+	phrase
+		digit
+	phrase
+		digit
