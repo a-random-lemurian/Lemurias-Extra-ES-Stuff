@@ -61,7 +61,8 @@ fleet cssf.war.illuminaReg.large.1
 	government "Yuyuko Saigyouji"
 	names anti.sayari
 	personality
-		disables
+		disables plunders
+		confusion 17
 	variant 7
 		Falcon 5
 		Firebird 2
@@ -73,12 +74,12 @@ fleet cssf.war.illuminaReg.large.1
 		Vanguard 4
 		Corvette 3
 		Auxillary 4
-
 fleet cssf.general.emeraldSword.med.1
 	government "Yuyuko Saigyouji"
 	names anti.sayari
 	personality
-		disables plunders
+		disables plunders heroic
+		confusion 21
 	variant
 		"Emerald Sword" 4
 		Firebird 8
@@ -87,7 +88,8 @@ fleet cssf.war.sayariPlushieAttack.small.1
 	names anti.sayari
 	cargo 0
 	personality
-		plunders vindictive harvests
+		plunders harvests disables heroic
+		confusion 16
 	variant 4
 		Falcon
 		Leviathan 2
