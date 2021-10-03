@@ -80,7 +80,7 @@ fleet cssf.general.emeraldSword.med.1
 	personality
 		disables plunders heroic
 		confusion 21
-	variant
+	variant 1
 		"Emerald Sword" 4
 		Firebird 8
 fleet cssf.general.emeraldSword.large.1
@@ -89,7 +89,7 @@ fleet cssf.general.emeraldSword.large.1
 	personality
 		disables plunders heroic
 		confusion 12
-	variant
+	variant 1
 		"Emerald Sword" 12
 		Firebird 4
 fleet cssf.war.sayariPlushieAttack.small.1
