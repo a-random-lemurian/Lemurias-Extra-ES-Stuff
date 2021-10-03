@@ -536,7 +536,7 @@ system Jarkiiens
 
 system Serfeiia
 	pos -809 -107.91667
-	government Republic
+	government "Sayari Plushie"
 	link Illumina
 	link Orbona
 	object
