@@ -537,6 +537,12 @@ system Jarkiiens
 system Serfeiia
 	pos -809 -107.91667
 	government "Sayari Plushie"
+	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.trade.humanSpace.large.1 1200
+	fleet spa.general.EmeraldSword.med.1 800
+	fleet cssf.war.illuminaReg.large.1 3000
+	fleet cssf.general.EmeraldSword.med.1 2700
+	fleet spa.war.vanguard.large.1 1500
 	link Illumina
 	link Orbona
 	object
@@ -605,7 +611,6 @@ system Serfeiia
 				sprite planet/rock17
 				distance 567
 				period 189
-
 system Fevbaa
 	pos -1033.0278 -323.25
 	link Iloke
