@@ -197,6 +197,46 @@ phrase spa.oneWordNames
 		Aloha
 		Iokepa
 		Burhan
+		Cirebon
+		Yogyakarta
+		Saigon
+		Tokyo
+		Osaka
+		Fukuoka
+		Sendai
+		Seoul
+		Pyeongchang
+		Busan
+		Manila
+		Baclaran
+		Dagupan
+		Cavite
+		Legazpi
+		Calamba
+		Cebu
+		Mandaue
+		Davao
+		Zamboanga
+		Vigan
+		Tarlac
+		Tampines
+		Massif
+		Denver
+		Letikee
+		Gersek
+		Jauntali
+		Orcharten
+		Dersigen
+		Lipula
+		Laputa
+		Minhoy
+		Gortelai
+		Inkai
+		Inpreset
+		Luditschel
+		Pretzel
+		Ramen
+		Sushis
 
 phrase spa.allNames
 	word
@@ -205,4 +245,5 @@ phrase spa.allNames
 		spa.sub.Sayari.sp1
 		spa.sayariOfLocation.comp
 		spa.oneWordNames
+		spa.multiWordNames
 
