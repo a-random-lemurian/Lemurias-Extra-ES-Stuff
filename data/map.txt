@@ -3,6 +3,9 @@ system Hiljaak
 	government Republic
 	link Jarkiiens
 	link Limen
+	fleet spa.trade.HumanSpace.large.1 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 1200
 	asteroids "medium rock" 10 2.002
 	asteroids "large rock" 41 2.548
 	asteroids "small metal" 5 2.002
@@ -258,6 +261,7 @@ system Illumina
 	fleet pirates.bactrianLarge 7000
 	fleet pirates.bactrianOnly.3 6000
 	fleet imc.mining.illuminaMiners.small.1 1200
+	fleet spa.war.vanguard.large.1 1300
 	habitable 890
 	belt 1362
 	trade Clothing 231
@@ -315,6 +319,7 @@ system Illuria
 	fleet "Large Northern Merchants" 600
 	fleet "Large Southern Merchants" 600
 	fleet imc.mining.illuminaMiners.med.1 600
+	fleet spa.trade.HumanSpace.large.1 1300
 	habitable 889.35
 	belt 853
 	trade Clothing 308
