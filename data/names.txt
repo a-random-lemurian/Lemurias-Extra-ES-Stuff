@@ -137,121 +137,78 @@ phrase spa.sayariOfLocation.comp
 		spa.sub.HaiLocations
 	word
 phrase spa.oneWordNames
+	phrase
+		spa.oneword.ficPlaces
+		spa.oneword.Food
+		spa.irlPlaces
+phrase spa.irlPlaces
 	word
-		Chatroom
-		Lersey
-		Archon
-		Keter
-		Euclid
+		# Asia
+		# Cities
+		## Philippines
+		Manila
+		Davao
+		Cebu
+		Vigan
+		Dagupan
+		Tarlac
+		Batangas
+		Lipa
+		Calamba
+		Legazpi
+		Naga
+		Daet
+		Atimonan
+		Calauag
+		Lucena
+		Sorsogon
+		Tacloban
+		Ormoc
+		Iriga
+		## Thailand
+		Bangkok
+		## Indonesia
+		## Malaysia
+		"Kuala Lumpur"
+		## Singapore
+		"Pasir Ris"
+		Tampines
+		Tuas
+		Bedok
+		# Areas of Metro Manila	
+		Pateros
+		San Juan
+		Pasig
+		Pasay
+		Taguig
+		Valenzuela
+		Caloocan
+		Navotas
+		Marikina
+		Muntinlupa
+		Las Pinas # Intentionally unaccented to retain ASCII support
+		Makati
+		Paranaque # Intentionally unaccented to retain ASCII support
+		"Quezon City" # Included for consistency's sake
+		# Europe
+		# North America
+phrase spa.oneword.ficPlaces
+	word
 		Mardiat
-		Amelia
 		Distarai
 		Ikkelipa
 		Cheria
 		Aparia
 		Lorkrutta
-		Discord
-		Dawncore
-		Daycore
-		Duskcore
-		Nightcore
-		Manticore
-		Lion
-		Tiger
-		Cat
-		Irons
-		Ilona
-		Cretisai
-		Crete
-		Sarioni
-		Pekari
-		Chrasei
-		Mitrup
-		Onsorra
-		Corjakii
-		Volga
-		Siberia
-		Antonov
-		Barkov
-		Binsky
-		Darieche
-		Elnisik
-		Oltruk
-		Lopetai
-		Xaltapi
-		Jakarta
-		Riau
-		Sumatra
-		Java
-		Aloha
-		Iokepa
-		Burhan
-		Cirebon
-		Yogyakarta
-		Saigon
-		Tokyo
-		Osaka
-		Fukuoka
-		Sendai
-		Seoul
-		Pyeongchang
-		Busan
-		Manila
-		Baclaran
-		Dagupan
-		Cavite
-		Legazpi
-		Calamba
-		Cebu
-		Mandaue
-		Davao
-		Zamboanga
-		Vigan
-		Tarlac
-		Tampines
-		Massif
-		Denver
-		Letikee
-		Gersek
-		Jauntali
-		Orcharten
-		Dersigen
-		Lipula
-		Laputa
-		Minhoy
-		Gortelai
-		Inkai
-		Inpreset
-		Luditschel
+phrase spa.oneword.Food
 		Pretzel
 		Ramen
 		Sushi
-		Octocat
-		Source
-		Sorcery
-		Witch
-		Witchcraft
-		Rana
 		Orange
 		Apple
 		Breadcrumb
 		Bread
-		Lepitai
-		Agrosai
-		Wuhan
-		Hebei
-		Microwave
-		Oven
-		Megawave
-		Ultrawave
-		Mender
-		Unbroken
-		Resistor
-		Transistor
 		Corn
-		Chord
-		Guitar
-		Violin
 
 phrase all.none.leest
 	word
