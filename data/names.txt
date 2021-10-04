@@ -252,6 +252,7 @@ phrase spa.oneWordNames
 		Chord
 		Guitar
 		Violin
+
 phrase all.none.leest
 	word
 		""
@@ -269,6 +270,7 @@ phrase spa.allNames
 		spa.oneWordNames
 		spa.multiWordNames
 		spa.color-item
+		spa.royalNavy
 	word
 		" "
 	phrase
