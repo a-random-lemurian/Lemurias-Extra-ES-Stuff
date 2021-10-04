@@ -39,6 +39,10 @@ phrase spa.color-item
 		Door
 		Stove
 		Missile
+		Crest
+		Crescent
+		Flower
+		Plant
 
 # list 1 of multiword names
 phrase spa.multiword
