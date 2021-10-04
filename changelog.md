@@ -31,6 +31,24 @@ Yes, a changelog.
 >* Serfeiia
 >* Fevbaa
 >* Iloke
+ ### 0.5
+#### New Content
+* Earth's texture was changed back.
+* Added new planets.
+* Populated some systems with celestial bodies.
+* First part of the SPA storyline out.
+* Significantly reduced asteroids in Markaai to reduce lag
+* Changed Markaai's orbit slightly
+* Gave SPA ships names
+* Bug: Fixed Pedinai's security (was `38` instead of `0.38`)
+* Added SPA Falcon fleet (`spa.general.Falcon.lrg.1`)
+* Rebalancing: De-intensified CSSF-SPA fleet battles to reduce lag on low-spec computers
+* Added the Khoramelia Mission Office.
+* Added more SPA fleets
+* Added Arlok to Serfeiia
+* Orbona battle made even more intense
+* There's so much stuff that it's a good idea to read the commit history.
+
 
 #### Notes
 Well, we hope this plugin makes you happy!
