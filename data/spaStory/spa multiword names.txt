@@ -40,12 +40,30 @@ phrase spa.color-item
 		Stove
 		Missile
 
+# list 1 of multiword names
+phrase spa.multiword
+	phrase
+		spa.multiword.1
+phrase spa.multiword.1
+	word
+		"Azure Town"
+		"Norvek Town"
+		"Jalitra Town"
+		"While True"
+		"While False"
+		"Hello World"
+		"Plushie Protector"
+		"Plushie Transporter"
+		"Plushie Safekeeper"
+		"Glorious Turret"
+
+
+
 phrase spa.royalNavy
 	phrase
 		spa.royalNavy.a
 		spa.royalNavy.b
 		spa.royalNavy.c
-
 # List copy-pasted from Wikipedia
 phrase spa.royalNavy.a
 	word
