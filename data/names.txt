@@ -186,7 +186,7 @@ phrase spa.irlPlaces
 		Navotas
 		Marikina
 		Muntinlupa
-		Las Pinas # Intentionally unaccented to retain ASCII support
+		"Las Pinas" # Intentionally unaccented to retain ASCII support
 		Makati
 		Paranaque # Intentionally unaccented to retain ASCII support
 		"Quezon City" # Included for consistency's sake
