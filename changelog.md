@@ -1,5 +1,16 @@
 Yes, a changelog.
 
+# Most recent changelog
+### 0.5.1
+#### Annoying bugs
+* The ship names San Juan and Las Pinas (Filipino place names) were not quotemarked properly confusing the Endless Sky parser.
+* Dialogue: The name of the recruit you escort to Khoramelia is Scott. Fixed dialogue option mistakenly referring to him as George, the person you meet on Millrace.
+* Ship names under `spa.royalNavy.b` were not formatted properly (no `word` declaration and indent).
+* The accept flag in the Millrace dialogue was not indented properly preventing the storyline from advancing further.
+* Dialogue `goto` for the "Alright." option in label `gladWereSafe` under `spaContactFomalhaut` was not indented correctly, prematurely ending the story.
+* Reputation modifiers for `spaRecruitPitch` were not formatted correctly. The CSSF will now hate on you if you accept the SPA's offer to join.
+#### New content
+* Added new SPA campaign jobs.
 
 # Changes
 ## 0
@@ -48,7 +59,16 @@ Yes, a changelog.
 * Added Arlok to Serfeiia
 * Orbona battle made even more intense
 * There's so much stuff that it's a good idea to read the commit history.
-
+#### 0.5.1
+##### Annoying bugs
+* The ship names San Juan and Las Pinas (Filipino place names) were not quotemarked properly confusing the Endless Sky parser.
+* Dialogue: The name of the recruit you escort to Khoramelia is Scott. Fixed dialogue option mistakenly referring to him as George, the person you meet on Millrace.
+* Ship names under `spa.royalNavy.b` were not formatted properly (no `word` declaration and indent).
+* The accept flag in the Millrace dialogue was not indented properly preventing the storyline from advancing further.
+* Dialogue `goto` for the "Alright." option in label `gladWereSafe` under `spaContactFomalhaut` was not indented correctly, prematurely ending the story.
+* Reputation modifiers for `spaRecruitPitch` were not formatted correctly. The CSSF will now hate on you if you accept the SPA's offer to join.
+#### New content
+* Added new SPA campaign jobs.
 
 #### Notes
 Well, we hope this plugin makes you happy!
