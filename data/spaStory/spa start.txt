@@ -147,7 +147,7 @@ mission spaContactFomalhaut
 			"As George is about to tell you their name, the recruit overhears George and approaches you."
 			`	"Hi, I'm Scott. Nice to meet you.", says the recruit.`
 			choice
-				`	"Nice to meet you too, George."`
+				`	"Nice to meet you too, Scott."`
 					goto niceToMeetYou
 			label niceToMeetYou
 			`	"Of course.", says Scott.`
