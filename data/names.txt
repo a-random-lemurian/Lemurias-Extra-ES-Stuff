@@ -141,74 +141,75 @@ phrase spa.oneWordNames
 		spa.oneword.ficPlaces
 		spa.oneword.Food
 		spa.irlPlaces
+
 phrase spa.irlPlaces
 	word
 		# Asia
 		# Cities
 		## Philippines
-		Manila
-		Davao
-		Cebu
-		Vigan
-		Dagupan
-		Tarlac
-		Batangas
-		Lipa
-		Calamba
-		Legazpi
-		Naga
-		Daet
-		Atimonan
-		Calauag
-		Lucena
-		Sorsogon
-		Tacloban
-		Ormoc
-		Iriga
+		"Manila"
+		"Davao"
+		"Cebu"
+		"Vigan"
+		"Dagupan"
+		"Tarlac"
+		"Batangas"
+		"Lipa"
+		"Calamba"
+		"Legazpi"
+		"Naga"
+		"Daet"
+		"Atimonan"
+		"Calauag"
+		"Lucena"
+		"Sorsogon"
+		"Tacloban"
+		"Ormoc"
+		"Iriga"
 		## Thailand
-		Bangkok
+		"Bangkok"
 		## Indonesia
 		## Malaysia
 		"Kuala Lumpur"
 		## Singapore
 		"Pasir Ris"
-		Tampines
-		Tuas
-		Bedok
+		"Tampines"
+		"Tuas"
+		"Bedok"
 		# Areas of Metro Manila	
-		Pateros
+		"Pateros"
 		"San Juan"
-		Pasig
-		Pasay
-		Taguig
-		Valenzuela
-		Caloocan
-		Navotas
-		Marikina
-		Muntinlupa
+		"Pasig"
+		"Pasay"
+		"Taguig"
+		"Valenzuela"
+		"Caloocan"
+		"Navotas"
+		"Marikina"
+		"Muntinlupa"
 		"Las Pinas" # Intentionally unaccented to retain ASCII support
-		Makati
-		Paranaque # Intentionally unaccented to retain ASCII support
+		"Makati"
+		"Paranaque" # Intentionally unaccented to retain ASCII support
 		"Quezon City" # Included for consistency's sake
 		# Europe
 		# North America
 phrase spa.oneword.ficPlaces
 	word
-		Mardiat
-		Distarai
-		Ikkelipa
-		Cheria
-		Aparia
-		Lorkrutta
+		"Mardiat"
+		"Distarai"
+		"Ikkelipa"
+		"Cheria"
+		"Aparia"
+		"Lorkrutta"
 phrase spa.oneword.Food
-		Pretzel
-		Ramen
-		Sushi
-		Orange
-		Apple
-		Breadcrumb
-		Bread
-		Corn
+		"Pretzel"
+		"Ramen"
+		"Sushi"
+		"Orange"
+		"Apple"
+		"Breadcrumb"
+		"Bread"
+		"Corn"
 
 phrase all.none.leest
 	word
