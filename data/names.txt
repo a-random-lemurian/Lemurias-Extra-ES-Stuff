@@ -177,7 +177,7 @@ phrase spa.irlPlaces
 		Bedok
 		# Areas of Metro Manila	
 		Pateros
-		San Juan
+		"San Juan"
 		Pasig
 		Pasay
 		Taguig
