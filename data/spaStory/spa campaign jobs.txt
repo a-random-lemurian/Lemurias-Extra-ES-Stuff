@@ -1,0 +1,65 @@
+mission tr.cargo.small.low.1.spa
+	name "SPA: Transport <cargo> to <system>"
+	description "The Sayari Plushie Authority will pay you <payment> to transport <tons> of <cargo> to <planet>, <system>."
+	source
+		government "Republic" "Free Worlds" "Syndicate"
+	destination
+		government "Sayari Plushie"
+	cargo 300 590
+	to offer
+		cargo > 390
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		dialog phrase spa.tr.complete
+		payment 50000 17
+mission tr.cargo.med.low.2.spa
+	name "SPA: Transport <cargo> to <system>"
+	description "The Sayari Plushie Authority will pay you <payment> to transport <tons> of <cargo> to <planet>, <system>."
+	source
+		government "Republic" "Free Worlds" "Syndicate"
+	destination
+		government "Sayari Plushie"
+	cargo 300 590
+	to offer
+		cargo > 390
+		random > 50
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		dialog phrase spa.tr.complete
+		payment 50000 17
+mission tr.cargo.med.low.3.spa
+	name "SPA / Medium: Transport <cargo> to <system>"
+	description "The Sayari Plushie Authority will pay you <payment> to transport <tons> of <cargo> to <planet>, <system>."
+	source
+		government "Republic" "Free Worlds" "Syndicate"
+	destination
+		government "Sayari Plushie"
+	cargo 300 590
+	to offer
+		cargo > 390
+		random > 80
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		dialog phrase spa.tr.complete
+		payment 50000 17
+mission tr.cargo.large.low.1.spa
+	name "SPA / Large: Transport <cargo> to <system>"
+	description "The Sayari Plushie Authority will pay you <payment> to transport <tons> of <cargo> to <planet>, <system>."
+	source
+		government "Republic" "Free Worlds" "Syndicate"
+	destination
+		government "Sayari Plushie"
+	cargo 300 590
+	to offer
+		cargo > 390
+		random > 80
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		dialog phrase spa.tr.complete
+		payment 76000 27
+		reputation "Sayari Plushie"
+
