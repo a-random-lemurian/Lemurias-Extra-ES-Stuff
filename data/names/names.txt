@@ -2231,6 +2231,7 @@ phrase spa.allNames
 		spa.multiWordNames
 		spa.color-item
 		spa.royalNavy
+		spa.psuedonames
 	word
 		" "
 	phrase
