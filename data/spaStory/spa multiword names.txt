@@ -11,38 +11,38 @@ phrase spa.multiWordNames
 		"Sayari's Reign"
 phrase spa.color-item
 	word
-		Black
-		Blue
-		Brown
-		Indigo
-		White
-		Red
-		Blue
-		Pink
-		Purple
-		Magenta
-		Violet
-		Yellow
+		"Black"
+		"Blue"
+		"Brown"
+		"Indigo"
+		"White"
+		"Red"
+		"Blue"
+		"Pink"
+		"Purple"
+		"Magenta"
+		"Violet"
+		"Yellow"
 	word
 		" "
 	word
-		Ramen
-		Cat
-		Bread
-		Plate
-		Table
-		Chair
-		Ship
-		Planet
-		Moon
-		Doorway
-		Door
-		Stove
-		Missile
-		Crest
-		Crescent
-		Flower
-		Plant
+		"Ramen"
+		"Cat"
+		"Bread"
+		"Plate"
+		"Table"
+		"Chair"
+		"Ship"
+		"Planet"
+		"Moon"
+		"Doorway"
+		"Door"
+		"Stove"
+		"Missile"
+		"Crest"
+		"Crescent"
+		"Flower"
+		"Plant"
 
 # list 1 of multiword names
 phrase spa.multiword
@@ -467,6 +467,7 @@ phrase spa.royalNavy.a
 		"Azov"
 		"Aztec"
 phrase spa.royalNavy.b
+	word
 		"Babet"
 		"Bacchante"
 		"Bacchante II"
