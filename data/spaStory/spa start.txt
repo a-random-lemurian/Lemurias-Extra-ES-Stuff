@@ -70,8 +70,8 @@ mission spaRecruitPitch
 				accept
 	on accept
 		give ship Falcon "SPA - New Member Ship no. 4639187"
-		"reputation: Sayari Plushie" == +000
-		"reputation: Yuyuko Saigyouji" == -3000
+		"reputation: Sayari Plushie" += 1000
+		"reputation: Yuyuko Saigyouji" -= -3000
 		set isSpaMember
 
 mission spaContactFomalhaut
