@@ -115,7 +115,7 @@ mission spaContactFomalhaut
 				`	"Well, of course. We're safe now. They can't get us.", George says. "So, here's the mission brief."`
 			choice
 				`	"Alright."`
-				goto missionBrief
+					goto missionBrief
 			label askedAboutSoldier
 			`	Hearing your question, George whispers to you, "Those soldiers? They're from the Counter-Sayari Strike Force. They've been attacking our plushie shipments since the beginning. They want to kill you or interrogate you. Anyway, the CSSF soldiers are long gone now, so let's get onto your ship.".`
 			choice
