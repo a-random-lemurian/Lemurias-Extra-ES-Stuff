@@ -123,7 +123,7 @@ mission spaContactFomalhaut
 					goto missionBrief
 			label missionBrief
 			`	"Alright, I have another recruit who wants to join us. He's already on my ship, so we just have to depart together and hopefully we'll make it to Khoramelia in one piece. Before you ask, Khoramelia is our headquarters. That's where we do stuff and it's where you'll pick up missions that you can do for us.", says George.`
-			accept
+				accept
 	npc accompany save
 		government "Sayari Plushie"
 		personality escort timid
