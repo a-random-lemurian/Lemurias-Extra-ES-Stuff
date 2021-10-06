@@ -46,8 +46,8 @@ phrase spa.psuedonames.gb
 		"hampton"
 		"cester"
 	replace
-	"Readdon" "Reading"
-	"Boston" "Boswick"
+		"Readdon" "Reading"
+		"Boston" "Boswick"
 
 phrase spa.nnp.1
 	word
