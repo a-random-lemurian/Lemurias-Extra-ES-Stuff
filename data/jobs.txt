@@ -256,7 +256,7 @@ mission SpoiledKid.transport.1
 	description "Transport a kid and their parents to <planet>, <system>. They will pay you <payment> for the ride."
 	job
 	repeat
-	bunks 2 3
+	passengers 2 3
 	to offer
 		bunks > 2
 		random > 75
