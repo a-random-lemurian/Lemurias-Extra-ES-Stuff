@@ -86,5 +86,12 @@ phrase spa.nnp.1
 		"erkai"
 		"oi"
 		"ai"
+		"na"
+		"nai"
+		"achai"
+		"enai"
+		"etere"
+		"elesk"
+		"ilosk"
 
 
