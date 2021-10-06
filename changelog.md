@@ -68,6 +68,12 @@ Due to some minor, trivial GitHub mess-ups, this changelog is not on any local c
 
 #### Notes
 Well, we hope this plugin makes you happy!
+#### v0.5.2
+Due to some minor, trivial GitHub mess-ups, this changelog is not on any local copy of the plugin downloaded.
+
+##### Name fixes
+* Properly indented names
+* Added "word" attribute to a phrase that didn't have it.
  
 # Roadmap
 ### Next version
