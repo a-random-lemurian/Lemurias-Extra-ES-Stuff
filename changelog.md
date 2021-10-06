@@ -1,16 +1,12 @@
 Yes, a changelog.
 
 # Most recent changelog
-### 0.5.1
-#### Annoying bugs
-* The ship names San Juan and Las Pinas (Filipino place names) were not quotemarked properly confusing the Endless Sky parser.
-* Dialogue: The name of the recruit you escort to Khoramelia is Scott. Fixed dialogue option mistakenly referring to him as George, the person you meet on Millrace.
-* Ship names under `spa.royalNavy.b` were not formatted properly (no `word` declaration and indent).
-* The accept flag in the Millrace dialogue was not indented properly preventing the storyline from advancing further.
-* Dialogue `goto` for the "Alright." option in label `gladWereSafe` under `spaContactFomalhaut` was not indented correctly, prematurely ending the story.
-* Reputation modifiers for `spaRecruitPitch` were not formatted correctly. The CSSF will now hate on you if you accept the SPA's offer to join.
-#### New content
-* Added new SPA campaign jobs.
+### v0.5.2
+Due to some minor, trivial GitHub mess-ups, this changelog is not on any local copy of the plugin downloaded.
+
+#### Name fixes
+* Properly indented names
+* Added "word" attribute to a phrase that didn't have it.
 
 # Changes
 ## 0
