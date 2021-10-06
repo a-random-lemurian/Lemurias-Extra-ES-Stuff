@@ -135,7 +135,7 @@ phrase spa.sayariOfLocation.comp
 		"Sayari of "
 	phrase 
 		spa.sub.HaiLocations
-	word
+
 phrase spa.oneWordNames
 	phrase
 		spa.oneword.ficPlaces
@@ -2212,7 +2212,6 @@ phrase spa.oneword.Food
 		"Breadcrumb"
 		"Bread"
 		"Corn"
-
 phrase all.none.leest
 	word
 		""
