@@ -125,14 +125,6 @@ mission spaContactFomalhaut
 			`	"Alright, I have another recruit who wants to join us. He's just in the spaceport bar over there. We'll go onto your ship. We just need a lift to Khoramelia and that's where you can pick up more missions.", says George. Soon after that he leaves you in the dark alley alone. You find a lightswitch and use it, giving you some much-needed light.`
 			`After what felt like an eternity, George finally returns with the recruit. You three know what to do, so you board your ship along with George and the recruit and prepare to set off for Khoramelia, where-ever that is...`
 				accept
-	npc accompany save
-		government "Sayari Plushie"
-		personality escort timid
-		fleet
-			names civilian
-			variant
-				"Kar Ik Vot 349"
-				Firebird
 	on complete
 		payment 20000
 		conversation
@@ -158,6 +150,8 @@ mission spaContactFomalhaut
 			`	"You better!", says George and the recruit as they both leave the spaceport while you wave to them. Considering your next move, you decide to sit on a bench to think for a while...`
 	on visit
 		dialog phrase spaContactFomalhaut.arrKhor.visit
+
+
 
 
 
