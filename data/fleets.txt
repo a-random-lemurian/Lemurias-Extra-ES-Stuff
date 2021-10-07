@@ -103,6 +103,25 @@ fleet cssf.war.sayariPlushieAttack.small.1
 		Falcon
 		Leviathan 2
 		Bactrian
+fleet cssf.war.Patrol.small.1
+	government "Yuyuko Saigyouji"
+	names anti.sayari
+	cargo 10
+	personality
+		plunders harvests disables heroic
+		confusion 54
+	variant 1
+		Falcon 2
+		Firebird 3
+		Sparrow 5
+	variant 1
+		Falcon 1
+		Leviathan 1
+		Firebird 1
+	variant 1
+		Argosy 2
+		Sparrow 3
+		Roost 1
 ###################################################################################################################
 fleet imc.mining.illuminaMiners.small.1
 	government "Illumina Mining Company"
