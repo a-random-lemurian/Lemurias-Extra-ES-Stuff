@@ -19,6 +19,8 @@ mission fi.destroyCSSFpatrol.small.1.spa
 	npc kill
 		government "Yuyuko Saigyouji"
 		personality staying nemesis heroic
+		fleet cssf.war.Patrol.small.1
+			
 			
 
 
