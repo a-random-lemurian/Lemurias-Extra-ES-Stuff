@@ -5,7 +5,6 @@ mission fi.destroyCSSFpatrol.small.1.spa
 	description "A CSSF patrol has been camping <planet>, <system> and must be destroyed. Anyone who destroys them will recieve a payment of <payment>. The Republic will not attack you as they currently turn a blind eye to the conflict between the CSSF and the SPA."
 	to offer
 		"combat rating" > 200
-		has "isSpaMember"
 	destination
 		government Republic Syndicate Independent Neutral "Free Worlds"
 		distance 9 12
@@ -20,7 +19,6 @@ mission fi.destroyCSSFpatrol.small.1.spa
 		government "Yuyuko Saigyouji"
 		personality staying nemesis heroic
 		fleet cssf.war.Patrol.small.1
-			
-			
+		
 
 
