@@ -1,3 +1,8 @@
+phrase spa.missionComp.general
+	word
+		`Sayari Plushie Authority - CENTRAL BANK has transferred <payment> to you for completing a mission. Return to any SPA-controlled planet/station for more missions.`
+
+
 phrase spaContactFomalhaut.arrKhor.visit
 	word
 		"George and the new recruit aren't here yet. Depart and wait for them."
