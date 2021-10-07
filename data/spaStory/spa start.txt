@@ -117,7 +117,7 @@ mission spaContactFomalhaut
 				`	"Alright."`
 					goto missionBrief
 			label askedAboutSoldier
-			`	Hearing your question, George whispers to you, "Those soldiers? They're from the Counter-Sayari Strike Force. They've been attacking our plushie shipments since the beginning. They want to kill you or interrogate you. Anyway, the CSSF soldiers are long gone now, so let's get onto your ship.".`
+			`	Hearing your question, George whispers to you, "Those soldiers? They're from the Counter-Sayari Strike Force. They really don't like Sayari in the slightest. I'm thankful you didn't get caught by one of them, they're well-known for their torture methods.", "That aside, do you have any questions?"`
 			choice
 				`	"What's the mission about?"`
 					goto missionBrief
