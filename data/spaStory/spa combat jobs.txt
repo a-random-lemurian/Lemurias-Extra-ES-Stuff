@@ -1,4 +1,21 @@
-mission spaDestroyCSSF.patrol.small.1
+mission fi.destroyCSSFpatrol.small.1.spa
 	name "Destroy small CSSF patrol"
-		3
+	description "A CSSF patrol has been camping <planet>, <system> and must be destroyed. Anyone who destroys them will recieve a payment of <payment>. The Republic will not attack you as they currently turn a blind eye to the conflict between the CSSF and the SPA."
+	to offer
+		"combat rating" > 200
+		has isSpaMember
+	destination
+		government Republic Syndicate Independent Neutral "Free Worlds"
+	source
+		government "Sayari Plushie"
+	on complete
+		dialog phrase spa.missionComp.general
+		payment 134000 10
+	on fail
+		dialog phrase spa.missionFail.general
+	npc kill
+		government "Yuyuko Saigyouji"
+		personality staying nemesis heroic
+			
+
 
