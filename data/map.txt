@@ -1153,6 +1153,7 @@ planet Pedinai
 planet Khoramelia
 	attributes illuminareg sayariplush
 	shipyard "Basic Ships"
+	shipyard "Sayari Advanced"
 	outfitter "Ammo North"
 	outfitter "Ammo South"
 	outfitter "Common Outfits"
@@ -1163,6 +1164,7 @@ planet Khoramelia
 	government "Sayari Plushie"
 
 planet Rodoluki
+	shipyard "Sayari Advanced"
 	attributes illuminareg sayariplush
 	landscape land/rodoluki
 	description "Whereas Khoramelia is the headquarters of the Sayari Plushie Authority, it's main fleet yard is located here, on Rodoluki. Even far away from the spaceport, you can hear the noise of repulsor engines and ships as they make their way out of the atmosphere into orbit, and eventually to be destroyed in battle against the CSSF."
