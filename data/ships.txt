@@ -77,5 +77,5 @@ ship "Amidala-class Battleship"
 	explode "large explosion" 50
 	explode "huge explosion" 15
 	"final explode" "final explosion large"
-	description "The Amidala-class battleship is the Sayari Plushie Authority's special variant of the Kor Sestor's Kar Ik Vot 349, built to resist the effects of a CSSF Emerald Sword's explosion, enough to instantly destroy any Falcon that gets too close, no matter it's faction. There is a balance of Korath and Human weaponry, alongside extra space for outfits, weapons, and another engine."
+	description "The Amidala-class Battleship is the Sayari Plushie Authority's special variant of the Kor Sestor's Kar Ik Vot 349, built to resist the effects of a CSSF Emerald Sword's explosion, enough to instantly destroy any Falcon that gets too close, no matter it's faction. There is a balance of Korath and Human weaponry, alongside extra space for outfits, weapons, and another engine."
 
