@@ -233,3 +233,16 @@ fleet spa.war.vanguard.large.1
 		"Firebird" 5
 	variant 7
 		"Vanguard" 21
+fleet spa.trade.gen.small.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		timid disables
+	variant 1
+		"Hauler" 5
+	variant 1
+		"Hauler II" 5
+	variant 1
+		"Hauler III" 5
+	variant 1
+		"Auxilliary"
