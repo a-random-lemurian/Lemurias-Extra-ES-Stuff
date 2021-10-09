@@ -67,7 +67,7 @@ fleet cssf.war.illuminaReg.large.1
 		Falcon 5
 		Firebird 2
 		Leviathan
-		"Kar Ik Vot 349"
+		"Amidala-class Battleship"
 	variant
 		Firebird 35
 		Leviathan 20
@@ -209,7 +209,7 @@ fleet spa.war.illuminaReg.large.1
 		Falcon 12
 		Leviathan 12
 		Corvette 3
-		"Kar Ik Vot 349" 10
+		"Amidala-class Battleship" 10
 	variant 1
 		Falcon 13
 fleet spa.general.EmeraldSword.med.1
