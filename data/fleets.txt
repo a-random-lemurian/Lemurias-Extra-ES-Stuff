@@ -67,7 +67,7 @@ fleet cssf.war.illuminaReg.large.1
 		Falcon 5
 		Firebird 2
 		Leviathan
-		"Amidala-class Battleship"
+		"Kar Ik Vot 349"
 	variant
 		Firebird 35
 		Leviathan 20
