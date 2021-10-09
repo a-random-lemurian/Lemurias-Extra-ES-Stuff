@@ -247,4 +247,4 @@ fleet spa.trade.gen.small.1
 	variant 1
 		"Hauler III" 5
 	variant 1
-		"Auxilliary"
+		"Auxiliary" 5
