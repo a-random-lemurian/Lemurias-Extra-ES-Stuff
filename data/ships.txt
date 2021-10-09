@@ -13,4 +13,69 @@ ship Berserker "Berserker Miner"
 		"X3200 Ion Steering"
 		"nGVF-CC Fuel Cell"
 	description "Once one of the most popular interceptor-class ships, the Berserker's popularity is now waning in favor of more modern and versatile ships like the Hawk. Although limited numbers are still produced by Betelgeuse Shipyards, most Berserkers that are in service today are more than half a century old. This Berserker clearly was built with mining in mind."
+ship "Amidala-class Battleship"
+	sprite "ship/kar ik vot 349"
+	thumbnail "thumbnail/kar ik vot 349"
+	attributes
+		category "Heavy Warship"
+		"cost" 60988000
+		"shields" 88700
+		"hull" 74300
+		"mass" 1350
+		"drag" 14.2
+		"heat dissipation" .5
+		"fuel capacity" 700
+		"cargo space" 174
+		"outfit space" 1244
+		"weapon capacity" 644
+		"engine capacity" 214
+		"self destruct" .01
+		"ramscoop" 3
+		weapon
+			"blast radius" 450
+			"shield damage" 6400
+			"hull damage" 3200
+			"hit force" 9600
+	outfits
+		"Heavy Laser" 2
+		"Korath Piercer Launcher" 2
+		"Korath Piercer" 94
+		"Korath Piercer Rack" 2
+		"Korath Warder" 2
+		"Korath Repeater Turret" 5
+		"Heavy Laser Turret" 1
+
+		"Triple Plasma Core"
+		"Plasma Core"
+		"Systems Core (Large)"
+		"Large Heat Shunt" 4
+		"Small Heat Shunt" 2
+		"Control Transceiver"
+		
+		"Thruster (Planetary Class)"
+		"Steering (Stellar Class)"
+		Hyperdrive
+	
+	engine -24 237
+	engine 24 237
+	engine 0 237
+	gun -8 -212 "Heavy Laser"
+	gun 8 -212 "Heavy Laser"
+	gun -16 -158 "Korath Piercer Launcher"
+	gun 16 -158 "Korath Piercer Launcher"
+	turret -37 -150 "Korath Repeater Turret"
+	turret 37 -150 "Korath Repeater Turret"
+	turret -38 -132 "Heavy Laser Turret"
+	turret 38 -132 "Korath Repeater Turret"
+	turret -40 -111 "Korath Repeater Turret"
+	turret 40 -111 "Korath Repeater Turret"
+	turret -102 188 "Korath Warder"
+	turret 102 188 "Korath Warder"
+	explode "tiny explosion" 120
+	explode "small explosion" 60
+	explode "medium explosion" 70
+	explode "large explosion" 50
+	explode "huge explosion" 15
+	"final explode" "final explosion large"
+	description "The Amidala-class battleship is the Sayari Plushie Authority's special variant of the Kor Sestor's Kar Ik Vot 349, built to resist the effects of a CSSF Emerald Sword's explosion, enough to instantly destroy any Falcon that gets too close, no matter it's faction. There is a balance of Korath and Human weaponry, alongside extra space for outfits, weapons, and another engine."
 
