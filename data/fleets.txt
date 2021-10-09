@@ -248,3 +248,10 @@ fleet spa.trade.gen.small.1
 		"Hauler III" 5
 	variant 1
 		"Auxiliary" 5
+fleet spa.war.amidala.large.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		timid disables
+	variant 1
+		"Amidala" 25
