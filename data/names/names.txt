@@ -2231,12 +2231,7 @@ phrase spa.allNames
 		spa.multiWordNames
 		spa.color-item
 		spa.royalNavy
-		spa.psuedonames
-	word
-		" "
-	phrase
-		all.none.leest
-		all.2digitNum.leest
+		spa.psuedonames	
 phrase spa.multiWordNames
 	word
 		"New Moon"
