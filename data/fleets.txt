@@ -213,7 +213,7 @@ fleet spa.war.illuminaReg.large.1
 	variant 1
 		Falcon 13
 	variant 1
-		"Amidala-class Battleship" 16
+		"Amidala" 16
 fleet spa.general.EmeraldSword.med.1
 	government "Sayari Plushie"
 	names spa.allNames
