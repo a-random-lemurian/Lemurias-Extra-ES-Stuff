@@ -13,7 +13,7 @@ ship Berserker "Berserker Miner"
 		"X3200 Ion Steering"
 		"nGVF-CC Fuel Cell"
 	description "Once one of the most popular interceptor-class ships, the Berserker's popularity is now waning in favor of more modern and versatile ships like the Hawk. Although limited numbers are still produced by Betelgeuse Shipyards, most Berserkers that are in service today are more than half a century old. This Berserker clearly was built with mining in mind."
-ship "Amidala-class Battleship"
+ship "Amidala"
 	sprite "ship/kar ik vot 349"
 	thumbnail "thumbnail/kar ik vot 349"
 	attributes
@@ -23,6 +23,7 @@ ship "Amidala-class Battleship"
 		"hull" 74300
 		"mass" 1350
 		"drag" 14.2
+		"bunks" 23
 		"heat dissipation" .5
 		"fuel capacity" 700
 		"cargo space" 174
@@ -77,5 +78,6 @@ ship "Amidala-class Battleship"
 	explode "large explosion" 50
 	explode "huge explosion" 15
 	"final explode" "final explosion large"
-	description "The Amidala-class Battleship is the Sayari Plushie Authority's special variant of the Kor Sestor's Kar Ik Vot 349, built to resist the effects of a CSSF Emerald Sword's explosion, enough to instantly destroy any Falcon that gets too close, no matter it's faction. There is a balance of Korath and Human weaponry, alongside extra space for outfits, weapons, and another engine."
+	description "The Amidala-class Battleship (dubbed the Amidala amongst Illumina Regions residents) is the Sayari Plushie Authority's special variant of the Kor Sestor's Kar Ik Vot 349, built to resist the effects of a CSSF Emerald Sword's explosion, enough to instantly destroy any Falcon that gets too close, no matter it's faction. There is a balance of Korath and Human weaponry, alongside extra space for outfits, weapons, and another engine. A modified version of the Kor Sestor AI is installed on this ship, meaning it requires very little crew."
+	description "	The source code of the modified AI is free and open-source. An installation of the AI comes bundled with every purchase of an Amidala-class Battleship."
 
