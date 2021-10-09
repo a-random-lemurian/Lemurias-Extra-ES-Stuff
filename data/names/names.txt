@@ -2243,6 +2243,8 @@ phrase spa.multiWordNames
 		"Free Nitroglycerin"
 		"Berserker Bear"
 		"Sayari's Reign"
+		"Elder Stars"
+		"Elder Moons"
 phrase spa.color-item
 	word
 		"Black"
