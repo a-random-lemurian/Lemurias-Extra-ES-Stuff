@@ -4,7 +4,7 @@ government "Sayari Plushie"
 	color 0.71399999 0.50599998 0.741
 	"attitude toward"
 		Pirate -1
-		"Yuyuko Saigyouji" -999
+		"Yuyuko Saigyouji" -2
 	"friendly hail" spa.hails.friendly
 	"hostile hail" spa.hails.hostile
 
@@ -14,7 +14,7 @@ government "Yuyuko Saigyouji"
 	color 0.17 0.18700001 0.20299999
 	"attitude toward"
 		Pirate -1
-		"Sayari Plushie" -999
+		"Sayari Plushie" -2
 
 government "Illumina Mining Company"
 	"display name" "Illumina Miners"
