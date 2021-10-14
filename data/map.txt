@@ -1163,6 +1163,11 @@ planet Khoramelia
 	spaceport "The spaceport is full of ships decked out in the livery of the Sayari Plushie Authority, but you can see a few merchant ships, if any. Most of the SPA officers ignore you, as they mind their own business trying to command the fleets of the Sayari Protection Fleet,the SPA's naval wing, which reportedly consists of 3-6,000 capital ships, far outnumbering the Republic Navy."
 	government "Sayari Plushie"
 
+planet "Khoramelia Mission Office"
+	landscape land/stationKhorameliaMission
+	description "The mission office is located here. As you walk through the ornate halls, you find a large room containing several boards with jobs of different kinds."
+	spaceport "There are many drones at the docking bay alongside small ships."
+	government "Sayari Plushie"
 planet Rodoluki
 	shipyard "Sayari Advanced"
 	outfitter "Common Outfits"
@@ -1173,11 +1178,6 @@ planet Rodoluki
 	spaceport "The spaceport is so loud that you were stopped and boarded by a SPA ship, during which you and your crew were all instructed to wear ear protection before coming this close to the spaceport. The officer claimed that the spaceport noise levels can go as high as 120 decibels. The spaceport is designed with extensive soundproofing, such as unusually thick walls, special frequency emitters to cancel out ship sound waves, and traffic limits. Thankfully, the situation seems to be slowly improving here."
 	government "Sayari Plushie"
 
-planet "Khoramelia Mission Office"
-	landscape land/stationKhorameliaMission
-	description "The mission office is located here. As you walk through the ornate halls, you find a large room containing several boards with jobs of different kinds."
-	spaceport "There are many drones at the docking bay alongside small ships."
-	government "Sayari Plushie"
 
 planet Mindai
 	attributes illuminareg sayariplush
