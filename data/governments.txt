@@ -23,5 +23,19 @@ government "Illumina Mining Company"
 	"attitude toward"
 		Syndicate 0.4
 		Republic 1
+		Merchant 0.5
 		Pirate -1
+		"Free Worlds" 1
+
+government "Anime Organization"
+	"display name" "Anime Organization"
+	swizzle 6
+	color 0.9882352941176471 0.6862745098039216 0.23529411764705882 0.0
+	"attitude toward"
+		Pirate -1
+		Republic 1
+		Merchant 0.5
+		Syndicate 0.4
+		"Free Worlds" 1
+
 
