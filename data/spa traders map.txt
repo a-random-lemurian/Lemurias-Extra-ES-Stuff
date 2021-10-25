@@ -1,22 +1,22 @@
-system Delta Velorum
-	fleet spa.trade.gen.small.1 400
-system Turais
-	fleet spa.trade.gen.small.1 400
-system Algorel
-	fleet spa.trade.gen.small.1 400
-system Phecda
-	fleet spa.trade.gen.small.1 400
-system Merak
-	fleet spa.trade.gen.small.1 400
-system Denebola
-	fleet spa.trade.gen.small.1 400
-system Sol
-	fleet spa.trade.gen.small.1 400
-system Mizar
-	fleet spa.trade.gen.small.1 400
-system Arcturus
-	fleet spa.trade.gen.small.1 400
-system Rutilicus
-	fleet spa.trade.gen.small.1 400
-system Menkent
-	fleet spa.trade.gen.small.1 400
+#system Delta Velorum
+#	fleet spa.trade.gen.small.1 400
+#system Turais
+#	fleet spa.trade.gen.small.1 400
+#system Algorel
+#	fleet spa.trade.gen.small.1 400
+#system Phecda
+#	fleet spa.trade.gen.small.1 400
+#system Merak
+#	fleet spa.trade.gen.small.1 400
+#system Denebola
+#	fleet spa.trade.gen.small.1 400
+#system Sol
+#	fleet spa.trade.gen.small.1 400
+#system Mizar
+#	fleet spa.trade.gen.small.1 400
+#system Arcturus
+#	fleet spa.trade.gen.small.1 400
+#system Rutilicus
+#	fleet spa.trade.gen.small.1 400
+#system Menkent
+#	fleet spa.trade.gen.small.1 400
