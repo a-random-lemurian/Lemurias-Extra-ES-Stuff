@@ -1,3 +1,12 @@
+# LEESt: Copyright (C) Lemuria 2021.
+# 
+# LEESt is free software: you can redistribute it
+# under the terms of the GNU General Public License v3.
+# 
+# Lemuria is contactable in the Endless Sky discord server
+# as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
+
+
 system Hiljaak
 	pos -807.36111 -69.555556
 	government Republic

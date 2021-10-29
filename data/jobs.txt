@@ -1,3 +1,11 @@
+# LEESt: Copyright (C) Lemuria 2021.
+# 
+# LEESt is free software: you can redistribute it
+# under the terms of the GNU General Public License v3.
+# 
+# Lemuria is contactable in the Endless Sky discord server
+# as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
+
 mission dataTransport.small
 	name "Small - Data delivery to <system>"
 	description "Some <commodity>, too sensitive to be transferred via the Worlds Wide Web needs to be transferred to a datacenter in <planet>, <system>. The total mass of the data drives are <tons>. Payment: <payment>"
