@@ -1,5 +1,5 @@
 # About
-This is a plugin for Endless Sky, created by Lemuria. It adds a new commodity called "Data drives" which you can transport around the galaxy in the form of missions. Also, extra star systems cause why not?
+This is a plugin for Endless Sky, created by Lemuria. It adds a new commodity called "Data drives" which you can transport around the galaxy in the form of missions. In addition to these, it also adds the Sayari Plushie Authority, an organization where you can take on missions of epic proportions.
 
 Disclaimer: May contain mild traces of the Hai ambassador "Sayari".
 
@@ -71,7 +71,7 @@ https://en.wikipedia.org/wiki/File:Blue_Marble_2002.png
 
 ## Other
 * This plugin contains copy-pasted code in map.txt from the base game, specifically the Sol System's code.
-* This plugin is written in Endless Sky plugin language using Visual Studio Code.
+* This plugin is written in Endless Sky Data Language using Visual Studio Code.
 
 
 
