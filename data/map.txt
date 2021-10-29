@@ -118,6 +118,7 @@ system Neistat
 system Orbona
 	link Neistat
 	link Serfeiia
+	link Limen
 	fleet spa.war.illuminaReg.large.1 600
 	fleet cssf.war.illuminaReg.large.1 2100
 	fleet spa.war.illuminaReg.large.1 600
