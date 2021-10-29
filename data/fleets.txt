@@ -258,3 +258,11 @@ fleet spa.war.amidala.large.1
 		timid disables
 	variant 1
 		"Amidala" 25
+fleet spa.war.shieldBeetle.large.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		heroic disables
+	variant 1
+		"Shield Beetle" 10
+		"Geocoris" 10
