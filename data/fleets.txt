@@ -274,3 +274,11 @@ fleet spa.war.shieldBeetle.large.1
 	variant 1
 		"Shield Beetle" 10
 		"Geocoris" 10
+fleet spa.exploration.scout.small.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		heroic disables
+	variant 1
+		"Sparrow" 3
+		"Amidala" 1
