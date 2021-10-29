@@ -78,7 +78,7 @@ mission spaContactFomalhaut
 	landing
 	source Millrace
 	destination Khoramelia
-	bunks 2
+	passengers 2
 	on offer
 		conversation
 			"As you open the main cargo door of your ship, you see a tall man wearing a tuxedo with a blue tie in front of you. Before you even ask him who he is, he suddenly speaks."
