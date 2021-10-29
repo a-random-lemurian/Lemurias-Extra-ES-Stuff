@@ -6,7 +6,7 @@ mission fi.destroyCSSFpatrol.small.1.spa
 	to offer
 		"combat rating" > 200
 	destination
-		government Republic Syndicate Independent Neutral "Free Worlds"
+		government Republic Syndicate Independent Neutral "Free Worlds" "Sayari Plushie"
 		distance 9 12
 	source
 		government "Sayari Plushie"
