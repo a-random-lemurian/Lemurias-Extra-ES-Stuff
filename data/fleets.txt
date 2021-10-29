@@ -214,6 +214,9 @@ fleet spa.war.illuminaReg.large.1
 		Falcon 13
 	variant 1
 		"Amidala" 16
+	variant 1
+		"Shield Beetle" 15
+		"Geocoris" 5
 fleet spa.general.EmeraldSword.med.1
 	government "Sayari Plushie"
 	names spa.allNames
