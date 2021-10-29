@@ -124,7 +124,7 @@ system Orbona
 	fleet spa.war.illuminaReg.large.1 600
 	fleet cssf.war.illuminaReg.large.1 600
 	fleet cssf.general.emeraldSword.large.1 800
-	fleet spa.general.EmeraldSword.large.1 1200
+	fleet spa.general.EmeraldSword.med.1 1200
 	object
 		sprite star/b-giant
 		distance 25
