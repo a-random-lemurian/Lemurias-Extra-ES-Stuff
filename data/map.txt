@@ -1067,7 +1067,23 @@ system Luisark
 system Zarkxaa
 	pos -916.47223 -20.416663
 	link Aixafer
-
+	object Lorok
+		sprite planet/cloud2-b
+		distance 887
+		period 409
+	object 
+		sprite planet/cloud3
+		distance 1775
+		period 709
+	object 
+		sprite planet/ice1
+		distance 2443
+		period 1033
+	object 
+		sprite planet/desert3
+		distance 4096
+		period 1309
+	fleet spa.war.amidala.large.1 2000
 system Denleitt
 	pos -1095.4722 -83.416663
 	link Aixafer
@@ -1201,4 +1217,8 @@ planet Arlok
 	description "Arlok is the home of the Sayari Plushie Authority's research facilities. Here, experimental technology of all kinds are experimented on and reverse-engineered. Outside the laboratories, the place is relatively pristine however there are plans to move most of the labs to somewhere else since SPA fleets have to cross through Republic space to get here."
 	spaceport "Arlok's spaceport is relatively large, with landing pads strewn across the surface of what seems to be a total land area of 1.32 square kilometers."
 	attributes illuminareg sayariplush research
-
+planet Lorok
+	landscape land/lorok
+	government "Sayari Plushie"
+	description "Lorok is an Earthlike planet home to a sizeable SPA presence. From what you see, it looks like this place is engaged in the manufacture of most of the SPA's products, like Sayari plushies."
+	spaceport "Contrary to the other SPA planets, this one is relatively tame, with the ship traffic mostly composed of "
