@@ -61,5 +61,5 @@ mission tr.cargo.large.low.1.spa
 	on complete
 		dialog phrase spa.tr.complete
 		payment 76000 27
-		reputation "Sayari Plushie"
+		"reputation: Sayari Plushie" += 75
 
