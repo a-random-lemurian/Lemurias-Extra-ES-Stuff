@@ -217,7 +217,7 @@ fleet spa.war.illuminaReg.large.1
 		Falcon 12
 		Leviathan 12
 		Corvette 3
-		"Amidala-class Battleship" 10
+		"Amidala" 10
 	variant 1
 		Falcon 13
 	variant 1
