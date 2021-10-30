@@ -1073,6 +1073,10 @@ system Luisark
 system Zarkxaa
 	pos -916.47223 -20.416663
 	link Aixafer
+	object
+		sprite star/g0
+		distance 3
+		period 1
 	object Lorok
 		sprite planet/cloud2-b
 		distance 887
