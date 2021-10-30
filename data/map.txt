@@ -1085,7 +1085,7 @@ system Zarkxaa
 		period 1309
 	fleet spa.war.amidala.large.1 2000
 	fleet spa.trade.haiSpace.large.1 1000
-	fleet spa.trade.JumanSpace.large.1 1000
+	fleet spa.trade.HumanSpace.large.1 1000
 system Denleitt
 	pos -1095.4722 -83.416663
 	link Aixafer
