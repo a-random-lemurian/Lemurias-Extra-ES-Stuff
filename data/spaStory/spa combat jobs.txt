@@ -7,15 +7,12 @@
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
 mission fi.destroyCSSFpatrol.small.1.spa
+	name "Destroy small CSSF patrol"
+	description "A CSSF patrol has been sighted near <system> and must be destroyed. Anyone who destroys them will recieve a payment of <payment>. The Republic will not attack you as they currently turn a blind eye to the conflict between the CSSF and the SPA."
 	job
 	repeat
-	name "Destroy small CSSF patrol"
-	description "A CSSF patrol has been camping <planet>, <system> and must be destroyed. Anyone who destroys them will recieve a payment of <payment>. The Republic will not attack you as they currently turn a blind eye to the conflict between the CSSF and the SPA."
 	to offer
-		"combat rating" > 200
-	destination
-		government Republic Syndicate Independent Neutral "Free Worlds" "Sayari Plushie"
-		distance 9 12
+		"combat rating" > 300
 	source
 		government "Sayari Plushie"
 	on complete
@@ -26,7 +23,17 @@ mission fi.destroyCSSFpatrol.small.1.spa
 	npc kill
 		government "Yuyuko Saigyouji"
 		personality staying nemesis heroic
-		fleet cssf.war.Patrol.small.1
-		
+		system
+			distance 1 5
+		fleet
+			names anti.sayari
+			government "Yuyuko Saigyouji"
+			personality nemesis heroic staying
+			variant
+				"Firebird" 2
+				"Bastion"
+			variant
+				"Vanguard"
+				"Sparrow" 5
 
 

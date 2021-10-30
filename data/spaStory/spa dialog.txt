@@ -10,6 +10,9 @@ phrase spa.missionComp.general
 	word
 		`Sayari Plushie Authority - CENTRAL BANK has transferred <payment> to you for completing a mission. Return to any SPA-controlled planet/station for more missions.`
 
+phrase spa.missionFail.general
+	word
+		`Sayari Plushie Authority - Notice of Failure: We regret to inform you of your failure to complete your assigned mission. Please return to any SPA-controlled planet or space station if you would like to try again.`
 
 phrase spaContactFomalhaut.arrKhor.visit
 	word
