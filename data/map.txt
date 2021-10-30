@@ -818,6 +818,8 @@ system Alkxaai
 	link Aljuik
 	link Jalak
 	link Oldothe
+	fleet spa.war.amidala.large.1 1300
+	fleet spa.trade.HumanSpace.large.1 1600
 
 system Arculus
 	pos 308.87 394.57533
@@ -1031,6 +1033,8 @@ system Oldothe
 	link Aixafer
 	link Alkxaai
 	link Littike
+	fleet spa.war.amidala.large.1 1300
+	fleet spa.trade.HumanSpace.large.1 1600
 
 system Jurluo
 	pos -1133.4722 38.583337
@@ -1053,6 +1057,8 @@ system Aixafer
 	link Denleitt
 	link Oldothe
 	link Zarkxaa
+	fleet spa.war.amidala.large.1 1300
+	fleet spa.trade.HumanSpace.large.1 1600
 
 system Sayreopli
 	pos -1117.4722 -46.416663
