@@ -22,9 +22,27 @@ mission githubCodeVault.conversation
 				`	"What in the world is this 'open-source' thing?"`
 					goto openSourceQuestion
 
-				`	(Leave).`
+				`	(Leave.)`
 					decline
 
 			label openSourceQuestion
 			`One of the patrons approach you, claiming to be a computer programmer. He introduces himself as John.`
 			`	"Open-source is basically a model of development where the source code of the project is offered to anyone free of charge, usually under a permissive license. This is in contrast to proprietary software, where nobody except the company is allowed access to the source code.", John says.`
+			choice
+				`	(Leave.)`
+					decline
+
+				`	What in the world is 'torvalds/linux'?`
+					goto openSourceQuestion
+
+			label torvaldsLinuxQuestion
+			`One of the patrons approach you, claiming to be a computer programmer. He introduces himself as John.`
+			`	"Well, you must be confused. torvalds/linux was the repository for something called the Linux kernel. At the core of most of the computers that run our ships, such as the targeting computer, the shield harmonics computer, is the Linux kernel. The Linux kernel has changed so much over the past 1000 years."`
+			`	"Meanwhile, the 'torvalds' in the name refers to the owner of the repository, a human known as Linus Torvalds. He was the creator of the Linux kernel until he handed over control of the project to his family. Nowadays, there are several forks of it.", John says.`
+			`	"Well, that explains everything.", you say in response.`
+			choice
+				`	(Leave.)`
+					decline
+
+				`	What in the world is 'open source'?`
+					goto openSourceQuestion
