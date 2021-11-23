@@ -16,3 +16,6 @@ mission githubCodeVault.conversation
 			`		Repository: torvalds/linux`
 			`		ID:         #90939-40093`
 
+			label openSourceQuestion
+			`One of the patrons approach you, claiming to be a computer programmer. He introduces himself as John.`
+			`	"Open-source is basically a model of development where the source code of the project is offered to anyone free of charge, usually under a permissive license. This is in contrast to proprietary software, where nobody except the company is allowed access to the source code.", John says.`
