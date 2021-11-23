@@ -156,7 +156,14 @@ fleet imc.mining.illuminaMiners.small.2
 	variant 2
 		"Firebird" 1
 		"Berserker Miner" 2
-	
+fleet imc.mining.illuminaMiners.med.1
+	government "Illumina Mining Company"
+	names "Civilian"
+	personality
+		timid waiting harvests mining
+	variant 4
+		"Berserker Miner" 8
+		"Argosy" 4
 ###################################################################################################################
 fleet spa.trade.HumanSpace.large.1
 	government "Sayari Plushie"
