@@ -18,7 +18,7 @@ mission githubCodeVault.conversation
 		has "event: githubCodeVault"
 	on offer
 		conversation
-			`As you land at the spaceport, it looks like the spaceport is eerily quiet once more. You enter the spaceport bar and on one of the screens is a news broadcast showing a group of workers unloading several crates all labelled "GitHub" from an unknown location in the Arctic on Earth.`
+			`As you land at the spaceport, you find that it is eerily quiet once more. You enter the spaceport bar and on one of the screens is a news broadcast showing a group of workers unloading several crates all labelled "GitHub" from an unknown location in the Arctic on Earth.`
 			`	"Over 1000 years ago, our ancestors gathered more than 200 million "repositories" of code and preserved them in what they called the 'Arctic Code Vault'. According to archaeologists, GitHub was an ancient organization whose sole purpose was to distribute computer code across the world, via a model of development known as 'open source'.", says the news anchor.`
 			`Just as you are about to leave, one of the patrons in the bar grab your shoulder. "They're opening the box!", says the patron. You gaze back at the screen. Several computer experts inspect the first box. The camera pans towards another label on the box. The label is as follows:`
 			`		Repository: torvalds/linux`
