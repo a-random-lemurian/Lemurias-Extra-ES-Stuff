@@ -22,7 +22,7 @@ mission githubCodeVault.conversation
 			`	"Over 1000 years ago, our ancestors gathered more than 200 million "repositories" of code and preserved them in what they called the 'Arctic Code Vault'. According to archaeologists, GitHub was an ancient organization whose sole purpose was to distribute computer code across the world, via a model of development known as 'open source'.", says the news anchor.`
 			`Just as you are about to leave, one of the patrons in the bar grab your shoulder. "They're opening the box!", says the patron. You gaze back at the screen. Several computer experts inspect the first box. The camera pans towards another label on the box. The label is as follows:`
 			`		Repository: torvalds/linux`
-			`		ID:         #90939-40093`
+			`		ID: #90939-40093`
 			choice
 				`	"Wait, what's 'torvalds/linux'?"`
 					goto torvaldsLinuxQuestion
