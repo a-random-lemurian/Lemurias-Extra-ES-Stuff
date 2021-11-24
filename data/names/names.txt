@@ -2236,7 +2236,8 @@ phrase spa.allNames
 		spa.multiWordNames
 		spa.color-item
 		spa.royalNavy
-		spa.psuedonames	
+		spa.psuedonames
+		spa.miscCharacternames
 phrase spa.multiWordNames
 	word
 		"New Moon"
