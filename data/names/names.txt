@@ -2221,6 +2221,11 @@ phrase all.2digitNum.leest
 		digit
 	phrase
 		digit
+phrase spa.miscCharacternames
+	word
+		"Freya"
+		"Winters"
+		"Katya"
 phrase spa.allNames
 	word
 		"S.P.S "
