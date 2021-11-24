@@ -6,6 +6,7 @@
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
+
 fleet pirates.war.bactrian.small.1
 	government Pirate
 	names pirate
@@ -20,6 +21,7 @@ fleet pirates.war.bactrian.small.1
 	variant 2
 		Sparrow
 
+
 fleet pirates.war.3bactrians.1
 	government Pirate
 	names snComp.PirateShipId.1
@@ -29,6 +31,7 @@ fleet pirates.war.3bactrians.1
 		plunders heroic vindictive harvests
 	variant 10
 		Bactrian 3
+
 
 fleet pirates.war.capitalShip.large.1
 	government Pirate
@@ -82,6 +85,8 @@ fleet cssf.war.illuminaReg.large.1
 		Vanguard 4
 		Corvette 3
 		Auxillary 4
+
+
 fleet cssf.general.emeraldSword.med.1
 	government "Yuyuko Saigyouji"
 	names anti.sayari
@@ -91,6 +96,8 @@ fleet cssf.general.emeraldSword.med.1
 	variant 1
 		"Emerald Sword" 4
 		Firebird 8
+
+
 fleet cssf.general.emeraldSword.large.1
 	government "Yuyuko Saigyouji"
 	names anti.sayari
@@ -100,6 +107,8 @@ fleet cssf.general.emeraldSword.large.1
 	variant 1
 		"Emerald Sword" 12
 		Firebird 4
+
+
 fleet cssf.war.sayariPlushieAttack.small.1
 	government "Yuyuko Saigyouji"
 	names anti.sayari
@@ -111,6 +120,8 @@ fleet cssf.war.sayariPlushieAttack.small.1
 		Falcon
 		Leviathan 2
 		Bactrian
+
+
 fleet cssf.war.Patrol.small.1
 	government "Yuyuko Saigyouji"
 	names anti.sayari
@@ -146,6 +157,7 @@ fleet imc.mining.illuminaMiners.small.1
 		"Berserker Miner" 1
 		"Hawk" 1
 
+
 fleet imc.mining.illuminaMiners.small.2
 	government "Illumina Mining Company"
 	names "Civilian"
@@ -156,6 +168,8 @@ fleet imc.mining.illuminaMiners.small.2
 	variant 2
 		"Firebird" 1
 		"Berserker Miner" 2
+
+
 fleet imc.mining.illuminaMiners.med.1
 	government "Illumina Mining Company"
 	names "Civilian"
@@ -178,6 +192,8 @@ fleet spa.trade.HumanSpace.large.1
 		"Deep River" 5
 		Geocoris 20
 		"Shield Beetle" 4
+
+
 fleet spa.trade.haiSpace.large.1
 	government "Sayari Plushie"
 	names spa.allNames
@@ -186,6 +202,8 @@ fleet spa.trade.haiSpace.large.1
 	variant
 		"Shield Beetle" 15
 		"Emerald Sword" 4
+
+
 fleet spa.general.Falcon.large.1
 	government "Sayari Plushie"
 	names spa.allNames
@@ -206,6 +224,7 @@ fleet spa.general.Bactrian.small.1
 		"Marauder Bactrian" 5
 	government "Sayari Plushie"
 
+
 fleet spa.general.HeliarchPunishers.med.1
 	names spa.allNames
 	personality
@@ -213,6 +232,8 @@ fleet spa.general.HeliarchPunishers.med.1
 	variant
 		"Heliarch Punisher" 15
 	government "Sayari Plushie"
+
+
 fleet spa.war.illuminaReg.large.1
 	names spa.allNames
 	cargo 13
@@ -232,6 +253,8 @@ fleet spa.war.illuminaReg.large.1
 	variant 1
 		"Shield Beetle" 15
 		"Geocoris" 5
+
+
 fleet spa.general.EmeraldSword.med.1
 	government "Sayari Plushie"
 	names spa.allNames
@@ -240,7 +263,6 @@ fleet spa.general.EmeraldSword.med.1
 		heroic disables harvests plunders
 	variant 1
 		"Emerald Sword" 4
-
 
 
 fleet spa.war.vanguard.large.1
@@ -253,6 +275,8 @@ fleet spa.war.vanguard.large.1
 		"Firebird" 5
 	variant 7
 		"Vanguard" 21
+
+
 fleet spa.trade.gen.small.1
 	government "Sayari Plushie"
 	names spa.allNames
@@ -266,6 +290,8 @@ fleet spa.trade.gen.small.1
 		"Hauler III" 5
 	variant 1
 		"Auxiliary" 5
+
+
 fleet spa.war.amidala.large.1
 	government "Sayari Plushie"
 	names spa.allNames
@@ -273,6 +299,8 @@ fleet spa.war.amidala.large.1
 		timid disables
 	variant 1
 		"Amidala" 25
+
+
 fleet spa.war.shieldBeetle.large.1
 	government "Sayari Plushie"
 	names spa.allNames
@@ -281,6 +309,8 @@ fleet spa.war.shieldBeetle.large.1
 	variant 1
 		"Shield Beetle" 10
 		"Geocoris" 10
+
+
 fleet spa.exploration.scout.small.1
 	government "Sayari Plushie"
 	names spa.allNames
