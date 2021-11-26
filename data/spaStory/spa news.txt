@@ -1,0 +1,16 @@
+phrase spa.sayariPlushieSeller
+	location
+		government "Sayari Plushie"
+	name
+		word
+			"SPA officer"
+	message
+		word
+			"Sayari plushies! "
+			"We've got Sayari plushies in stock!"
+			"Sayari lifesize plushies!"
+		word
+			"They're running out soon so get them while you can!"
+			"The fluffiest thing in the universe."
+			"Buy 1 get 3 for free!"
+			"A great gift for your child!"
