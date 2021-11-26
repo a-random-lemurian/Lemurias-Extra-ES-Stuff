@@ -7,8 +7,8 @@ news spa.sayariPlushieSeller
 	message
 		word
 			"Sayari plushies! "
-			"We've got Sayari plushies in stock!"
-			"Sayari lifesize plushies!"
+			"We've got Sayari plushies in stock! "
+			"Sayari lifesize plushies! "
 		word
 			"They're running out soon so get them while you can!"
 			"The fluffiest thing in the universe."
