@@ -16,7 +16,7 @@ news spa.sayariPlushieSeller
 			"A great gift for your child!"
 
 
-news spa.freyaWintersPlushies.merchants
+news spa.miscPlushies.merchants
 	location
 		government "Sayari Plushie" Syndicate Republic "Free Worlds" Neutral Independent
 	name
@@ -25,8 +25,18 @@ news spa.freyaWintersPlushies.merchants
 			"Trader"
 	message
 		word
-			"I wonder when they'll release the Freya Winters plushies. "
-			"I hope they release the Freya Winters plushies soon. "
+			"I wonder when they'll release the "
+			"I hope they release the "
+		word
+			"Freya Winters "
+			"Freya "
+			"Ms. Winters "
+			"Winters "
+			"new Sayari "
+			"mini-size Sayari "
+		word
+			"plushies. "
+			"plushies soon. "
 		word
 			"Pretty sure it's going to be great for business."
 			"We could transport those things across the galaxy and make millions!"
