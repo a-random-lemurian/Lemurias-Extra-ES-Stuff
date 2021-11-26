@@ -13,7 +13,7 @@ event githubCodeVault
 mission githubCodeVault.conversation
 	landing
 	source
-		government "Republic" "Syndicate" "Free Worlds" "Sayari Plushies"
+		government "Republic" "Syndicate" "Free Worlds" "Sayari Plushie"
 	to offer
 		has "event: githubCodeVault"
 	on offer
