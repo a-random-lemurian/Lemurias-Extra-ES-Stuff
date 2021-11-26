@@ -46,3 +46,33 @@ news spa.confusedTourists.multiple # Several confused tourists.
 			"What is this place?"
 			"Excuse me, do you know any sightseeing spots around here?"
 			"When's the next ship coming?"
+
+
+news spa.confusedTourists.single # Just one confused tourist.
+	location
+		government "Sayari Plushie"
+	name
+		word
+			"Tourist"
+	message
+		word
+			"Where am I?"
+			"Does anybody know where I am?"
+			"When's the next ship coming?"
+
+
+news spa.confusedTourists.single.starSystemMention
+	location
+		government "Sayari Plushie"
+	name
+		word
+			"Tourist"
+			"Visitor"
+	message
+		word
+			"I could really use a lift back home to "
+		word
+			"New Boston"
+			"Millrace"
+			"New Tibet"
+			"Glaze"
