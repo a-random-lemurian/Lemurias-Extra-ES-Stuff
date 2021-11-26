@@ -7,6 +7,7 @@
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
 
+
 system Hiljaak
 	pos -807.36111 -69.555556
 	government Republic
@@ -69,6 +70,8 @@ system Hiljaak
 		sprite planet/uranus
 		distance 3152
 		period 0.0034686091
+
+
 system Neistat
 	pos -768.33333 -161.91667
 	government Republic
@@ -124,6 +127,7 @@ system Neistat
 		distance 3417
 		period 0.030234316
 
+
 system Orbona
 	link Neistat
 	link Serfeiia
@@ -176,6 +180,7 @@ system Orbona
 			distance 273
 			period 15.9089
 
+
 system Aljuik
 	pos -961.66667 -129.58333
 	government "Sayari Plushie"
@@ -220,6 +225,7 @@ system Aljuik
 		distance 1709
 		period 559
 
+
 system Duffeni
 	pos -914.33333 -184.91667
 	government "Sayari Plushie"
@@ -247,6 +253,7 @@ system Duffeni
 		sprite planet/ice5
 		distance 1784
 		period 704.62
+
 
 system Illumina
 	pos -853 -124.58333
@@ -302,6 +309,7 @@ system Illumina
 		sprite planet/cloud0-b
 		distance 2058.8573
 		period 567
+
 
 system Illuria
 	pos -836.33333 -187.91667
@@ -377,6 +385,7 @@ system Illuria
 		distance 1173.2485
 		period 2357367.3
 
+
 system Deriie
 	pos -925 -90.25
 	government "Sayari Plushie"
@@ -419,6 +428,7 @@ system Deriie
 		sprite planet/ice3
 		distance 3118
 		period 1509
+
 
 system Suerolii
 	pos -850.33333 -238.58333
@@ -474,6 +484,7 @@ system Suerolii
 		distance 1776
 		period 1006
 
+
 system Kailoo-ereki
 	pos -939.66667 -234.91667
 	link Iloke
@@ -504,6 +515,7 @@ system Kailoo-ereki
 		sprite planet/dust2
 		distance 5011.8296
 		period -3732957
+
 
 system Jarkiiens
 	pos -873.66667 -63.25
@@ -546,6 +558,7 @@ system Jarkiiens
 		sprite planet/19b
 		distance 2708.8853
 		period 773
+
 
 system Serfeiia
 	pos -809 -107.91667
@@ -624,6 +637,8 @@ system Serfeiia
 				sprite planet/rock17
 				distance 567
 				period 189
+
+
 system Fevbaa
 	pos -1033.0278 -323.25
 	link Iloke
@@ -652,6 +667,7 @@ system Fevbaa
 		sprite planet/gas14
 		distance 3934
 		period 1209
+
 
 system Iloke
 	pos -975.47222 -287.69444
@@ -696,6 +712,7 @@ system Iloke
 		distance 5078
 		period 1509
 
+
 system Zusul
 	pos -1115.6944 -303.25
 	link Fevbaa
@@ -733,10 +750,12 @@ system Zusul
 		distance 13345
 		period 1452
 
+
 system Zikut
 	pos -987.69444 -343.02778
 	link Iloke
 	link Sundum
+
 
 system Sedlai
 	pos -1039.0278 -284.58333
@@ -744,10 +763,12 @@ system Sedlai
 	link Jalak
 	link Minjuuk
 
+
 system Jalak
 	pos -995.69444 -241.25
 	link Alkxaai
 	link Sedlai
+
 
 system Ghesie
 	pos -921.27778 -309.16666
@@ -797,21 +818,25 @@ system Ghesie
 			distance 541
 			period 699.84
 
+
 system Leideete
 	pos -745.94444 -245.83333
 	government Republic
 	link Neistat
 	link Suerolii
 
+
 system Ladosak
 	pos -860.61111 -276.5
 	link Ghesie
 	link Suerolii
 
+
 system Minjuuk
 	pos -1083.0278 -219.25
 	link Raidei
 	link Sedlai
+
 
 system Alkxaai
 	pos -1012.3611 -173.91667
@@ -821,22 +846,27 @@ system Alkxaai
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
 
+
 system Arculus
 	pos 308.87 394.57533
+
 
 system Merulie
 	pos -871.13889 -504.38889
 	link Akkolie
 	link Pekora
 
+
 system "14 Pole"
 	add link Finduue
+
 
 system Julitius
 	pos -926.25 -366.83333
 	link Litiedei
 	link Lorfreei
 	link Sundum
+
 
 system Macali
 	pos -837.80556 -316.83333
@@ -870,15 +900,18 @@ system Macali
 			distance 174
 			period 1460.04
 
+
 system Zaxlai
 	pos -772.02778 -387.27778
 	link Akkolie
 	link Ronsulka
 
+
 system Finduue
 	pos -1279.0278 -197.80556
 	link "14 Pole"
 	link Lesarkei
+
 
 system Litiedei
 	pos -850.69444 -381.72222
@@ -886,6 +919,7 @@ system Litiedei
 	link Julitius
 	link Pekora
 	link Ronsulka
+
 
 system Lekkoli
 	pos -767.13889 -300.61111
@@ -931,6 +965,7 @@ system Lekkoli
 			distance 493
 			period 699.84
 
+
 system Sundum
 	pos -975.13889 -411.94444
 	link Julitius
@@ -938,16 +973,19 @@ system Sundum
 	link Radonei
 	link Zikut
 
+
 system Lorfreei
 	pos -879.58333 -332.83333
 	link Ghesie
 	link Julitius
 	link Macali
 
+
 system Lesarkei
 	pos -1191.0278 -268.80556
 	link Finduue
 	link Zusul
+
 
 system Radonei
 	pos -966.25 -478.61111
@@ -956,11 +994,13 @@ system Radonei
 	link Lenseiia
 	link Sundum
 
+
 system Akkolie
 	pos -824.91667 -448.38889
 	link Litiedei
 	link Merulie
 	link Zaxlai
+
 
 system Ronsulka
 	pos -800.91667 -357.72222
@@ -968,11 +1008,13 @@ system Ronsulka
 	link Macali
 	link Zaxlai
 
+
 system Pekora
 	pos -905.80556 -439.05556
 	link Litiedei
 	link Merulie
 	link Sundum
+
 
 system Lenseiia
 	pos -1037.7778 -470.58333
@@ -980,8 +1022,10 @@ system Lenseiia
 	link Laixadd
 	link Radonei
 
+
 system Arneb
 	add link Kiselot
+
 
 system Eileri
 	pos -953.77778 -549.25
@@ -991,13 +1035,16 @@ system Eileri
 	link Lindookor
 	link Radonei
 
+
 system Limen
 	add link Hiljaak
 	remove link Orbona
+
 system Luduras
 	pos -779.16667 -606.27777
 	link Kilooew
 	link Kiselot
+
 
 system Lindookor
 	pos -1006.6667 -580.80555
@@ -1005,10 +1052,12 @@ system Lindookor
 	link Eileri
 	link Laixadd
 
+
 system Kiselot
 	pos -624.16667 -596.27777
 	link Arneb
 	link Luduras
+
 
 system Laixadd
 	pos -1020.4444 -518.58333
@@ -1017,16 +1066,19 @@ system Laixadd
 	link Lenseiia
 	link Lindookor
 
+
 system Kilooew
 	pos -917.33333 -608.80555
 	government Pirate
 	link Eileri
 	link Luduras
 
+
 system Lakodelfraddi
 	pos -1172.4722 -112.41666
 	link Littike
 	link Sayreopli
+
 
 system Oldothe
 	pos -1026.4722 -93.416663
@@ -1036,14 +1088,17 @@ system Oldothe
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
 
+
 system Jurluo
 	pos -1133.4722 38.583337
 	link Sayreopli
+
 
 system Raidei
 	pos -1183.4722 -173.41666
 	link Littike
 	link Minjuuk
+
 
 system Littike
 	pos -1096.4722 -142.41666
@@ -1051,6 +1106,7 @@ system Littike
 	link Lakodelfraddi
 	link Oldothe
 	link Raidei
+
 
 system Aixafer
 	pos -1007.4722 -23.416663
@@ -1060,15 +1116,18 @@ system Aixafer
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
 
+
 system Sayreopli
 	pos -1117.4722 -46.416663
 	link Denleitt
 	link Jurluo
 	link Lakodelfraddi
 
+
 system Luisark
 	pos -1059.4722 6.5833367
 	link Denleitt
+
 
 system Zarkxaa
 	pos -916.47223 -20.416663
@@ -1096,12 +1155,15 @@ system Zarkxaa
 	fleet spa.war.amidala.large.1 2000
 	fleet spa.trade.haiSpace.large.1 1000
 	fleet spa.trade.HumanSpace.large.1 1000
+
+
 system Denleitt
 	pos -1095.4722 -83.416663
 	link Aixafer
 	link Littike
 	link Luisark
 	link Sayreopli
+
 
 planet "Leroo Station"
 	attributes station
@@ -1117,6 +1179,7 @@ planet "Leroo Station"
 	"required reputation" 10
 	bribe 0.1
 	security 0
+
 
 planet Markaai
 	attributes illuminareg
@@ -1149,6 +1212,7 @@ planet Markaai
 	government Republic
 	security 0.66
 
+
 planet Laateli
 	attributes illuminareg
 	shipyard "Basic Ships"
@@ -1169,6 +1233,7 @@ planet Laateli
 	government Republic
 	security 0.67
 
+
 planet Yinachr
 	attributes illuminareg mining
 	outfitter "Basic Outfits"
@@ -1180,6 +1245,7 @@ planet Yinachr
 	government Republic
 	security 0.32
 
+
 planet Pedinai
 	attributes illuminareg
 	landscape land/pedinai
@@ -1187,6 +1253,7 @@ planet Pedinai
 	spaceport "Merchant ships often stop by the area to purchase large ammounts of lumber to sell to the Paradise Planets. Most of the dockworker's equipment seem to be specialized for carrying wood, and only wood. At least one section of the spaceport is made out of wood, from what you could discern when you landed."
 	government Republic
 	security 0.38
+
 
 planet Khoramelia
 	attributes illuminareg sayariplush
@@ -1201,11 +1268,14 @@ planet Khoramelia
 	spaceport "The spaceport is full of ships decked out in the livery of the Sayari Plushie Authority, but you can see a few merchant ships, if any. Most of the SPA officers ignore you, as they mind their own business trying to command the fleets of the Sayari Protection Fleet,the SPA's naval wing, which reportedly consists of 3-6,000 capital ships, far outnumbering the Republic Navy."
 	government "Sayari Plushie"
 
+
 planet "Khoramelia Mission Office"
 	landscape land/stationKhorameliaMission
 	description "The mission office is located here. As you walk through the ornate halls, you find a large room containing several boards with jobs of different kinds."
 	spaceport "There are many drones at the docking bay alongside small ships."
 	government "Sayari Plushie"
+
+
 planet Rodoluki
 	shipyard "Sayari Advanced"
 	outfitter "Common Outfits"
@@ -1223,12 +1293,16 @@ planet Mindai
 	description "Mindai seems to be the manufacturing hub of the Sayari Plushie Authority. The smog on this planet is so intense that there are scrubber ships flying across the atmosphere trying to capture any smog and filter it into oxygen. Lately, many manufacturing processes have moved into orbit to fix this, but due to the fear of micrometeorites, this process has been relatively slow."
 	spaceport "Most of the attire the people here wear are usually yellow hard hats, basic t-shirts and pants, and some people look like they have not bathed in weeks, reminding you of the conditions of this planet. "
 	government "Sayari Plushie"
+
+
 planet Arlok
 	landscape land/arlok
 	government "Sayari Plushie"
 	description "Arlok is the home of the Sayari Plushie Authority's research facilities. Here, experimental technology of all kinds are experimented on and reverse-engineered. Outside the laboratories, the place is relatively pristine however there are plans to move most of the labs to somewhere else since SPA fleets have to cross through Republic space to get here."
 	spaceport "Arlok's spaceport is relatively large, with landing pads strewn across the surface of what seems to be a total land area of 1.32 square kilometers."
 	attributes illuminareg sayariplush research
+
+
 planet Lorok
 	landscape land/lorok
 	government "Sayari Plushie"
