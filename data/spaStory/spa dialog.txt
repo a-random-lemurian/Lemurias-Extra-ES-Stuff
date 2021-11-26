@@ -22,3 +22,8 @@ phrase spaContactFomalhaut.arrKhor.visit
 phrase spa.tr.visit
 	word
 		"You've arrived at your destination, however not all of the cargo has arrived. You feel compelled to depart and wait for them."
+
+
+phrase spa.tr.complete
+	word
+		"You recieve your payment of <payment> as you unload the <cargo>."
