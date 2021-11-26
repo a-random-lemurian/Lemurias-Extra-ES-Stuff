@@ -357,6 +357,7 @@ system Illuria
 	attributes illuminareg mining
 	object
 		sprite star/k0
+		distance 0
 		period 10
 	object
 		sprite planet/cloud4
