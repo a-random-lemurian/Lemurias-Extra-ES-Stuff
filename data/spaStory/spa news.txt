@@ -1,4 +1,4 @@
-phrase spa.sayariPlushieSeller
+news spa.sayariPlushieSeller
 	location
 		government "Sayari Plushie"
 	name
@@ -16,7 +16,7 @@ phrase spa.sayariPlushieSeller
 			"A great gift for your child!"
 
 
-phrase spa.freyaWintersPlushies.merchants
+news spa.freyaWintersPlushies.merchants
 	location
 		government "Sayari Plushie"
 	name
