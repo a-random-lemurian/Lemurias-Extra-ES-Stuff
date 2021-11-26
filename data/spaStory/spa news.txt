@@ -86,3 +86,5 @@ news spa.confusedTourists.single.starSystemMention
 			"Millrace"
 			"New Tibet"
 			"Glaze"
+		word
+			"."
