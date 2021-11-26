@@ -1179,6 +1179,7 @@ system Zarkxaa
 	fleet spa.war.amidala.large.1 2000
 	fleet spa.trade.haiSpace.large.1 1000
 	fleet spa.trade.HumanSpace.large.1 1000
+	fleet "Large Northern Merchants" 600
 
 
 system Denleitt
