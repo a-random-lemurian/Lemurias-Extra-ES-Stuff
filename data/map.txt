@@ -840,6 +840,7 @@ system Minjuuk
 
 system Alkxaai
 	pos -1012.3611 -173.91667
+	government "Sayari Plushie"
 	link Aljuik
 	link Jalak
 	link Oldothe
