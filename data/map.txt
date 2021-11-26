@@ -840,12 +840,34 @@ system Minjuuk
 
 system Alkxaai
 	pos -1012.3611 -173.91667
+	government "Sayari Plushie"
 	link Aljuik
 	link Jalak
 	link Oldothe
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
-
+	fleet "Small Republic" 800
+	fleet "Large Northern Pirates" 6000
+	object
+		sprite star/g0
+		distance 3
+		period 6
+	object
+		sprite planet/rock0
+		distance 455
+		period 361
+	object
+		sprite planet/forest0-b
+		distance 799
+		period 493
+	object Melisida
+		sprite planet/earth
+		distance 1503
+		period 550
+	object
+		sprite planet/gas13-b
+		distance 3440
+		period 798
 
 system Arculus
 	pos 308.87 394.57533
@@ -1309,3 +1331,10 @@ planet Lorok
 	government "Sayari Plushie"
 	description "Lorok is an Earthlike planet home to a sizeable SPA presence. From what you see, it looks like this place is engaged in the manufacture of most of the SPA's products, like Sayari plushies."
 	spaceport "Contrary to the other SPA planets, this one is relatively tame, with the ship traffic mostly composed of freighters and smaller ships. The escorts here are comprised of mostly smaller ships."
+
+
+planet Melisida
+	landscape land/melisida
+	government "Sayari Plushie"
+	description "Located north of Mindai, Melisida is yet another SPA colony."
+	spaceport "The spaceport here is incredibly boring, with not much to admire except for the ships."
