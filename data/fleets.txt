@@ -56,6 +56,14 @@ fleet pirates.war.capitalShip.large.1
 		Cruiser
 		Falcon
 		Bactrian
+fleet pirates.war.sparrow.small.1
+	government Pirate
+	names snComp.PirateShipId.1
+	cargo 0
+	personality
+		disables plunders
+	variant 20
+		Sparrow 9
 ###################################################################################################################
 fleet rep.war.bactrianOnly.small
 	government Republic
@@ -319,3 +327,11 @@ fleet spa.exploration.scout.small.1
 	variant 1
 		"Sparrow" 3
 		"Amidala" 1
+fleet spa.war.localguard.small.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		disables plunders
+		confusion 8
+	variant 1
+		Firebird 2

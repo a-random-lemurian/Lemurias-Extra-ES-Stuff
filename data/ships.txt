@@ -21,6 +21,8 @@ ship Berserker "Berserker Miner"
 		"X3200 Ion Steering"
 		"nGVF-CC Fuel Cell"
 	description "Once one of the most popular interceptor-class ships, the Berserker's popularity is now waning in favor of more modern and versatile ships like the Hawk. Although limited numbers are still produced by Betelgeuse Shipyards, most Berserkers that are in service today are more than half a century old. This Berserker clearly was built with mining in mind."
+
+
 ship "Amidala"
 	sprite "ship/kar ik vot 349"
 	thumbnail "thumbnail/kar ik vot 349"
