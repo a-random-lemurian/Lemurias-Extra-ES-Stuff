@@ -1,6 +1,6 @@
 news spa.sayariPlushieSeller
 	location
-		government "Sayari Plushie"
+		government "Sayari Plushie" Syndicate Republic "Free Worlds" Neutral Independent
 	name
 		word
 			"SPA officer"
@@ -18,7 +18,7 @@ news spa.sayariPlushieSeller
 
 news spa.freyaWintersPlushies.merchants
 	location
-		government "Sayari Plushie"
+		government "Sayari Plushie" Syndicate Republic "Free Worlds" Neutral Independent
 	name
 		word
 			"Merchant captain"
