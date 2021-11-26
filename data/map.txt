@@ -332,7 +332,7 @@ system Illuria
 	minables copper 70 4
 	minables lead 33 4
 	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 2400
+	fleet cssf.war.illuminaReg.large.1 5000
 	fleet "Large Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
