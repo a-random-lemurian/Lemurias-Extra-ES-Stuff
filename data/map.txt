@@ -204,6 +204,8 @@ system Aljuik
 	trade Plastic 501
 	object
 		sprite star/k8
+		distance 0
+		period 10
 	object
 		sprite planet/dust1
 		distance 509
