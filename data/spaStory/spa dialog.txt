@@ -18,3 +18,7 @@ phrase spaContactFomalhaut.arrKhor.visit
 	word
 		"George and the new recruit aren't here yet. Depart and wait for them."
 
+
+phrase spa.tr.visit
+	word
+		"You've arrived at your destination, however not all of the cargo has arrived. You feel compelled to depart and wait for them."
