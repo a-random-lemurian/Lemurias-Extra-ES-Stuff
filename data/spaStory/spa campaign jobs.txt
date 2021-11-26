@@ -9,6 +9,8 @@
 mission tr.cargo.small.low.1.spa
 	name "SPA: Transport <cargo> to <system>"
 	description "The Sayari Plushie Authority will pay you <payment> to transport <tons> of <cargo> to <planet>, <system>."
+	job
+	repeat
 	source
 		government "Republic" "Free Worlds" "Syndicate"
 	destination
@@ -24,6 +26,8 @@ mission tr.cargo.small.low.1.spa
 mission tr.cargo.med.low.2.spa
 	name "SPA: Transport <cargo> to <system>"
 	description "The Sayari Plushie Authority will pay you <payment> to transport <tons> of <cargo> to <planet>, <system>."
+	job
+	repeat
 	source
 		government "Republic" "Free Worlds" "Syndicate"
 	destination
@@ -40,6 +44,8 @@ mission tr.cargo.med.low.2.spa
 mission tr.cargo.med.low.3.spa
 	name "SPA / Medium: Transport <cargo> to <system>"
 	description "The Sayari Plushie Authority will pay you <payment> to transport <tons> of <cargo> to <planet>, <system>."
+	job
+	repeat
 	source
 		government "Republic" "Free Worlds" "Syndicate"
 	destination
@@ -56,6 +62,8 @@ mission tr.cargo.med.low.3.spa
 mission tr.cargo.large.low.1.spa
 	name "SPA / Large: Transport <cargo> to <system>"
 	description "The Sayari Plushie Authority will pay you <payment> to transport <tons> of <cargo> to <planet>, <system>."
+	job
+	repeat
 	source
 		government "Republic" "Free Worlds" "Syndicate"
 	destination
