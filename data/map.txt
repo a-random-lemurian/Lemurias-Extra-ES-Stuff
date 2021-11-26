@@ -847,6 +847,7 @@ system Alkxaai
 	link Oldothe
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
+	fleet "Large Northern Merchants" 600
 	fleet "Small Republic" 800
 	fleet "Large Northern Pirates" 6000
 	object
@@ -1110,7 +1111,7 @@ system Oldothe
 	link Littike
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
-
+	fleet "Large Northern Merchants" 600
 
 system Jurluo
 	pos -1133.4722 38.583337
@@ -1138,6 +1139,7 @@ system Aixafer
 	link Zarkxaa
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
+	fleet "Large Northern Merchants" 600
 
 
 system Sayreopli
