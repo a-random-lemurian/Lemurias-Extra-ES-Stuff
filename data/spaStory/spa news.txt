@@ -31,3 +31,18 @@ news spa.freyaWintersPlushies.merchants
 			"Pretty sure it's going to be great for business."
 			"We could transport those things across the galaxy and make millions!"
 			"We'd be rich by now!"
+
+
+news spa.confusedTourists.multiple # Several confused tourists.
+	location
+		government "Sayari Plushie"
+	name
+		word
+			"Tourists"
+			"Tour group"
+	message
+		word
+			"Where are we?"
+			"What is this place?"
+			"Excuse me, do you know any sightseeing spots around here?"
+			"When's the next ship coming?"
