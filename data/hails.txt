@@ -13,6 +13,7 @@ phrase spa.hails.friendly
 	phrase
 		spa.hails.friendly.sp1
 
+
 phrase spa.hails.hostile.sp1
 	word
 		"You shall pay for "
@@ -29,6 +30,8 @@ phrase spa.hails.hostile.sp1
 	word
 		"."
 		"!"
+
+
 phrase spa.hails.friendly.sp1
 	word
 		"Greetings <first> <last>, we welcome you."
