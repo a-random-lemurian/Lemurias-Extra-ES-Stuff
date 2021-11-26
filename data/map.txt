@@ -1131,6 +1131,7 @@ system Luisark
 
 system Zarkxaa
 	pos -916.47223 -20.416663
+	government "Sayari Plushie"
 	link Aixafer
 	object
 		sprite star/g0
