@@ -346,3 +346,21 @@ fleet spa.general.korathChaser.1
 		disables plunders vindictive
 	variant 1
 		"Korath Chaser" 50
+
+
+fleet spa.general.navyShips.large.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		disables plunders
+	variant 20
+		"Cruiser" 3
+		"Carrier" 5
+		"Combat Drone" 30
+		"Korath Chaser" 20
+	variant 40
+		"Carrier" 3
+		"Combat Drone" 18
+		"Korath Chaser" 12
+		Rainmaker 8
+		Frigate 5
