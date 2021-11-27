@@ -37,3 +37,9 @@
 #	fleet spa.trade.gen.small.1 400
 #system Menkent
 #	fleet spa.trade.gen.small.1 400
+system Hiljaak
+	add fleet spa.trade.gen.small.1 400
+system Limen
+	add fleet spa.trade.gen.small.1 400
+system Mora
+	add fleet spa.trade.gen.small.1 400
