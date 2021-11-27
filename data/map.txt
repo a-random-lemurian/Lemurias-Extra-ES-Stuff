@@ -1154,6 +1154,30 @@ system Oldothe
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
 	fleet "Large Northern Merchants" 600
+	object
+		sprite star/g0
+		period 0
+		distance 10
+	object
+		sprite planet/rock12
+		period 339
+		distance 533
+	object
+		sprite planet/rock4
+		period 598
+		distance 882
+	object
+		sprite planet/forest0
+		period 773
+		distance 1199
+	object
+		sprite planet/gas5
+		period 1440
+		distance 2004
+	object
+		sprite planet/gas2
+		period 1880
+		distance 2776
 
 system Jurluo
 	pos -1133.4722 38.583337
