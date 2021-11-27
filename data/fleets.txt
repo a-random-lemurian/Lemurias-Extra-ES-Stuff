@@ -385,3 +385,16 @@ fleet spa.general.freeWorldsShips.large.1
 	variant 20
 		Skein 3
 		"Korath Chaser" 18
+###################################################################################################################
+# Pirate fleets spawned during attack missions
+fleet pirates.war.raiders.small.1
+	government Pirate
+	names pirate
+	cargo 8
+	personality
+		confusion 24
+		plunders harvests disables
+	variant 8
+		Sparrow 4
+		Berserker 3
+		Argosy 2
