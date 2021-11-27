@@ -364,3 +364,16 @@ fleet spa.general.navyShips.large.1
 		"Korath Chaser" 12
 		Rainmaker 8
 		Frigate 5
+
+
+fleet spa.general.freeWorldsShips.large.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		disables plunders
+	variant 30
+		Skein 10
+		"Korath Chaser" 60
+	variant 20
+		Skein 3
+		"Korath Chaser" 18
