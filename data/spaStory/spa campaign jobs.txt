@@ -24,7 +24,7 @@ mission tr.cargo.small.low.1.spa
 		government "Republic" "Free Worlds" "Syndicate"
 	destination
 		government "Sayari Plushie"
-	cargo 300 590
+	cargo "Sayari goodies" 300 600
 	to offer
 		"cargo space" > 390
 	on visit
@@ -41,7 +41,7 @@ mission tr.cargo.med.low.2.spa
 		government "Republic" "Free Worlds" "Syndicate"
 	destination
 		government "Sayari Plushie"
-	cargo 300 590
+	cargo "Sayari goodies" 300 600
 	to offer
 		"cargo space" > 390
 		random > 50
@@ -59,7 +59,7 @@ mission tr.cargo.med.low.3.spa
 		government "Republic" "Free Worlds" "Syndicate"
 	destination
 		government "Sayari Plushie"
-	cargo 300 590
+	cargo "Sayari goodies" 300 600
 	to offer
 		"cargo space" > 390
 		random > 80
@@ -77,7 +77,7 @@ mission tr.cargo.large.low.1.spa
 		government "Republic" "Free Worlds" "Syndicate"
 	destination
 		government "Sayari Plushie"
-	cargo 300 590
+	cargo "Sayari goodies" 300 600
 	to offer
 		"cargo space" > 390
 		random > 80
