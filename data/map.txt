@@ -343,13 +343,14 @@ system Illuria
 	minables copper 70 4
 	minables lead 33 4
 	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 2400
+	fleet cssf.war.illuminaReg.large.1 5000
 	fleet "Large Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
 	fleet "Large Southern Merchants" 600
 	fleet imc.mining.illuminaMiners.med.1 600
 	fleet spa.trade.HumanSpace.large.1 1300
+	fleet spa.war.localguard.small.1 500
 	habitable 889.35
 	belt 853
 	trade Clothing 308
@@ -858,6 +859,7 @@ system Alkxaai
 	link Oldothe
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
+	fleet "Large Northern Merchants" 600
 	fleet "Small Republic" 800
 	fleet "Large Northern Pirates" 6000
 	object
@@ -1121,7 +1123,7 @@ system Oldothe
 	link Littike
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
-
+	fleet "Large Northern Merchants" 600
 
 system Jurluo
 	pos -1133.4722 38.583337
@@ -1149,6 +1151,7 @@ system Aixafer
 	link Zarkxaa
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
+	fleet "Large Northern Merchants" 600
 
 
 system Sayreopli
@@ -1190,6 +1193,7 @@ system Zarkxaa
 	fleet spa.war.amidala.large.1 2000
 	fleet spa.trade.haiSpace.large.1 1000
 	fleet spa.trade.HumanSpace.large.1 1000
+	fleet "Large Northern Merchants" 600
 
 
 system Denleitt
