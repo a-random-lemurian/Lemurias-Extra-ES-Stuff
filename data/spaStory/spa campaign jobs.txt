@@ -17,14 +17,14 @@
 
 mission tr.cargo.small.low.1.spa
 	name "SPA: Transport <cargo> to <system>"
-	description "The Sayari Plushie Authority will pay you <payment> to transport <tons> of <cargo> to <planet>, <system>."
+	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>."
 	job
 	repeat
 	source
 		government "Republic" "Free Worlds" "Syndicate"
 	destination
 		government "Sayari Plushie"
-	cargo 300 590
+	cargo "Sayari goodies" 300 600
 	to offer
 		"cargo space" > 390
 	on visit
@@ -34,14 +34,14 @@ mission tr.cargo.small.low.1.spa
 		payment 50000 17
 mission tr.cargo.med.low.2.spa
 	name "SPA: Transport <cargo> to <system>"
-	description "The Sayari Plushie Authority will pay you <payment> to transport <tons> of <cargo> to <planet>, <system>."
+	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>."
 	job
 	repeat
 	source
 		government "Republic" "Free Worlds" "Syndicate"
 	destination
 		government "Sayari Plushie"
-	cargo 300 590
+	cargo "Sayari goodies" 300 600
 	to offer
 		"cargo space" > 390
 		random > 50
@@ -52,14 +52,14 @@ mission tr.cargo.med.low.2.spa
 		payment 50000 17
 mission tr.cargo.med.low.3.spa
 	name "SPA / Medium: Transport <cargo> to <system>"
-	description "The Sayari Plushie Authority will pay you <payment> to transport <tons> of <cargo> to <planet>, <system>."
+	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>."
 	job
 	repeat
 	source
 		government "Republic" "Free Worlds" "Syndicate"
 	destination
 		government "Sayari Plushie"
-	cargo 300 590
+	cargo "Sayari goodies" 300 600
 	to offer
 		"cargo space" > 390
 		random > 80
@@ -70,14 +70,14 @@ mission tr.cargo.med.low.3.spa
 		payment 50000 17
 mission tr.cargo.large.low.1.spa
 	name "SPA / Large: Transport <cargo> to <system>"
-	description "The Sayari Plushie Authority will pay you <payment> to transport <tons> of <cargo> to <planet>, <system>."
+	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>."
 	job
 	repeat
 	source
 		government "Republic" "Free Worlds" "Syndicate"
 	destination
 		government "Sayari Plushie"
-	cargo 300 590
+	cargo "Sayari goodies" 300 600
 	to offer
 		"cargo space" > 390
 		random > 80
