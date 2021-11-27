@@ -29,7 +29,7 @@ system Merak
 system Denebola
 	add fleet spa.trade.gen.small.1 600
 system Sol
-	add fleet spa.trade.gen.small.1 600
+	add fleet spa.trade.gen.small.1 370
 system Mizar
 	add fleet spa.trade.gen.small.1 600
 system Arcturus
