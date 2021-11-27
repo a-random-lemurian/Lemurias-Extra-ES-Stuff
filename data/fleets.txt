@@ -220,79 +220,6 @@ fleet spa.trade.haiSpace.large.1
 		"Emerald Sword" 4
 
 
-fleet spa.general.Falcon.large.1
-	government "Sayari Plushie"
-	names spa.allNames
-	personality
-		heroic
-	variant 4
-		Falcon 20
-	variant 4
-		"Marauder Falcon (Weapons)" 20
-	variant
-		"Marauder Falcon (Engines)" 30
-
-fleet spa.general.Bactrian.small.1
-	names spa.allNames
-	personality
-		heroic
-	variant
-		"Marauder Bactrian" 5
-	government "Sayari Plushie"
-
-
-fleet spa.general.HeliarchPunishers.med.1
-	names spa.allNames
-	personality
-		heroic
-	variant
-		"Heliarch Punisher" 15
-	government "Sayari Plushie"
-
-
-fleet spa.war.illuminaReg.large.1
-	names spa.allNames
-	cargo 13
-	government "Sayari Plushie"
-	personality
-		confusion 8
-		disables harvests
-	variant 1
-		Falcon 12
-		Leviathan 12
-		Corvette 3
-		"Amidala" 10
-	variant 1
-		Falcon 13
-	variant 1
-		"Amidala" 16
-	variant 1
-		"Shield Beetle" 15
-		"Geocoris" 5
-
-
-fleet spa.general.EmeraldSword.med.1
-	government "Sayari Plushie"
-	names spa.allNames
-	personality
-		confusion 5
-		heroic disables harvests plunders
-	variant 1
-		"Emerald Sword" 4
-
-
-fleet spa.war.vanguard.large.1
-	government "Sayari Plushie"
-	names spa.allNames
-	personality
-		disables heroic
-	variant 1
-		"Vanguard" 16
-		"Firebird" 5
-	variant 7
-		"Vanguard" 21
-
-
 fleet spa.trade.gen.small.1
 	government "Sayari Plushie"
 	names spa.allNames
@@ -352,6 +279,40 @@ fleet spa.trade.gen.small.1
 	# Definitely not feasible for a human
 	# to edit or create this manually.
 
+
+fleet spa.war.illuminaReg.large.1
+	names spa.allNames
+	cargo 13
+	government "Sayari Plushie"
+	personality
+		confusion 8
+		disables harvests
+	variant 1
+		Falcon 12
+		Leviathan 12
+		Corvette 3
+		"Amidala" 10
+	variant 1
+		Falcon 13
+	variant 1
+		"Amidala" 16
+	variant 1
+		"Shield Beetle" 15
+		"Geocoris" 5
+
+
+fleet spa.war.vanguard.large.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		disables heroic
+	variant 1
+		"Vanguard" 16
+		"Firebird" 5
+	variant 7
+		"Vanguard" 21
+
+
 fleet spa.war.amidala.large.1
 	government "Sayari Plushie"
 	names spa.allNames
@@ -371,16 +332,6 @@ fleet spa.war.shieldBeetle.large.1
 		"Geocoris" 10
 
 
-fleet spa.exploration.scout.small.1
-	government "Sayari Plushie"
-	names spa.allNames
-	personality
-		heroic disables
-	variant 1
-		"Sparrow" 3
-		"Amidala" 1
-
-
 fleet spa.war.localguard.small.1
 	government "Sayari Plushie"
 	names spa.allNames
@@ -389,6 +340,16 @@ fleet spa.war.localguard.small.1
 		confusion 8
 	variant 1
 		Firebird 2
+
+
+fleet spa.exploration.scout.small.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		heroic disables
+	variant 1
+		"Sparrow" 3
+		"Amidala" 1
 
 
 fleet spa.general.korathChaser.1
@@ -429,6 +390,46 @@ fleet spa.general.freeWorldsShips.large.1
 	variant 20
 		Skein 3
 		"Korath Chaser" 18
+fleet spa.general.Falcon.large.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		heroic
+	variant 4
+		Falcon 20
+	variant 4
+		"Marauder Falcon (Weapons)" 20
+	variant
+		"Marauder Falcon (Engines)" 30
+
+fleet spa.general.Bactrian.small.1
+	names spa.allNames
+	personality
+		heroic
+	variant
+		"Marauder Bactrian" 5
+	government "Sayari Plushie"
+
+
+fleet spa.general.HeliarchPunishers.med.1
+	names spa.allNames
+	personality
+		heroic
+	variant
+		"Heliarch Punisher" 15
+	government "Sayari Plushie"
+
+
+fleet spa.general.EmeraldSword.med.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		confusion 5
+		heroic disables harvests plunders
+	variant 1
+		"Emerald Sword" 4
+
+
 ###################################################################################################################
 # Pirate fleets spawned during attack missions
 fleet pirates.war.raiders.small.1
