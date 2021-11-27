@@ -782,6 +782,11 @@ system Jalak
 	pos -995.69444 -241.25
 	link Alkxaai
 	link Sedlai
+	fleet spa.general.freeWorldsShips.large.1 800
+	fleet spa.general.navyShips.large.1 800
+	fleet spa.general.Falcon.large.1 2000
+	fleet "Large Northern Merchants" 600
+	fleet "Large Southern Merchants" 600
 	object
 		sprite star/k0
 		period 10
