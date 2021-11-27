@@ -1166,7 +1166,7 @@ system Oldothe
 		sprite planet/rock4
 		period 598
 		distance 882
-	object
+	object Renpaya
 		sprite planet/forest0
 		period 773
 		distance 1199
@@ -1421,3 +1421,11 @@ planet Ekarai
 	government "Sayari Plushie"
 	description "Ekarai is a Sayari Plushie Authority colony. With a popuation of 45.43 million, Ekarai is a relatively large colony, rivalling the capital Khoramelia, in size. Shipyards and outfitters here sell common ships and outifts used by the Sayari Plushie Authority."
 	spaceport "The shipyard is integrated with the main spaceport. At the bench where you are sitting, a well-dressed salesman is pitching a lifesize Freya Winters plushie to a group of parents and their children who are clearly wearing party hats."
+
+
+planet Renpaya
+	landscape land/renpaya
+	shipyard "Basic Ships"
+	government "Sayari Plushie"
+	description "Renpaya is a relatively boring savannah world. This world is held by the Sayari Plushie Authority mainly to prevent it from falling into the hands of the CSSF."
+	spaceport "The spaceport is primitive, containing only the basic essentials. There are a few food shops offering food and water, and tourists who wish to explore the planet's relatively pristine nature."
