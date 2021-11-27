@@ -327,6 +327,8 @@ fleet spa.exploration.scout.small.1
 	variant 1
 		"Sparrow" 3
 		"Amidala" 1
+
+
 fleet spa.war.localguard.small.1
 	government "Sayari Plushie"
 	names spa.allNames
@@ -335,3 +337,30 @@ fleet spa.war.localguard.small.1
 		confusion 8
 	variant 1
 		Firebird 2
+
+
+fleet spa.general.korathChaser.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		disables plunders vindictive
+	variant 1
+		"Korath Chaser" 50
+
+
+fleet spa.general.navyShips.large.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		disables plunders
+	variant 20
+		"Cruiser" 3
+		"Carrier" 5
+		"Combat Drone" 30
+		"Korath Chaser" 20
+	variant 40
+		"Carrier" 3
+		"Combat Drone" 18
+		"Korath Chaser" 12
+		Rainmaker 8
+		Frigate 5
