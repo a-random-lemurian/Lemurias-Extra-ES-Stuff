@@ -1074,7 +1074,7 @@ system Eileri
 
 system Limen
 	add link Hiljaak
-	remove link Orbona
+	add link Orbona
 
 system Luduras
 	pos -779.16667 -606.27777
