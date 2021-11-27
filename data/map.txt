@@ -778,9 +778,34 @@ system Sedlai
 
 
 system Jalak
+	government "Sayari Plushie"
 	pos -995.69444 -241.25
 	link Alkxaai
 	link Sedlai
+	object
+		sprite star/k0
+		period 10
+		distance 2
+	object
+		sprite planet/rock4
+		period 177
+		distance 407
+	object
+		sprite planet/desert0
+		period 244
+		distance 733
+	object Ekarai
+		sprite planet/earth-b
+		period 366
+		distance 1233
+	object
+		sprite planet/gas15
+		period 887
+		distance 1902
+	object
+		sprite planet/gas1
+		period 840
+		distance 2655
 
 
 system Ghesie
@@ -1352,5 +1377,12 @@ planet Lorok
 planet Melisida
 	landscape land/melisida
 	government "Sayari Plushie"
-	description "Located north of Mindai, Melisida is yet another SPA colony."
-	spaceport "The spaceport here is incredibly boring, with not much to admire except for the ships."
+	description "Located north of Mindai, Melisida is yet another SPA colony. Similar to Mindai, it is a manufacturing and mining colony. Outside of the main city, there are many smaller mining villages home to massive equipment and hundreds of workers each."
+	spaceport "The spaceport here is incredibly boring, with not much to admire except for the ships. You see several containers of Sayari plushies being loaded on the ships, alongside the occasional 'prototype' plushies, most of whom seem to depict a woman named 'Freya Winters'."
+
+
+planet Ekarai
+	landscape land/ekarai
+	government "Sayari Plushie"
+	description "Ekarai is a Sayari Plushie Authority colony. With a popuation of 45.43 million, Ekarai is a relatively large colony, rivalling the capital Khoramelia, in size. Shipyards and outfitters here sell common ships and outifts used by the Sayari Plushie Authority."
+	spaceport "The shipyard is integrated with the main spaceport. At the bench where you are sitting, a well-dressed salesman is pitching a lifesize Freya Winters plushie to a group of parents and their children who are clearly wearing party hats."
