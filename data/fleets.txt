@@ -337,3 +337,12 @@ fleet spa.war.localguard.small.1
 		confusion 8
 	variant 1
 		Firebird 2
+
+
+fleet spa.general.korathChaser.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		disables plunders vindictive
+	variant 1
+		"Korath Chaser" 50
