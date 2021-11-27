@@ -782,6 +782,11 @@ system Jalak
 	pos -995.69444 -241.25
 	link Alkxaai
 	link Sedlai
+	fleet spa.general.freeWorldsShips.large.1 800
+	fleet spa.general.navyShips.large.1 800
+	fleet spa.general.Falcon.large.1 2000
+	fleet "Large Northern Merchants" 600
+	fleet "Large Southern Merchants" 600
 	object
 		sprite star/k0
 		period 10
@@ -1383,6 +1388,12 @@ planet Melisida
 
 planet Ekarai
 	landscape land/ekarai
+	shipyard "Sayari Advanced without Falcon"
+	shipyard "Basic Ships"
+	shipyard "Betelgeuse Advanced"
+	shipyard "Southbound Advanced"
+	outfitter "Common Outfits"
+	outfitter "Basic Outfits"
 	government "Sayari Plushie"
 	description "Ekarai is a Sayari Plushie Authority colony. With a popuation of 45.43 million, Ekarai is a relatively large colony, rivalling the capital Khoramelia, in size. Shipyards and outfitters here sell common ships and outifts used by the Sayari Plushie Authority."
 	spaceport "The shipyard is integrated with the main spaceport. At the bench where you are sitting, a well-dressed salesman is pitching a lifesize Freya Winters plushie to a group of parents and their children who are clearly wearing party hats."

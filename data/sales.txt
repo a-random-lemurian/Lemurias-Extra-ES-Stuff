@@ -20,6 +20,10 @@ shipyard "Sayari Advanced"
 	"Falcon"
 
 
+shipyard "Sayari Advanced without Falcon"
+	"Amidala"
+
+
 outfitter "Sayari Outfits"
 	"Hyperdrive"
 	"Brig"
