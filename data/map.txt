@@ -781,6 +781,30 @@ system Jalak
 	pos -995.69444 -241.25
 	link Alkxaai
 	link Sedlai
+	object
+		sprite star/k0
+		period 10
+		distance 2
+	object
+		sprite planet/rock4
+		period 177
+		distance 407
+	object
+		sprite planet/desert0
+		period 244
+		distance 733
+	object Ekarai
+		sprite planet/earth-b
+		period 366
+		distance 1233
+	object
+		sprite planet/gas15
+		period 887
+		distance 1902
+	object
+		sprite planet/gas1
+		period 840
+		distance 2655
 
 
 system Ghesie
