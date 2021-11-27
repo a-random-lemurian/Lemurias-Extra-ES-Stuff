@@ -15,6 +15,7 @@
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
+
 mission tr.cargo.small.low.1.spa
 	name "SPA: Transport <cargo> to <system>"
 	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>."
@@ -32,6 +33,8 @@ mission tr.cargo.small.low.1.spa
 	on complete
 		dialog phrase spa.tr.complete
 		payment 50000 17
+
+
 mission tr.cargo.med.low.2.spa
 	name "SPA: Transport <cargo> to <system>"
 	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>."
@@ -50,6 +53,8 @@ mission tr.cargo.med.low.2.spa
 	on complete
 		dialog phrase spa.tr.complete
 		payment 50000 17
+
+
 mission tr.cargo.med.low.3.spa
 	name "SPA / Medium: Transport <cargo> to <system>"
 	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>."
@@ -68,6 +73,8 @@ mission tr.cargo.med.low.3.spa
 	on complete
 		dialog phrase spa.tr.complete
 		payment 50000 17
+
+
 mission tr.cargo.large.low.1.spa
 	name "SPA / Large: Transport <cargo> to <system>"
 	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>."

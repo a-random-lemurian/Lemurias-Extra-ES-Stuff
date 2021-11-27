@@ -18,9 +18,12 @@
 
 mission general.fighting.pirateFight.small.1
 	name "Destroy small pirate fleet"
-	description "A pirate fleet has been sighted near <system>."
+	description "Pirates have been detected near <system>. They must be destroyed immediately. The government of <system> will reward anyone who destroys or renders their fleet incapable of combat or basic operation <payment>."
 	job
 	repeat
+	to offer
+		"combat rating" > 500
+		random > 70
 	source
 		government "Sayari Plushie" "Republic" "Syndicate" "Free Worlds" "Independent" "Neutral"
 	npc kill
