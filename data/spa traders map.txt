@@ -15,25 +15,32 @@
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
-#system Delta Velorum
-#	fleet spa.trade.gen.small.1 400
-#system Turais
-#	fleet spa.trade.gen.small.1 400
-#system Algorel
-#	fleet spa.trade.gen.small.1 400
-#system Phecda
-#	fleet spa.trade.gen.small.1 400
-#system Merak
-#	fleet spa.trade.gen.small.1 400
-#system Denebola
-#	fleet spa.trade.gen.small.1 400
-#system Sol
-#	fleet spa.trade.gen.small.1 400
-#system Mizar
-#	fleet spa.trade.gen.small.1 400
-#system Arcturus
-#	fleet spa.trade.gen.small.1 400
-#system Rutilicus
-#	fleet spa.trade.gen.small.1 400
-#system Menkent
-#	fleet spa.trade.gen.small.1 400
+
+system "Delta Velorum"
+	add fleet spa.trade.gen.small.1 300
+system Turais
+	add fleet spa.trade.gen.small.1 300
+system Algorel
+	add fleet spa.trade.gen.small.1 600
+system Phecda
+	add fleet spa.trade.gen.small.1 600
+system Merak
+	add fleet spa.trade.gen.small.1 600
+system Denebola
+	add fleet spa.trade.gen.small.1 600
+system Sol
+	add fleet spa.trade.gen.small.1 370
+system Mizar
+	add fleet spa.trade.gen.small.1 600
+system Arcturus
+	add fleet spa.trade.gen.small.1 600
+system Rutilicus
+	add fleet spa.trade.gen.small.1 600
+system Menkent
+	add fleet spa.trade.gen.small.1 600
+system Hiljaak
+	add fleet spa.trade.gen.small.1 400
+system Limen
+	add fleet spa.trade.gen.small.1 400
+system Mora
+	add fleet spa.trade.gen.small.1 400
