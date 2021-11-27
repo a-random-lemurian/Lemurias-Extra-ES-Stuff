@@ -327,6 +327,8 @@ fleet spa.exploration.scout.small.1
 	variant 1
 		"Sparrow" 3
 		"Amidala" 1
+
+
 fleet spa.war.localguard.small.1
 	government "Sayari Plushie"
 	names spa.allNames
