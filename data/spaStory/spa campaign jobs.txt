@@ -26,7 +26,7 @@ mission tr.cargo.small.low.1.spa
 		government "Sayari Plushie"
 	cargo 300 590
 	to offer
-		cargo > 390
+		"cargo space" > 390
 	on visit
 		dialog phrase spa.tr.visit
 	on complete
@@ -43,7 +43,7 @@ mission tr.cargo.med.low.2.spa
 		government "Sayari Plushie"
 	cargo 300 590
 	to offer
-		cargo > 390
+		"cargo space" > 390
 		random > 50
 	on visit
 		dialog phrase spa.tr.visit
@@ -61,7 +61,7 @@ mission tr.cargo.med.low.3.spa
 		government "Sayari Plushie"
 	cargo 300 590
 	to offer
-		cargo > 390
+		"cargo space" > 390
 		random > 80
 	on visit
 		dialog phrase spa.tr.visit
@@ -79,7 +79,7 @@ mission tr.cargo.large.low.1.spa
 		government "Sayari Plushie"
 	cargo 300 590
 	to offer
-		cargo > 390
+		"cargo space" > 390
 		random > 80
 	on visit
 		dialog phrase spa.tr.visit
