@@ -17,9 +17,9 @@
 
 
 system "Delta Velorum"
-	add fleet spa.trade.gen.small.1 600
+	add fleet spa.trade.gen.small.1 300
 system Turais
-	add fleet spa.trade.gen.small.1 600
+	add fleet spa.trade.gen.small.1 300
 system Algorel
 	add fleet spa.trade.gen.small.1 600
 system Phecda
