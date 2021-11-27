@@ -68,3 +68,7 @@ phrase spoiledChild.Visit
 phrase fleetBattle.completed
 	word
 		"You recieve a payment of <payment> for destroying the pirates."
+
+phrase mission.pirateFight.jobDialog
+	word
+		"Pirates have been detected near <system>. They must be destroyed immediately. The government of <source> will reward anyone who destroys or renders their fleet incapable of combat or basic operation <payment>."
