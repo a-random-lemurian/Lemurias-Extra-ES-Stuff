@@ -227,16 +227,16 @@ fleet spa.trade.gen.small.1
 		timid disables
 	#### BEGIN SCRIPT OUTPUT #### Explanation below
 	variant 1
-		"Hauler I" 5
+		"Hauler" 5
 		"Sparrow" 5
 	variant 1
-		"Hauler I" 5
+		"Hauler" 5
 		"Headhunter" 5
 	variant 1
-		"Hauler I" 5
+		"Hauler" 5
 		"Quicksilver" 5
 	variant 1
-		"Hauler I" 5
+		"Hauler" 5
 		"Gunboat" 5
 	variant 1
 		"Hauler II" 5
