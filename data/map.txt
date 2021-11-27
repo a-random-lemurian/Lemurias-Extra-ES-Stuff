@@ -1352,5 +1352,5 @@ planet Lorok
 planet Melisida
 	landscape land/melisida
 	government "Sayari Plushie"
-	description "Located north of Mindai, Melisida is yet another SPA colony."
-	spaceport "The spaceport here is incredibly boring, with not much to admire except for the ships."
+	description "Located north of Mindai, Melisida is yet another SPA colony. Similar to Mindai, it is a manufacturing and mining colony. Outside of the main city, there are many smaller mining villages home to massive equipment and hundreds of workers each."
+	spaceport "The spaceport here is incredibly boring, with not much to admire except for the ships. You see several containers of Sayari plushies being loaded on the ships, alongside the occasional 'prototype' plushies, most of whom seem to depict a woman named 'Freya Winters'."
