@@ -1,6 +1,6 @@
 mission general.fighting.pirateFight.small.1
 	name "Destroy small pirate fleet"
-	description "A pirate fleet has been sighted near <system>."
+	description "Pirates have been detected near <system>. They must be destroyed immediately. The government of <source> will reward anyone who destroys or renders their fleet incapable of combat or basic operation <payment>."
 	job
 	repeat
 	to offer
@@ -25,7 +25,7 @@ mission general.fighting.pirateFight.small.1
 
 mission general.fighting.pirateFight.small.2
 	name "Destroy small pirate fleet"
-	description "A pirate fleet has been sighted near <system>."
+	description "Pirates have been detected near <system>. They must be destroyed immediately. The government of <source> will reward anyone who destroys or renders their fleet incapable of combat or basic operation <payment>."
 	job
 	repeat
 	to offer
@@ -50,7 +50,7 @@ mission general.fighting.pirateFight.small.2
 
 mission general.fighting.pirateFight.small.3
 	name "Destroy small pirate fleet"
-	description "A pirate fleet has been sighted near <system>."
+	description "Pirates have been detected near <system>. They must be destroyed immediately. The government of <source> will reward anyone who destroys or renders their fleet incapable of combat or basic operation <payment>."
 	job
 	repeat
 	to offer
@@ -75,7 +75,7 @@ mission general.fighting.pirateFight.small.3
 
 mission general.fighting.pirateFight.small.4
 	name "Destroy small pirate fleet"
-	description "A pirate fleet has been sighted near <system>."
+	description "Pirates have been detected near <system>. They must be destroyed immediately. The government of <source> will reward anyone who destroys or renders their fleet incapable of combat or basic operation <payment>."
 	job
 	repeat
 	to offer
@@ -100,7 +100,7 @@ mission general.fighting.pirateFight.small.4
 
 mission general.fighting.pirateFight.small.5
 	name "Destroy small pirate fleet"
-	description "A pirate fleet has been sighted near <system>."
+	description "Pirates have been detected near <system>. They must be destroyed immediately. The government of <source> will reward anyone who destroys or renders their fleet incapable of combat or basic operation <payment>."
 	job
 	repeat
 	to offer
@@ -125,7 +125,7 @@ mission general.fighting.pirateFight.small.5
 
 mission general.fighting.pirateFight.small.6
 	name "Destroy small pirate fleet"
-	description "A pirate fleet has been sighted near <system>."
+	description "Pirates have been detected near <system>. They must be destroyed immediately. The government of <source> will reward anyone who destroys or renders their fleet incapable of combat or basic operation <payment>."
 	job
 	repeat
 	to offer
@@ -150,7 +150,7 @@ mission general.fighting.pirateFight.small.6
 
 mission general.fighting.pirateFight.small.7
 	name "Destroy small pirate fleet"
-	description "A pirate fleet has been sighted near <system>."
+	description "Pirates have been detected near <system>. They must be destroyed immediately. The government of <source> will reward anyone who destroys or renders their fleet incapable of combat or basic operation <payment>."
 	job
 	repeat
 	to offer
@@ -175,7 +175,7 @@ mission general.fighting.pirateFight.small.7
 
 mission general.fighting.pirateFight.small.8
 	name "Destroy small pirate fleet"
-	description "A pirate fleet has been sighted near <system>."
+	description "Pirates have been detected near <system>. They must be destroyed immediately. The government of <source> will reward anyone who destroys or renders their fleet incapable of combat or basic operation <payment>."
 	job
 	repeat
 	to offer
