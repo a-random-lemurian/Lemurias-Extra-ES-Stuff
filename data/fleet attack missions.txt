@@ -1,0 +1,20 @@
+mission general.fighting.pirateFight.small.1
+	name "Destroy small pirate fleet"
+	description "A pirate fleet has been sighted near <system>."
+	job
+	repeat
+	source
+		government "Sayari Plushie" "Republic" "Syndicate" "Free Worlds" "Independent" "Neutral"
+	npc kill
+		system
+			distance 1 2
+		fleet
+			government Pirate
+			names pirate
+			personality
+				confusion 24
+				plunders harvests disables
+			variant 8
+				Sparrow 4
+				Berserker 3
+				Argosy 2

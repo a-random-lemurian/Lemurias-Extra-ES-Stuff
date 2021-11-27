@@ -64,3 +64,7 @@ phrase spoiledChild.Visit
 	word
 		"Not all the passengers are in the system. You should depart, and wait for the rest of them to return."
 
+
+phrase fleetBattle.completed
+	word
+		"You recieve a payment of <payment> for destroying the pirates."
