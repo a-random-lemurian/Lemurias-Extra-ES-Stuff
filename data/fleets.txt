@@ -430,6 +430,14 @@ fleet spa.general.EmeraldSword.med.1
 		"Emerald Sword" 4
 
 
+fleet spa.mining.amidalaMiner.med.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		confusion 13
+		mining harvests
+	variant 1
+		"Amidala Miner" 4
 ###################################################################################################################
 # Pirate fleets spawned during attack missions
 fleet pirates.war.raiders.small.1
