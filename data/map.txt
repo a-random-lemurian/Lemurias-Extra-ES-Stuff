@@ -778,6 +778,7 @@ system Sedlai
 
 
 system Jalak
+	government "Sayari Plushie"
 	pos -995.69444 -241.25
 	link Alkxaai
 	link Sedlai
