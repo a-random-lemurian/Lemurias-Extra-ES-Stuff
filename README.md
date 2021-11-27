@@ -35,6 +35,7 @@ Do note that this addon has references to slavery and organized crime (pirates).
 
 # Copyrights
 Plugin copyright (C) Lemuria#0685 2021. License: GPLv3, view in LICENSE.md
+
 Image copyright (C) Several authors, licenses vary: see Pictures section.
 
 Contact:          Lemuria#0685 (Discord)
