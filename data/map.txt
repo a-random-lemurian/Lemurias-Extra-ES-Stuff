@@ -1153,6 +1153,7 @@ system Oldothe
 	link Littike
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
+	fleet spa.mining.amidalaMiner.1 1500
 	fleet "Large Northern Merchants" 600
 
 system Jurluo
