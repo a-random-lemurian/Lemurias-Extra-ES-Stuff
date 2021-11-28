@@ -402,6 +402,17 @@ fleet spa.general.Falcon.large.1
 	variant
 		"Marauder Falcon (Engines)" 30
 
+
+fleet spa.general.navyGunboat.med.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		disables plunders
+		confusion 10
+	variant 1
+		Gunboat 15
+	variant 3
+		Gunboat 10
 fleet spa.general.Bactrian.small.1
 	names spa.allNames
 	government "Sayari Plushie"
