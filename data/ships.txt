@@ -126,9 +126,9 @@ ship "Amidala" "Amidala Miner"
 			"hull damage" 3200
 			"hit force" 9600
 	outfits
-		"Heavy Laser" 2
+		"Korath Slicer" 4
 		"Korath Warder" 2
-		"Korath Repeater Turret" 5
+		"Korath Slicer Turret" 6
 		"Heavy Laser Turret" 1
 
 		"Triple Plasma Core"
@@ -145,10 +145,10 @@ ship "Amidala" "Amidala Miner"
 	engine -24 237
 	engine 24 237
 	engine 0 237
-	gun -8 -212 "Heavy Laser"
-	gun 8 -212 "Heavy Laser"
-	gun -16 -158 "Heavy Laser"
-	gun 16 -158 "Heavy Laser"
+	gun -8 -212 "Korath Slicer"
+	gun 8 -212 "Korath Slicer"
+	gun -16 -158 "Korath Slicer"
+	gun 16 -158 "Korath Slicer"
 	turret -37 -150 "Korath Slicer Turret"
 	turret 37 -150 "Korath Slicer Turret"
 	turret -38 -132 "Korath Slicer Turret"
