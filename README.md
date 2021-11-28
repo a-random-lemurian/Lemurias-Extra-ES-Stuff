@@ -52,7 +52,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 
 > LI = landscape image
 
-<<<<<<< HEAD
+
 | planet                    | author               | license                 | links |
 | ------------------------- | -------------------- | ----------------------- | --------------- |
 | Laateli                   | Themanilaxperience   | CC BY-SA 3.0            | ([orig](https://commons.wikimedia.org/wiki/File:Makatiskyline.jpg))
