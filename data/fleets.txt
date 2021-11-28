@@ -409,7 +409,8 @@ fleet spa.general.Bactrian.small.1
 		heroic
 	variant
 		"Marauder Bactrian" 5
-
+	variant 10
+		"Bactrian" 5
 
 fleet spa.general.HeliarchPunishers.med.1
 	names spa.allNames
