@@ -100,3 +100,67 @@ ship "Amidala"
 	description "The Amidala-class Battleship (dubbed the Amidala amongst Illumina Regions residents) is the Sayari Plushie Authority's special variant of the Kor Sestor's Kar Ik Vot 349. There is a balance of Korath and Human weaponry, alongside extra space for outfits, weapons, and another engine. A modified version of the Kor Sestor AI is installed on this ship, meaning it requires very little crew."
 	description "	The source code of the modified AI is free and open-source. An installation of the AI comes bundled with every purchase of an Amidala-class Battleship."
 
+
+ship "Amidala" "Amidala Miner"
+	sprite "ship/kar ik vot 349"
+	thumbnail "thumbnail/kar ik vot 349"
+	attributes
+		category "Heavy Warship"
+		"cost" 60988000
+		"shields" 118700
+		"hull" 21300
+		"mass" 1350
+		"drag" 14.2
+		"bunks" 23
+		"heat dissipation" .5
+		"fuel capacity" 700
+		"cargo space" 398
+		"outfit space" 1099
+		"weapon capacity" 649
+		"engine capacity" 214
+		"self destruct" .01
+		"ramscoop" 3
+		weapon
+			"blast radius" 450
+			"shield damage" 6400
+			"hull damage" 3200
+			"hit force" 9600
+	outfits
+		"Heavy Laser" 2
+		"Korath Warder" 2
+		"Korath Repeater Turret" 5
+		"Heavy Laser Turret" 1
+
+		"Triple Plasma Core"
+		"Plasma Core"
+		"Systems Core (Large)"
+		"Large Heat Shunt" 4
+		"Small Heat Shunt" 2
+		"Control Transceiver"
+		
+		"Thruster (Planetary Class)"
+		"Steering (Stellar Class)"
+		Hyperdrive
+	
+	engine -24 237
+	engine 24 237
+	engine 0 237
+	gun -8 -212 "Heavy Laser"
+	gun 8 -212 "Heavy Laser"
+	gun -16 -158 "Heavy Laser"
+	gun 16 -158 "Heavy Laser"
+	turret -37 -150 "Korath Slicer Turret"
+	turret 37 -150 "Korath Slicer Turret"
+	turret -38 -132 "Korath Slicer Turret"
+	turret 38 -132 "Korath Slicer Turret"
+	turret -40 -111 "Korath Slicer Turret"
+	turret 40 -111 "Korath Slicer Turret"
+	turret -102 188 "Korath Warder"
+	turret 102 188 "Korath Warder"
+	explode "tiny explosion" 120
+	explode "small explosion" 60
+	explode "medium explosion" 70
+	explode "large explosion" 50
+	explode "huge explosion" 15
+	"final explode" "final explosion large"
+	description "A modified version of the Amidala, built for mining."
