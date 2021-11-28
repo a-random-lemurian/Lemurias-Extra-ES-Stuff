@@ -407,7 +407,7 @@ fleet spa.general.Bactrian.small.1
 	government "Sayari Plushie"
 	personality
 		heroic
-	variant
+	variant 2
 		"Marauder Bactrian" 5
 	variant 10
 		"Bactrian" 5
