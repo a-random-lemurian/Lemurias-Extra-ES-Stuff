@@ -115,7 +115,7 @@ ship "Amidala" "Amidala Miner"
 		"heat dissipation" .5
 		"fuel capacity" 700
 		"cargo space" 398
-		"outfit space" 1099
+		"outfit space" 1310
 		"weapon capacity" 649
 		"engine capacity" 214
 		"self destruct" .01
