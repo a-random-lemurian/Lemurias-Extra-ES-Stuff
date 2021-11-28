@@ -404,11 +404,11 @@ fleet spa.general.Falcon.large.1
 
 fleet spa.general.Bactrian.small.1
 	names spa.allNames
+	government "Sayari Plushie"
 	personality
 		heroic
 	variant
 		"Marauder Bactrian" 5
-	government "Sayari Plushie"
 
 
 fleet spa.general.HeliarchPunishers.med.1
