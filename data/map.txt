@@ -1147,6 +1147,7 @@ system Lakodelfraddi
 
 
 system Oldothe
+	government "Sayari Plushie"
 	pos -1026.4722 -93.416663
 	link Aixafer
 	link Alkxaai
