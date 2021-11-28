@@ -1147,13 +1147,50 @@ system Lakodelfraddi
 
 
 system Oldothe
+	government "Sayari Plushie"
 	pos -1026.4722 -93.416663
 	link Aixafer
 	link Alkxaai
 	link Littike
+	asteroids "small rock" 32 4.95
+	asteroids "medium rock" 11 5.225
+	asteroids "large rock" 40 2.805
+	asteroids "small metal" 23 3.41
+	asteroids "medium metal" 56 5.005
+	asteroids "large metal" 90 3
+	minables uranium 56 4
+	minables gold 12 4
+	minables neodymium 25 4
+	minables aluminum 1 1
+	minables copper 70 6
+	minables lead 33 4
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
 	fleet "Large Northern Merchants" 600
+	object
+		sprite star/g0
+		period 0
+		distance 10
+	object
+		sprite planet/rock12
+		period 339
+		distance 533
+	object
+		sprite planet/rock4
+		period 598
+		distance 882
+	object Renpaya
+		sprite planet/forest0
+		period 773
+		distance 1199
+	object
+		sprite planet/gas5
+		period 1440
+		distance 2004
+	object
+		sprite planet/gas2
+		period 1880
+		distance 2776
 
 system Jurluo
 	pos -1133.4722 38.583337
@@ -1397,3 +1434,11 @@ planet Ekarai
 	government "Sayari Plushie"
 	description "Ekarai is a Sayari Plushie Authority colony. With a popuation of 45.43 million, Ekarai is a relatively large colony, rivalling the capital Khoramelia, in size. Shipyards and outfitters here sell common ships and outifts used by the Sayari Plushie Authority."
 	spaceport "The shipyard is integrated with the main spaceport. At the bench where you are sitting, a well-dressed salesman is pitching a lifesize Freya Winters plushie to a group of parents and their children who are clearly wearing party hats."
+
+
+planet Renpaya
+	landscape land/renpaya
+	shipyard "Basic Ships"
+	government "Sayari Plushie"
+	description "Renpaya is a relatively boring savannah world. This world is held by the Sayari Plushie Authority mainly to prevent it from falling into the hands of the CSSF."
+	spaceport "The spaceport is primitive, containing only the basic essentials. There are a few food shops offering food and water, and tourists who wish to explore the planet's relatively pristine nature."
