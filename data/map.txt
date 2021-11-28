@@ -1152,6 +1152,18 @@ system Oldothe
 	link Aixafer
 	link Alkxaai
 	link Littike
+	asteroids "small rock" 32 4.95
+	asteroids "medium rock" 11 5.225
+	asteroids "large rock" 40 2.805
+	asteroids "small metal" 23 3.41
+	asteroids "medium metal" 56 5.005
+	asteroids "large metal" 90 3
+	minables uranium 56 4
+	minables gold 12 4
+	minables neodymium 25 4
+	minables aluminum 1 1
+	minables copper 70 6
+	minables lead 33 4
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
 	fleet "Large Northern Merchants" 600
