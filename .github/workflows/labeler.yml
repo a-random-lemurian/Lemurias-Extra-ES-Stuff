@@ -1,0 +1,14 @@
+ships:
+  - any: ['data/ships.txt']
+
+shipyards/outfitters:
+  - any: ['data/sales.txt']
+
+fleets:
+  - any: ['data/fleets.txt']
+
+scripting:
+  - any: ['script/**/*']
+
+images:
+  images/**/*
