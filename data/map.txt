@@ -579,6 +579,7 @@ system Serfeiia
 	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.trade.humanSpace.large.1 1200
 	fleet spa.general.EmeraldSword.med.1 800
+	fleet spa.general.HeliarchPunishers.med.1 600
 	fleet cssf.war.illuminaReg.large.1 3000
 	fleet cssf.general.EmeraldSword.large.1 2300
 	fleet spa.war.vanguard.large.1 1500
