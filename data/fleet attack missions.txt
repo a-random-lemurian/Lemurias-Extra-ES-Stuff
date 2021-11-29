@@ -24,6 +24,9 @@ mission general.fighting.pirateFight.small.1
 	to offer
 		"combat rating" > 500
 		random > 70
+	on complete
+		dialog phrase general.fighting.pirateFight.complete
+		payment 87000 10
 	source
 		government "Sayari Plushie" "Republic" "Syndicate" "Free Worlds" "Independent" "Neutral"
 	npc kill

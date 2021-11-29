@@ -72,3 +72,8 @@ phrase fleetBattle.completed
 phrase mission.pirateFight.jobDialog
 	word
 		"Pirates have been detected near <system>. They must be destroyed immediately. The government of <source> will reward anyone who destroys or renders their fleet incapable of combat or basic operation <payment>."
+
+
+phrase general.fighting.pirateFight.complete
+	word
+		"The government of <source> pays you <payment> for your assistance against the pirates."
