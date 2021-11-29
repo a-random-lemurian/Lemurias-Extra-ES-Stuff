@@ -100,7 +100,7 @@ fleet cssf.war.illuminaReg.large.1
 		Leviathan 20
 		Vanguard 4
 		Corvette 3
-		Auxillary 4
+		# Auxillary 4
 
 
 fleet cssf.general.emeraldSword.med.1
