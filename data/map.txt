@@ -88,6 +88,7 @@ system Neistat
 	link Leideete
 	link Orbona
 	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.general.HeliarchPunishers.med.1 800
 	fleet cssf.war.illuminaReg.large.1 2100
 	fleet pirates.bactrianLarge 1200
 	fleet pirates.war.3bactrians.1 4000
