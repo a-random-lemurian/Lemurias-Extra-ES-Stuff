@@ -450,7 +450,7 @@ system Suerolii
 	link Ladosak
 	link Leideete
 	fleet "Large Northern Merchants" 600
-	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.war.illuminaReg.large.1 1300
 	fleet cssf.war.illuminaReg.large.1 2100
 	fleet "Paradise Merchants" 1400
 	fleet "Large Northern Pirates" 4000
