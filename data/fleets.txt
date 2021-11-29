@@ -123,6 +123,10 @@ fleet cssf.general.emeraldSword.large.1
 	variant 1
 		"Emerald Sword" 12
 		Firebird 4
+	variant 8
+		"Emerald Sword" 6
+	variant 12
+		"Emerald Sword" 3
 
 
 fleet cssf.war.sayariPlushieAttack.small.1
