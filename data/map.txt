@@ -1227,6 +1227,50 @@ system Aixafer
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
 	fleet "Large Northern Merchants" 600
+	object
+		sprite star/g0
+		distance 3
+		period 3
+	object
+		sprite planet/lava4
+		distance 412
+		period 177
+	object
+		sprite planet/desert1
+		distance 773
+		period 293
+	object
+		sprite planet/desert2
+		distance 1332
+		period 377
+	object
+		sprite planet/rock12
+		distance 1603
+		period 488
+	object
+		sprite planet/rock10
+		distance 2033
+		period 533
+	object
+		sprite planet/ice3
+		distance 2553
+		period 621
+	object
+		sprite planet/ice1
+		distance 2883
+		period 682
+	object
+		sprite planet/gas5
+		distance 4094
+		period 1123
+	object
+		sprite planet/gas2
+		distance 5133
+		period 1543
+	object
+		sprite planet/gas8
+		distance 6491
+		period 1776
 
 
 system Sayreopli
