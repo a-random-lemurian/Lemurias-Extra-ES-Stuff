@@ -1278,7 +1278,8 @@ system Denleitt
 	link Luisark
 	link Sayreopli
 
-
+##################################################################################################
+   # PLANETS #
 planet "Leroo Station"
 	attributes station
 	shipyard "Advanced Northern Pirates"
