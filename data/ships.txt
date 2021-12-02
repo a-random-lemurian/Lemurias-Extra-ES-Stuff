@@ -164,3 +164,68 @@ ship "Amidala" "Amidala Miner"
 	explode "huge explosion" 15
 	"final explode" "final explosion large"
 	description "A modified version of the Amidala, built for mining."
+
+
+ship "Amidala" "Skylance Amidala"
+	sprite "ship/kar ik vot 349"
+	thumbnail "thumbnail/kar ik vot 349"
+	attributes
+		category "Heavy Warship"
+		"cost" 213300000
+		"shields" 103000
+		"hull" 19800
+		"mass" 1400
+		"drag" 14.14332
+		"bunks" 78
+		"heat dissipation" .8
+		"fuel capacity" 600
+		"cargo space" 381
+		"outfit space" 1533
+		"weapon capacity" 744
+		"engine capacity" 304
+		"ramscoop" 9
+
+		weapon
+			"blast radius" 500
+			"shield damage" 5900
+			"hull damage" 3400
+			"hit force" 9200
+
+	outfits
+		"Korath Slicer" 4
+		"Korath Warder" 2
+		"Quarg Skylance" 6
+
+		"Triple Plasma Core"
+		"Plasma Core"
+		"Systems Core (Large)"
+		"Large Heat Shunt" 4
+		"Small Heat Shunt" 2
+		"Control Transceiver"
+		
+		"Thruster (Planetary Class)"
+		"Steering (Stellar Class)"
+		"Jump Drive"
+
+	engine -24 237
+	engine 24 237
+	engine 0 237
+	gun -8 -212 "Korath Slicer"
+	gun 8 -212 "Korath Slicer"
+	gun -16 -158 "Korath Slicer"
+	gun 16 -158 "Korath Slicer"
+	turret -37 -150 "Quarg Skylance"
+	turret 37 -150 "Quarg Skylance"
+	turret -38 -132 "Quarg Skylance"
+	turret 38 -132 "Quarg Skylance"
+	turret -40 -111 "Quarg Skylance"
+	turret 40 -111 "Quarg Skylance"
+	turret -102 188 "Korath Warder"
+	turret 102 188 "Korath Warder"
+	explode "tiny explosion" 120
+	explode "small explosion" 60
+	explode "medium explosion" 70
+	explode "large explosion" 50
+	explode "huge explosion" 15
+	"final explode" "final explosion large"
+	description "A modified version of the Amidala, built for mining."

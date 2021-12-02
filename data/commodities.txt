@@ -50,3 +50,8 @@ trade
         "Sayari memes"
         "CSSF intel"
 
+    commodity "SPA exports"
+        "Sayari plushies"
+        "Freya Winters plushies"
+        # "Katya Reynolds plushies"
+        # "top-secret orders"
