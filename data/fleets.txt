@@ -224,6 +224,18 @@ fleet spa.trade.haiSpace.large.1
 		"Emerald Sword" 4
 
 
+fleet spa.general.amidalaVariants.large.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		heroic
+	variant 7
+		"Amidala" 20
+	variant 3
+		"Skylance Amidala" 10
+	variant 2
+		"Amidala Miner" 5
+
 fleet spa.trade.gen.small.1
 	government "Sayari Plushie"
 	names spa.allNames
