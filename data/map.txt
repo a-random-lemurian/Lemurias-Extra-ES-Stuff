@@ -24,6 +24,7 @@ system Hiljaak
 	link Limen
 	fleet spa.trade.HumanSpace.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.general.amidalaVariants.large.1 700
 	fleet cssf.war.illuminaReg.large.1 1200
 	asteroids "medium rock" 10 2.002
 	asteroids "large rock" 41 2.548
@@ -151,6 +152,7 @@ system Orbona
 	fleet cssf.war.illuminaReg.large.1 2100
 	fleet spa.war.illuminaReg.large.1 600
 	fleet cssf.war.illuminaReg.large.1 600
+	fleet spa.general.amidalaVariants.large.1 800
 	fleet cssf.general.emeraldSword.large.1 2700
 	fleet spa.general.EmeraldSword.med.1 1200
 	object
