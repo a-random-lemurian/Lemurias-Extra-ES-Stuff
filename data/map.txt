@@ -1504,6 +1504,7 @@ planet Denchrao
 	shipyard "Sayari Advanced"
 	outfitter "Common Outfits"
 	outfitter "Basic Outfits"
+	outfitter "Ammo North"
 	government "Sayari Plushie"
 	description "Denchrao is a large and urbanized world with several cities scattered over the many continent. Rather strangely, 55% of the planet is land, whereas the average proportion of land to water on other planets was far lower, somewhere between 30 to 40%. Outside of the cities, the nature is surprisingly pristine and is well-preserved and catalogued."
 	spaceport "The spaceport is located in the largest city on Denchrao. Businessmen in suits can be seen conversing with SPA officers and carts full of plushies, either depicting Sayari, or Freya Winters"
