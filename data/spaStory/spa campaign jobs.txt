@@ -32,7 +32,7 @@ mission tr.cargo.small.low.1.spa
 		dialog phrase spa.tr.visit
 	on complete
 		dialog phrase spa.tr.complete
-		payment 50000 17
+		payment 64000 95
 
 
 mission tr.cargo.med.low.2.spa
@@ -52,7 +52,7 @@ mission tr.cargo.med.low.2.spa
 		dialog phrase spa.tr.visit
 	on complete
 		dialog phrase spa.tr.complete
-		payment 50000 17
+		payment 64000 95
 
 
 mission tr.cargo.med.low.3.spa
@@ -72,7 +72,7 @@ mission tr.cargo.med.low.3.spa
 		dialog phrase spa.tr.visit
 	on complete
 		dialog phrase spa.tr.complete
-		payment 50000 17
+		payment 64000 95
 
 
 mission tr.cargo.large.low.1.spa
@@ -93,5 +93,25 @@ mission tr.cargo.large.low.1.spa
 	on complete
 		dialog phrase spa.tr.complete
 		payment 76000 27
-		"reputation: Sayari Plushie" += 75
+		"reputation: Sayari Plushie" += 5
 
+
+mission spa.plushieTransport.mission.1
+	name "SPA / Large: Transport <cargo> to <system>"
+	description "The Sayari Plushie Authority has recieved an order from a toy store located on <planet>, <system> for <cargo>. Deliver the cargo to the store for a payment of <payment>."
+	job
+	repeat
+	source
+		government "Sayari Plushies"
+	destination
+		government Republic Syndicate "Free Worlds" Hai Neutral Independent
+	cargo "SPA exports" 400 800
+	to offer
+		"cargo space" > 400
+		random > 30
+	on visit
+		dialog phrase spa.export.delivery.visit
+	on complete
+		dialog phrase spa.export.delivery.complete
+		payment 64000 100
+		"reputation: Sayari Plushie" += 20
