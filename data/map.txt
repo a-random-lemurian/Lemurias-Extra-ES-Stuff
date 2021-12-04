@@ -1242,7 +1242,7 @@ system Aixafer
 		sprite planet/desert1
 		distance 773
 		period 293
-	object
+	object Denchrao
 		sprite planet/desert2
 		distance 1332
 		period 377
