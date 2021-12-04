@@ -20,34 +20,156 @@
 
 system "Delta Velorum"
 	add fleet spa.trade.gen.small.1 300
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Turais
 	add fleet spa.trade.gen.small.1 300
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Algorel
 	add fleet spa.trade.gen.small.1 600
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Phecda
 	add fleet spa.trade.gen.small.1 600
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Merak
 	add fleet spa.trade.gen.small.1 600
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Denebola
 	add fleet spa.trade.gen.small.1 600
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
 	add fleet sparl.war.navyGunboat.med.1 280
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Sol
 	add fleet spa.trade.gen.small.1 370
 	add fleet sparl.war.navyGunboat.med.1 280
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Mizar
 	add fleet spa.trade.gen.small.1 600
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Arcturus
 	add fleet spa.trade.gen.small.1 600
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Rutilicus
 	add fleet spa.trade.gen.small.1 600
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Menkent
 	add fleet spa.trade.gen.small.1 600
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Hiljaak
 	add fleet spa.trade.gen.small.1 400
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Limen
 	add fleet spa.trade.gen.small.1 400
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Mora
 	add fleet spa.trade.gen.small.1 400
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+	add fleet sparl.general.auxCargo.med.1 1500
+	#REPLACE__RESERVED1
+	#REPLACE__RESERVED2
+	#REPLACE__RESERVED3
+	#REPLACE__RESERVED4
+	#REPLACE__RESERVED5
 system Zosma
 	add fleet spa.trade.gen.small.1 500
 	add fleet sparl.war.navyGunboat.med.1 1300
