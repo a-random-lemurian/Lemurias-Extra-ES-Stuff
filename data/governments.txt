@@ -55,4 +55,18 @@ government "Anime Organization"
 		Syndicate 0.4
 		"Free Worlds" 1
 
-
+government "SPA: Republic Livery"
+	swizzle 0
+	color .91 .42 .09
+	crew attack 1.2
+	crew defense 2.2
+	player reputation 2
+	attitude toward
+		Merchant 0.40
+		Militia .3
+		Pirate -1
+		"Sayari Plushie" 1.60
+		"Yuyuko Saigyouji" 0
+	"friendly hail" "friendly navy"
+	"hostile hail" "hostile navy"
+	raid "pirate raid"
