@@ -528,3 +528,26 @@ fleet sparl.war.carriers.med.1
 		"Lance" 48
 		"Combat Drone" 72
 		"Gunboat" 10
+fleet sparl.war.frigates.med.1
+	government "SPA: Republic Livery"
+	personality
+		confusion 13
+		plunders disables vindictive
+	names "republic capital"
+	variant 80
+		"Frigate" 10
+	variant 15
+		"Frigate" 20
+	variant 5
+		"Frigate" 40
+	variant 65
+		"Frigate" 12
+		"Gunboat" 5
+	variant 50
+		"Frigate" 8
+		"Gunboat" 3
+	variant 30
+		"Carrier" 4
+		"Combat Drone" 24
+		"Lance" 16
+		"Gunboat" 5
