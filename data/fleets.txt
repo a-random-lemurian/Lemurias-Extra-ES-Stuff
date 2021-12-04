@@ -479,3 +479,24 @@ fleet pirates.war.raiders.small.1
 		Sparrow 4
 		Berserker 3
 		Argosy 2
+###################################################################################################################
+# SPA fleets masquerading as Republic ships
+# sparl: [S]ayari [P]lushie [A]uthority - [R]epublic Navy [L]ivery
+fleet sparl.war.navyGunboat.med.1
+	government "SPA: Republic Livery"
+	names "republic capital"
+	variant 80
+		"Gunboat" 5
+	variant 10
+		"Gunboat" 10
+	variant 10
+		"Gunboat" 15
+fleet sparl.war.navyGunboat.large.1
+	government "SPA: Republic Livery"
+	names "republic capital"
+	variant 40
+		"Gunboat" 20
+	variant 55
+		"Gunboat" 35
+	variant 5
+		"Gunboat" 55
