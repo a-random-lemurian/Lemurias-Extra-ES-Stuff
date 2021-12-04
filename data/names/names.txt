@@ -2262,6 +2262,7 @@ phrase spa.allNames
 		spa.royalNavy
 		spa.psuedonames
 		spa.miscCharacternames
+		linuxRelated
 phrase spa.multiWordNames
 	word
 		"New Moon"
@@ -2309,7 +2310,87 @@ phrase spa.color-item
 		"Crescent"
 		"Flower"
 		"Plant"
-
+phrase technames
+	phrase
+		technames.sourceControl
+		technames.programmingLangs
+		technames.javascriptFrameworks
+phrase technames.javascriptFrameworks
+	word
+		"Angular"
+		"Vue"
+		"React"
+		"Aurelia"
+		"Backbone"
+phrase technames.sourceControl
+	word
+		"Branch Merge"
+		"Merge Conflict"
+		"Mercurial"
+		"Subversion"
+		"Git"
+		"Branch Checkout"
+phrase technames.programmingLangs
+	word
+		"Python"
+		"Rust"
+		"JavaScript"
+		"Haskell"
+		"Perl"
+# linux distros (i use ubuntu btw)
+# -< boring legal disclaimer >-
+#  In the United States, "Linux" is a registered
+#  trademark of the Linux Foundation.
+#  They have not endorsed the use of their trademark
+#  in this plugin.
+# -< end boring legal disclaimer >-
+phrase linuxRelated
+	phrase
+		linuxDistroNames
+		linuxMisc
+		linuxKernelNames
+phrase linuxKernelNames
+	word
+		""
+		"The"
+	word
+		" "
+	word
+		"Great"
+		"Holy"
+		"Glorious"
+		"Eternal"
+		"Grand"
+		"Bugfree"
+		"Pristine"
+		"Godly"
+	word
+		" "
+	word
+		"Kernel"
+		"Linux Kernel"
+phrase linuxMisc
+	word
+		"Torvalds"
+		"Linus Torvalds"
+		"Sudo"
+phrase linuxDistroNames
+	word
+		"Ubuntu"
+		"Debian"
+		"CentOS"
+		"Kubuntu"
+		"Xubuntu"
+		"Lubuntu"
+		"Tiny Core Linux"
+		"Puppy Linux"
+		"Slackware"
+		"OpenSUSE"
+		"Manjaro"
+		"Garuda"
+		"Arch"
+		"Arch Linux"
+		"Gentoo"
 # list 1 of multiword names
 phrase spa.multiword
 	phrase
