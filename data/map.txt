@@ -1226,6 +1226,7 @@ system Aixafer
 	link Denleitt
 	link Oldothe
 	link Zarkxaa
+	government "Sayari Plushie"
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
 	fleet "Large Northern Merchants" 600
