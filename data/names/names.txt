@@ -2336,6 +2336,8 @@ phrase linuxKernelNames
 		"Pristine"
 		"Godly"
 	word
+		" "
+	word
 		"Kernel"
 		"Linux Kernel"
 phrase linuxMisc
