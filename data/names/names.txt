@@ -2262,6 +2262,7 @@ phrase spa.allNames
 		spa.royalNavy
 		spa.psuedonames
 		spa.miscCharacternames
+		linuxRelated
 phrase spa.multiWordNames
 	word
 		"New Moon"
