@@ -1226,6 +1226,7 @@ system Aixafer
 	link Denleitt
 	link Oldothe
 	link Zarkxaa
+	government "Sayari Plushie"
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
 	fleet "Large Northern Merchants" 600
@@ -1497,3 +1498,14 @@ planet Renpaya
 	government "Sayari Plushie"
 	description "Renpaya is a relatively boring savannah world. This world is held by the Sayari Plushie Authority mainly to prevent it from falling into the hands of the CSSF."
 	spaceport "The spaceport is primitive, containing only the basic essentials. There are a few food shops offering food and water, and tourists who wish to explore the planet's relatively pristine nature."
+
+
+planet Denchrao
+	landscape land/denchrao
+	shipyard "Sayari Advanced"
+	outfitter "Common Outfits"
+	outfitter "Basic Outfits"
+	outfitter "Ammo North"
+	government "Sayari Plushie"
+	description "Denchrao is a large and urbanized world with several cities scattered over the many continent. Rather strangely, 55% of the planet is land, whereas the average proportion of land to water on other planets was far lower, somewhere between 30 to 40%. Outside of the cities, the nature is surprisingly pristine and is well-preserved and catalogued."
+	spaceport "The spaceport is located in the largest city on Denchrao. Businessmen in suits can be seen conversing with SPA officers and carts full of plushies, either depicting Sayari, or Freya Winters"
