@@ -46,3 +46,88 @@ system Limen
 	add fleet spa.trade.gen.small.1 400
 system Mora
 	add fleet spa.trade.gen.small.1 400
+system Zosma
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Dubhe
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Alphard
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Talita
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Miaplacidus
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Vindemiatrix
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Muhlifain
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system "Cor Caroli"
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Algorel
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Turais
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Menkent
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Vega
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Altair
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system "Delta Capricorni"
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Scheat
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system Ruchbah
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
+system "Tania Australis"
+	add fleet spa.trade.gen.small.1 500
+	add fleet sparl.war.navyGunboat.med.1 1300
+	add fleet sparl.war.navyGunboat.large.1 4000
+	add fleet sparl.war.carriers.med.1 2400
