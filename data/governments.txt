@@ -56,6 +56,7 @@ government "Anime Organization"
 		"Free Worlds" 1
 
 government "SPA: Republic Livery"
+	"display name" "Republic"
 	swizzle 0
 	color .91 .42 .09
 	crew attack 1.2
