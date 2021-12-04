@@ -2309,7 +2309,56 @@ phrase spa.color-item
 		"Crescent"
 		"Flower"
 		"Plant"
-
+# linux distros (i use ubuntu btw)
+# -< boring legal disclaimer >-
+#  In the United States, "Linux" is a registered
+#  trademark of the Linux Foundation.
+#  They have not endorsed the use of their trademark
+#  in this plugin.
+# -< end boring legal disclaimer >-
+phrase linuxRelated
+	phrase
+		linuxDistroNames
+		linuxMisc
+		linuxKernelNames
+phrase linuxKernelNames
+	word
+		""
+		"The"
+	word
+		"Great"
+		"Holy"
+		"Glorious"
+		"Eternal"
+		"Grand"
+		"Bugfree"
+		"Pristine"
+		"Godly"
+	word
+		"Kernel"
+		"Linux Kernel"
+phrase linuxMisc
+	word
+		"Torvalds"
+		"Linus Torvalds"
+		"Sudo"
+phrase linuxDistroNames
+	word
+		"Ubuntu"
+		"Debian"
+		"CentOS"
+		"Kubuntu"
+		"Xubuntu"
+		"Lubuntu"
+		"Tiny Core Linux"
+		"Puppy Linux"
+		"Slackware"
+		"OpenSUSE"
+		"Manjaro"
+		"Garuda"
+		"Arch"
+		"Arch Linux"
+		"Gentoo"
 # list 1 of multiword names
 phrase spa.multiword
 	phrase
