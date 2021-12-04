@@ -28,8 +28,10 @@ system Merak
 	add fleet spa.trade.gen.small.1 600
 system Denebola
 	add fleet spa.trade.gen.small.1 600
+	add fleet sparl.war.navyGunboat.med.1 280
 system Sol
 	add fleet spa.trade.gen.small.1 370
+	add fleet sparl.war.navyGunboat.med.1 280
 system Mizar
 	add fleet spa.trade.gen.small.1 600
 system Arcturus
