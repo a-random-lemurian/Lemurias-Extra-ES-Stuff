@@ -2354,6 +2354,8 @@ phrase linuxKernelNames
 		""
 		"The"
 	word
+		" "
+	word
 		"Great"
 		"Holy"
 		"Glorious"
