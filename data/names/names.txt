@@ -2312,6 +2312,15 @@ phrase spa.color-item
 phrase technames
 	phrase
 		technames.sourceControl
+		technames.programmingLangs
+		technames.javascriptFrameworks
+phrase technames.javascriptFrameworks
+	word
+		"Angular"
+		"Vue"
+		"React"
+		"Aurelia"
+		"Backbone"
 phrase technames.sourceControl
 	word
 		"Branch Merge"
@@ -2320,6 +2329,13 @@ phrase technames.sourceControl
 		"Subversion"
 		"Git"
 		"Branch Checkout"
+phrase technames.programmingLangs
+	word
+		"Python"
+		"Rust"
+		"JavaScript"
+		"Haskell"
+		"Perl"
 # list 1 of multiword names
 phrase spa.multiword
 	phrase
