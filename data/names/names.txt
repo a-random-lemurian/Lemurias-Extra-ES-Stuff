@@ -2231,7 +2231,7 @@ phrase sparl.names.leest
 	word
 		"R.N.S "
 	phrase
-		spa.allNames
+		spa.allNames.noPrefix
 
 
 phrase spa.oneword.Food
@@ -2260,6 +2260,9 @@ phrase spa.miscCharacternames
 phrase spa.allNames
 	word
 		"S.P.S "
+	phrase
+		spa.allNames.noPrefix
+phrase spa.allNames.noPrefix
 	phrase
 		spa.sub.Sayari.sp1
 		spa.sayariOfLocation.comp
