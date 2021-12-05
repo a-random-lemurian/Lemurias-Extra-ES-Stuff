@@ -2227,6 +2227,13 @@ phrase spa.oneword.ficPlaces
 		"Lorkrutta"
 
 
+phrase sparl.names.leest
+	word
+		"R.N.S "
+	phrase
+		spa.allNames
+
+
 phrase spa.oneword.Food
 	word
 		"Pretzel"

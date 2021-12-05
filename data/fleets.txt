@@ -487,7 +487,7 @@ fleet sparl.war.navyGunboat.med.1
 	personality
 		confusion 10
 		plunders disables vindictive
-	names "republic capital"
+	names sparl.names.leest
 	variant 80
 		"Gunboat" 5
 	variant 10
@@ -499,7 +499,7 @@ fleet sparl.war.navyGunboat.large.1
 	personality
 		confusion 13
 		plunders disables vindictive
-	names "republic capital"
+	names sparl.names.leest
 	variant 40
 		"Gunboat" 20
 	variant 55
@@ -511,7 +511,7 @@ fleet sparl.war.carriers.med.1
 	personality
 		confusion 12
 		plunders disables vindictive
-	names "republic capital"
+	names sparl.names.leest
 	variant 30
 		"Carrier" 4
 		"Lance" 16
@@ -533,7 +533,7 @@ fleet sparl.war.frigates.med.1
 	personality
 		confusion 13
 		plunders disables vindictive
-	names "republic capital"
+	names sparl.names.leest
 	variant 80
 		"Frigate" 10
 	variant 15
@@ -556,7 +556,7 @@ fleet sparl.general.auxCargo.med.1
 	personality
 		confusion 12
 		plunders disables vindictive
-	names "republic capital"
+	names sparl.names.leest
 	variant 65
 		"Auxiliary (Cargo)" 10
 		"Gunboat" 8
