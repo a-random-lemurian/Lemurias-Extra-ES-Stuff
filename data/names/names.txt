@@ -2352,9 +2352,7 @@ phrase linuxRelated
 phrase linuxKernelNames
 	word
 		""
-		"The"
-	word
-		" "
+		"The "
 	word
 		"Great"
 		"Holy"
