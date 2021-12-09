@@ -38,8 +38,8 @@ ship "Amidala"
 		"Small Heat Shunt" 2
 		"Control Transceiver"
 		
-		"Thruster (Planetary Class)"
-		"Steering (Stellar Class)"
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
 		Hyperdrive
 	
 	engine -24 237
@@ -104,8 +104,8 @@ ship "Amidala" "Amidala Miner"
 		"Small Heat Shunt" 2
 		"Control Transceiver"
 		
-		"Thruster (Planetary Class)"
-		"Steering (Stellar Class)"
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
 		Hyperdrive
 	
 	engine -24 237
@@ -169,8 +169,8 @@ ship "Amidala" "Skylance Amidala"
 		"Small Heat Shunt" 2
 		"Control Transceiver"
 		
-		"Thruster (Planetary Class)"
-		"Steering (Stellar Class)"
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
 		"Jump Drive"
 
 	engine -24 237
