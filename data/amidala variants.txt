@@ -28,8 +28,7 @@ ship "Amidala"
 		"Korath Piercer" 94
 		"Korath Piercer Rack" 2
 		"Korath Warder" 2
-		"Korath Repeater Turret" 5
-		"Heavy Laser Turret" 1
+		"Korath Repeater Turret" 6
 
 		"Triple Plasma Core"
 		"Plasma Core"
@@ -51,7 +50,7 @@ ship "Amidala"
 	gun 16 -158 "Korath Piercer Launcher"
 	turret -37 -150 "Korath Repeater Turret"
 	turret 37 -150 "Korath Repeater Turret"
-	turret -38 -132 "Heavy Laser Turret"
+	turret 38 -132 "Korath Repeater Turret"
 	turret 38 -132 "Korath Repeater Turret"
 	turret -40 -111 "Korath Repeater Turret"
 	turret 40 -111 "Korath Repeater Turret"
