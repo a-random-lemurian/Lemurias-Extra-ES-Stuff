@@ -479,3 +479,90 @@ fleet pirates.war.raiders.small.1
 		Sparrow 4
 		Berserker 3
 		Argosy 2
+###################################################################################################################
+# SPA fleets masquerading as Republic ships
+# sparl: [S]ayari [P]lushie [A]uthority - [R]epublic Navy [L]ivery
+fleet sparl.war.navyGunboat.med.1
+	government "SPA: Republic Livery"
+	personality
+		confusion 10
+		plunders disables vindictive
+	names sparl.names.leest
+	variant 80
+		"Gunboat" 5
+	variant 10
+		"Gunboat" 10
+	variant 10
+		"Gunboat" 15
+fleet sparl.war.navyGunboat.large.1
+	government "SPA: Republic Livery"
+	personality
+		confusion 13
+		plunders disables vindictive
+	names sparl.names.leest
+	variant 40
+		"Gunboat" 20
+	variant 55
+		"Gunboat" 35
+	variant 5
+		"Gunboat" 55
+fleet sparl.war.carriers.med.1
+	government "SPA: Republic Livery"
+	personality
+		confusion 12
+		plunders disables vindictive
+	names sparl.names.leest
+	variant 30
+		"Carrier" 4
+		"Lance" 16
+		"Combat Drone" 24
+	variant 50
+		"Carrier" 6
+		"Cruiser" 5
+		"Lance" 24
+		"Combat Drone" 36
+		"Gunboat" 8
+	variant 20
+		"Carrier" 12
+		"Cruiser" 14
+		"Lance" 48
+		"Combat Drone" 72
+		"Gunboat" 10
+fleet sparl.war.frigates.med.1
+	government "SPA: Republic Livery"
+	personality
+		confusion 13
+		plunders disables vindictive
+	names sparl.names.leest
+	variant 80
+		"Frigate" 10
+	variant 15
+		"Frigate" 20
+	variant 5
+		"Frigate" 40
+	variant 65
+		"Frigate" 12
+		"Gunboat" 5
+	variant 50
+		"Frigate" 8
+		"Gunboat" 3
+	variant 30
+		"Carrier" 4
+		"Combat Drone" 24
+		"Lance" 16
+		"Gunboat" 5
+fleet sparl.general.auxCargo.med.1
+	government "SPA: Republic Livery"
+	personality
+		confusion 12
+		plunders disables vindictive
+	names sparl.names.leest
+	variant 65
+		"Auxiliary (Cargo)" 10
+		"Gunboat" 8
+	variant 20
+		"Auxiliary (Cargo)" 30
+		"Carrier" 5
+		"Combat Drone" 30
+		"Lance" 20
+		"Gunboat" 16

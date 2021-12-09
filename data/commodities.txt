@@ -53,5 +53,6 @@ trade
     commodity "SPA exports"
         "Sayari plushies"
         "Freya Winters plushies"
+        "Debian hats"
         # "Katya Reynolds plushies"
         # "top-secret orders"
