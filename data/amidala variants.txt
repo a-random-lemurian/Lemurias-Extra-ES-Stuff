@@ -194,4 +194,4 @@ ship "Amidala" "Skylance Amidala"
 	explode "large explosion" 50
 	explode "huge explosion" 15
 	"final explode" "final explosion large"
-	description "A modified version of the Amidala, built for mining."
+	description "A modified version of the Amidala, equipped with Quarg Skylances."
