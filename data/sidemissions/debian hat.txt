@@ -45,6 +45,7 @@ phrase purchasedDebianHat
 mission debianHatRetrieval.conversation.begin
 	name "Debian hat"
 	landing
+	description "An unknown man has asked you to buy him a Debian hat. He has given you the address of the store. Purchase the hat and return to <planet>, <system>."
 	source
 		government "Republic" "Syndicate" "Free Worlds" "Sayari Plushie"
 	stopover
@@ -156,7 +157,6 @@ mission debianHatRetrieval.conversation.begin
 				accept
 	on stopover
 		dialog phrase purchasedDebianHat
-
 	on complete
 		payment 560000 800000
 		dialog phrase debianHatGiven
