@@ -43,6 +43,7 @@ phrase purchasedDebianHat
 
 
 mission debianHatRetrieval.conversation.begin
+	name "Debian hat"
 	landing
 	source
 		government "Republic" "Syndicate" "Free Worlds" "Sayari Plushie"
