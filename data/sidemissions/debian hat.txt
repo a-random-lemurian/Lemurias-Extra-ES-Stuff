@@ -153,6 +153,7 @@ mission debianHatRetrieval.conversation.begin
 			label debianHatRetrieval.missionBrief
 			`	"I want a Debian hat. Go to <stopovers> and I will gladly pay you <payment>. Here's the address of the shop selling the Debian hat. Make it quick."`
 			`He gives you a data chip containing the address of the shop. You leave him, as you ponder on whether you should buy him a Debian hat.`
+				accept
 	on stopover
 		dialog phrase purchasedDebianHat
 
