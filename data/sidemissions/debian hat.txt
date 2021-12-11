@@ -39,7 +39,7 @@ phrase debianHatGiven
 
 phrase purchasedDebianHat
 	word
-		"You arrive at the shop and purchase a Debian hat. '300 credits please.', says the cashier. After paying for the Debian hat, you leave the store. It is a white hat with the word 'debian' in lowercase and what looks like a red paintbrush spiral. You recognize it as the Debian logo. With your Debian hat in hand, you prepare to return to <source>."
+		"You arrive at the shop and purchase a Debian hat. '300 credits please.', says the cashier. After paying for the Debian hat, you leave the store. It is a white hat with the word 'debian' in lowercase and what looks like a red paintbrush spiral. You recognize it as the Debian logo. With your Debian hat in hand, you prepare to return to <planet>, <system>."
 
 
 mission debianHatRetrieval.conversation.begin
