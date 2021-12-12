@@ -38,7 +38,7 @@ phrase badOperatingSystems
 	phrase
 		windowsVers
 		macosVers
-news linuxUser.antiWindowsMac
+news linuxUser.spaceportNews.1
 	location
 		government "Republic" "Syndicate" "Sayari Plushie" "Free Worlds"
 	name
@@ -65,7 +65,7 @@ news linuxUser.antiWindowsMac
 			"."
 			"!"
 
-news linuxUser.goodOnYou
+news linuxUser.spaceportNews.2
 	location
 		government "Republic" "Syndicate" "Sayari Plushie" "Free Worlds"
 	name
