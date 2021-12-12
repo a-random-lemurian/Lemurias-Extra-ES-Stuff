@@ -22,6 +22,7 @@ phrase spa.hails.friendly
 	phrase
 		spa.hails.friendly.sp1
 		spa.hails.friendly.sp2
+		spa.hails.friendly.sp3
 
 
 phrase spa.hails.hostile.sp1
@@ -73,3 +74,38 @@ phrase spa.hails.friendly.sp2
 		"Make your kids at home happy."
 		"Terms and conditions apply."
 		"Not for sale to those associated with the CSSF."
+
+
+phrase spa.hails.friendly.sp3
+	word
+		"CSSF "
+	word
+		"agent"
+		"supporter"
+		"employee"
+		"soldier"
+		"officer"
+		"sympathizer"
+	word
+		"s"
+	word
+		" "
+	word
+		"pose a risk"
+		"represent serious threats"
+		"are serious risks"
+	word
+		" "
+	word
+		"to our"
+	word
+		" "
+	word
+		"mission to supply the galaxy with Freya Winters plushies"
+		"mission to supply the galaxy with Sayari plushies"
+		"plushie-selling business"
+		"operations"
+	word
+		". "
+	word
+		"Report any suspicious persons to our office on Khoramelia."
