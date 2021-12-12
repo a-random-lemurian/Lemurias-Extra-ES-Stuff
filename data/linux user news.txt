@@ -94,3 +94,29 @@ news linuxUser.spaceportNews.2
 			"Well, you'll get far in life."
 			"You've made the right choice."
 			"Great. At least you're not a Windows user."
+
+news linuxUser.spaceportNews.3
+	location
+		government "Republic" "Syndicate" "Sayari Plushie" "Free Worlds"
+	name
+		word
+			"GNU/Linux"
+			"Linux"
+		word
+			" user"
+	message
+		word
+			"If you run "
+		phrase
+			badOperatingSystems
+		word
+			","
+			" then"
+		word
+			" "
+		word
+			"your computer is at risk"
+			"your computer is bound to the shackles of proprietary software"
+		word
+			"!"
+			"."
