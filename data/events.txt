@@ -26,6 +26,8 @@ mission githubCodeVault.conversation
 	to offer
 		has "event: githubCodeVault"
 	on offer
+		log "Factions" "GitHub" "GitHub was an organization founded in the 21st century. It's mandate was to distribute computer code via a development model called 'open source'. GitHub as an organization collapsed during the 23rd century. In addiiton to the distribution of computer code, GitHub also assisted in the development of large projects, often developed by multiple people, by making use of an ancient 'version control system' known as Git."
+		log "Minor People" "Linus Torvalds" "Software engineer born on Earth in the 20th century (c. 1965 - 1970). Known mostly for his effort in developing the 'Linux kernel', development of which continues well in the 31st century, and is the basis of approximately 95% of the pre-installed operating systems on navigation computers."
 		log "Spaceport was quiet once more. Thankfully, it wasn't another rebellion just like the Free Worlds. Workers on Earth apparently opened up some old time capsule full of crates all labelled 'GitHub'. Some guy named John told me it was called the 'GitHub Code Vault'. All of it was code. Just code. He made a point to say that the first program that they 'compiled' was the 'Linux kernel'."
 		conversation
 			`As you land at the spaceport, you find that it is eerily quiet once more. You enter the spaceport bar and on one of the screens is a news broadcast showing a group of workers unloading several crates all labelled "GitHub" from an unknown location in the Arctic on Earth.`

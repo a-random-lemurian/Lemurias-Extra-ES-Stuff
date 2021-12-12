@@ -93,4 +93,3 @@ news laateliPromote.neistatSalvage
 	message
 		word
 			"The Neistat system has a fair amount of pirate Bactrians. You should go and board them! Big profits await!"
-
