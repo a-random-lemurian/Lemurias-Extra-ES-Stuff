@@ -120,3 +120,42 @@ news linuxUser.spaceportNews.3
 		word
 			"!"
 			"."
+
+phrase linuxUser.spaceportNews.3.phrases.switchToLinux
+	word
+		"Make the switch to"
+		"Download"
+		"Treat your computer to a fresh new copy of"
+		"Free your PC with the power of"
+	word
+		" "
+	word
+		linuxDistroNames
+
+news linuxUser.spaceportNews.4
+	location
+		government "Republic" "Syndicate" "Sayari Plushie" "Free Worlds"
+	name
+		word
+			"GNU/Linux"
+			"Linux"
+		word
+			" user"
+	message
+		word
+			"Say no to "
+		word
+			badOperatingSystems
+		word
+			"."
+			"!"
+		word
+			" "
+		phrase
+			linuxUser.spaceportNews.3.phrases.switchToLinux
+		word
+			" today"
+			" now"
+		word
+			"."
+			"!"
