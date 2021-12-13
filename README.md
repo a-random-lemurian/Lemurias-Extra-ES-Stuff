@@ -25,8 +25,6 @@ Additional effects include a cease and desist letter from anti-gaming groups (ra
 > 
 > Hyugatha #FixFighters, Endless Sky discord server
 
-# Changelog 
-View: changelog.md
 
 # Content Rating
 Dialogue and "strings" visible to players do not contain mild/major swear words, not even their substitutes. This add-on has not been assigned any official ratings by rating agencies such as the ESRB, PEGI, or your country's video game rating authority.
