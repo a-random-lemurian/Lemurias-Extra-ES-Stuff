@@ -129,7 +129,7 @@ phrase linuxUser.spaceportNews.3.phrases.switchToLinux
 		"Free your PC with the power of"
 	word
 		" "
-	word
+	phrase
 		linuxDistroNames
 
 news linuxUser.spaceportNews.4
@@ -144,7 +144,7 @@ news linuxUser.spaceportNews.4
 	message
 		word
 			"Say no to "
-		word
+		phrase
 			badOperatingSystems
 		word
 			"."
