@@ -117,7 +117,7 @@ phrase spa.sub.Sayari.sp1
 		"Ambassador "
 		"Great "
 	word
-		Sayari
+		"Sayari"
 phrase spa.sub.HaiLocations
 	word
 		"Hevru Hai"
