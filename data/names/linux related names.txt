@@ -1,0 +1,53 @@
+# linux distros (i use ubuntu btw)
+# -< boring legal disclaimer >-
+#  In the United States, "Linux" is a registered
+#  trademark of the Linux Foundation.
+#  They have not endorsed the use of their trademark
+#  in this plugin.
+#  Review LEGAL.md for boring legal disclaimers.
+# -< end boring legal disclaimer >-
+phrase linuxRelated
+	phrase
+		linuxDistroNames
+		linuxMisc
+		linuxKernelNames
+phrase linuxKernelNames
+	word
+		""
+		"The "
+	word
+		"Great"
+		"Holy"
+		"Glorious"
+		"Eternal"
+		"Grand"
+		"Bugfree"
+		"Pristine"
+		"Godly"
+	word
+		" "
+	word
+		"Kernel"
+		"Linux Kernel"
+phrase linuxMisc
+	word
+		"Torvalds"
+		"Linus Torvalds"
+		"Sudo"
+phrase linuxDistroNames
+	word
+		"Ubuntu"
+		"Debian"
+		"CentOS"
+		"Kubuntu"
+		"Xubuntu"
+		"Lubuntu"
+		"Tiny Core Linux"
+		"Puppy Linux"
+		"Slackware"
+		"OpenSUSE"
+		"Manjaro"
+		"Garuda"
+		"Arch"
+		"Arch Linux"
+		"Gentoo"

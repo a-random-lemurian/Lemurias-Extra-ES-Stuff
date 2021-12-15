@@ -1,0 +1,152 @@
+phrase spa.allNames
+	word
+		"S.P.S "
+	phrase
+		spa.allNames.noPrefix
+###
+###
+phrase spa.allNames.noPrefix
+	phrase
+		spa.sub.Sayari.sp1
+		spa.sayariOfLocation.comp
+		spa.oneWordNames
+		spa.multiWordNames
+		spa.color-item
+		spa.royalNavy
+		spa.psuedonames
+		spa.miscCharacternames
+		linuxRelated
+phrase spa.multiword
+	phrase
+		spa.multiword.1
+phrase spa.multiword.1
+	word
+		"Azure Town"
+		"Norvek Town"
+		"Jalitra Town"
+		"While True"
+		"While False"
+		"Hello World"
+		"Plushie Protector"
+		"Plushie Transporter"
+		"Plushie Safekeeper"
+		"Glorious Turret"
+phrase spa.miscCharacternames
+	word
+		"Freya"
+		"Winters"
+		"Katya"
+phrase spa.multiWordNames
+	word
+		"New Moon"
+		"Old Moon"
+		"Discord Moderator"
+		"Discord Administrator"
+		"Discord User"
+		"Discord Nitro"
+		"Free Nitroglycerin"
+		"Berserker Bear"
+		"Sayari's Reign"
+		"Elder Stars"
+		"Elder Moons"
+phrase spa.color-item
+	word
+		"Black"
+		"Blue"
+		"Brown"
+		"Indigo"
+		"White"
+		"Red"
+		"Blue"
+		"Pink"
+		"Purple"
+		"Magenta"
+		"Violet"
+		"Yellow"
+	word
+		" "
+	word
+		"Ramen"
+		"Cat"
+		"Bread"
+		"Plate"
+		"Table"
+		"Chair"
+		"Ship"
+		"Planet"
+		"Moon"
+		"Doorway"
+		"Door"
+		"Stove"
+		"Missile"
+		"Crest"
+		"Crescent"
+		"Flower"
+		"Plant"
+phrase spa.oneword.ficPlaces
+	word
+		"Mardiat"
+		"Distarai"
+		"Ikkelipa"
+		"Cheria"
+		"Aparia"
+		"Lorkrutta"
+
+
+phrase sparl.names.leest
+	word
+		"R.N.S "
+	phrase
+		spa.allNames.noPrefix
+
+
+phrase spa.oneword.Food
+	word
+		"Pretzel"
+		"Ramen"
+		"Sushi"
+		"Orange"
+		"Apple"
+		"Breadcrumb"
+		"Bread"
+		"Corn"
+phrase spa.sub.Sayari.sp1
+	word
+		"Goddess "
+		"Queen "
+		"Ambassador "
+		"Great "
+	word
+		Sayari
+phrase spa.sub.HaiLocations
+	word
+		"Hevru Hai"
+		"Fah Soom"
+		"Wah Oh"
+		"Io Mann"
+		"Due Yoot"
+		"Rati Cal"
+		"Heia Due"
+		"Io Lowe"
+		"Mei Yohn"
+		"Zuba Zub"
+		"Imo Dep"
+		"Ula Mon"
+		"Wah Ki"
+		"Bore Fah"
+		"Da Lest"
+		"Da Ent"
+		"Uwa Fahn"
+		"Ya Hai"
+
+phrase spa.sayariOfLocation.comp
+	word
+		"Sayari of "
+	phrase 
+		spa.sub.HaiLocations
+
+phrase spa.oneWordNames
+	phrase
+		spa.oneword.ficPlaces
+		spa.oneword.Food
+		all.irlPlaces.leest

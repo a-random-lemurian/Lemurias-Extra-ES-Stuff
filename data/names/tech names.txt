@@ -1,0 +1,27 @@
+phrase technames
+	phrase
+		technames.sourceControl
+		technames.programmingLangs
+		technames.javascriptFrameworks
+phrase technames.javascriptFrameworks
+	word
+		"Angular"
+		"Vue"
+		"React"
+		"Aurelia"
+		"Backbone"
+phrase technames.sourceControl
+	word
+		"Branch Merge"
+		"Merge Conflict"
+		"Mercurial"
+		"Subversion"
+		"Git"
+		"Branch Checkout"
+phrase technames.programmingLangs
+	word
+		"Python"
+		"Rust"
+		"JavaScript"
+		"Haskell"
+		"Perl"
