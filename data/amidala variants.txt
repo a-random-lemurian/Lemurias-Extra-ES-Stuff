@@ -3,7 +3,7 @@ ship "Amidala"
 	thumbnail "thumbnail/kar ik vot 349"
 	attributes
 		category "Heavy Warship"
-		"cost" 60988000
+		"cost" 77988000
 		"shields" 88700
 		"hull" 74300
 		"mass" 1350
@@ -12,8 +12,8 @@ ship "Amidala"
 		"heat dissipation" .5
 		"fuel capacity" 700
 		"cargo space" 174
-		"outfit space" 1244
-		"weapon capacity" 644
+		"outfit space" 1109
+		"weapon capacity" 598
 		"engine capacity" 214
 		"self destruct" .01
 		"ramscoop" 3
@@ -23,10 +23,7 @@ ship "Amidala"
 			"hull damage" 3200
 			"hit force" 9600
 	outfits
-		"Heavy Laser" 2
-		"Korath Piercer Launcher" 2
-		"Korath Piercer" 94
-		"Korath Piercer Rack" 2
+		"Heavy Laser" 4
 		"Korath Warder" 2
 		"Korath Repeater Turret" 6
 
@@ -35,7 +32,6 @@ ship "Amidala"
 		"Systems Core (Large)"
 		"Large Heat Shunt" 4
 		"Small Heat Shunt" 2
-		"Control Transceiver"
 		
 		`"Bufaer" Atomic Thruster`
 		`"Bufaer" Atomic Steering`
@@ -46,8 +42,8 @@ ship "Amidala"
 	engine 0 237
 	gun -8 -212 "Heavy Laser"
 	gun 8 -212 "Heavy Laser"
-	gun -16 -158 "Korath Piercer Launcher"
-	gun 16 -158 "Korath Piercer Launcher"
+	gun -16 -158 "Heavy Laser"
+	gun 16 -158 "Heavy Laser"
 	turret -37 -150 "Korath Repeater Turret"
 	turret 37 -150 "Korath Repeater Turret"
 	turret 38 -132 "Korath Repeater Turret"
