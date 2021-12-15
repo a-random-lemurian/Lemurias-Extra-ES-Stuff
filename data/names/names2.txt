@@ -15,17 +15,16 @@
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
-phrase spa.psuedonames
+phrase psuedonames
 	phrase
-		spa.psuedonames.gb
-		spa.psuedonames.ru
-		spa.nonNationalPlaces
+		psuedonames.gb
+		nonNationalPlaces
 	
-phrase spa.nonNationalPlaces
+phrase nonNationalPlaces
 	phrase
-		spa.nnp.1
+		nnp.1
 
-phrase spa.psuedonames.gb
+phrase psuedonames.gb
 	word
 		"Ark"
 		"Lark"
@@ -66,7 +65,7 @@ phrase spa.psuedonames.gb
 		"Readdon" "Reading"
 		"Boston" "Boswick"
 
-phrase spa.nnp.1
+phrase nnp.1
 	word
 		"Alrak"
 		"Telor"
