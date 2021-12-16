@@ -23,6 +23,7 @@ phrase psuedonames
 phrase nonNationalPlaces
 	phrase
 		nnp.1
+		nnp.2
 
 phrase psuedonames.gb
 	word
@@ -109,5 +110,35 @@ phrase nnp.1
 		"etere"
 		"elesk"
 		"ilosk"
-
-
+phrase nnp.2
+	word
+		"At"
+		"Meb"
+		"Leb"
+		"Kar"
+		"Opa"
+		"Mei"
+		"Sek"
+		"Oje"
+		"Klo"
+		"Mip"
+	word
+		"les"
+		"olk"
+	word
+		"achai"
+		"ati"
+		"e"
+		"eanat"
+		"epar"
+		"edlit"
+		"ep"
+		"ipola"
+		"isoa"
+		"idet"
+		"olpu"
+		"oures"
+		"ulop"
+		"ukisa"
+		"utepp"
+		"uldrei"
