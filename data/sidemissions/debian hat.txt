@@ -17,9 +17,6 @@
 
 # Debian is a registered trademark of Software in the Public Interest, Inc.
 
-event beginDebianHatRetrieval
-	date 6 10 3014
-
 
 phrase debianHatGiven
 	word
@@ -51,7 +48,13 @@ mission debianHatRetrieval.conversation.begin
 	stopover
 		government "Republic" "Syndicate" "Free Worlds"
 	to offer
-		has "event: beginDebianHatRetrieval"
+		"<name>" == "Debian" # Ship must be named Debian
+		
+		# And your pilot name must be "Ian Murdock", the founder of Debian.
+		"<first>" == "Ian"
+		"<last>" == "Murdock"
+
+		"random" > 80
 	on offer
 		log "Someone asked me for a Debian hat today. It seems like Debian was some centuries-old distribution of Linux. What a fun day."
 		conversation
