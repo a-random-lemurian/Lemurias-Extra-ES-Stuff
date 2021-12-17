@@ -14,9 +14,10 @@
 
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
-mission antiYuyukoSaigyouji
-	to offer
-		"<first> <last>" == "Yuyuko Saigyouji"
-	on offer
-		"reputation: Sayari Plushie" = -100000
-		"reputation: Yuyuko Saigyouji" = 100000
+# mission antiYuyukoSaigyouji
+# 	to offer
+# 		"<first>" == "Yuyuko"
+# 		"<last>" == "Saigyouji"
+# 	on offer
+# 		"reputation: Sayari Plushie" = -100000
+# 		"reputation: Yuyuko Saigyouji" = 100000
