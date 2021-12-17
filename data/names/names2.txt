@@ -24,6 +24,7 @@ phrase nonNationalPlaces
 	phrase
 		nnp.1
 		nnp.2
+		nnp.3
 
 phrase psuedonames.gb
 	word
@@ -142,3 +143,34 @@ phrase nnp.2
 		"ukisa"
 		"utepp"
 		"uldrei"
+phrase nnp.3
+	phrase
+		"A"
+		"E"
+		"I"
+		"O"
+		"U"
+	word
+		"ma"
+		"pe"
+		"me"
+		"mi"
+		"sa"
+		"da"
+		"de"
+		"ke"
+		"pe"
+		"re"
+		"ro"
+	word
+		"delir"
+		"depaan"
+		"kanstrim"
+		"kapiet"
+		"erlec"
+		"mersel"
+	word
+		"ia"
+		"ila"
+		"et"
+		"eopa"
