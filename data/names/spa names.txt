@@ -52,6 +52,8 @@ phrase spa.miscCharacternames
 		"Freya"
 		"Winters"
 		"Katya"
+		"Freya Winters"
+		"Katya Reynolds"
 phrase spa.multiWordNames
 	word
 		"New Moon"
