@@ -58,7 +58,7 @@ mission debianHatRetrieval.conversation.begin
 	on offer
 		log "Someone asked me for a Debian hat today. It seems like Debian was some centuries-old distribution of Linux. What a fun day."
 		conversation
-			`As you land at the spaceport, a man approaches you.`
+			`As you land at the spaceport, a man approaches you. He is wearing a white shirt with some sort of red swirl on it. You think nothing of it, and continue with your business, but the man seems persistent on talking to you.`
 			choice
 				`	'Hello there. What do you want?'`
 					goto didNotDecline
