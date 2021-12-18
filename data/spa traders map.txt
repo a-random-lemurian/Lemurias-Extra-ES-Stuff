@@ -24,7 +24,8 @@ system "Delta Velorum"
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -35,7 +36,8 @@ system Turais
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -46,7 +48,8 @@ system Algorel
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -57,7 +60,8 @@ system Phecda
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -68,7 +72,8 @@ system Merak
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -80,7 +85,8 @@ system Denebola
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
 	add fleet sparl.war.navyGunboat.med.1 280
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -88,7 +94,8 @@ system Denebola
 system Sol
 	add fleet spa.trade.gen.small.1 370
 	add fleet sparl.war.navyGunboat.med.1 280
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -99,7 +106,8 @@ system Mizar
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -110,7 +118,8 @@ system Arcturus
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -121,7 +130,8 @@ system Rutilicus
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -132,7 +142,8 @@ system Menkent
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -143,7 +154,8 @@ system Hiljaak
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -154,7 +166,8 @@ system Limen
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -165,7 +178,8 @@ system Mora
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -176,7 +190,8 @@ system Zosma
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -187,7 +202,8 @@ system Dubhe
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -198,7 +214,8 @@ system Alphard
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -209,7 +226,8 @@ system Talita
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -220,7 +238,8 @@ system Miaplacidus
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -231,7 +250,8 @@ system Vindemiatrix
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -242,7 +262,8 @@ system Muhlifain
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -253,7 +274,8 @@ system "Cor Caroli"
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -264,7 +286,8 @@ system Algorel
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -275,7 +298,8 @@ system Turais
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -286,7 +310,8 @@ system Menkent
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -297,7 +322,8 @@ system Vega
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -308,7 +334,8 @@ system Altair
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -319,7 +346,8 @@ system "Delta Capricorni"
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -330,7 +358,8 @@ system Scheat
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -341,7 +370,8 @@ system Ruchbah
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
@@ -352,7 +382,8 @@ system "Tania Australis"
 	add fleet sparl.war.navyGunboat.large.1 4000
 	add fleet sparl.war.carriers.med.1 2400
 	add fleet sparl.general.auxCargo.med.1 1500
-	#REPLACE__RESERVED1
+	add fleet cssf.war.illuminaReg.large.1 3500
+	#REPLACE__RESERVED6
 	#REPLACE__RESERVED2
 	#REPLACE__RESERVED3
 	#REPLACE__RESERVED4
