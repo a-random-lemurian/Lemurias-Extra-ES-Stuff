@@ -19,7 +19,7 @@ shipyard "Sayari Advanced"
 	"Amidala"
 	"Falcon"
 	"SPA Gunboat"
-
+	"SPA Cruiser"
 
 shipyard "Sayari Advanced without Falcon"
 	"Amidala"
