@@ -383,7 +383,7 @@ fleet spa.general.navyShips.large.1
 	personality
 		disables plunders
 	variant 20
-		"Cruiser" 3
+		"SPA Cruiser" 3
 		"Carrier" 5
 		"Combat Drone" 30
 		"Korath Chaser" 20
@@ -518,13 +518,13 @@ fleet sparl.war.carriers.med.1
 		"Combat Drone" 24
 	variant 50
 		"Carrier" 6
-		"Cruiser" 5
+		"SPA Cruiser" 5
 		"Lance" 24
 		"Combat Drone" 36
 		"Gunboat" 8
 	variant 20
 		"Carrier" 12
-		"Cruiser" 14
+		"SPA Cruiser" 14
 		"Lance" 48
 		"Combat Drone" 72
 		"Gunboat" 10
