@@ -52,6 +52,8 @@ phrase spa.miscCharacternames
 		"Freya"
 		"Winters"
 		"Katya"
+		"Freya Winters"
+		"Katya Reynolds"
 phrase spa.multiWordNames
 	word
 		"New Moon"
@@ -111,7 +113,19 @@ phrase spa.oneword.ficPlaces
 
 phrase sparl.names.leest
 	word
-		"R.N.S "
+		"R.N.S"
+
+	# The only way to tell between an actual
+	# Republic ship and a fake is the period
+	# after the 'S' (R.N.S.).
+
+	# This will make it a bit harder to tell
+	# the difference.
+	word
+		"."
+		""
+	word
+		" "
 	phrase
 		spa.allNames.noPrefix
 

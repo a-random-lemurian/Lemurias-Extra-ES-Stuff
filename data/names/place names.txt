@@ -18,6 +18,18 @@ phrase all.irlPlaces
 	phrase
 		all.phPlaces.leest
 		all.usPlaces.leest
+		all.idPlaces.leest
+phrase all.idPlaces.leest # Indonesian locations
+	word
+		# Indonesian provinces
+		"Riau"
+		"Jambi"
+		"Sumatra"
+		"Aceh"
+
+		# Indonesian cities
+		"Jakarta"
+		"Pekanbaru"
 phrase all.phPlaces.leest
 	word
 		"Manila"
