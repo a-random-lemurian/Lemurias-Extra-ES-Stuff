@@ -67,7 +67,7 @@ government "SPA: Republic Livery"
 		Militia .3
 		Pirate -1
 		"Sayari Plushie" 1.60
-		"Yuyuko Saigyouji" 0
+		"Yuyuko Saigyouji" -1
 	"friendly hail" "friendly navy"
 	"hostile hail" "hostile navy"
 	raid "pirate raid"
