@@ -18,7 +18,7 @@
 shipyard "Sayari Advanced"
 	"Amidala"
 	"Falcon"
-	"SPARL Gunboat"
+	"SPA Gunboat"
 
 
 shipyard "Sayari Advanced without Falcon"
