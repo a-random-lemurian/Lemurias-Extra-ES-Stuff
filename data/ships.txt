@@ -30,3 +30,59 @@ ship Berserker "Berserker Miner"
 		"X3200 Ion Steering"
 		"nGVF-CC Fuel Cell"
 	description "Once one of the most popular interceptor-class ships, the Berserker's popularity is now waning in favor of more modern and versatile ships like the Hawk. Although limited numbers are still produced by Betelgeuse Shipyards, most Berserkers that are in service today are more than half a century old. This Berserker clearly was built with mining in mind."
+
+
+ship "Gunboat" "SPA Gunboat"
+	sprite "ship/gunboat"
+	thumbnail "thumbnail/gunboat"
+	attributes
+		category "Light Warship"
+		"cost" 4880000
+		"shields" 6740
+		"hull" 1600
+		"required crew" 10
+		"bunks" 16
+		"mass" 150
+		"drag" 3.1
+		"heat dissipation" .5
+		"fuel capacity" 700
+		"cargo space" 60
+		"outfit space" 410
+		"weapon capacity" 110
+		"engine capacity" 95
+		weapon
+			"blast radius" 72
+			"shield damage" 720
+			"hull damage" 360
+			"hit force" 1080
+	outfits
+		"Heavy Laser" 2
+		"Heavy Laser Turret"
+		
+		"Red Sun Reactor"
+		"LP144a Battery Pack" 1
+		"Hai Corundum Regenerator" 1
+		
+		`"Biroo" Atomic Thruster` 1
+		`"Biroo" Atomic Steering` 1
+		"Hyperdrive" 1
+		"Jump Drive" 1
+		"Interference Plating" 17
+
+		"Large Hybrid Cooling" 1
+		
+	engine -12 57.5 0.7
+	engine 12 57.5 0.7
+	gun -28.5 -27.5 "Heavy Laser"
+	gun 28.5 -27.5 "Heavy Laser"
+	turret 0 -1 "Heavy Laser Turret"
+	leak "leak" 50 50
+	leak "flame" 80 80
+	explode "tiny explosion" 10
+	explode "small explosion" 20
+	explode "medium explosion" 15
+	"final explode" "final explosion small"
+	description "The Navy Gunboat is designed for engaging targets at short range, and also serves as the Navy's mobile sensor platform, scanning ships for illegal equipment or cargo."
+	description "This particular gunboat however, seems to be another one of the Sayari Plushie Authority's custom-built ships. In addition to that, the ship is covered with interference plating due to it's intended role in transporting plushies, which the CSSF have a particular distaste for."
+
+
