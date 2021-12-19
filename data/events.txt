@@ -25,6 +25,8 @@ mission githubCodeVault.conversation
 		government "Republic" "Syndicate" "Free Worlds" "Sayari Plushie"
 	to offer
 		has "event: githubCodeVault"
+	on decline
+		set "githubCodeVault.didConversation"
 	on offer
 		log "Factions" "GitHub" "GitHub was an organization founded in the 21st century. It's mandate was to distribute computer code via a development model called 'open source'. GitHub as an organization collapsed during the 23rd century. In addiiton to the distribution of computer code, GitHub also assisted in the development of large projects, often developed by multiple people, by making use of an ancient 'version control system' known as Git."
 		log "Minor People" "Linus Torvalds" "Software engineer born on Earth in the 20th century (c. 1965 - 1970). Known mostly for his effort in developing the 'Linux kernel', development of which continues well in the 31st century, and is the basis of approximately 95% of the pre-installed operating systems on navigation computers."
