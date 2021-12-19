@@ -93,3 +93,56 @@ mission githubCodeVault.conversation
 			label leave
 			`	"I hope you learned something new! And make sure your ship computer uses Ubuntu! I highly recommend that!", says John as you leave the spaceport bar and return to your ship.`
 				decline
+
+
+mission githubCodeVault.alexandriaVisit
+	invisible
+	source "Alexandria"
+	to offer
+		has "githubCodeVault.didConversation"
+	on offer
+		conversation
+			"You are on <planet>. Would you like to ask the librarian for a copy of the 'Git' version control system?"
+			choice
+				"(Yes.)"
+					goto getGit
+				"(No.)"
+					defer
+			
+			label getGit
+			"You decide to look for a copy of the Git version control system."
+			choice
+				"(Look through the shelves of datachips.)"
+					goto getGit.lookThroughShelves
+				
+				"(Ask a librarian for help.)"
+					goto getGit.askLibrarianForHelp
+			
+			label getGit.lookThroughShelves
+			"You decide to look through the endless shelves of datachips for a copy of the Git version control system. You are stuck for hours, scrambling through the datachips in the 'Programs' section. You've seen some sort of white cat on a black background on some of the datachips labelled 'GitHub'."
+			"After nearly 4 hours of searching, you've turned up empty-handed."
+			choice
+				"(Leave and never come back.)"
+					decline
+				
+				"(Try again another day.)"
+					defer
+
+				"(Ask a librarian for help.)"
+					goto getGit.askLibrarianForHelp
+
+
+			label getGit.askLibrarianForHelp
+			"You approach a librarian. You walk in front of her, and ask her a question."
+			`	"Hello, I'm <first>, and I'm looking for a copy of this ancient version control system called 'Git'."`
+			"The librarian ponders at your question for a while, and finally she replies."
+			`	"Git? I'm not sure where it is, but there is a terminal just 2 shelves away from where we are. You can perforn a search for Git on that terminal and it will tell you where to find it."`
+			"Taking the librarian's advice, you walk over to the terminal and perform a search for 'Git' on that terminal. It directs you to a little-used corner of the station, where you find a datachip labelled 'Git'. There's a logo on it, which says 'git' in lowercase, so you're sure you have the right chip. You discreetly make a copy of it and install it on your ship's computer remotely. If you ever need to do some programming, Git will be there for you. A quick version check reveals that the datachip has version 43.11 of Git installed."
+			choice
+				"(Leave.)"
+					goto getGit.leaving
+			action
+				set "leest.player.hasGit"
+			
+			label getGit.leaving
+			"You leave the library with your copy of Git in hand. Hopefully you'll encounter John, the guy who told you about all this."
