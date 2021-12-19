@@ -95,13 +95,17 @@ fleet cssf.war.illuminaReg.large.1
 		Firebird 2
 		Leviathan
 		"Kar Ik Vot 349"
-	variant
-		Firebird 35
-		Leviathan 20
-		Vanguard 4
-		Corvette 3
-		# Auxillary 4
-
+	variant 5
+		"Kar Ik Vot 349" 2
+		"Leviathan" 4
+		"Firebird" 8
+	variant 10
+		"Quicksilver" 8
+		"Falcon" 2
+		"Bastion" 4
+	variant 14
+		"Bactrian" 5
+		"Firebird" 14
 
 fleet cssf.general.emeraldSword.med.1
 	government "Yuyuko Saigyouji"
