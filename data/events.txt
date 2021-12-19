@@ -53,7 +53,7 @@ mission githubCodeVault.conversation
 					decline
 
 				`	What in the world is 'torvalds/linux'?`
-					goto openSourceQuestion
+					goto torvaldsLinuxQuestion
 
 			label torvaldsLinuxQuestion
 			`One of the patrons approach you, claiming to be a computer programmer. He introduces himself as John.`
