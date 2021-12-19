@@ -37,6 +37,7 @@ mission githubCodeVault.conversation
 			`Just as you are about to leave, one of the patrons in the bar grab your shoulder. "They're opening the box!", says the patron. You gaze back at the screen. Several computer experts inspect the first box. The camera pans towards another label on the box. The label is as follows:`
 			`		Repository: torvalds/linux`
 			`		ID: #90939-40093`
+			`The same patron introduces himself as 'John'. He sees that you are visibly confused, so he asks you if you have a question. "You confused? Well, I've been programming in C since the 2990s so I'd say I'm quite knowledgeable."`
 			choice
 				`	"Wait, what's 'torvalds/linux'?"`
 					goto torvaldsLinuxQuestion
@@ -51,7 +52,6 @@ mission githubCodeVault.conversation
 					goto leave
 
 			label openSourceQuestion
-			`One of the patrons approach you, claiming to be a computer programmer. He introduces himself as John.`
 			`	"Open-source is basically a model of development where the source code of the project is offered to anyone free of charge, usually under a permissive license. This is in contrast to proprietary software, where nobody except the company is allowed access to the source code.", John says.`
 			choice
 				`	(Leave.)`
@@ -64,7 +64,6 @@ mission githubCodeVault.conversation
 					goto gitQuestion
 
 			label torvaldsLinuxQuestion
-			`One of the patrons approach you, claiming to be a computer programmer. He introduces himself as John.`
 			`	"Well, you must be confused. torvalds/linux was the repository for something called the Linux kernel. At the core of most of the computers that run our ships, such as the targeting computer, the shield harmonics computer, is the Linux kernel. The Linux kernel has changed so much over the past 1000 years."`
 			`	"Meanwhile, the 'torvalds' in the name refers to the owner of the repository, a human known as Linus Torvalds. He was the creator of the Linux kernel until he handed over control of the project to his family. Nowadays, there are several forks of it.", John says.`
 			`	"Well, that explains everything.", you say in response.`
