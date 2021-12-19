@@ -315,6 +315,12 @@ fleet spa.war.illuminaReg.large.1
 	variant 1
 		"Shield Beetle" 15
 		"Geocoris" 5
+	variant 4
+		"SPA Gunboat" 24
+		"SPA Cruiser" 12
+	variant 1
+		"SPA Gunboat" 45
+		"SPA Cruiser" 18
 
 
 fleet spa.war.vanguard.large.1
