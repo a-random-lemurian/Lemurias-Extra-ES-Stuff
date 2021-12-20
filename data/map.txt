@@ -1326,7 +1326,7 @@ system Denleitt
 	link Sayreopli
 
 ##################################################################################################
-   # PLANETS #
+# PLANETS #
 planet "Leroo Station"
 	attributes station
 	shipyard "Advanced Northern Pirates"
