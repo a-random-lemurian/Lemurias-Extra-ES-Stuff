@@ -78,7 +78,7 @@ mission githubCodeVault.conversation
 					goto gitQuestion
 			
 			label gitQuestion
-			`	"Repositories are folders which are being tracked by version control systems. This allows programmers to keep track of their code and log changes being made to it. In this particular case, Git was the version control system in question, which Linus Torvalds built for the Linux kernel, after switching to an older VCS called 'BitKeeper'. Archival copies of BitKeeper and Git are still available on Alexandra, I suppose."`
+			`	"Repositories are folders which are being tracked by version control systems. This allows programmers to keep track of their code and log changes being made to it. In this particular case, Git was the version control system in question, which Linus Torvalds built for the Linux kernel, after they stopped using a software called 'BitKeeper'. Archival copies of BitKeeper and Git are still available on Alexandra, I suppose."`
 			`	"Anything more to ask, <first>?"`
 			choice
 				`	What in the world is 'torvalds/linux'?`
@@ -100,7 +100,7 @@ mission githubCodeVault.alexandriaVisit
 	source "Alexandria"
 	to offer
 		has "githubCodeVault.didConversation"
-	on offer
+	on visit "Alexandria"
 		conversation
 			"You are on <planet>. Would you like to ask the librarian for a copy of the 'Git' version control system?"
 			choice
