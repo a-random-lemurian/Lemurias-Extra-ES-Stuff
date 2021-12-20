@@ -19,6 +19,7 @@ phrase technames
 		technames.sourceControl
 		technames.programmingLangs
 		technames.javascriptFrameworks
+		technames.people
 phrase technames.javascriptFrameworks
 	word
 		"Angular"
@@ -41,3 +42,36 @@ phrase technames.programmingLangs
 		"JavaScript"
 		"Haskell"
 		"Perl"
+# Notable people in tech (e.g Richard Stallman)
+phrase technames.people
+	word
+		"Richard Stallman"
+		"Ian Murdock" # Debian founder
+		"Junio Hamano" # Core maintainer of Git
+		"Dennis Ritchie" # Creator of the C programming language
+		"Bjarne Stroustrup" # Creator of C++
+
+		"Bill Gates" # Co-founder of Microsoft
+		"Steve Jobs" # Founder of Apple
+
+		# Debian project leaders
+		"Bruce Perens"
+		"Ian Jackson"
+		"Wichert Akkerman"
+		"Ben Collins"
+		"Bdale Garbee"
+		"Martin Michlmayr"
+		"Branden Robinson"
+		"Anthony Towns"
+		"Sam Hocevar"
+		"Steve McIntyre"
+		"Stefano Zacchiroli"
+		"Lucas Nussbaum"
+		"Neil McGovern"
+		"Mehdi Dogguy"
+		"Chris Lamb"
+		"Sam Hartman"
+		"Jonathan Carter"
+
+		# Miscellaneous
+		"Ada Lovelace"
