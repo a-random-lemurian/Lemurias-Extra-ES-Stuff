@@ -96,13 +96,13 @@ mission githubCodeVault.conversation
 
 
 mission githubCodeVault.alexandriaVisit
-	invisible
+	landing
 	source "Alexandria"
 	to offer
 		has "githubCodeVault.didConversation"
-	on visit "Alexandria"
+	on offer
 		conversation
-			"You are on <planet>. Would you like to ask the librarian for a copy of the 'Git' version control system?"
+			"You are on <origin>. Would you like to ask the librarian for a copy of the 'Git' version control system?"
 			choice
 				"(Yes.)"
 					goto getGit
