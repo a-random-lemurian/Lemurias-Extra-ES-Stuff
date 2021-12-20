@@ -32,9 +32,9 @@ mission githubCodeVault.conversation
 		set "githubCodeVault.didConversation"
 
 	on offer
-		log "Factions" "GitHub" "GitHub was an organization founded in the 21st century. It's mandate was to distribute computer code via a development model called 'open source'. GitHub as an organization collapsed during the 23rd century. In addiiton to the distribution of computer code, GitHub also assisted in the development of large projects, often developed by multiple people, by making use of an ancient 'version control system' known as Git."
+		log "Factions" "GitHub" "GitHub was an organization founded in the 21st century. During the early 21st century, they distributed computer code via a development model called 'open source'. GitHub as an organization collapsed during the 23rd century. In addiiton to the distribution of computer code, GitHub also assisted in the development of large projects, often developed by multiple people, by making use of an ancient 'version control system' known as Git."
 
-		log "Minor People" "Linus Torvalds" "Software engineer born on Earth in the 20th century (c. 1965 - 1970). Known mostly for his effort in developing the 'Linux kernel', development of which continues well in the 31st century, and is the basis of approximately 95% of the pre-installed operating systems on navigation computers."
+		log "Minor People" "Linus Torvalds" "Software engineer born on Earth in the 20th century (c. 1965 - 1970). Known mostly for his effort in developing the 'Linux kernel', development of which continues well in the 31st century. 95% of computers in human space run operating systems that use the Linux kernel."
 
 		log "Spaceport was quiet once more. Thankfully, it wasn't another rebellion just like the Free Worlds. Workers on Earth apparently opened up some old time capsule full of crates all labelled 'GitHub'. Some guy named John told me it was called the 'GitHub Code Vault'. All of it was code. Just code. He made a point to say that the first program that they 'compiled' was the 'Linux kernel'."
 
@@ -65,7 +65,7 @@ mission githubCodeVault.conversation
 
 
 			label openSourceQuestion
-			`	"Open-source is basically a model of development where the source code of the project is offered to anyone free of charge, usually under a permissive license. This is in contrast to proprietary software, where nobody except the company is allowed access to the source code.", John says.`
+			`	"Open-source is basically a model of development where the source code of the project is offered to anyone free of charge, usually under a permissive license. This is in contrast to proprietary software, where nobody except the developer or company who created it is allowed access to the source code.", John says.`
 			choice
 				`	(Leave.)`
 					goto leave
@@ -78,7 +78,7 @@ mission githubCodeVault.conversation
 
 
 			label torvaldsLinuxQuestion
-			`	"Well, you must be confused. torvalds/linux was the repository for something called the Linux kernel. At the core of most of the computers that run our ships, such as the targeting computer, the shield harmonics computer, is the Linux kernel. The Linux kernel has changed so much over the past 1000 years."`
+			`	"Well, you must be confused. torvalds/linux was the repository for something called the Linux kernel. At the core of most of the computers that run our ships, such as the targeting, navigation and shield harmonics computers, is the Linux kernel. The Linux kernel has changed so much over the past 1000 years."`
 			`	"Meanwhile, the 'torvalds' in the name refers to the owner of the repository, a human known as Linus Torvalds. He was the creator of the Linux kernel until he handed over control of the project to his family. Nowadays, there are several forks of it.", John says.`
 			`	"Well, that explains everything.", you say in response.`
 			choice
@@ -93,7 +93,7 @@ mission githubCodeVault.conversation
 
 
 			label gitQuestion
-			`	"Repositories are folders which are being tracked by version control systems. This allows programmers to keep track of their code and log changes being made to it. In this particular case, Git was the version control system in question, which Linus Torvalds built for the Linux kernel, after they stopped using a software called 'BitKeeper'. Archival copies of BitKeeper and Git are still available on Alexandra, I suppose."`
+			`	"Repositories are folders which are being tracked by version control systems. This allows programmers to keep track of their code and log changes being made to it. In this particular case, Git was the version control system in question, which Linus Torvalds built for the Linux kernel, after they stopped using a software called 'BitKeeper'. Archival copies of BitKeeper and Git are still available on Alexandria, I suppose."`
 			`	"Anything more to ask, <first>?"`
 			choice
 				`	What in the world is 'torvalds/linux'?`
