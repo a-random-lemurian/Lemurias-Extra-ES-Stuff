@@ -145,59 +145,16 @@ system Neistat
 
 
 system Orbona
-	link Neistat
-	link Serfeiia
-	link Limen
-	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 2100
-	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
-	fleet spa.general.amidalaVariants.large.1 800
-	fleet cssf.general.emeraldSword.large.1 2700
-	fleet spa.general.EmeraldSword.med.1 1200
-	object
-		sprite star/b-giant
-		distance 25
-		period 9.71046
-	object
-		sprite star/k0
-		distance 100
-		period 9.71046
-		offset 180
-	object
-		sprite planet/earth
-		distance 479.70208
-		period -78220770
-		object
-			sprite planet/desert4
-			distance 149
-			period 22.8635
-	object
-		sprite planet/desert3-b
-		distance 862.846
-		period 189.592
-	object
-		sprite planet/ice1
-		distance 1210.49
-		period 315.035
-		object
-			sprite planet/rock3-b
-			distance 175
-			period 19.7858
-	object
-		sprite planet/ocean1-b
-		distance 1594.3
-		period 476.182
-	object
-		sprite planet/gas4-b
-		distance 2057.86
-		period 698.3
-		object
-			sprite planet/dust1
-			distance 273
-			period 15.9089
-
-
+	add link Neistat
+	add link Serfeiia
+	add link Limen
+	add fleet spa.war.illuminaReg.large.1 600
+	add fleet cssf.war.illuminaReg.large.1 2100
+	add fleet spa.war.illuminaReg.large.1 600
+	add fleet cssf.war.illuminaReg.large.1 600
+	add fleet spa.general.amidalaVariants.large.1 800
+	add fleet cssf.general.emeraldSword.large.1 2700
+	add fleet spa.general.EmeraldSword.med.1 1200
 system Aljuik
 	pos -961.66667 -129.58333
 	government "Sayari Plushie"
