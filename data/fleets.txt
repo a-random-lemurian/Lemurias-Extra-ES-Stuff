@@ -241,6 +241,8 @@ fleet spa.general.amidalaVariants.large.1
 		"Amidala Miner" 5
 
 fleet spa.trade.gen.small.1
+	cargo 1
+	commodities "Data drives"
 	government "Sayari Plushie"
 	names spa.allNames
 	personality
@@ -311,7 +313,22 @@ fleet spa.trade.gen.small.1
 	variant 3
 		"Star Barge"    8
 		"SPA Gunboat"   3
-
+	variant 8
+		"Star Barge"   20
+		"SPA Cruiser"   6
+	variant 4
+		"Freighter"    50
+		"SPA Gunboat"  20
+		"SPA Cruiser"   8
+	variant 2
+		"Hauler III"    1
+		"SPA Gunboat"   2
+		"Star Barge"    3
+		"Fury"          1
+	variant 4
+		"SPA Gunboat"  10
+		"SPA Cruiser"   2
+		"Hauler III"    8
 fleet spa.war.illuminaReg.large.1
 	names spa.allNames
 	cargo 13
