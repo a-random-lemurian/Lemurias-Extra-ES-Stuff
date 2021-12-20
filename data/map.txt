@@ -845,6 +845,9 @@ system Minjuuk
 	pos -1083.0278 -219.25
 	link Raidei
 	link Sedlai
+	link Lesarkei
+	link Alkxaai
+	link Littike
 
 
 system Alkxaai
@@ -852,6 +855,7 @@ system Alkxaai
 	government "Sayari Plushie"
 	link Aljuik
 	link Jalak
+	link Minjuuk
 	link Oldothe
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
@@ -943,6 +947,7 @@ system Finduue
 	pos -1279.0278 -197.80556
 	link "14 Pole"
 	link Lesarkei
+	link Raidei
 
 
 system Litiedei
@@ -1017,6 +1022,8 @@ system Lesarkei
 	pos -1191.0278 -268.80556
 	link Finduue
 	link Zusul
+	link Raidei
+	link Minjuuk
 
 
 system Radonei
@@ -1110,6 +1117,7 @@ system Lakodelfraddi
 	pos -1172.4722 -112.41666
 	link Littike
 	link Sayreopli
+	link Raidei
 
 
 system Oldothe
@@ -1168,6 +1176,9 @@ system Raidei
 	pos -1183.4722 -173.41666
 	link Littike
 	link Minjuuk
+	link Lakodelfraddi
+	link Finduue
+	link Lesarkei
 
 
 system Littike
@@ -1176,6 +1187,7 @@ system Littike
 	link Lakodelfraddi
 	link Oldothe
 	link Raidei
+	link Minjuuk
 
 
 system Aixafer
