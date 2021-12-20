@@ -144,7 +144,7 @@ phrase nnp.2
 		"utepp"
 		"uldrei"
 phrase nnp.3
-	phrase
+	word
 		"A"
 		"E"
 		"I"
