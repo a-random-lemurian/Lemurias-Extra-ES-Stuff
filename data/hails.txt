@@ -109,3 +109,41 @@ phrase spa.hails.friendly.sp3
 		". "
 	word
 		"Report any suspicious persons to our office on Khoramelia."
+
+
+phrase spa.hails.friendly.sp4
+	word
+		"You look like a"
+	word
+		" "
+	word
+		"captain"
+		"person"
+	word
+		" "
+	word
+		"that could really use"
+		"who could really use"
+		"in need of"
+		"desperate for"
+	word
+		" "
+	word
+		"some"
+	word
+		" "
+	word
+		"Katya"
+		"Freya Winters"
+		"Freya"
+		"Sayari"
+	word
+		" "
+	word
+		"plushies"
+		"life-size plushies"
+		"budget plushies"
+	word
+		"."
+		"!"
+		", am I right?"
