@@ -21,23 +21,35 @@ event githubCodeVault
 
 mission githubCodeVault.conversation
 	landing
+
 	source
 		government "Republic" "Syndicate" "Free Worlds" "Sayari Plushie"
+
 	to offer
 		has "event: githubCodeVault"
+
 	on decline
 		set "githubCodeVault.didConversation"
+
 	on offer
 		log "Factions" "GitHub" "GitHub was an organization founded in the 21st century. It's mandate was to distribute computer code via a development model called 'open source'. GitHub as an organization collapsed during the 23rd century. In addiiton to the distribution of computer code, GitHub also assisted in the development of large projects, often developed by multiple people, by making use of an ancient 'version control system' known as Git."
+
 		log "Minor People" "Linus Torvalds" "Software engineer born on Earth in the 20th century (c. 1965 - 1970). Known mostly for his effort in developing the 'Linux kernel', development of which continues well in the 31st century, and is the basis of approximately 95% of the pre-installed operating systems on navigation computers."
+
 		log "Spaceport was quiet once more. Thankfully, it wasn't another rebellion just like the Free Worlds. Workers on Earth apparently opened up some old time capsule full of crates all labelled 'GitHub'. Some guy named John told me it was called the 'GitHub Code Vault'. All of it was code. Just code. He made a point to say that the first program that they 'compiled' was the 'Linux kernel'."
+
 		conversation
 			`As you land at the spaceport, you find that it is eerily quiet once more. You enter the spaceport bar and on one of the screens is a news broadcast showing a group of workers unloading several crates all labelled "GitHub" from an unknown location in the Arctic on Earth.`
+			
 			`	"Over 1000 years ago, our ancestors gathered more than 200 million "repositories" of code and preserved them in what they called the 'Arctic Code Vault'. According to archaeologists, GitHub was an ancient organization whose sole purpose was to distribute computer code across the world, via a model of development known as 'open source'.", says the news anchor.`
+			
 			`Just as you are about to leave, one of the patrons in the bar grab your shoulder. "They're opening the box!", says the patron. You gaze back at the screen. Several computer experts inspect the first box. The camera pans towards another label on the box. The label is as follows:`
+			
 			`		Repository: torvalds/linux`
 			`		ID: #90939-40093`
+			
 			`The same patron introduces himself as 'John'. He sees that you are visibly confused, so he asks you if you have a question. "You confused? Well, I've been programming in C since the 2990s so I'd say I'm quite knowledgeable."`
+			
 			choice
 				`	"Wait, what's 'torvalds/linux'?"`
 					goto torvaldsLinuxQuestion
@@ -51,6 +63,7 @@ mission githubCodeVault.conversation
 				`	(Leave.)`
 					goto leave
 
+
 			label openSourceQuestion
 			`	"Open-source is basically a model of development where the source code of the project is offered to anyone free of charge, usually under a permissive license. This is in contrast to proprietary software, where nobody except the company is allowed access to the source code.", John says.`
 			choice
@@ -62,6 +75,7 @@ mission githubCodeVault.conversation
 
 				`	"What is a 'repository'?"`
 					goto gitQuestion
+
 
 			label torvaldsLinuxQuestion
 			`	"Well, you must be confused. torvalds/linux was the repository for something called the Linux kernel. At the core of most of the computers that run our ships, such as the targeting computer, the shield harmonics computer, is the Linux kernel. The Linux kernel has changed so much over the past 1000 years."`
@@ -76,7 +90,8 @@ mission githubCodeVault.conversation
 
 				`	"But what is a 'repository'?"`
 					goto gitQuestion
-			
+
+
 			label gitQuestion
 			`	"Repositories are folders which are being tracked by version control systems. This allows programmers to keep track of their code and log changes being made to it. In this particular case, Git was the version control system in question, which Linus Torvalds built for the Linux kernel, after they stopped using a software called 'BitKeeper'. Archival copies of BitKeeper and Git are still available on Alexandra, I suppose."`
 			`	"Anything more to ask, <first>?"`
@@ -89,7 +104,8 @@ mission githubCodeVault.conversation
 
 				`	(Leave.)`
 					goto leave
-			
+
+
 			label leave
 			`	"I hope you learned something new! And make sure your ship computer uses Ubuntu! I highly recommend that!", says John as you leave the spaceport bar and return to your ship.`
 				decline
@@ -98,8 +114,10 @@ mission githubCodeVault.conversation
 mission githubCodeVault.alexandriaVisit
 	landing
 	source "Alexandria"
+
 	to offer
 		has "githubCodeVault.didConversation"
+
 	on offer
 		conversation
 			"You are on <origin>. Would you like to ask the librarian for a copy of the 'Git' version control system?"
@@ -108,7 +126,8 @@ mission githubCodeVault.alexandriaVisit
 					goto getGit
 				"(No.)"
 					defer
-			
+
+
 			label getGit
 			"You decide to look for a copy of the Git version control system."
 			choice
@@ -117,7 +136,8 @@ mission githubCodeVault.alexandriaVisit
 				
 				"(Ask a librarian for help.)"
 					goto getGit.askLibrarianForHelp
-			
+
+
 			label getGit.lookThroughShelves
 			"You decide to look through the endless shelves of datachips for a copy of the Git version control system. You are stuck for hours, scrambling through the datachips in the 'Programs' section. You've seen some sort of white cat on a black background on some of the datachips labelled 'GitHub'."
 			"After nearly 4 hours of searching, you've turned up empty-handed."
@@ -143,6 +163,7 @@ mission githubCodeVault.alexandriaVisit
 					goto getGit.leaving
 			action
 				set "leest.player.hasGit"
-			
+
+
 			label getGit.leaving
 			"You leave the library with your copy of Git in hand. Hopefully you'll encounter John, the guy who told you about all this."
