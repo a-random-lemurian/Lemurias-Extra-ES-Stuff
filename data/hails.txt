@@ -1,5 +1,5 @@
 # LEESt: The world's greatest Endless Sky plugin.
-# Copyright (C) 2021 Lemuria
+# Copyright (C) 2021-2022 Lemuria
 
 # This program is free software: you can redistribute it and/or modify it under the terms of the GNU
 # General Public License as published by the Free Software Foundation, either version 3 of the
@@ -18,11 +18,15 @@
 phrase spa.hails.hostile
 	phrase
 		spa.hails.hostile.sp1
+		spa.hails.hostile.sp2
+		spa.hails.hostile.sp3
 phrase spa.hails.friendly
 	phrase
 		spa.hails.friendly.sp1
 		spa.hails.friendly.sp2
 		spa.hails.friendly.sp3
+		spa.hails.friendly.sp4
+		spa.hails.friendly.sp5
 
 
 phrase spa.hails.hostile.sp1
@@ -41,6 +45,32 @@ phrase spa.hails.hostile.sp1
 	word
 		"."
 		"!"
+phrase spa.hails.hostile.sp2
+	word
+		"<first> <last>, please"
+		"It would be better for you to"
+		"We will not hurt you if you"
+		"Please"
+	word
+		" "
+	word
+		"leave us alone"
+		"let us live"
+	word
+		"."
+	word
+		" "
+phrase spa.hails.hostile.sp3
+	word
+		"(intercepted message) "
+	word
+		"We have <first> <last> aboard <name>, moving in to intercept!"
+		"Attention all fleets in the area, please assist in the destruction of <first> <last>'s ship, <name>."
+		"Hostile ship <name> detected."
+		"Hostile captain <first> <last> detected."
+		"[Breaking encryption.......]" 200
+		"[Encrypted message. Cipher type cannot be brute-forced.]" 200
+		"[Scrambled message. Decoder attempt failed (395 attempts made)]" 200
 
 
 phrase spa.hails.friendly.sp1
@@ -109,3 +139,63 @@ phrase spa.hails.friendly.sp3
 		". "
 	word
 		"Report any suspicious persons to our office on Khoramelia."
+
+
+phrase spa.hails.friendly.sp4
+	word
+		"You look like a"
+	word
+		" "
+	word
+		"captain"
+		"person"
+	word
+		" "
+	word
+		"that could really use"
+		"who could really use"
+		"in need of"
+		"desperate for"
+	word
+		" "
+	word
+		"some"
+	word
+		" "
+	word
+		"Katya"
+		"Freya Winters"
+		"Freya"
+		"Sayari"
+	word
+		" "
+	word
+		"plushies"
+		"life-size plushies"
+		"budget plushies"
+	word
+		"."
+		"!"
+		", am I right?"
+
+
+phrase spa.hails.friendly.sp5
+	word
+		"Remember to visit "
+	word
+		"Hai space "
+	word
+		"often! "
+	word
+		"Just go to the wormhole."
+		"Contact any SPA officer for instructions."
+		"There's a wormhole near Mirfak."
+		"Look for a place named Ultima Thule."
+		"If only we could install the map on your ship computer."
+	word
+		" "
+	word
+		"Just don't tell the Republic."
+		"Don't tell the CSSF."
+		"Watch out for pirates though."
+		"Don't be shocked if everybody there looks like a giant squirrel."

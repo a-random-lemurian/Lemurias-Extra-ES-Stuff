@@ -14,31 +14,10 @@
 
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
-
-
-mission general.fighting.pirateFight.small.1
-	name "Destroy small pirate fleet"
-	description "Pirates have been detected near <system>. They must be destroyed immediately. The government of <system> will reward anyone who destroys or renders their fleet incapable of combat or basic operation <payment>."
-	job
-	repeat
-	to offer
-		"combat rating" > 500
-		random > 70
-	on complete
-		dialog phrase general.fighting.pirateFight.complete
-		payment 87000 10
-	source
-		government "Sayari Plushie" "Republic" "Syndicate" "Free Worlds" "Independent" "Neutral"
-	npc kill
-		system
-			distance 1 2
-		fleet
-			government Pirate
-			names pirate
-			personality
-				confusion 24
-				plunders harvests disables
-			variant 8
-				Sparrow 4
-				Berserker 3
-				Argosy 2
+# mission antiYuyukoSaigyouji
+# 	to offer
+# 		"<first>" == "Yuyuko"
+# 		"<last>" == "Saigyouji"
+# 	on offer
+# 		"reputation: Sayari Plushie" = -100000
+# 		"reputation: Yuyuko Saigyouji" = 100000

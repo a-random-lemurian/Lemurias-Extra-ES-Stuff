@@ -1,5 +1,5 @@
 # LEESt: The world's greatest Endless Sky plugin.
-# Copyright (C) 2021 Lemuria
+# Copyright (C) 2021-2022 Lemuria
 
 # This program is free software: you can redistribute it and/or modify it under the terms of the GNU
 # General Public License as published by the Free Software Foundation, either version 3 of the
@@ -145,59 +145,16 @@ system Neistat
 
 
 system Orbona
-	link Neistat
-	link Serfeiia
-	link Limen
-	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 2100
-	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
-	fleet spa.general.amidalaVariants.large.1 800
-	fleet cssf.general.emeraldSword.large.1 2700
-	fleet spa.general.EmeraldSword.med.1 1200
-	object
-		sprite star/b-giant
-		distance 25
-		period 9.71046
-	object
-		sprite star/k0
-		distance 100
-		period 9.71046
-		offset 180
-	object
-		sprite planet/earth
-		distance 479.70208
-		period -78220770
-		object
-			sprite planet/desert4
-			distance 149
-			period 22.8635
-	object
-		sprite planet/desert3-b
-		distance 862.846
-		period 189.592
-	object
-		sprite planet/ice1
-		distance 1210.49
-		period 315.035
-		object
-			sprite planet/rock3-b
-			distance 175
-			period 19.7858
-	object
-		sprite planet/ocean1-b
-		distance 1594.3
-		period 476.182
-	object
-		sprite planet/gas4-b
-		distance 2057.86
-		period 698.3
-		object
-			sprite planet/dust1
-			distance 273
-			period 15.9089
-
-
+	add link Neistat
+	add link Serfeiia
+	add link Limen
+	add fleet spa.war.illuminaReg.large.1 600
+	add fleet cssf.war.illuminaReg.large.1 2100
+	add fleet spa.war.illuminaReg.large.1 600
+	add fleet cssf.war.illuminaReg.large.1 600
+	add fleet spa.general.amidalaVariants.large.1 800
+	add fleet cssf.general.emeraldSword.large.1 2700
+	add fleet spa.general.EmeraldSword.med.1 1200
 system Aljuik
 	pos -961.66667 -129.58333
 	government "Sayari Plushie"
@@ -250,6 +207,12 @@ system Duffeni
 	government "Sayari Plushie"
 	link Aljuik
 	link Illuria
+	fleet spa.trade.gen.small.1 300
+	fleet spa.trade.gen.small.1 300
+	fleet spa.trade.gen.small.1 300
+	fleet spa.trade.gen.small.1 300
+	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
 	fleet cssf.war.illuminaReg.large.1 1600
 	fleet spa.general.EmeraldSword.med.1 1400
@@ -888,6 +851,9 @@ system Minjuuk
 	pos -1083.0278 -219.25
 	link Raidei
 	link Sedlai
+	link Lesarkei
+	link Alkxaai
+	link Littike
 
 
 system Alkxaai
@@ -895,6 +861,7 @@ system Alkxaai
 	government "Sayari Plushie"
 	link Aljuik
 	link Jalak
+	link Minjuuk
 	link Oldothe
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
@@ -986,6 +953,7 @@ system Finduue
 	pos -1279.0278 -197.80556
 	link "14 Pole"
 	link Lesarkei
+	link Raidei
 
 
 system Litiedei
@@ -1060,6 +1028,8 @@ system Lesarkei
 	pos -1191.0278 -268.80556
 	link Finduue
 	link Zusul
+	link Raidei
+	link Minjuuk
 
 
 system Radonei
@@ -1153,6 +1123,7 @@ system Lakodelfraddi
 	pos -1172.4722 -112.41666
 	link Littike
 	link Sayreopli
+	link Raidei
 
 
 system Oldothe
@@ -1211,6 +1182,9 @@ system Raidei
 	pos -1183.4722 -173.41666
 	link Littike
 	link Minjuuk
+	link Lakodelfraddi
+	link Finduue
+	link Lesarkei
 
 
 system Littike
@@ -1219,6 +1193,7 @@ system Littike
 	link Lakodelfraddi
 	link Oldothe
 	link Raidei
+	link Minjuuk
 
 
 system Aixafer
@@ -1326,7 +1301,7 @@ system Denleitt
 	link Sayreopli
 
 ##################################################################################################
-   # PLANETS #
+# PLANETS #
 planet "Leroo Station"
 	attributes station
 	shipyard "Advanced Northern Pirates"
@@ -1369,7 +1344,7 @@ planet Markaai
 	outfitter "Kraz Basics"
 	outfitter "Lovelace Basics"
 	landscape land/markaai
-	description "Markaii is a thriving world in the Illuria system. However, it's cousin, Illumina, has a similar name, meaning people regularly confuse the two planets together. Due to this, the residents have been discussing changing the name of the system lately but it is unlikely the Republic will approve of this."
+	description "Markaai is a thriving world in the Illuria system. However, it's cousin, Illumina, has a similar name, meaning people regularly confuse the two planets together. Due to this, the residents have been discussing changing the name of the system lately but it is unlikely the Republic will approve of this."
 	spaceport "Most dockworkers you see at the port have been continually annoyed at constant cargo arrivals bound for Illumina. Annoyed dockworkers aside, merchants haggle for hours on end with sellers to get the lowest possible price. In addition, Markaai is home to a large ship refurbishment company, offering various types of ships for anyone's needs."
 	government Republic
 	security 0.66
