@@ -391,6 +391,16 @@ system Deriie
 	fleet spa.general.EmeraldSword.med.1 1400
 	fleet "Large Northern Merchants" 600
 	fleet "Small Northern Pirates" 1200
+	trade Clothing 324
+	trade Electronics 743
+	trade Equipment 596
+	trade Food 543
+	trade "Heavy Metals" 683
+	trade Industrial 744
+	trade "Luxury Goods" 1092
+	trade Medical 915
+	trade Metal 333
+	trade Plastic 553
 	object
 		sprite star/k5
 		distance 3
