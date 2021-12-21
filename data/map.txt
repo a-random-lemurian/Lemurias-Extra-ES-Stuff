@@ -1561,6 +1561,39 @@ system Pelitol
 	pos -1357.2079 -286.53422
 	link Defal
 	link Ikopp
+	fleet spa.exploration.scout.small.2 2000
+	object
+		sprite "star/k0"
+		period 0
+		distance 0
+	object
+		sprite "planet/rock11"
+		period 182
+		distance 503
+	object
+		sprite "planet/forest0"
+		period 277
+		distance 774
+	object
+		sprite "planet/desert3"
+		period 324
+		distance 913
+	object
+		sprite "planet/rock16"
+		period 530
+		distance 1233
+	object
+		sprite "planet/rock3"
+		period 677
+		distance 1448
+	object
+		sprite "planet/gas14-b"
+		period 988
+		distance 2884
+	object
+		sprite "planet/gas3-hot"
+		period 1332
+		distance 3902
 ### Q ###
 system Qartalp
 	pos -1408.569 -726.83978
