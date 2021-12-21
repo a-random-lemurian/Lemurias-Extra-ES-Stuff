@@ -574,6 +574,13 @@ system Serfeiia
 	fleet cssf.war.illuminaReg.large.1 3000
 	fleet cssf.general.EmeraldSword.large.1 2300
 	fleet spa.war.vanguard.large.1 1500
+	trade Clothing 329
+	trade Electronics 481
+	trade Equipment 542
+	trade Food 321
+	trade "Heavy Metals" 651
+	trade Industrial 713
+	trade "Luxury Goods" 1466
 	link Illumina
 	link Orbona
 	object
@@ -779,6 +786,13 @@ system Jalak
 	fleet spa.general.Falcon.large.1 2000
 	fleet "Large Northern Merchants" 600
 	fleet "Large Southern Merchants" 600
+	trade Clothing 312
+	trade Electronics 493
+	trade Equipment 547
+	trade Food 335
+	trade "Heavy Metals" 673
+	trade Industrial 723
+	trade "Luxury Goods" 1433
 	object
 		sprite star/k0
 		period 10
@@ -888,6 +902,13 @@ system Alkxaai
 	fleet "Large Northern Merchants" 600
 	fleet "Small Republic" 800
 	fleet "Large Northern Pirates" 6000
+	trade Clothing 321
+	trade Electronics 532
+	trade Equipment 548
+	trade Food 305
+	trade "Heavy Metals" 613
+	trade Industrial 783
+	trade "Luxury Goods" 1562 
 	object
 		sprite star/g0
 		distance 3
@@ -1168,6 +1189,13 @@ system Oldothe
 	fleet spa.trade.HumanSpace.large.1 1600
 	fleet spa.mining.amidalaMiner.med.1 1500
 	fleet "Large Northern Merchants" 600
+	trade Clothing 431
+	trade Electronics 652
+	trade Equipment 594
+	trade Food 393
+	trade "Heavy Metals" 621
+	trade Industrial 793
+	trade "Luxury Goods" 1102 
 	object
 		sprite star/g0
 		period 0
@@ -1225,6 +1253,13 @@ system Aixafer
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
 	fleet "Large Northern Merchants" 600
+	trade Clothing 327
+	trade Electronics 511
+	trade Equipment 543
+	trade Food 332
+	trade "Heavy Metals" 593
+	trade Industrial 713
+	trade "Luxury Goods" 1438 
 	object
 		sprite star/g0
 		distance 3
@@ -1311,6 +1346,13 @@ system Zarkxaa
 	fleet spa.trade.haiSpace.large.1 1000
 	fleet spa.trade.HumanSpace.large.1 1000
 	fleet "Large Northern Merchants" 600
+	trade Clothing 377
+	trade Electronics 512
+	trade Equipment 574
+	trade Food 364
+	trade "Heavy Metals" 653
+	trade Industrial 739
+	trade "Luxury Goods" 1477 
 
 
 system Denleitt
