@@ -164,3 +164,71 @@ ship "Cruiser" "SPA Cruiser"
 	description "This Cruiser is a custom-built SPA variant designed for combat. It's primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
 
 
+ship "Carrier" "SPA Carrier (Combat)"
+	sprite "ship/carrier"
+	thumbnail "thumbnail/carrier"
+	attributes
+		category "Heavy Warship"
+		"cost" 23200000
+		"shields" 32400
+		"hull" 6900
+		"required crew" 184
+		"bunks" 276
+		"mass" 1250
+		"drag" 19.7
+		"heat dissipation" .45
+		"fuel capacity" 900
+		"cargo space" 200
+		"outfit space" 1560
+		"weapon capacity" 450
+		"engine capacity" 330
+		weapon
+			"blast radius" 300
+			"shield damage" 3000
+			"hull damage" 1500
+			"hit force" 4500
+	outfits
+		"Electron Beam" 8
+		"Electron Turret" 4
+		
+		"Blue Sun Reactor" 2
+		"LP288a Battery Pack" 3
+		"Hai Diamond Regenerator" 4
+		"Large Heat Shunt" 2
+		
+		"A860 Atomic Thruster"
+		"A865 Atomic Steering"
+		"Hyperdrive"
+		"Jump Drive"
+		
+	engine -36.5 200 0.65
+	engine  36.5 200 0.65
+
+	gun    -17.5   -176.5      "Electron Beam"
+	gun     17.5   -176.5      "Electron Beam"
+	gun    -17.5   -176.5      "Electron Beam"
+	gun     17.5   -176.5      "Electron Beam"
+	gun    -26     -167.5      "Electron Beam"
+	gun     26     -167.5      "Electron Beam"
+	gun    -26     -167.5      "Electron Beam"
+	gun     26     -167.5      "Electron Beam"
+	turret   0      -49        "Electron Turret"
+	turret   0       14        "Electron Turret"
+	turret -22       22        "Electron Turret"
+	turret  22       22        "Electron Turret"
+
+	leak "leak"     30 50
+	leak "flame"    30 80
+	leak "big leak" 30 30
+
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	explode "huge explosion" 10
+
+	"final explode" "final explosion large"
+
+	description "The Carrier is more than just a warship: it is practically a mobile space station, with docking bays for an entire squadron of drones and fighters and enough crew to fill a small village. Although designed primarily for engaging enemies from a distance, a Carrier can also do significant damage in close combat."
+	description "This is yet another SPA-built variant of the Carrier, since it seems they have an affinity for Republic ships due to their firepower."
+
