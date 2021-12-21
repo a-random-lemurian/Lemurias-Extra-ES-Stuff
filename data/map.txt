@@ -1377,6 +1377,7 @@ system Doru
 
 system Defal
 	pos -1356.319 -246.08978
+	government "Sayari Plushie"
 	link Ikopp
 	link Pelitol
 	fleet spa.exploration.scout.small.2 2000
