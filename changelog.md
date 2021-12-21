@@ -1,5 +1,6 @@
 ### v0.10.7
 - Added more SPA friendly and hostile hails.
+- Balanced Amidala stats
 - Improve GitHub code vault story dialog.
    - Do not imply that all proprietary projects are corporate
    - Fixed bad goto label in GitHub Code Vault story
