@@ -1379,7 +1379,7 @@ system Defal
 	pos -1356.319 -246.08978
 	link Ikopp
 	link Pelitol
-
+	fleet spa.exploration.scout.small.2 2000
 system Destri
 	pos -1292.2634 -395.42311
 	link Ilutep

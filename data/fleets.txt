@@ -405,6 +405,18 @@ fleet spa.exploration.scout.small.1
 	variant 1
 		"Sparrow" 3
 		"Amidala" 1
+fleet spa.exploration.scout.small.2
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		heroic disables
+	variant 1
+		"SPA Cruiser"    1
+		"SPA Gunboat"    2
+	variant
+		"SPA Gunboat"    3
+	variant
+		"SPA Cruiser"    2
 
 
 fleet spa.general.korathChaser.1
