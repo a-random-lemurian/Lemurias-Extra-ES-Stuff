@@ -25,6 +25,7 @@ phrase spa.hails.friendly
 		spa.hails.friendly.sp1
 		spa.hails.friendly.sp2
 		spa.hails.friendly.sp3
+		spa.hails.friendly.sp4
 
 
 phrase spa.hails.hostile.sp1
