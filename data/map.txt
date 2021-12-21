@@ -207,6 +207,12 @@ system Duffeni
 	government "Sayari Plushie"
 	link Aljuik
 	link Illuria
+	fleet spa.trade.gen.small.1 300
+	fleet spa.trade.gen.small.1 300
+	fleet spa.trade.gen.small.1 300
+	fleet spa.trade.gen.small.1 300
+	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
 	fleet cssf.war.illuminaReg.large.1 1600
 	fleet spa.general.EmeraldSword.med.1 1400
