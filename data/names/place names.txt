@@ -17,7 +17,7 @@
 phrase all.irlPlaces
 	phrase
 		all.phPlaces.leest
-		all.usPlaces.leest
+		all.usCities.leest
 		all.idPlaces.leest
 phrase all.idPlaces.leest # Indonesian locations
 	word

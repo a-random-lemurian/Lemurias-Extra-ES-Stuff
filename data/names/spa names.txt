@@ -29,7 +29,7 @@ phrase spa.allNames.noPrefix
 		spa.multiWordNames
 		spa.color-item
 		spa.royalNavy
-		spa.psuedonames
+		psuedonames
 		spa.miscCharacternames
 		linuxRelated
 		technames
@@ -180,4 +180,4 @@ phrase spa.oneWordNames
 	phrase
 		spa.oneword.ficPlaces
 		spa.oneword.Food
-		all.irlPlaces.leest
+		all.irlPlaces
