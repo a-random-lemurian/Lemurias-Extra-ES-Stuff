@@ -1322,7 +1322,7 @@ system Denleitt
 
 ###################################
 # Other systems
-# Region: ==<  >==
+# Region: ==< Northwest Illumina Regions >==
 ###################################
 
 
