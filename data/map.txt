@@ -1380,6 +1380,34 @@ system Defal
 	link Ikopp
 	link Pelitol
 	fleet spa.exploration.scout.small.2 2000
+	object
+		sprite "star/k5"
+		period 0
+		distance 0
+	object
+		sprite "planet/rock5"
+		period 133
+		distance 449
+	object
+		sprite "planet/dust6"
+		period 249
+		distance 776
+	object
+		sprite "planet/forest0"
+		period 377
+		distance 1203
+	object
+		sprite "planet/gas5"
+		period 431
+		distance 1653
+	object
+		sprite "planet/gas8"
+		period 553
+		distance 2344
+		object "Defal VI Station"
+			sprite "planet/station15"
+			period 39
+			distance 233
 system Destri
 	pos -1292.2634 -395.42311
 	link Ilutep
@@ -1798,3 +1826,10 @@ planet Denchrao
 	government "Sayari Plushie"
 	description "Denchrao is a large and urbanized world with several cities scattered over the many continent. Rather strangely, 55% of the planet is land, whereas the average proportion of land to water on other planets was far lower, somewhere between 30 to 40%. Outside of the cities, the nature is surprisingly pristine and is well-preserved and catalogued."
 	spaceport "The spaceport is located in the largest city on Denchrao. Businessmen in suits can be seen conversing with SPA officers and carts full of plushies, either depicting Sayari, or Freya Winters"
+##################################################################################################
+#===< Northwest Illumina Regions planets >===#
+planet "Defal VI Station"
+	landscape "land/space2"
+	government "Sayari Plushie"
+	description "This is an outpost reachable only by jump drive. This is just about the closest settlement to Coalition space by travel time, but a jump drive would be needed to do that."
+	spaceport "As standard procedure, there are fuel pumps. Not many people are here, and you feel like you're in a distant region of space. There is only one ship docked. The crew seem friendly and even let you view one of their plushies. Even in remote space, Freya Winters plushies run rampant."
