@@ -40,6 +40,13 @@ trade
         "Endless Sky game files"
         "Endless Sky game saves"
 
+        "C source code files"
+        "C++ source code files"
+        "Python source code files"
+        "Java source code files"
+        "JavaScript source code files"
+        "Lua source code files"
+
     commodity "4th wall breaker"
         "Endless Sky game files"  
     
