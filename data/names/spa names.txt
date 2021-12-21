@@ -32,6 +32,7 @@ phrase spa.allNames.noPrefix
 		spa.psuedonames
 		spa.miscCharacternames
 		linuxRelated
+		technames
 phrase spa.multiword
 	phrase
 		spa.multiword.1
