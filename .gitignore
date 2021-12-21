@@ -10,6 +10,3 @@ ignoredfiles
 images/.DS_Store/
 script/input
 GITPLSIGNOREMEIAMASECRETFILE.*
-
-# ES Editor file
-imgui.ini
