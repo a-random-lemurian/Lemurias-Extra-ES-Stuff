@@ -216,6 +216,16 @@ system Duffeni
 	fleet spa.war.illuminaReg.large.1 600
 	fleet cssf.war.illuminaReg.large.1 1600
 	fleet spa.general.EmeraldSword.med.1 1400
+	trade Clothing 339
+	trade Electronics 502
+	trade Equipment 554
+	trade Food 304
+	trade "Heavy Metals" 643
+	trade Industrial 733
+	trade "Luxury Goods" 1502 
+	trade Medical 790
+	trade Metal 665
+	trade Plastic 448
 	object
 		sprite star/k5
 		period 1
