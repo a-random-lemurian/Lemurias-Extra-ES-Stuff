@@ -168,7 +168,7 @@ fleet cssf.war.Patrol.small.1
 ###################################################################################################################
 fleet imc.mining.illuminaMiners.small.1
 	government "Illumina Mining Company"
-	names "Civilian"
+	names "civilian"
 	personality
 		timid waiting harvests mining
 	variant 1
@@ -184,7 +184,7 @@ fleet imc.mining.illuminaMiners.small.1
 
 fleet imc.mining.illuminaMiners.small.2
 	government "Illumina Mining Company"
-	names "Civilian"
+	names "civilian"
 	personality
 		timid waiting harvests mining
 	variant 1
@@ -196,7 +196,7 @@ fleet imc.mining.illuminaMiners.small.2
 
 fleet imc.mining.illuminaMiners.med.1
 	government "Illumina Mining Company"
-	names "Civilian"
+	names "civilian"
 	personality
 		timid waiting harvests mining
 	variant 4
