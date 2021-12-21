@@ -1471,6 +1471,31 @@ system Ikopp
 	link Defal
 	link Pelitol
 	link Sorusep
+	fleet spa.exploration.scout.small.2 2000
+	object
+		sprite "star/a0"
+		period 0
+		distance 0
+	object
+		sprite "planet/rock3"
+		period 144
+		distance 340
+	object
+		sprite "planet/rock5"
+		period 322
+		distance 711
+	object
+		sprite "planet/ice3"
+		period 559
+		distance 1493
+	object
+		sprite "planet/gas14"
+		period 1994
+		distance 4303
+	object
+		sprite "planet/gas13"
+		period 2663
+		distance 6591
 system Itycha
 	pos -1493.0134 -777.062
 	link Fratap
