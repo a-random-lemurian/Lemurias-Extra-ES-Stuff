@@ -26,6 +26,7 @@ phrase spa.hails.friendly
 		spa.hails.friendly.sp2
 		spa.hails.friendly.sp3
 		spa.hails.friendly.sp4
+		spa.hails.friendly.sp5
 
 
 phrase spa.hails.hostile.sp1
@@ -176,3 +177,25 @@ phrase spa.hails.friendly.sp4
 		"."
 		"!"
 		", am I right?"
+
+
+phrase spa.hails.friendly.sp5
+	word
+		"Remember to visit "
+	word
+		"Hai space "
+	word
+		"often! "
+	word
+		"Just go to the wormhole."
+		"Contact any SPA officer for instructions."
+		"There's a wormhole near Mirfak."
+		"Look for a place named Ultima Thule."
+		"If only we could install the map on your ship computer."
+	word
+		" "
+	word
+		"Just don't tell the Republic."
+		"Don't tell the CSSF."
+		"Watch out for pirates though."
+		"Don't be shocked if everybody there looks like a giant squirrel."
