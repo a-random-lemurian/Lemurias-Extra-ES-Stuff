@@ -102,7 +102,7 @@ mission spa.plushieTransport.mission.1
 	job
 	repeat
 	source
-		government "Sayari Plushies"
+		government "Sayari Plushie"
 	destination
 		government Republic Syndicate "Free Worlds" Hai Neutral Independent
 	cargo "SPA exports" 400 800
