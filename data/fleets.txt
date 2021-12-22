@@ -32,7 +32,7 @@ fleet pirates.war.bactrian.small.1
 
 fleet pirates.war.3bactrians.1
 	government Pirate
-	names snComp.PirateShipId.1
+	names pirate
 	cargo 1
 	personality
 		confusion 12
@@ -43,7 +43,7 @@ fleet pirates.war.3bactrians.1
 
 fleet pirates.war.capitalShip.large.1
 	government Pirate
-	names snComp.PirateShipId.1
+	names pirate
 	cargo 0
 	personality
 		disables
@@ -66,7 +66,7 @@ fleet pirates.war.capitalShip.large.1
 		Bactrian
 fleet pirates.war.sparrow.small.1
 	government Pirate
-	names snComp.PirateShipId.1
+	names pirate
 	cargo 0
 	personality
 		disables plunders
