@@ -72,6 +72,30 @@ fleet pirates.war.sparrow.small.1
 		disables plunders
 	variant 20
 		Sparrow 9
+fleet pirates.war.ghesieGuard.1
+	government Pirate
+	names pirate
+	cargo 0
+	personality
+		disables plunders
+		confusion 30
+	variant 30
+		Sparrow 20
+		Argosy 7
+		"Modified Argosy" 3
+		Falcon 2
+	variant 15
+		Leviathan 8
+		Nest 2
+		Roost 2
+	variant 20
+		Falcon 3
+		Manta 10
+		Bactrian 2
+	variant 10
+		Falcon 6
+		Manta 4
+		Vanguard 10
 ###################################################################################################################
 fleet rep.war.bactrianOnly.small
 	government Republic

@@ -331,6 +331,7 @@ system Ghesie
 	fleet "Small Northern Pirates" 800
 	fleet "Large Northern Pirates" 900
 	fleet pirates.war.capitalShip.large.1 2000
+	fleet pirates.war.ghesieGuard.1 800
 	fleet "Small Republic" 4000
 	fleet "Small Republic" 4000
 	fleet "Large Republic" 4000
