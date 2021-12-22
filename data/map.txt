@@ -2010,21 +2010,21 @@ planet "Kestrix I"
 	landscape "land/kestrix1"
 	government "Pirate"
 	description "This is a moon of the gas giant named Kestrix. Piracy runs rampant here on this world, and many pirates here have their guns pointed at you. Kestrix I is the most run-down of the three, where crews subservient to the inhabitants of Kestrix II and III live and toil. Arbitrary executions for even the smallest of mistakes are routine here, and no mercy is given."
-	spaceport "The spaceport is rundown and the conditions are almost inhuman."
-
+	spaceport "The spaceport is rundown and the conditions here are the worst of the other Kestrix moons. Food here is overpriced and sold by men who look like they're from either Kestrix II or III. Occasionally, one of the locals attempts to steal some food, but they are mercilessly executed. You decide to ignore all of this."
+	
 planet "Kestrix II"
 	landscape "land/kestrix2"
 	shipyard "Basic Ships"
 	outfitter "Pirate Outfits"
 	government "Pirate"
 	description "This is a moon of the gas giant named Kestrix. Piracy runs rampant here on this world, and many pirates here have their guns pointed at you. Kestrix II is where most captains, either independent or bound to a warlord on Kestrix III live. This is the only moon where you can buy outfits and ships. The captains here are actually willing to trade with you, even the pirates."
-	spaceport "The spaceport is rundown and the conditions are almost inhuman."
+	spaceport "The spaceport is quite decent here compared to Kestrix I and III, considering Kestrix II is where most of the Kestrix Moons captains live. The outfitters are willing to sell you some basic outfits, including the notorious nerve gas."
 
 planet "Kestrix III"
 	landscape "land/kestrix3"
 	government "Pirate"
 	description "This is a moon of the gas giant named Kestrix. Piracy runs rampant here on this world, and many pirates here have their guns pointed at you. Kestrix III is the more populous planet of the three. None of the pirates here want to trade with you or sell you even the most basic of outfits. Most of the pirates here are big and rich pirate warlords while lower-class crew and captains reside on Kestrix I and II respectively. There are many crew here who normally would belong on Kestrix I or on Leroo Station. You do meet a few friendly merchant captains who want to trade."
-	spaceport "The spaceport is rundown and the conditions are almost inhuman."
+	spaceport "The spaceport is rundown and the conditions are almost inhuman. Well-dressed men (likely rich pirates) sit at their tables as poorer-looking men and women bring them plates full of food. There is a field hospital here, but it is relatively empty, and it is likely the only medical care facility in the Kestrix Moons."
 
 ##################################################################################################
 #===< Northwest Illumina Regions planets >===#
