@@ -96,7 +96,7 @@ system Neistat
 	fleet cssf.war.illuminaReg.large.1 600
 	fleet spa.general.HeliarchPunishers.med.1 800
 	fleet cssf.war.illuminaReg.large.1 2100
-	fleet pirates.bactrianLarge 1200
+	fleet pirates.war.bactrian.small.1 1200
 	fleet pirates.war.3bactrians.1 4000
 	habitable 9525.6
 	object
@@ -268,8 +268,8 @@ system Illumina
 	fleet "Small Core Merchants" 600
 	fleet "Large Core Merchants" 600
 	fleet "Large Northern Pirates" 1700
-	fleet pirates.bactrianLarge 7000
-	fleet pirates.bactrianOnly.3 6000
+	fleet pirates.war.bactrian.small.1 7000
+	fleet pirates.war.bactrian.small.1 6000
 	fleet imc.mining.illuminaMiners.small.1 1200
 	fleet spa.war.vanguard.large.1 1300
 	habitable 890
@@ -568,11 +568,11 @@ system Serfeiia
 	pos -809 -107.91667
 	government "Sayari Plushie"
 	fleet spa.war.illuminaReg.large.1 600
-	fleet spa.trade.humanSpace.large.1 1200
+	fleet spa.trade.HumanSpace.large.1 1200
 	fleet spa.general.EmeraldSword.med.1 800
 	fleet spa.general.HeliarchPunishers.med.1 600
 	fleet cssf.war.illuminaReg.large.1 3000
-	fleet cssf.general.EmeraldSword.large.1 2300
+	fleet cssf.general.emeraldSword.large.1 2300
 	fleet spa.war.vanguard.large.1 1500
 	trade Clothing 329
 	trade Electronics 481
@@ -828,7 +828,7 @@ system Ghesie
 	fleet "Small Northern Pirates" 3000
 	fleet "Small Northern Pirates" 3000
 	fleet "Large Northern Pirates" 6000
-	fleet megaPirates.capitalShip 7000
+	fleet pirates.war.capitalShip.large.1 7000
 	fleet "Small Republic" 600
 	fleet "Small Republic" 600
 	fleet "Large Republic" 600
