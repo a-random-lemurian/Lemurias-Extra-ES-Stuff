@@ -16,7 +16,361 @@
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
 
+system "14 Pole"
+	add link Finduue
+### A
+system Aixafer
+	pos -1007.4722 -23.416663
+	link Denleitt
+	link Oldothe
+	link Zarkxaa
+	government "Sayari Plushie"
+	fleet spa.war.amidala.large.1 1300
+	fleet spa.trade.HumanSpace.large.1 1600
+	fleet "Large Northern Merchants" 600
+	trade Clothing 327
+	trade Electronics 511
+	trade Equipment 543
+	trade Food 332
+	trade "Heavy Metals" 593
+	trade Industrial 713
+	trade "Luxury Goods" 1438 
+	object
+		sprite star/g0
+		distance 3
+		period 3
+	object
+		sprite planet/lava4
+		distance 412
+		period 177
+	object
+		sprite planet/desert1
+		distance 773
+		period 293
+	object Denchrao
+		sprite planet/desert2
+		distance 1332
+		period 377
+	object
+		sprite planet/rock12
+		distance 1603
+		period 488
+	object
+		sprite planet/rock10
+		distance 2033
+		period 533
+	object
+		sprite planet/ice3
+		distance 2553
+		period 621
+	object
+		sprite planet/ice1
+		distance 2883
+		period 682
+	object
+		sprite planet/gas5
+		distance 4094
+		period 1123
+	object
+		sprite planet/gas2
+		distance 5133
+		period 1543
+	object
+		sprite planet/gas8
+		distance 6491
+		period 1776
 
+system Arneb
+	add link Kiselot
+system Aljuik
+	pos -961.66667 -129.58333
+	government "Sayari Plushie"
+	link Alkxaai
+	link Deriie
+	link Duffeni
+	fleet spa.war.illuminaReg.large.1 200
+	fleet "Large Northern Merchants" 200
+	fleet cssf.war.illuminaReg.large.1 1600
+	fleet spa.general.EmeraldSword.med.1 1400
+	trade Clothing 432
+	trade "Data drives" 9800
+	trade Electronics 639
+	trade Equipment 681
+	trade Food 108
+	trade "Heavy Metals" 771
+	trade Industrial 700
+	trade "Luxury Goods" 1151
+	trade Medical 452
+	trade Metal 405
+	trade Plastic 501
+	object
+		sprite star/k8
+		distance 0
+		period 10
+	object
+		sprite planet/dust1
+		distance 509
+		period 190
+	object
+		sprite planet/forest6
+		distance 874
+		period 287
+	object Mindai
+		sprite planet/rock5
+		distance 1132
+		period 398
+	object
+		sprite planet/rock12
+		distance 1490
+		period 439
+	object
+		sprite planet/ice4
+		distance 1709
+		period 559
+
+system Alkxaai
+	pos -1012.3611 -173.91667
+	government "Sayari Plushie"
+	link Aljuik
+	link Jalak
+	link Minjuuk
+	link Oldothe
+	fleet spa.war.amidala.large.1 1300
+	fleet spa.trade.HumanSpace.large.1 1600
+	fleet "Large Northern Merchants" 600
+	fleet "Small Republic" 800
+	fleet "Large Northern Pirates" 6000
+	trade Clothing 321
+	trade Electronics 532
+	trade Equipment 548
+	trade Food 305
+	trade "Heavy Metals" 613
+	trade Industrial 783
+	trade "Luxury Goods" 1562 
+	object
+		sprite star/g0
+		distance 3
+		period 6
+	object
+		sprite planet/rock0
+		distance 455
+		period 361
+	object
+		sprite planet/forest0-b
+		distance 799
+		period 493
+	object Melisida
+		sprite planet/earth
+		distance 1503
+		period 550
+	object
+		sprite planet/gas13-b
+		distance 3440
+		period 798
+system Akkolie
+	pos -824.91667 -448.38889
+	link Litiedei
+	link Merulie
+	link Zaxlai
+### D
+system Deriie
+	pos -925 -90.25
+	government "Sayari Plushie"
+	link Aljuik
+	link Illumina
+	link Jarkiiens
+	fleet spa.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 2600
+	fleet spa.general.EmeraldSword.med.1 1400
+	fleet "Large Northern Merchants" 600
+	fleet "Small Northern Pirates" 1200
+	trade Clothing 324
+	trade Electronics 743
+	trade Equipment 596
+	trade Food 543
+	trade "Heavy Metals" 683
+	trade Industrial 744
+	trade "Luxury Goods" 1092
+	trade Medical 915
+	trade Metal 333
+	trade Plastic 553
+	object
+		sprite star/k5
+		distance 3
+		period 10
+	object
+		sprite planet/dust5
+		distance 490
+		period 298
+	object Khoramelia
+		sprite planet/earth
+		distance 776
+		period 345
+		object "Khoramelia Mission Office"
+			sprite planet/station3
+			distance 134
+			period 35
+	object
+		sprite planet/rock4
+		distance 1290
+		period 677
+	object
+		sprite planet/dust2
+		distance 1554
+		period 780
+	object
+		sprite planet/ice1
+		period 1090
+	object
+		sprite planet/ice3
+		distance 3118
+		period 1509
+
+
+system Denleitt
+	pos -1095.4722 -83.416663
+	link Aixafer
+	link Littike
+	link Luisark
+	link Sayreopli
+
+
+system Duffeni
+	pos -914.33333 -184.91667
+	government "Sayari Plushie"
+	link Aljuik
+	link Illuria
+	fleet spa.trade.gen.small.1 300
+	fleet spa.trade.gen.small.1 300
+	fleet spa.trade.gen.small.1 300
+	fleet spa.trade.gen.small.1 300
+	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 1600
+	fleet spa.general.EmeraldSword.med.1 1400
+	trade Clothing 339
+	trade Electronics 502
+	trade Equipment 554
+	trade Food 304
+	trade "Heavy Metals" 643
+	trade Industrial 733
+	trade "Luxury Goods" 1502 
+	trade Medical 790
+	trade Metal 665
+	trade Plastic 448
+	object
+		sprite star/k5
+		period 1
+	object
+		sprite planet/cloud2-b
+		distance 560
+		period 245
+	object
+		sprite planet/rock12
+		distance 863
+		period 457
+	object Rodoluki
+		sprite planet/ice1
+		distance 1208
+		period 694.2
+	object
+		sprite planet/ice5
+		distance 1784
+		period 704.62
+### E
+system Eileri
+	pos -953.77778 -549.25
+	government Pirate
+	link Kilooew
+	link Laixadd
+	link Lindookor
+	link Radonei
+### F
+system Finduue
+	pos -1279.0278 -197.80556
+	link "14 Pole"
+	link Lesarkei
+	link Raidei
+system Fevbaa
+	pos -1033.0278 -323.25
+	link Iloke
+	link Sedlai
+	link Zusul
+	object
+		sprite star/g0
+		period 0
+	object
+		sprite planet/rock12
+		distance 345
+		period 210
+	object
+		sprite planet/dust7
+		distance 773
+		period 344
+	object
+		sprite planet/dust1
+		distance 1500
+		period 421
+	object
+		sprite planet/ice3
+		distance 1988
+		period 660
+	object
+		sprite planet/gas14
+		distance 3934
+		period 1209
+### G
+system Ghesie
+	pos -921.27778 -309.16666
+	government Pirate
+	link Iloke
+	link Ladosak
+	link Lorfreei
+	fleet "Small Northern Pirates" 3000
+	fleet "Small Northern Pirates" 3000
+	fleet "Large Northern Pirates" 6000
+	fleet pirates.war.capitalShip.large.1 7000
+	fleet "Small Republic" 600
+	fleet "Small Republic" 600
+	fleet "Large Republic" 600
+	habitable 2158.95
+	object
+		sprite star/k0
+		distance 75.566178
+		period 28.040025
+	object
+		sprite star/a5
+		distance 52.933822
+		period 28.040025
+		offset 180
+	object "Leroo Station"
+		sprite planet/station9
+		distance 550.12316
+		period -3334073.7
+	object
+		sprite planet/desert1
+		distance 726
+		period 0.13339818
+	object
+		sprite planet/browndwarf-y
+		distance 1776
+		period 0.13339818
+		object
+			sprite planet/dust0
+			distance 280
+			period 263.64
+		object
+			sprite planet/rock3
+			distance 404
+			period 699.84
+		object
+			sprite planet/rock0
+			distance 541
+			period 699.84
+
+
+### H
 system Hiljaak
 	pos -807.36111 -69.555556
 	government Republic
@@ -82,170 +436,50 @@ system Hiljaak
 		period 0.0034686091
 
 
-system Neistat
-	pos -768.33333 -161.91667
+
+### I
+system Iloke
+	pos -975.47222 -287.69444
 	government Republic
-	link Illuria
-	link Leideete
-	link Orbona
-	fleet spa.war.illuminaReg.large.1 600
-	fleet spa.war.illuminaReg.large.1 600
-	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
-	fleet spa.general.HeliarchPunishers.med.1 800
-	fleet cssf.war.illuminaReg.large.1 2100
-	fleet pirates.war.bactrian.small.1 1200
-	fleet pirates.war.3bactrians.1 4000
-	habitable 9525.6
+	link Fevbaa
+	link Ghesie
+	link Kailoo-ereki
+	link Zikut
 	object
-		sprite star/k0-old
-		period 10
+		sprite star/k-giant
+		period 0
 	object
-		sprite planet/io-b
-		distance 245
-		period 0.030234316
+		sprite planet/lava5
+		distance 402
+		period 134
 	object
-		sprite planet/ice5-b
-		distance 669
-		period 0.030234316
-		object
-			sprite planet/oberon-b
-			distance 154
-			period 263.64
-	object
-		sprite planet/gas7
-		distance 1692
-		period 0.030234316
-		object
-			sprite planet/dyson2
-			distance 272
-			period 1460.04
-		object
-			sprite planet/europa
-			distance 395
-			period 446.865
-		object
-			sprite planet/callisto
-			distance 528
-			period 1460.04
-		object
-			sprite planet/dust5-b
-			distance 701
-			period 1460.04
-	object
-		sprite planet/station1k
-		distance 3013
-		period 0.030234316
-	object
-		sprite planet/dust0-b
-		distance 3417
-		period 0.030234316
-
-
-system Orbona
-	add link Neistat
-	add link Serfeiia
-	add link Limen
-	add fleet spa.war.illuminaReg.large.1 600
-	add fleet cssf.war.illuminaReg.large.1 2100
-	add fleet spa.war.illuminaReg.large.1 600
-	add fleet cssf.war.illuminaReg.large.1 600
-	add fleet spa.general.amidalaVariants.large.1 800
-	add fleet cssf.general.emeraldSword.large.1 2700
-	add fleet spa.general.EmeraldSword.med.1 1200
-system Aljuik
-	pos -961.66667 -129.58333
-	government "Sayari Plushie"
-	link Alkxaai
-	link Deriie
-	link Duffeni
-	fleet spa.war.illuminaReg.large.1 200
-	fleet "Large Northern Merchants" 200
-	fleet cssf.war.illuminaReg.large.1 1600
-	fleet spa.general.EmeraldSword.med.1 1400
-	trade Clothing 432
-	trade "Data drives" 9800
-	trade Electronics 639
-	trade Equipment 681
-	trade Food 108
-	trade "Heavy Metals" 771
-	trade Industrial 700
-	trade "Luxury Goods" 1151
-	trade Medical 452
-	trade Metal 405
-	trade Plastic 501
-	object
-		sprite star/k8
-		distance 0
-		period 10
-	object
-		sprite planet/dust1
-		distance 509
-		period 190
+		sprite planet/rock11
+		distance 776
+		period 345
 	object
 		sprite planet/forest6
-		distance 874
-		period 287
-	object Mindai
-		sprite planet/rock5
-		distance 1132
-		period 398
+		distance 1209
+		period 402
 	object
-		sprite planet/rock12
-		distance 1490
-		period 439
+		sprite planet/cloud0
+		distance 1776
+		period 532
 	object
-		sprite planet/ice4
-		distance 1709
-		period 559
-
-
-system Duffeni
-	pos -914.33333 -184.91667
-	government "Sayari Plushie"
-	link Aljuik
-	link Illuria
-	fleet spa.trade.gen.small.1 300
-	fleet spa.trade.gen.small.1 300
-	fleet spa.trade.gen.small.1 300
-	fleet spa.trade.gen.small.1 300
-	fleet spa.war.illuminaReg.large.1 600
-	fleet spa.war.illuminaReg.large.1 600
-	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 1600
-	fleet spa.general.EmeraldSword.med.1 1400
-	trade Clothing 339
-	trade Electronics 502
-	trade Equipment 554
-	trade Food 304
-	trade "Heavy Metals" 643
-	trade Industrial 733
-	trade "Luxury Goods" 1502 
-	trade Medical 790
-	trade Metal 665
-	trade Plastic 448
+		sprite planet/cloud2
+		distance 2145
+		period 667
 	object
-		sprite star/k5
-		period 1
+		sprite planet/dust1
+		distance 2587
+		period 1033
 	object
-		sprite planet/cloud2-b
-		distance 560
-		period 245
+		sprite planet/gas14
+		distance 4095
+		period 1334
 	object
-		sprite planet/rock12
-		distance 863
-		period 457
-	object Rodoluki
-		sprite planet/ice1
-		distance 1208
-		period 694.2
-	object
-		sprite planet/ice5
-		distance 1784
-		period 704.62
-
+		sprite planet/gas4
+		distance 5078
+		period 1509
 
 system Illumina
 	pos -853 -124.58333
@@ -379,61 +613,475 @@ system Illuria
 		distance 1173.2485
 		period 2357367.3
 
+### J
+system Julitius
+	pos -926.25 -366.83333
+	link Litiedei
+	link Lorfreei
+	link Sundum
 
-system Deriie
-	pos -925 -90.25
-	government "Sayari Plushie"
-	link Aljuik
+
+system Jarkiiens
+	pos -873.66667 -63.25
+	government Republic
+	link Deriie
+	link Hiljaak
 	link Illumina
-	link Jarkiiens
-	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 2600
-	fleet spa.general.EmeraldSword.med.1 1400
+	fleet "Large Northern Merchants" 300
+	fleet spa.war.illuminaReg.large.1 800
+	fleet cssf.war.illuminaReg.large.1 2400
+	fleet cssf.general.emeraldSword.med.1 600
+	fleet spa.trade.HumanSpace.large.1 800
+	fleet "Small Northern Merchants" 400
+	trade Clothing 343
+	trade "Data drives" 13201
+	trade Electronics 678
+	trade Equipment 732
+	trade Food 309
+	trade "Heavy Metals" 554
+	trade Industrial 608
+	trade "Luxury Goods" 1277
+	trade Medical 435
+	trade Metal 552
+	trade Plastic 780
+	object
+		sprite star/g3
+	object Yinachr
+		sprite planet/desert2
+		distance 355.5449
+		period 288
+	object
+		sprite planet/rock2
+		distance 887.36772
+		period 356
+	object
+		sprite planet/rock5
+		distance 1443.9091
+		period 409
+	object
+		sprite planet/19b
+		distance 2708.8853
+		period 773
+
+
+
+system Jalak
+	government "Sayari Plushie"
+	pos -995.69444 -241.25
+	link Alkxaai
+	link Sedlai
+	fleet spa.general.freeWorldsShips.large.1 800
+	fleet spa.general.navyShips.large.1 800
+	fleet spa.general.Falcon.large.1 2000
 	fleet "Large Northern Merchants" 600
-	fleet "Small Northern Pirates" 1200
-	trade Clothing 324
-	trade Electronics 743
-	trade Equipment 596
-	trade Food 543
-	trade "Heavy Metals" 683
-	trade Industrial 744
-	trade "Luxury Goods" 1092
-	trade Medical 915
-	trade Metal 333
-	trade Plastic 553
+	fleet "Large Southern Merchants" 600
+	trade Clothing 312
+	trade Electronics 493
+	trade Equipment 547
+	trade Food 335
+	trade "Heavy Metals" 673
+	trade Industrial 723
+	trade "Luxury Goods" 1433
 	object
-		sprite star/k5
-		distance 3
+		sprite star/k0
 		period 10
-	object
-		sprite planet/dust5
-		distance 490
-		period 298
-	object Khoramelia
-		sprite planet/earth
-		distance 776
-		period 345
-		object "Khoramelia Mission Office"
-			sprite planet/station3
-			distance 134
-			period 35
+		distance 2
 	object
 		sprite planet/rock4
-		distance 1290
-		period 677
+		period 177
+		distance 407
+	object
+		sprite planet/desert0
+		period 244
+		distance 733
+	object Ekarai
+		sprite planet/earth-b
+		period 366
+		distance 1233
+	object
+		sprite planet/gas15
+		period 887
+		distance 1902
+	object
+		sprite planet/gas1
+		period 840
+		distance 2655
+system Jurluo
+	pos -1133.4722 38.583337
+	link Sayreopli
+### K
+system Kailoo-ereki
+	pos -939.66667 -234.91667
+	link Iloke
+	object
+		sprite star/g0
+		period 0
+	object
+		sprite planet/lava5
+		distance 296
+		period 34
+	object
+		sprite planet/rock12
+		distance 837.29917
+		period -6512617.8
+	object
+		sprite planet/rock13
+		distance 1214.9891
+		period -2993182.4
+	object
+		sprite planet/forest6
+		distance 1733.1704
+		period -4338350
+	object
+		sprite planet/dust4
+		distance 3268.2936
+		period -3362585.3
 	object
 		sprite planet/dust2
-		distance 1554
-		period 780
-	object
-		sprite planet/ice1
-		period 1090
-	object
-		sprite planet/ice3
-		distance 3118
-		period 1509
+		distance 5011.8296
+		period -3732957
 
 
+
+system Kiselot
+	pos -624.16667 -596.27777
+	link Arneb
+	link Luduras
+
+system Kilooew
+	pos -917.33333 -608.80555
+	government Pirate
+	link Eileri
+	link Luduras
+
+
+### L
+system Lakodelfraddi
+	pos -1172.4722 -112.41666
+	link Littike
+	link Sayreopli
+	link Raidei
+
+system Litiedei
+	pos -850.69444 -381.72222
+	link Akkolie
+	link Julitius
+	link Pekora
+	link Ronsulka
+
+
+system Lekkoli
+	pos -767.13889 -300.61111
+	link Macali
+	habitable 29991
+	object
+		sprite star/giant
+		distance 263.03827
+		period 37.05646
+	object
+		sprite star/neutron
+		distance 108.96173
+		period 37.05646
+		offset 180
+	object
+		sprite planet/forest6-b
+		distance 532
+		period 0.0096028809
+		object
+			sprite planet/io
+			distance 148
+			period 699.84
+	object
+		sprite planet/dust0-b
+		distance 792
+		period 0.0096028809
+	object
+		sprite planet/dyson1
+		distance 1544
+		period 0.0096028809
+	object
+		sprite planet/gas14
+		object
+			sprite planet/dust7-b
+			distance 228
+			period 699.84
+		object
+			sprite planet/rock20
+			distance 332
+			period 699.84
+		object
+			sprite planet/rock3
+			distance 493
+			period 699.84
+
+system Lorfreei
+	pos -879.58333 -332.83333
+	link Ghesie
+	link Julitius
+	link Macali
+
+
+system Lesarkei
+	pos -1191.0278 -268.80556
+	link Finduue
+	link Zusul
+	link Raidei
+	link Minjuuk
+system Leideete
+	pos -745.94444 -245.83333
+	government Republic
+	link Neistat
+	link Suerolii
+
+
+system Ladosak
+	pos -860.61111 -276.5
+	link Ghesie
+	link Suerolii
+system Limen
+	add link Hiljaak
+	add link Orbona
+
+system Luduras
+	pos -779.16667 -606.27777
+	link Kilooew
+	link Kiselot
+
+
+system Lindookor
+	pos -1006.6667 -580.80555
+	government Pirate
+	link Eileri
+	link Laixadd
+system Littike
+	pos -1096.4722 -142.41666
+	link Denleitt
+	link Lakodelfraddi
+	link Oldothe
+	link Raidei
+	link Minjuuk
+system Luisark
+	pos -1059.4722 6.5833367
+	link Denleitt
+system Laixadd
+	pos -1020.4444 -518.58333
+	government Pirate
+	link Eileri
+	link Lenseiia
+	link Lindookor
+
+system Lenseiia
+	pos -1037.7778 -470.58333
+	government Pirate
+	link Laixadd
+	link Radonei
+### M
+system Minjuuk
+	pos -1083.0278 -219.25
+	link Raidei
+	link Sedlai
+	link Lesarkei
+	link Alkxaai
+	link Littike
+
+
+system Merulie
+	pos -871.13889 -504.38889
+	link Akkolie
+	link Pekora
+
+
+system Macali
+	pos -837.80556 -316.83333
+	link Lekkoli
+	link Lorfreei
+	link Ronsulka
+	habitable 11059.2
+	object
+		sprite star/g5-old
+		distance 117.5
+		period 30.63973
+	object
+		sprite star/g5-old
+		distance 117.5
+		period 30.63973
+		offset 180
+	object
+		sprite planet/rock6-b
+		distance 737
+		period 0.026041667
+		object
+			sprite planet/dust4
+			distance 151
+			period 1033.815
+	object
+		sprite planet/ocean2-b
+		distance 1208
+		period 0.026041667
+		object
+			sprite "planet/asteroid base"
+			distance 174
+			period 1460.04
+### N
+system Neistat
+	pos -768.33333 -161.91667
+	government Republic
+	link Illuria
+	link Leideete
+	link Orbona
+	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 600
+	fleet cssf.war.illuminaReg.large.1 600
+	fleet spa.general.HeliarchPunishers.med.1 800
+	fleet cssf.war.illuminaReg.large.1 2100
+	fleet pirates.war.bactrian.small.1 1200
+	fleet pirates.war.3bactrians.1 4000
+	habitable 9525.6
+	object
+		sprite star/k0-old
+		period 10
+	object
+		sprite planet/io-b
+		distance 245
+		period 0.030234316
+	object
+		sprite planet/ice5-b
+		distance 669
+		period 0.030234316
+		object
+			sprite planet/oberon-b
+			distance 154
+			period 263.64
+	object
+		sprite planet/gas7
+		distance 1692
+		period 0.030234316
+		object
+			sprite planet/dyson2
+			distance 272
+			period 1460.04
+		object
+			sprite planet/europa
+			distance 395
+			period 446.865
+		object
+			sprite planet/callisto
+			distance 528
+			period 1460.04
+		object
+			sprite planet/dust5-b
+			distance 701
+			period 1460.04
+	object
+		sprite planet/station1k
+		distance 3013
+		period 0.030234316
+	object
+		sprite planet/dust0-b
+		distance 3417
+		period 0.030234316
+
+
+### O
+system Oldothe
+	government "Sayari Plushie"
+	pos -1026.4722 -93.416663
+	link Aixafer
+	link Alkxaai
+	link Littike
+	asteroids "small rock" 32 4.95
+	asteroids "medium rock" 11 5.225
+	asteroids "large rock" 40 2.805
+	asteroids "small metal" 23 3.41
+	asteroids "medium metal" 56 5.005
+	asteroids "large metal" 90 3
+	minables uranium 56 4
+	minables gold 12 4
+	minables neodymium 25 4
+	minables aluminum 1 1
+	minables copper 70 6
+	minables lead 33 4
+	fleet spa.war.amidala.large.1 1300
+	fleet spa.trade.HumanSpace.large.1 1600
+	fleet spa.mining.amidalaMiner.med.1 1500
+	fleet "Large Northern Merchants" 600
+	trade Clothing 431
+	trade Electronics 652
+	trade Equipment 594
+	trade Food 393
+	trade "Heavy Metals" 621
+	trade Industrial 793
+	trade "Luxury Goods" 1102 
+	object
+		sprite star/g0
+		period 0
+		distance 10
+	object
+		sprite planet/rock12
+		period 339
+		distance 533
+	object
+		sprite planet/rock4
+		period 598
+		distance 882
+	object Renpaya
+		sprite planet/forest0
+		period 773
+		distance 1199
+	object
+		sprite planet/gas5
+		period 1440
+		distance 2004
+	object
+		sprite planet/gas2
+		period 1880
+		distance 2776
+
+system Orbona
+	add link Neistat
+	add link Serfeiia
+	add link Limen
+	add fleet spa.war.illuminaReg.large.1 600
+	add fleet cssf.war.illuminaReg.large.1 2100
+	add fleet spa.war.illuminaReg.large.1 600
+	add fleet cssf.war.illuminaReg.large.1 600
+	add fleet spa.general.amidalaVariants.large.1 800
+	add fleet cssf.general.emeraldSword.large.1 2700
+	add fleet spa.general.EmeraldSword.med.1 1200
+### P
+system Pekora
+	pos -905.80556 -439.05556
+	link Litiedei
+	link Merulie
+	link Sundum
+
+### R
+system Ronsulka
+	pos -800.91667 -357.72222
+	link Litiedei
+	link Macali
+	link Zaxlai
+
+
+system Radonei
+	pos -966.25 -478.61111
+	government Pirate
+	link Eileri
+	link Lenseiia
+	link Sundum
+system Raidei
+	pos -1183.4722 -173.41666
+	link Littike
+	link Minjuuk
+	link Lakodelfraddi
+	link Finduue
+	link Lesarkei
+
+
+### S
 system Suerolii
 	pos -850.33333 -238.58333
 	government Republic
@@ -487,81 +1135,6 @@ system Suerolii
 		sprite planet/ice3
 		distance 1776
 		period 1006
-
-
-system Kailoo-ereki
-	pos -939.66667 -234.91667
-	link Iloke
-	object
-		sprite star/g0
-		period 0
-	object
-		sprite planet/lava5
-		distance 296
-		period 34
-	object
-		sprite planet/rock12
-		distance 837.29917
-		period -6512617.8
-	object
-		sprite planet/rock13
-		distance 1214.9891
-		period -2993182.4
-	object
-		sprite planet/forest6
-		distance 1733.1704
-		period -4338350
-	object
-		sprite planet/dust4
-		distance 3268.2936
-		period -3362585.3
-	object
-		sprite planet/dust2
-		distance 5011.8296
-		period -3732957
-
-
-system Jarkiiens
-	pos -873.66667 -63.25
-	government Republic
-	link Deriie
-	link Hiljaak
-	link Illumina
-	fleet "Large Northern Merchants" 300
-	fleet spa.war.illuminaReg.large.1 800
-	fleet cssf.war.illuminaReg.large.1 2400
-	fleet cssf.general.emeraldSword.med.1 600
-	fleet spa.trade.HumanSpace.large.1 800
-	fleet "Small Northern Merchants" 400
-	trade Clothing 343
-	trade "Data drives" 13201
-	trade Electronics 678
-	trade Equipment 732
-	trade Food 309
-	trade "Heavy Metals" 554
-	trade Industrial 608
-	trade "Luxury Goods" 1277
-	trade Medical 435
-	trade Metal 552
-	trade Plastic 780
-	object
-		sprite star/g3
-	object Yinachr
-		sprite planet/desert2
-		distance 355.5449
-		period 288
-	object
-		sprite planet/rock2
-		distance 887.36772
-		period 356
-	object
-		sprite planet/rock5
-		distance 1443.9091
-		period 409
-	object
-		sprite planet/19b
-		distance 2708.8853
-		period 773
 
 
 system Serfeiia
@@ -651,80 +1224,119 @@ system Serfeiia
 				period 189
 
 
-system Fevbaa
-	pos -1033.0278 -323.25
-	link Iloke
-	link Sedlai
-	link Zusul
+
+
+system Sedlai
+	pos -1039.0278 -284.58333
+	link Fevbaa
+	link Jalak
+	link Minjuuk
+
+
+system Sundum
+	pos -975.13889 -411.94444
+	link Julitius
+	link Pekora
+	link Radonei
+	link Zikut
+system Sayreopli
+	pos -1117.4722 -46.416663
+	link Denleitt
+	link Jurluo
+	link Lakodelfraddi
+system Suerolii
+	pos -850.33333 -238.58333
+	government Republic
+	link Illuria
+	link Ladosak
+	link Leideete
+	fleet "Large Northern Merchants" 600
+	fleet spa.war.illuminaReg.large.1 1300
+	fleet cssf.war.illuminaReg.large.1 2100
+	fleet "Paradise Merchants" 1400
+	fleet "Large Northern Pirates" 4000
+	trade Clothing 448
+	trade "Data drives" 8948
+	trade Electronics 998
+	trade Equipment 612
+	trade Food 509
+	trade "Heavy Metals" 1244
+	trade Industrial 339
+	trade "Luxury Goods" 1398
+	trade Medical 409
+	trade Metal 211
+	trade Plastic 673
 	object
 		sprite star/g0
-		period 0
+		period 10
+	object
+		sprite planet/rock13
+		distance 356
+		period 245
+	object Pedinai
+		sprite planet/forest6
+		distance 590
+		period 388
+	object
+		sprite planet/dust4
+		distance 778
+		period 453
+	object
+		sprite planet/dust1
+		distance 906
+		period 544
 	object
 		sprite planet/rock12
-		distance 345
-		period 210
+		distance 1334
+		period 699
 	object
-		sprite planet/dust7
-		distance 773
-		period 344
-	object
-		sprite planet/dust1
-		distance 1500
-		period 421
+		sprite planet/rock17
+		distance 1566
+		period 802
 	object
 		sprite planet/ice3
-		distance 1988
-		period 660
-	object
-		sprite planet/gas14
-		distance 3934
-		period 1209
-
-
-system Iloke
-	pos -975.47222 -287.69444
-	government Republic
-	link Fevbaa
-	link Ghesie
-	link Kailoo-ereki
-	link Zikut
-	object
-		sprite star/k-giant
-		period 0
-	object
-		sprite planet/lava5
-		distance 402
-		period 134
-	object
-		sprite planet/rock11
-		distance 776
-		period 345
-	object
-		sprite planet/forest6
-		distance 1209
-		period 402
-	object
-		sprite planet/cloud0
 		distance 1776
-		period 532
+		period 1006
+
+
+
+
+### Z
+system Zarkxaa
+	pos -916.47223 -20.416663
+	government "Sayari Plushie"
+	link Aixafer
 	object
-		sprite planet/cloud2
-		distance 2145
-		period 667
-	object
-		sprite planet/dust1
-		distance 2587
+		sprite star/g0
+		distance 3
+		period 1
+	object Lorok
+		sprite planet/cloud2-b
+		distance 887
+		period 409
+	object 
+		sprite planet/cloud3
+		distance 1775
+		period 709
+	object 
+		sprite planet/ice1
+		distance 2443
 		period 1033
-	object
-		sprite planet/gas14
-		distance 4095
-		period 1334
-	object
-		sprite planet/gas4
-		distance 5078
-		period 1509
-
-
+	object 
+		sprite planet/desert3
+		distance 4096
+		period 1309
+	fleet spa.war.amidala.large.1 2000
+	fleet spa.trade.haiSpace.large.1 1000
+	fleet spa.trade.HumanSpace.large.1 1000
+	fleet "Large Northern Merchants" 600
+	trade Clothing 377
+	trade Electronics 512
+	trade Equipment 574
+	trade Food 364
+	trade "Heavy Metals" 653
+	trade Industrial 739
+	trade "Luxury Goods" 1477 
 system Zusul
 	pos -1115.6944 -303.25
 	link Fevbaa
@@ -768,599 +1380,11 @@ system Zikut
 	link Iloke
 	link Sundum
 
-
-system Sedlai
-	pos -1039.0278 -284.58333
-	link Fevbaa
-	link Jalak
-	link Minjuuk
-
-
-system Jalak
-	government "Sayari Plushie"
-	pos -995.69444 -241.25
-	link Alkxaai
-	link Sedlai
-	fleet spa.general.freeWorldsShips.large.1 800
-	fleet spa.general.navyShips.large.1 800
-	fleet spa.general.Falcon.large.1 2000
-	fleet "Large Northern Merchants" 600
-	fleet "Large Southern Merchants" 600
-	trade Clothing 312
-	trade Electronics 493
-	trade Equipment 547
-	trade Food 335
-	trade "Heavy Metals" 673
-	trade Industrial 723
-	trade "Luxury Goods" 1433
-	object
-		sprite star/k0
-		period 10
-		distance 2
-	object
-		sprite planet/rock4
-		period 177
-		distance 407
-	object
-		sprite planet/desert0
-		period 244
-		distance 733
-	object Ekarai
-		sprite planet/earth-b
-		period 366
-		distance 1233
-	object
-		sprite planet/gas15
-		period 887
-		distance 1902
-	object
-		sprite planet/gas1
-		period 840
-		distance 2655
-
-
-system Ghesie
-	pos -921.27778 -309.16666
-	government Pirate
-	link Iloke
-	link Ladosak
-	link Lorfreei
-	fleet "Small Northern Pirates" 3000
-	fleet "Small Northern Pirates" 3000
-	fleet "Large Northern Pirates" 6000
-	fleet pirates.war.capitalShip.large.1 7000
-	fleet "Small Republic" 600
-	fleet "Small Republic" 600
-	fleet "Large Republic" 600
-	habitable 2158.95
-	object
-		sprite star/k0
-		distance 75.566178
-		period 28.040025
-	object
-		sprite star/a5
-		distance 52.933822
-		period 28.040025
-		offset 180
-	object "Leroo Station"
-		sprite planet/station9
-		distance 550.12316
-		period -3334073.7
-	object
-		sprite planet/desert1
-		distance 726
-		period 0.13339818
-	object
-		sprite planet/browndwarf-y
-		distance 1776
-		period 0.13339818
-		object
-			sprite planet/dust0
-			distance 280
-			period 263.64
-		object
-			sprite planet/rock3
-			distance 404
-			period 699.84
-		object
-			sprite planet/rock0
-			distance 541
-			period 699.84
-
-
-system Leideete
-	pos -745.94444 -245.83333
-	government Republic
-	link Neistat
-	link Suerolii
-
-
-system Ladosak
-	pos -860.61111 -276.5
-	link Ghesie
-	link Suerolii
-
-
-system Minjuuk
-	pos -1083.0278 -219.25
-	link Raidei
-	link Sedlai
-	link Lesarkei
-	link Alkxaai
-	link Littike
-
-
-system Alkxaai
-	pos -1012.3611 -173.91667
-	government "Sayari Plushie"
-	link Aljuik
-	link Jalak
-	link Minjuuk
-	link Oldothe
-	fleet spa.war.amidala.large.1 1300
-	fleet spa.trade.HumanSpace.large.1 1600
-	fleet "Large Northern Merchants" 600
-	fleet "Small Republic" 800
-	fleet "Large Northern Pirates" 6000
-	trade Clothing 321
-	trade Electronics 532
-	trade Equipment 548
-	trade Food 305
-	trade "Heavy Metals" 613
-	trade Industrial 783
-	trade "Luxury Goods" 1562 
-	object
-		sprite star/g0
-		distance 3
-		period 6
-	object
-		sprite planet/rock0
-		distance 455
-		period 361
-	object
-		sprite planet/forest0-b
-		distance 799
-		period 493
-	object Melisida
-		sprite planet/earth
-		distance 1503
-		period 550
-	object
-		sprite planet/gas13-b
-		distance 3440
-		period 798
-
-system Arculus
-	pos 308.87 394.57533
-
-
-system Merulie
-	pos -871.13889 -504.38889
-	link Akkolie
-	link Pekora
-
-
-system "14 Pole"
-	add link Finduue
-
-
-system Julitius
-	pos -926.25 -366.83333
-	link Litiedei
-	link Lorfreei
-	link Sundum
-
-
-system Macali
-	pos -837.80556 -316.83333
-	link Lekkoli
-	link Lorfreei
-	link Ronsulka
-	habitable 11059.2
-	object
-		sprite star/g5-old
-		distance 117.5
-		period 30.63973
-	object
-		sprite star/g5-old
-		distance 117.5
-		period 30.63973
-		offset 180
-	object
-		sprite planet/rock6-b
-		distance 737
-		period 0.026041667
-		object
-			sprite planet/dust4
-			distance 151
-			period 1033.815
-	object
-		sprite planet/ocean2-b
-		distance 1208
-		period 0.026041667
-		object
-			sprite "planet/asteroid base"
-			distance 174
-			period 1460.04
-
-
 system Zaxlai
 	pos -772.02778 -387.27778
 	link Akkolie
 	link Ronsulka
 
-
-system Finduue
-	pos -1279.0278 -197.80556
-	link "14 Pole"
-	link Lesarkei
-	link Raidei
-
-
-system Litiedei
-	pos -850.69444 -381.72222
-	link Akkolie
-	link Julitius
-	link Pekora
-	link Ronsulka
-
-
-system Lekkoli
-	pos -767.13889 -300.61111
-	link Macali
-	habitable 29991
-	object
-		sprite star/giant
-		distance 263.03827
-		period 37.05646
-	object
-		sprite star/neutron
-		distance 108.96173
-		period 37.05646
-		offset 180
-	object
-		sprite planet/forest6-b
-		distance 532
-		period 0.0096028809
-		object
-			sprite planet/io
-			distance 148
-			period 699.84
-	object
-		sprite planet/dust0-b
-		distance 792
-		period 0.0096028809
-	object
-		sprite planet/dyson1
-		distance 1544
-		period 0.0096028809
-	object
-		sprite planet/gas14
-		object
-			sprite planet/dust7-b
-			distance 228
-			period 699.84
-		object
-			sprite planet/rock20
-			distance 332
-			period 699.84
-		object
-			sprite planet/rock3
-			distance 493
-			period 699.84
-
-
-system Sundum
-	pos -975.13889 -411.94444
-	link Julitius
-	link Pekora
-	link Radonei
-	link Zikut
-
-
-system Lorfreei
-	pos -879.58333 -332.83333
-	link Ghesie
-	link Julitius
-	link Macali
-
-
-system Lesarkei
-	pos -1191.0278 -268.80556
-	link Finduue
-	link Zusul
-	link Raidei
-	link Minjuuk
-
-
-system Radonei
-	pos -966.25 -478.61111
-	government Pirate
-	link Eileri
-	link Lenseiia
-	link Sundum
-
-
-system Akkolie
-	pos -824.91667 -448.38889
-	link Litiedei
-	link Merulie
-	link Zaxlai
-
-
-system Ronsulka
-	pos -800.91667 -357.72222
-	link Litiedei
-	link Macali
-	link Zaxlai
-
-
-system Pekora
-	pos -905.80556 -439.05556
-	link Litiedei
-	link Merulie
-	link Sundum
-
-
-system Lenseiia
-	pos -1037.7778 -470.58333
-	government Pirate
-	link Laixadd
-	link Radonei
-
-
-system Arneb
-	add link Kiselot
-
-
-system Eileri
-	pos -953.77778 -549.25
-	government Pirate
-	link Kilooew
-	link Laixadd
-	link Lindookor
-	link Radonei
-
-
-system Limen
-	add link Hiljaak
-	add link Orbona
-
-system Luduras
-	pos -779.16667 -606.27777
-	link Kilooew
-	link Kiselot
-
-
-system Lindookor
-	pos -1006.6667 -580.80555
-	government Pirate
-	link Eileri
-	link Laixadd
-
-
-system Kiselot
-	pos -624.16667 -596.27777
-	link Arneb
-	link Luduras
-
-
-system Laixadd
-	pos -1020.4444 -518.58333
-	government Pirate
-	link Eileri
-	link Lenseiia
-	link Lindookor
-
-
-system Kilooew
-	pos -917.33333 -608.80555
-	government Pirate
-	link Eileri
-	link Luduras
-
-
-system Lakodelfraddi
-	pos -1172.4722 -112.41666
-	link Littike
-	link Sayreopli
-	link Raidei
-
-
-system Oldothe
-	government "Sayari Plushie"
-	pos -1026.4722 -93.416663
-	link Aixafer
-	link Alkxaai
-	link Littike
-	asteroids "small rock" 32 4.95
-	asteroids "medium rock" 11 5.225
-	asteroids "large rock" 40 2.805
-	asteroids "small metal" 23 3.41
-	asteroids "medium metal" 56 5.005
-	asteroids "large metal" 90 3
-	minables uranium 56 4
-	minables gold 12 4
-	minables neodymium 25 4
-	minables aluminum 1 1
-	minables copper 70 6
-	minables lead 33 4
-	fleet spa.war.amidala.large.1 1300
-	fleet spa.trade.HumanSpace.large.1 1600
-	fleet spa.mining.amidalaMiner.med.1 1500
-	fleet "Large Northern Merchants" 600
-	trade Clothing 431
-	trade Electronics 652
-	trade Equipment 594
-	trade Food 393
-	trade "Heavy Metals" 621
-	trade Industrial 793
-	trade "Luxury Goods" 1102 
-	object
-		sprite star/g0
-		period 0
-		distance 10
-	object
-		sprite planet/rock12
-		period 339
-		distance 533
-	object
-		sprite planet/rock4
-		period 598
-		distance 882
-	object Renpaya
-		sprite planet/forest0
-		period 773
-		distance 1199
-	object
-		sprite planet/gas5
-		period 1440
-		distance 2004
-	object
-		sprite planet/gas2
-		period 1880
-		distance 2776
-
-system Jurluo
-	pos -1133.4722 38.583337
-	link Sayreopli
-
-
-system Raidei
-	pos -1183.4722 -173.41666
-	link Littike
-	link Minjuuk
-	link Lakodelfraddi
-	link Finduue
-	link Lesarkei
-
-
-system Littike
-	pos -1096.4722 -142.41666
-	link Denleitt
-	link Lakodelfraddi
-	link Oldothe
-	link Raidei
-	link Minjuuk
-
-
-system Aixafer
-	pos -1007.4722 -23.416663
-	link Denleitt
-	link Oldothe
-	link Zarkxaa
-	government "Sayari Plushie"
-	fleet spa.war.amidala.large.1 1300
-	fleet spa.trade.HumanSpace.large.1 1600
-	fleet "Large Northern Merchants" 600
-	trade Clothing 327
-	trade Electronics 511
-	trade Equipment 543
-	trade Food 332
-	trade "Heavy Metals" 593
-	trade Industrial 713
-	trade "Luxury Goods" 1438 
-	object
-		sprite star/g0
-		distance 3
-		period 3
-	object
-		sprite planet/lava4
-		distance 412
-		period 177
-	object
-		sprite planet/desert1
-		distance 773
-		period 293
-	object Denchrao
-		sprite planet/desert2
-		distance 1332
-		period 377
-	object
-		sprite planet/rock12
-		distance 1603
-		period 488
-	object
-		sprite planet/rock10
-		distance 2033
-		period 533
-	object
-		sprite planet/ice3
-		distance 2553
-		period 621
-	object
-		sprite planet/ice1
-		distance 2883
-		period 682
-	object
-		sprite planet/gas5
-		distance 4094
-		period 1123
-	object
-		sprite planet/gas2
-		distance 5133
-		period 1543
-	object
-		sprite planet/gas8
-		distance 6491
-		period 1776
-
-
-system Sayreopli
-	pos -1117.4722 -46.416663
-	link Denleitt
-	link Jurluo
-	link Lakodelfraddi
-
-
-system Luisark
-	pos -1059.4722 6.5833367
-	link Denleitt
-
-
-system Zarkxaa
-	pos -916.47223 -20.416663
-	government "Sayari Plushie"
-	link Aixafer
-	object
-		sprite star/g0
-		distance 3
-		period 1
-	object Lorok
-		sprite planet/cloud2-b
-		distance 887
-		period 409
-	object 
-		sprite planet/cloud3
-		distance 1775
-		period 709
-	object 
-		sprite planet/ice1
-		distance 2443
-		period 1033
-	object 
-		sprite planet/desert3
-		distance 4096
-		period 1309
-	fleet spa.war.amidala.large.1 2000
-	fleet spa.trade.haiSpace.large.1 1000
-	fleet spa.trade.HumanSpace.large.1 1000
-	fleet "Large Northern Merchants" 600
-	trade Clothing 377
-	trade Electronics 512
-	trade Equipment 574
-	trade Food 364
-	trade "Heavy Metals" 653
-	trade Industrial 739
-	trade "Luxury Goods" 1477 
-
-
-system Denleitt
-	pos -1095.4722 -83.416663
-	link Aixafer
-	link Littike
-	link Luisark
-	link Sayreopli
 
 ###################################
 # Other systems
