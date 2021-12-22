@@ -14,6 +14,33 @@
 
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
+phrase leest.names.singers
+	word
+		"Rainych"
+		"Rainych Ran"
+		"Lizz Robinett"
+
+
+phrase "friendly civilian"
+	word
+		"I listen to "
+	phrase
+		leest.names.singers
+	word
+		"'s music"
+		" music"
+		"'s covers"
+		"'s music covers"
+	word
+		" "
+	word
+		"all the time"
+		"when I'm plotting my course"
+		"when I'm haggling with merchants"
+	word
+		"!"
+
+
 phrase "friendly civilian"
 	word
 		"My "
