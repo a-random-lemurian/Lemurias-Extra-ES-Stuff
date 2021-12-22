@@ -334,6 +334,16 @@ system Ghesie
 	fleet "Small Republic" 600
 	fleet "Small Republic" 600
 	fleet "Large Republic" 600
+	trade Clothing 103
+	trade Electronics 743
+	trade Equipment 296
+	trade Food 733
+	trade "Heavy Metals" 683
+	trade Industrial 788
+	trade "Luxury Goods" 1193
+	trade Medical 1002
+	trade Metal 388
+	trade Plastic 512
 	habitable 2158.95
 	object
 		sprite star/k0
