@@ -878,11 +878,47 @@ system Lenseiia
 ### M
 system Minjuuk
 	pos -1083.0278 -219.25
+	government "Sayari Plushie"
+	habitable 1433
+	fleet spa.general.navyShips.large.1 1600
+	fleet spa.war.illuminaReg.large.1 900
+	fleet spa.trade.gen.small.1 800
+	arrival 0
+		link 4000
+		jump 100
 	link Raidei
 	link Sedlai
 	link Lesarkei
 	link Alkxaai
 	link Littike
+	object
+		sprite "star/g0"
+		period 0
+		distance 0
+	object
+		sprite "planet/rock10"
+		period 138
+		distance 344
+	object
+		sprite "planet/desert2"
+		period 244
+		distance 701
+	object Peliru
+		sprite "planet/earth"
+		period 364
+		distance 1553
+	object
+		sprite "planet/cloud6"
+		period 533
+		distance 2113
+	object
+		sprite "planet/gas14"
+		period 773
+		distance 5382
+	object
+		sprite "planet/gas3"
+		period 1239
+		distance 7721
 
 
 system Merulie
@@ -1770,6 +1806,12 @@ system Varug
 	link Korutal
 ##################################################################################################
 # PLANETS #
+planet Peliru
+	government "Sayari Plushie"
+	attributes illuminareg
+	landscape land/peliru
+	description "Peliru is an Earth-like planet owned by the Sayari Plushie Authority. It is mostly a farming world, contributing to over 60% of the SPA's food supply."
+	spaceport "The spaceport is large and massive just like SPA spaceports in the Illumina Regions, only that it smells like food. The smells of potatoes, fertilizer, and other types of food clash against each other, enough that it could almost be worse than a chemical weapon."
 planet "Leroo Station"
 	attributes station
 	shipyard "Advanced Northern Pirates"

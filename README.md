@@ -63,6 +63,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Renpaya                   | A_Peach              | CC-BY 2.0 "Generic"     | ([orig](https://commons.wikimedia.org/wiki/File:Tanzania_-_Endless_plains,_endless_sky_(11122490586).jpg))
 | Denchrao                  | John Picken          | CC-BY 2.0 "Generic"     | ([orig](https://commons.wikimedia.org/wiki/File:Chicago_River_ferry.jpg))
 | Perechra                  | Dexbaldon            | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Legazpi_City_view_from_Taysan.jpg))
+| Peliru                    | Svetlov Artem        | CC BY 3.0               | ([orig](https://commons.wikimedia.org/wiki/File:Lieninski_District,_Mogilev,_Belarus_-_panoramio_(488).jpg))
 
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
 
