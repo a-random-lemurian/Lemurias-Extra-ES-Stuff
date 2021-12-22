@@ -141,8 +141,9 @@ mission githubCodeVault.alexandriaVisit
 
 
 			label getGit.lookThroughShelves
-			"You decide to look through the endless shelves of datachips for a copy of the Git version control system. You are stuck for hours, scrambling through the datachips in the 'Programs' section. You've seen some sort of white cat on a black background on some of the datachips labelled 'GitHub'."
-			"After nearly 4 hours of searching, you've turned up empty-handed."
+			"You decide to look through the endless shelves of datachips for a copy of the Git version control system. You are stuck for hours, scrambling through the datachips in the 'Programs' section. You see some sort of white cat on a black background on some of the datachips labelled 'GitHub' as you search through the datachips. You find a datachip with a big white letter 'A' on a red shield, but it's not what you were looking for."
+			"A librarian passes by, carrying a large box labelled GitHub on their cart. They ignore you and they go off somewhere unknown, but your priority is trying to find that Git datachip."
+			"After nearly 4 hours of searching, by which now you feel tired and maybe, just maybe have lost the will to continue walking and searching, you've turned up empty-handed."
 			choice
 				"(Leave and never come back.)"
 					decline
