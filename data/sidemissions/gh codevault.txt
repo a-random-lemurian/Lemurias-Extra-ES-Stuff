@@ -36,6 +36,8 @@ mission githubCodeVault.conversation
 
 		log "Minor People" "Linus Torvalds" "Software engineer born on Earth in the 20th century (c. 1965 - 1970). Known mostly for his effort in developing the 'Linux kernel', development of which continues well in the 31st century. 95% of computers in human space run operating systems that use the Linux kernel."
 
+		log "Minor People" "John" "Another software engineer who claims to be proficient in 'C'. He approached you at the spaceport bar and gave you information about GitHub and programming when the GitHub Code Vault was opened up 1000 years after it's inception."
+
 		log "Spaceport was quiet once more. Thankfully, it wasn't another rebellion just like the Free Worlds. Workers on Earth apparently opened up some old time capsule full of crates all labelled 'GitHub'. Some guy named John told me it was called the 'GitHub Code Vault'. All of it was code. Just code. He made a point to say that the first program that they 'compiled' was the 'Linux kernel'."
 
 		conversation
