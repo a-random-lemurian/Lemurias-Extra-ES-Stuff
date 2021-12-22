@@ -327,13 +327,13 @@ system Ghesie
 	link Iloke
 	link Ladosak
 	link Lorfreei
-	fleet "Small Northern Pirates" 3000
-	fleet "Small Northern Pirates" 3000
-	fleet "Large Northern Pirates" 6000
-	fleet pirates.war.capitalShip.large.1 7000
-	fleet "Small Republic" 600
-	fleet "Small Republic" 600
-	fleet "Large Republic" 600
+	fleet "Small Northern Pirates" 1200
+	fleet "Small Northern Pirates" 800
+	fleet "Large Northern Pirates" 900
+	fleet pirates.war.capitalShip.large.1 2000
+	fleet "Small Republic" 4000
+	fleet "Small Republic" 4000
+	fleet "Large Republic" 4000
 	trade Clothing 103
 	trade Electronics 743
 	trade Equipment 296
