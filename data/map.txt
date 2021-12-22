@@ -659,7 +659,7 @@ system Jarkiiens
 		distance 1443.9091
 		period 409
 	object
-		sprite planet/19b
+		sprite planet/rock4
 		distance 2708.8853
 		period 773
 
