@@ -1342,7 +1342,7 @@ system Zusul
 	link Fevbaa
 	link Lesarkei
 	object 
-		sprite planet/g0
+		sprite star/g0
 		distance 539
 		period 217
 	object 
