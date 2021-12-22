@@ -16,9 +16,9 @@
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 phrase all.irlPlaces
 	phrase
-		all.phPlaces.leest
-		all.usCities.leest
-		all.idPlaces.leest
+		all.phPlaces.leest 33
+		all.usCities.leest 2010
+		all.idPlaces.leest 6
 phrase all.idPlaces.leest # Indonesian locations
 	word
 		# Indonesian provinces
