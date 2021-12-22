@@ -64,6 +64,9 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Denchrao                  | John Picken          | CC-BY 2.0 "Generic"     | ([orig](https://commons.wikimedia.org/wiki/File:Chicago_River_ferry.jpg))
 | Perechra                  | Dexbaldon            | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Legazpi_City_view_from_Taysan.jpg))
 | Peliru                    | Svetlov Artem        | CC BY 3.0               | ([orig](https://commons.wikimedia.org/wiki/File:Lieninski_District,_Mogilev,_Belarus_-_panoramio_(488).jpg))
+| Kestrix I                 | Bernard Gagnon       | *several*               | ([orig](https://commons.wikimedia.org/wiki/File:Quebrada_de_las_Flechas_01.jpg))
+| Kestrix II                | Chris Light          | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Badlands_NP_(creteatious_beds).jpg))
+| Kestrix III               | Ronincmc             | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Badlands00523.JPG))
 
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
 
