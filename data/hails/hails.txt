@@ -17,17 +17,17 @@
 
 phrase spa.hails.hostile
 	phrase
-		spa.hails.hostile.sp1
-		spa.hails.hostile.sp2
-		spa.hails.hostile.sp3
+		spa.hails.hostile.sp1 48
+		spa.hails.hostile.sp2 8
+		spa.hails.hostile.sp3 7
 phrase spa.hails.friendly
 	phrase
-		spa.hails.friendly.sp1
-		spa.hails.friendly.sp2
-		spa.hails.friendly.sp3
-		spa.hails.friendly.sp4
-		spa.hails.friendly.sp5
-		spa.hails.friendly.sp6
+		spa.hails.friendly.sp1 6
+		spa.hails.friendly.sp2 24
+		spa.hails.friendly.sp3 72
+		spa.hails.friendly.sp4 288
+		spa.hails.friendly.sp5 20
+		spa.hails.friendly.sp6 48
 
 
 phrase spa.hails.hostile.sp1
