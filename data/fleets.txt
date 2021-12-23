@@ -443,6 +443,20 @@ fleet spa.war.localguard.small.1
 		Firebird 2
 
 
+fleet spa.war.ghesiePatrol.small.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		disables plunders
+		confusion 10
+	variant 1
+		"SPA Gunboat (Proton Gun)" 15
+		"SPA Cruiser" 2
+		"Amidala" 1
+	variant 4
+		"SPA Gunboat" 4
+		"SPA Gunboat (Proton Gun)" 6
+
 fleet spa.exploration.scout.small.1
 	government "Sayari Plushie"
 	names spa.allNames
