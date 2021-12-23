@@ -457,6 +457,7 @@ system Iloke
 	link Ghesie
 	link Kailoo-ereki
 	link Zikut
+	fleet republicLargeDerelict 1000
 	object
 		sprite star/k-giant
 		period 0
@@ -831,6 +832,7 @@ system Lorfreei
 	link Ghesie
 	link Julitius
 	link Macali
+	fleet republicLargeDerelict 1000
 
 
 system Lesarkei
@@ -850,6 +852,7 @@ system Ladosak
 	pos -860.61111 -276.5
 	link Ghesie
 	link Suerolii
+	fleet republicLargeDerelict 1000
 system Limen
 	add link Hiljaak
 	add link Orbona
