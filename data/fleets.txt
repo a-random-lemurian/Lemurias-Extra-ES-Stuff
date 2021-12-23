@@ -110,7 +110,7 @@ fleet rep.war.bactrianOnly.small
 ###################################################################################################################
 fleet cssf.war.illuminaReg.large.1
 	government "Yuyuko Saigyouji"
-	names anti.sayari
+	names cssf
 	personality
 		disables plunders
 		confusion 17
@@ -133,7 +133,7 @@ fleet cssf.war.illuminaReg.large.1
 
 fleet cssf.general.emeraldSword.med.1
 	government "Yuyuko Saigyouji"
-	names anti.sayari
+	names cssf
 	personality
 		disables plunders heroic
 		confusion 21
@@ -144,7 +144,7 @@ fleet cssf.general.emeraldSword.med.1
 
 fleet cssf.general.emeraldSword.large.1
 	government "Yuyuko Saigyouji"
-	names anti.sayari
+	names cssf
 	personality
 		disables plunders heroic
 		confusion 12
@@ -159,7 +159,7 @@ fleet cssf.general.emeraldSword.large.1
 
 fleet cssf.war.sayariPlushieAttack.small.1
 	government "Yuyuko Saigyouji"
-	names anti.sayari
+	names cssf
 	cargo 0
 	personality
 		plunders harvests disables heroic
@@ -172,7 +172,7 @@ fleet cssf.war.sayariPlushieAttack.small.1
 
 fleet cssf.war.Patrol.small.1
 	government "Yuyuko Saigyouji"
-	names anti.sayari
+	names cssf
 	cargo 10
 	personality
 		plunders harvests disables heroic

@@ -1,0 +1,11 @@
+phrase cssf
+	word
+		"Yuyuko Saigyouji"
+	word
+		" - "
+	phrase
+		snSub.digit
+	phrase
+		snSub.digit
+	phrase
+		snSub.digit
