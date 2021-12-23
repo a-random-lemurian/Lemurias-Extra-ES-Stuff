@@ -67,6 +67,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Kestrix I                 | Bernard Gagnon       | *several*               | ([orig](https://commons.wikimedia.org/wiki/File:Quebrada_de_las_Flechas_01.jpg))
 | Kestrix II                | Chris Light          | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Badlands_NP_(creteatious_beds).jpg))
 | Kestrix III               | Ronincmc             | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Badlands00523.JPG))
+| Merschre                  | Trick17              | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:BlackRiver1.JPG))
 
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
 

@@ -895,11 +895,47 @@ system Lindookor
 	link Laixadd
 system Littike
 	pos -1096.4722 -142.41666
+	government "Sayari Plushie"
+	fleet spa.war.illuminaReg.large.1 900
+	fleet spa.general.Bactrian.small.1 1700
+	fleet "Large Northern Pirates" 4000
+	fleet "Large Northern Merchants" 2000
+	fleet "Paradise Merchants" 1600
 	link Denleitt
 	link Lakodelfraddi
 	link Oldothe
 	link Raidei
 	link Minjuuk
+	trade Clothing 332
+	trade Electronics 710
+	trade Equipment 288
+	trade Food 211
+	trade "Heavy Metals" 559
+	trade Industrial 831
+	trade "Luxury Goods" 1193
+	trade Medical 1121
+	trade Metal 439
+	trade Plastic 639
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object Merschre
+		sprite "planet/earth"
+		distance 445
+		period 113
+	object
+		sprite "planet/rock13"
+		distance 803
+		period 244
+	object
+		sprite "planet/rock4"
+		distance 1344
+		period 453
+	object
+		sprite "planet/gas5"
+		distance 2332
+		period 721
 system Luisark
 	pos -1059.4722 6.5833367
 	link Denleitt
@@ -1940,6 +1976,17 @@ planet Pedinai
 	spaceport "Merchant ships often stop by the area to purchase large ammounts of lumber to sell to the Paradise Planets. Most of the dockworker's equipment seem to be specialized for carrying wood, and only wood. At least one section of the spaceport is made out of wood, from what you could discern when you landed."
 	government Republic
 	security 0.38
+
+
+planet Merschre
+	attributes illuminareg
+	landscape land/merschre
+	shipyard "Sayari Advanced"
+	outfitter "Common Outfits"
+	outfitter "Ammo North"
+	description "Merschre is another Earth-like planet held by the Sayari Plushie Authority. 40% of the planet is a nature reserve, and the remaining land is mainly for agricultural use, as one of the planets that maintain the SPA's active supply of food. Crops grown here range from wheat, rice, to more obscure crops such as native fruits and vegetables."
+	spaceport "The Merschre spaceport is relatively large. Many of the traders here sell food. The main spaceport, Merschre Central, is one of the busiest in the Illumina Regions, rivalling that of Laateli. There are several landing pads, some of them are unusually large, to accomodate the SPA's favorite ship, the Amidala. Most of the people here are farmers, as far as you can tell from their clothing. In addition to Merschre Central, there is a large SPA-controlled shipyard selling many types of ships."
+	government "Sayari Plushie"
 
 
 planet Khoramelia
