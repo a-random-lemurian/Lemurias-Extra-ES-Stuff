@@ -486,6 +486,14 @@ fleet spa.general.navyShips.large.1
 		"Korath Chaser" 12
 		Rainmaker 8
 		Frigate 5
+	variant 30
+		"SPA Gunboat (Proton Gun)" 50
+		"SPA Carrier (Combat)" 10
+		"Combat Drone" 60
+		"Korath Chaser" 40
+	variant 20
+		"SPA Gunboat" 20
+		"SPA Gunboat (Proton Gun)" 15
 
 
 fleet spa.general.freeWorldsShips.large.1
@@ -524,6 +532,10 @@ fleet spa.general.navyGunboat.med.1
 		"SPA Gunboat" 15
 	variant 3
 		"SPA Gunboat" 10
+	variant 5
+		"SPA Gunboat (Proton Gun)" 10
+	variant 3
+		"SPA Gunboat (Proton Gun)" 20
 fleet spa.general.Bactrian.small.1
 	names spa.allNames
 	government "Sayari Plushie"
