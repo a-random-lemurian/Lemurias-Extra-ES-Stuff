@@ -854,6 +854,30 @@ system Ladosak
 	link Ghesie
 	link Suerolii
 	fleet republicLargeDerelict 1000
+	object
+		sprite "star/g0"
+		period 0
+		distance 0
+	object
+		sprite "planet/lava4"
+		period 121
+		distance 301
+	object
+		sprite "planet/rock16"
+		period 288
+		distance 604
+	object
+		sprite "planet/forest0"
+		period 355
+		distance 1331
+	object
+		sprite "planet/rock2"
+		period 477
+		distance 1540
+	object
+		sprite "planet/rock12"
+		period 533
+		distance 1993
 system Limen
 	add link Hiljaak
 	add link Orbona
