@@ -20,6 +20,8 @@ phrase spa.hails.hostile
 		spa.hails.hostile.sp1 48
 		spa.hails.hostile.sp2 8
 		spa.hails.hostile.sp3 7
+		spa.hails.hostile.sp4 3
+		spa.hails.hostile.sp5 144
 phrase spa.hails.friendly
 	phrase
 		spa.hails.friendly.sp1 6
@@ -72,6 +74,31 @@ phrase spa.hails.hostile.sp3
 		"[Breaking encryption.......]" 200
 		"[Encrypted message. Cipher type cannot be brute-forced.]" 200
 		"[Scrambled message. Decoder attempt failed (395 attempts made)]" 200
+phrase spa.hails.hostile.sp4
+	word
+		"<first> <last> aboard <name>, "
+	word
+		"you are currently banned from SPA space"
+		"you are not welcome"
+		"you are hereby ordered to leave immediately"
+	word
+		" under penalty of death upon violation"
+	word
+		"."
+phrase spa.hails.hostile.sp5
+	word
+		"You are"
+	word
+		" "
+	word
+		"a threat"
+		"an affront"
+	word
+		" "
+	word
+		"to our "
+	phrase
+		spa.hails.subphrases.mandates
 
 
 phrase spa.hails.friendly.sp1
@@ -220,5 +247,28 @@ phrase spa.hails.friendly.sp6
 		"fleets"
 	phrase
 		leest.timePeriods
+	word
+		"!"
+phrase spa.hails.subphrases.mandates
+	phrase
+		spa.hails.subphrases.mandates.sp1 72
+
+phrase spa.hails.subphrases.mandates.sp1
+	word
+		"responsibility to"
+		"duty to"
+		"mandate to"
+	word
+		" protect "
+		" guard "
+		" ensure the safety of "
+		" ensure the continued safety of "
+	word
+		" the Authority"
+		" the Sayari Plushie Authority"
+		" Sayari"
+		" Freya Winters"
+		" our plushie manufacturing plants"
+		" our trade fleets"
 	word
 		"!"
