@@ -27,6 +27,7 @@ phrase spa.hails.friendly
 		spa.hails.friendly.sp3
 		spa.hails.friendly.sp4
 		spa.hails.friendly.sp5
+		spa.hails.friendly.sp6
 
 
 phrase spa.hails.hostile.sp1
@@ -199,3 +200,25 @@ phrase spa.hails.friendly.sp5
 		"Don't tell the CSSF."
 		"Watch out for pirates though."
 		"Don't be shocked if everybody there looks like a giant squirrel."
+
+
+phrase spa.hails.friendly.sp6
+	word
+		"The CSSF"
+	word
+		" has been "
+	word
+		"attacking"
+		"blowing up"
+		"destroying"
+	word
+		" our "
+	word
+		"plushie shipments"
+		"merchant convoys"
+		"merchant caravans"
+		"fleets"
+	phrase
+		leest.timePeriods
+	word
+		"!"
