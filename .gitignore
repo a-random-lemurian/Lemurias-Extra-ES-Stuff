@@ -1,15 +1,32 @@
-images/.DS_Store
-.vscode/extensions.json
-.vscode
-.DS_Store
-.DS_Store
-images/.DS_Store
-.DS_Store
-.DS_Store
-ignoredfiles
-images/.DS_Store/
-script/input
-GITPLSIGNOREMEIAMASECRETFILE.*
+.*
+*.log
 
-# ES Editor file
+# Mac
+*._*
+.DS_Store
+
+
+# IDEs
+.vscode/
+
+
+# ES Editor
 imgui.ini
+
+
+# For scripts/
+*.o
+*.out
+*.exe
+*.dll
+
+*.pyc
+__pycache__
+
+
+#
+#===< Whitelist >===#
+#
+!Wintersconfig.yaml
+!.git
+!.gitignore
