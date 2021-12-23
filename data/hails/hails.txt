@@ -30,6 +30,7 @@ phrase spa.hails.friendly
 		spa.hails.friendly.sp4 288
 		spa.hails.friendly.sp5 20
 		spa.hails.friendly.sp6 48
+		spa.hails.friendly.sp7 72
 
 
 phrase spa.hails.hostile.sp1
@@ -251,6 +252,11 @@ phrase spa.hails.friendly.sp6
 		leest.timePeriods
 	word
 		"!"
+phrase spa.hails.friendly.sp7
+	word
+		"It is our "
+	phrase
+		spa.hails.subphrases.mandates
 phrase spa.hails.subphrases.mandates
 	phrase
 		spa.hails.subphrases.mandates.sp1 72
