@@ -107,6 +107,14 @@ fleet rep.war.bactrianOnly.small
 		Bactrian 3
 	government "Republic"
 	names spa.allNames
+
+fleet republicLargeDerelict
+	government Republic
+	personality
+		derelict waiting staying
+	variant 10
+		"Cruiser" 2
+		"Gunboat" 5
 ###################################################################################################################
 fleet cssf.war.illuminaReg.large.1
 	government "Yuyuko Saigyouji"
