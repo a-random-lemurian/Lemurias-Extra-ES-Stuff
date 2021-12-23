@@ -101,7 +101,7 @@ ship "Gunboat" "SPA Gunboat (Proton Gun)"
 		"heat dissipation" .5
 		"fuel capacity" 700
 		"cargo space" 60
-		"outfit space" 410
+		"outfit space" 420
 		"weapon capacity" 110
 		"engine capacity" 95
 		weapon
