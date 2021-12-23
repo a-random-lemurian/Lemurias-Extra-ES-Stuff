@@ -2011,12 +2011,14 @@ planet Denchrao
 	spaceport "The spaceport is located in the largest city on Denchrao. Businessmen in suits can be seen conversing with SPA officers and carts full of plushies, either depicting Sayari, or Freya Winters"
 #### Kestrix moons (in Ghesie) ####
 planet "Kestrix I"
+	attributes kestrix
 	landscape "land/kestrix1"
 	government "Pirate"
 	description "This is a moon of the gas giant named Kestrix. Piracy runs rampant here on this world, and many pirates here have their guns pointed at you. Kestrix I is the most run-down of the three, where crews subservient to the inhabitants of Kestrix II and III live and toil. Arbitrary executions for even the smallest of mistakes are routine here, and no mercy is given."
 	spaceport "The spaceport is rundown and the conditions here are the worst of the other Kestrix moons. Food here is overpriced and sold by men who look like they're from either Kestrix II or III. Occasionally, one of the locals attempts to steal some food, but they are mercilessly executed. You decide to ignore all of this."
 	
 planet "Kestrix II"
+	attributes kestrix
 	landscape "land/kestrix2"
 	shipyard "Basic Ships"
 	outfitter "Pirate Outfits"
@@ -2025,6 +2027,7 @@ planet "Kestrix II"
 	spaceport "The spaceport is quite decent here compared to Kestrix I and III, considering Kestrix II is where most of the Kestrix Moons captains live. The outfitters are willing to sell you some basic outfits, including the notorious nerve gas."
 
 planet "Kestrix III"
+	attributes kestrix
 	landscape "land/kestrix3"
 	government "Pirate"
 	description "This is a moon of the gas giant named Kestrix. Piracy runs rampant here on this world, and many pirates here have their guns pointed at you. Kestrix III is the more populous planet of the three. None of the pirates here want to trade with you or sell you even the most basic of outfits. Most of the pirates here are big and rich pirate warlords while lower-class crew and captains reside on Kestrix I and II respectively. There are many crew here who normally would belong on Kestrix I or on Leroo Station. You do meet a few friendly merchant captains who want to trade."
