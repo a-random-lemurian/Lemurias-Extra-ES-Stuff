@@ -110,6 +110,7 @@ fleet rep.war.bactrianOnly.small
 
 fleet republicLargeDerelict
 	government Republic
+	names "republic capital"
 	personality
 		derelict waiting
 	variant 10
