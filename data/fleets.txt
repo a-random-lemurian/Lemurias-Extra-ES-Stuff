@@ -232,6 +232,7 @@ fleet spa.trade.HumanSpace.large.1
 	names spa.allNames
 	personality
 		heroic
+		confusion 20
 	variant
 		"Hauler III" 20
 		"Hauler II" 10
@@ -247,6 +248,7 @@ fleet spa.trade.haiSpace.large.1
 	names spa.allNames
 	personality
 		heroic
+		confusion 18
 	variant
 		"Shield Beetle" 15
 		"Emerald Sword" 4
@@ -257,6 +259,7 @@ fleet spa.general.amidalaVariants.large.1
 	names spa.allNames
 	personality
 		heroic
+		confusion 18
 	variant 7
 		"Amidala" 20
 	variant 3
@@ -271,6 +274,7 @@ fleet spa.trade.gen.small.1
 	names spa.allNames
 	personality
 		timid disables
+		confusion 10
 	#### BEGIN SCRIPT OUTPUT #### Explanation below
 	variant 1
 		"Hauler" 5
@@ -392,6 +396,7 @@ fleet spa.war.vanguard.large.1
 	names spa.allNames
 	personality
 		disables heroic
+		confusion 33
 	variant 1
 		"Vanguard" 16
 		"Firebird" 5
@@ -404,6 +409,7 @@ fleet spa.war.amidala.large.1
 	names spa.allNames
 	personality
 		timid disables
+		confusion 29
 	variant 1
 		"Amidala" 25
 
@@ -413,6 +419,7 @@ fleet spa.war.shieldBeetle.large.1
 	names spa.allNames
 	personality
 		heroic disables
+		confusion 27
 	variant 1
 		"Shield Beetle" 10
 		"Geocoris" 10
@@ -433,6 +440,7 @@ fleet spa.exploration.scout.small.1
 	names spa.allNames
 	personality
 		heroic disables
+		confusion 28
 	variant 1
 		"Sparrow" 3
 		"Amidala" 1
@@ -441,6 +449,7 @@ fleet spa.exploration.scout.small.2
 	names spa.allNames
 	personality
 		heroic disables
+		confusion 10
 	variant 1
 		"SPA Cruiser"    1
 		"SPA Gunboat"    2
@@ -455,6 +464,7 @@ fleet spa.general.korathChaser.1
 	names spa.allNames
 	personality
 		disables plunders vindictive
+		confusion 33
 	variant 1
 		"Korath Chaser" 50
 
@@ -464,6 +474,7 @@ fleet spa.general.navyShips.large.1
 	names spa.allNames
 	personality
 		disables plunders
+		confusion 30
 	variant 20
 		"SPA Cruiser" 3
 		"SPA Carrier (Combat)" 5
@@ -482,6 +493,7 @@ fleet spa.general.freeWorldsShips.large.1
 	names spa.allNames
 	personality
 		disables plunders
+		confusion 25
 	variant 30
 		Skein 10
 		"Korath Chaser" 60
@@ -493,6 +505,7 @@ fleet spa.general.Falcon.large.1
 	names spa.allNames
 	personality
 		heroic
+		confusion 27
 	variant 4
 		Falcon 20
 	variant 4
@@ -516,6 +529,7 @@ fleet spa.general.Bactrian.small.1
 	government "Sayari Plushie"
 	personality
 		heroic
+		confusion 13
 	variant 2
 		"Marauder Bactrian" 5
 	variant 10
@@ -525,6 +539,7 @@ fleet spa.general.HeliarchPunishers.med.1
 	names spa.allNames
 	personality
 		heroic
+		confusion 13
 	variant
 		"Heliarch Punisher" 15
 	government "Sayari Plushie"
