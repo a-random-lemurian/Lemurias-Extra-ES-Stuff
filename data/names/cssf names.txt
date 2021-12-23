@@ -1,6 +1,6 @@
 phrase cssf
 	phrase
-		cssf.touhouCharacterNames
+		cssf.touhouCharacterNames 164
 
 phrase cssf.touhouCharacterNames
 	word
