@@ -111,7 +111,7 @@ fleet rep.war.bactrianOnly.small
 fleet republicLargeDerelict
 	government Republic
 	personality
-		derelict waiting staying
+		derelict waiting
 	variant 10
 		"Cruiser" 2
 		"Gunboat" 5
