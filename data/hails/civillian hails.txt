@@ -66,3 +66,25 @@ phrase "friendly civilian"
 	word
 		"!"
 		", you understand?"
+
+
+phrase "friendly civilian"
+	word
+		"Git"
+		"Mercurial"
+		"Subversion"
+	word
+		" is the "
+	word
+		"greatest"
+		"worst"
+	word
+		" "
+	word
+		"piece of software ever built"
+		"version control system"
+		"source control system"
+		"revision control system"
+		"software"
+	word
+		"!"
