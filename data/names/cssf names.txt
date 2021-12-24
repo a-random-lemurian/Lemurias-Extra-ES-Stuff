@@ -2,6 +2,18 @@ phrase cssf
 	phrase
 		cssf.touhouCharacterNames 164
 		cssf.touhouLocations 87
+	word
+		""
+		" I"
+		" II"
+		" III"
+		" IV"
+		" V"
+		" VI"
+		" VII"
+		" IX"
+		" X"
+		" XI"
 
 phrase cssf.touhouCharacterNames
 	word
