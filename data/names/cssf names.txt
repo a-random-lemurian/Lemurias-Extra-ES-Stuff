@@ -3,6 +3,7 @@ phrase cssf
 		cssf.touhouCharacterNames 164
 		cssf.touhouLocations 87
 		cssf.ghost 18
+		cssf.touhouGameNames 30
 	word
 		""
 		" I"
@@ -15,6 +16,39 @@ phrase cssf
 		" IX"
 		" X"
 		" XI"
+
+phrase cssf.touhouGameNames
+	word
+		"Highly Responsive to Prayers"
+		"Story of Eastern Wonderland"
+		"Phantasmagoria of Dim.Dream"
+		"Lotus Land Story"
+		"Mystic Square"
+		"Embodiment of Scarlet Devil"
+		"Perfect Cherry Blossom"
+		"Immaterial and Missing Power"
+		"Imperishable Night"
+		"Phantasmagoria of Flower View"
+		"Shoot the Bullet"
+		"Mountain of Faith"
+		"Scarlet Weather Rhapsody"
+		"Subterranean Animism"
+		"Undefined Fantastic Object"
+		"Touhou Hisoutensoku"
+		"Double Spoiler"
+		"Fairy Wars"
+		"Ten Desires"
+		"Hopeless Masquerade"
+		"Double Dealing Character"
+		"Impossible Spell Card"
+		"Urban Legend in Limbo"
+		"Legacy of Lunatic Kingdom"
+		"Antinomy of Common Flowers"
+		"Hidden Star in Four Seasons"
+		"Violet Detector"
+		"Wily Beast and Weakest Creature"
+		"Touhou Gouyoku Ibun"
+		"Unconnected Marketeers"
 
 phrase cssf.ghost
 	word
