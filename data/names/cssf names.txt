@@ -1,3 +1,8 @@
+# Kept for backwards compatibility
+phrase anti.sayari
+	phrase
+		cssf
+
 phrase cssf
 	phrase
 		cssf.touhouCharacterNames 164
