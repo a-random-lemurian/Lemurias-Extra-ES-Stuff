@@ -967,6 +967,17 @@ system Minjuuk
 	link Lesarkei
 	link Alkxaai
 	link Littike
+	trade Clothing 349
+	trade "Data drives" 9842
+	trade Electronics 588
+	trade Equipment 643
+	trade Food 145
+	trade "Heavy Metals" 652
+	trade Industrial 787
+	trade "Luxury Goods" 1209
+	trade Medical 477
+	trade Metal 421
+	trade Plastic 543
 	object
 		sprite "star/g0"
 		period 0
