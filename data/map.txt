@@ -35,6 +35,9 @@ system Aixafer
 	trade "Heavy Metals" 593
 	trade Industrial 713
 	trade "Luxury Goods" 1438 
+	trade Plastic 487
+	trade Medical 736
+	trade Metal 511
 	object
 		sprite star/g0
 		distance 3
@@ -147,6 +150,9 @@ system Alkxaai
 	trade "Heavy Metals" 613
 	trade Industrial 783
 	trade "Luxury Goods" 1562 
+	trade Plastic 440
+	trade Medical 776
+	trade Metal 543
 	object
 		sprite star/g0
 		distance 3
@@ -696,6 +702,9 @@ system Jalak
 	trade "Heavy Metals" 673
 	trade Industrial 723
 	trade "Luxury Goods" 1433
+	trade Plastic 421
+	trade Medical 754
+	trade Metal 497
 	object
 		sprite star/k0
 		period 10
@@ -1138,6 +1147,9 @@ system Oldothe
 	trade "Heavy Metals" 621
 	trade Industrial 793
 	trade "Luxury Goods" 1102 
+	trade Plastic 393
+	trade Medical 736
+	trade Metal 555
 	object
 		sprite star/g0
 		period 0
@@ -1460,6 +1472,9 @@ system Zarkxaa
 	trade "Heavy Metals" 653
 	trade Industrial 739
 	trade "Luxury Goods" 1477 
+	trade Plastic 433
+	trade Medical 746
+	trade Metal 511
 system Zusul
 	pos -1115.6944 -303.25
 	link Fevbaa
