@@ -16,10 +16,10 @@
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 phrase technames
 	phrase
-		technames.sourceControl
-		technames.programmingLangs
-		technames.javascriptFrameworks
-		technames.people
+		technames.sourceControl 6
+		technames.programmingLangs 5
+		technames.javascriptFrameworks 5
+		technames.people 25
 phrase technames.javascriptFrameworks
 	word
 		"Angular"

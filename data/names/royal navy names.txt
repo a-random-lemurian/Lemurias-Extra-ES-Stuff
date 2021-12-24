@@ -16,9 +16,9 @@
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 phrase spa.royalNavy
 	phrase
-		spa.royalNavy.a
-		spa.royalNavy.b
-		spa.royalNavy.c
+		spa.royalNavy.a 395
+		spa.royalNavy.b 387
+		spa.royalNavy.c 508
 phrase spa.royalNavy.a
 	word
 		"Abbotsham"

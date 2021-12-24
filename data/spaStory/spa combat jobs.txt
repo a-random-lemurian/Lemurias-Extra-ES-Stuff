@@ -34,7 +34,7 @@ mission fi.destroyCSSFpatrol.small.1.spa
 		system
 			distance 1 3
 		fleet
-			names anti.sayari
+			names cssf
 			government "Yuyuko Saigyouji"
 			personality
 				nemesis heroic staying

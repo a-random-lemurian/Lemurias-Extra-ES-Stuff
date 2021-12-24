@@ -36,6 +36,8 @@ mission githubCodeVault.conversation
 
 		log "Minor People" "Linus Torvalds" "Software engineer born on Earth in the 20th century (c. 1965 - 1970). Known mostly for his effort in developing the 'Linux kernel', development of which continues well in the 31st century. 95% of computers in human space run operating systems that use the Linux kernel."
 
+		log "Minor People" "John" "Another software engineer who claims to be proficient in 'C'. He approached you at the spaceport bar and gave you information about GitHub and programming when the GitHub Code Vault was opened up 1000 years after it's inception."
+
 		log "Spaceport was quiet once more. Thankfully, it wasn't another rebellion just like the Free Worlds. Workers on Earth apparently opened up some old time capsule full of crates all labelled 'GitHub'. Some guy named John told me it was called the 'GitHub Code Vault'. All of it was code. Just code. He made a point to say that the first program that they 'compiled' was the 'Linux kernel'."
 
 		conversation
@@ -139,8 +141,9 @@ mission githubCodeVault.alexandriaVisit
 
 
 			label getGit.lookThroughShelves
-			"You decide to look through the endless shelves of datachips for a copy of the Git version control system. You are stuck for hours, scrambling through the datachips in the 'Programs' section. You've seen some sort of white cat on a black background on some of the datachips labelled 'GitHub'."
-			"After nearly 4 hours of searching, you've turned up empty-handed."
+			"You decide to look through the endless shelves of datachips for a copy of the Git version control system. You are stuck for hours, scrambling through the datachips in the 'Programs' section. You see some sort of white cat on a black background on some of the datachips labelled 'GitHub' as you search through the datachips. You find a datachip with a big white letter 'A' on a red shield, but it's not what you were looking for."
+			"A librarian passes by, carrying a large box labelled GitHub on their cart. They ignore you and they go off somewhere unknown, but your priority is trying to find that Git datachip."
+			"After nearly 4 hours of searching, by which now you feel tired and maybe, just maybe have lost the will to continue walking and searching, you've turned up empty-handed."
 			choice
 				"(Leave and never come back.)"
 					decline

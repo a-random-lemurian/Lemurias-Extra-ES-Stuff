@@ -17,14 +17,14 @@
 
 phrase psuedonames
 	phrase
-		psuedonames.gb
-		nonNationalPlaces
+		psuedonames.gb 264
+		nonNationalPlaces 2030
 	
 phrase nonNationalPlaces
 	phrase
-		nnp.1
-		nnp.2
-		nnp.3
+		nnp.1 390
+		nnp.2 320
+		nnp.3 1320
 
 phrase psuedonames.gb
 	word

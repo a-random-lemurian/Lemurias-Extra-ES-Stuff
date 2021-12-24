@@ -17,16 +17,20 @@
 
 phrase spa.hails.hostile
 	phrase
-		spa.hails.hostile.sp1
-		spa.hails.hostile.sp2
-		spa.hails.hostile.sp3
+		spa.hails.hostile.sp1 48
+		spa.hails.hostile.sp2 8
+		spa.hails.hostile.sp3 7
+		spa.hails.hostile.sp4 3
+		spa.hails.hostile.sp5 144
 phrase spa.hails.friendly
 	phrase
-		spa.hails.friendly.sp1
-		spa.hails.friendly.sp2
-		spa.hails.friendly.sp3
-		spa.hails.friendly.sp4
-		spa.hails.friendly.sp5
+		spa.hails.friendly.sp1 6
+		spa.hails.friendly.sp2 24
+		spa.hails.friendly.sp3 72
+		spa.hails.friendly.sp4 288
+		spa.hails.friendly.sp5 20
+		spa.hails.friendly.sp6 48
+		spa.hails.friendly.sp7 72
 
 
 phrase spa.hails.hostile.sp1
@@ -71,6 +75,31 @@ phrase spa.hails.hostile.sp3
 		"[Breaking encryption.......]" 200
 		"[Encrypted message. Cipher type cannot be brute-forced.]" 200
 		"[Scrambled message. Decoder attempt failed (395 attempts made)]" 200
+phrase spa.hails.hostile.sp4
+	word
+		"<first> <last> aboard <name>, "
+	word
+		"you are currently banned from SPA space"
+		"you are not welcome"
+		"you are hereby ordered to leave immediately"
+	word
+		" under penalty of death upon violation"
+	word
+		"."
+phrase spa.hails.hostile.sp5
+	word
+		"You are"
+	word
+		" "
+	word
+		"a threat"
+		"an affront"
+	word
+		" "
+	word
+		"to our "
+	phrase
+		spa.hails.subphrases.mandates
 
 
 phrase spa.hails.friendly.sp1
@@ -199,3 +228,55 @@ phrase spa.hails.friendly.sp5
 		"Don't tell the CSSF."
 		"Watch out for pirates though."
 		"Don't be shocked if everybody there looks like a giant squirrel."
+
+
+phrase spa.hails.friendly.sp6
+	word
+		"The CSSF"
+	word
+		" has been "
+	word
+		"attacking"
+		"blowing up"
+		"destroying"
+	word
+		" our "
+	word
+		"plushie shipments"
+		"merchant convoys"
+		"merchant caravans"
+		"fleets"
+	word
+		" "
+	phrase
+		leest.timePeriods
+	word
+		"!"
+phrase spa.hails.friendly.sp7
+	word
+		"It is our "
+	phrase
+		spa.hails.subphrases.mandates
+phrase spa.hails.subphrases.mandates
+	phrase
+		spa.hails.subphrases.mandates.sp1 72
+
+phrase spa.hails.subphrases.mandates.sp1
+	word
+		"responsibility to"
+		"duty to"
+		"mandate to"
+	word
+		" protect "
+		" guard "
+		" ensure the safety of "
+		" ensure the continued safety of "
+	word
+		" the Authority"
+		" the Sayari Plushie Authority"
+		" Sayari"
+		" Freya Winters"
+		" our plushie manufacturing plants"
+		" our trade fleets"
+	word
+		"!"

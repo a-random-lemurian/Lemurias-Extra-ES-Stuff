@@ -24,9 +24,9 @@
 # -< end boring legal disclaimer >-
 phrase linuxRelated
 	phrase
-		linuxDistroNames
-		linuxMisc
-		linuxKernelNames
+		linuxDistroNames 15
+		linuxMisc 3 
+		linuxKernelNames 32
 phrase linuxKernelNames
 	word
 		""

@@ -1,69 +1,14 @@
 ### v0.10.7
-- Added more SPA friendly and hostile hails.
-- Balanced Amidala stats
-- Improve GitHub code vault story dialog.
-   - Do not imply that all proprietary projects are corporate
-   - Fixed bad goto label in GitHub Code Vault story
-   - Make Linus Torvalds log entry more concise
-   - Clarify role of GitHub in it's log entry
-- General typo fixes
-   - Fix incorrect spelling of "Markaai" in Markaai planet description
-- New ships
-   - SPA variant of the Republic Navy Cruiser
-      - Uses Hai atomic engines
-      - Uses Wanderer energy generators (Blue Sun Reactor)
-      - Has additional turret and gun slots
-      - Sells for approx. $51m in SPA territory
-      - Has a Jump Drive
-   - SPA variant of the Republic Navy Gunboat
-      - Uses Hai atomic engines
-      - Same number of slots
-      - Comes with interference plating
-      - Has a Jump Drive
-      - Uses Wanderer energy generators (Red Sun Reactor)
-      - Sells for approx. $13m in SPA territory
-- New names
-   - Added Indonesian place names for ships.
-   - Added nameset of notable people in tech (e.g Linus Torvalds, Bill Gates, etc.), mostly leaders of open source projects and Debian project leaders
-   - Added full names of characters (e.g. *S.P.S Freya Winters*, instead of *S.P.S Winters*)
-- Fleets all over the place
-   - Added CSSF fleets to Republic space, will spawn often and attack SPA fleets in these systems:
-      - Delta Velorum
-      - Turais
-      - Algorel
-      - Phecda
-      - Merak
-      - Denebola
-      - Sol
-      - Mizar
-      - Arcturus
-      - Rutilicus
-      - Menkent
-      - Hiljaak
-      - Limen
-      - Mora
-      - Zosma
-      - Dubhe
-      - Alphard
-      - Talita
-      - Miaplacidus
-      - Vindemiatrix
-      - Muhlifain
-      - Algorel
-      - Cor Caroli
-      - Turais
-      - Menkent
-      - Vega
-      - Altai
-      - Delta Capricorni
-      - Scheat
-      - Ruchbah
-      - Tania Australis
-- Internal changes
-   - Split name lists over multiple files
-   - Deleted events.txt and moved it to a separate file (it only contained the GHCV* dialog)
+#### rc1
+This is a prerelease of v0.10.7.
 
-* GHCV = **G**it**h**ub **C**ode **V**ault
+- Changed Amidala statistics.
+   - cost: 60.9m -> 77.9m
+   - outfit space: 1244 -> 1109
+   - weapon capacity: 644 -> 598
+   - removed Control Transceiver
+   - removed Korath Piercers, replaced with Heavy Laser
+
 ### v0.10.6
 - Added more SPA hails
 - Added Linux user spaceport news

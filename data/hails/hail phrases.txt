@@ -10,41 +10,21 @@
 # General Public License for more details.
 
 # You should have received a copy of the GNU General Public License along with this program.
-# If not,see <https://www.gnu.org/licenses/>.
+# If not, see <https://www.gnu.org/licenses/>.
 
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
+phrase leest.timePeriods
+	phrase
+		leest.timePeriods.sp1
 
-shipyard "Sayari Advanced"
-	"Amidala"
-	"Falcon"
-	"SPA Gunboat"
-	"SPA Cruiser"
-	"SPA Carrier (Combat)"
-
-shipyard "Sayari Advanced without Falcon"
-	"Amidala"
-
-
-outfitter "Sayari Outfits"
-	"Hyperdrive"
-	"Brig"
-	"A120 Atomic Thruster"
-	"A125 Atomic Steering"
-	"A250 Atomic Thruster"
-	"A255 Atomic Steering"
-	"A370 Atomic Thruster"
-	"A375 Atomic Steering"
-	"AR120 Reverse Thruster"
-	"Modified Blaster"
-	"Modified Blaster Turret"
-	"Laser Rifle"
-	"Korath Repeater Rifle"
-	"Chipmunk Plasma Thruster"
-	"Chipmunk Plasma Steering"
-	"Greyhound Plasma Thruster"
-	"Greyhound Plasma Steering"
-	"Sidewinder Missile"
-	"Sidewinder Missile Launcher"
-	"Sidewinder Missile Pod"
-	"Sidewinder Missile Rack"
+phrase leest.timePeriods.sp1
+	word
+		"since"
+	word
+		" "
+	word
+		"forever"
+		"the beginning of time"
+		"we humans first ventured into space"
+		"God knows how long"

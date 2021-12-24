@@ -32,7 +32,7 @@ fleet pirates.war.bactrian.small.1
 
 fleet pirates.war.3bactrians.1
 	government Pirate
-	names snComp.PirateShipId.1
+	names pirate
 	cargo 1
 	personality
 		confusion 12
@@ -43,7 +43,7 @@ fleet pirates.war.3bactrians.1
 
 fleet pirates.war.capitalShip.large.1
 	government Pirate
-	names snComp.PirateShipId.1
+	names pirate
 	cargo 0
 	personality
 		disables
@@ -66,12 +66,36 @@ fleet pirates.war.capitalShip.large.1
 		Bactrian
 fleet pirates.war.sparrow.small.1
 	government Pirate
-	names snComp.PirateShipId.1
+	names pirate
 	cargo 0
 	personality
 		disables plunders
 	variant 20
 		Sparrow 9
+fleet pirates.war.ghesieGuard.1
+	government Pirate
+	names pirate
+	cargo 0
+	personality
+		disables plunders
+		confusion 30
+	variant 30
+		Sparrow 20
+		Argosy 7
+		"Modified Argosy" 3
+		Falcon 2
+	variant 15
+		Leviathan 8
+		Nest 2
+		Roost 2
+	variant 20
+		Falcon 3
+		Manta 10
+		Bactrian 2
+	variant 10
+		Falcon 6
+		Manta 4
+		Vanguard 10
 ###################################################################################################################
 fleet rep.war.bactrianOnly.small
 	government Republic
@@ -83,10 +107,19 @@ fleet rep.war.bactrianOnly.small
 		Bactrian 3
 	government "Republic"
 	names spa.allNames
+
+fleet republicLargeDerelict
+	government Republic
+	names "republic capital"
+	personality
+		derelict waiting
+	variant 10
+		"Cruiser" 2
+		"Gunboat" 5
 ###################################################################################################################
 fleet cssf.war.illuminaReg.large.1
 	government "Yuyuko Saigyouji"
-	names anti.sayari
+	names cssf
 	personality
 		disables plunders
 		confusion 17
@@ -109,7 +142,7 @@ fleet cssf.war.illuminaReg.large.1
 
 fleet cssf.general.emeraldSword.med.1
 	government "Yuyuko Saigyouji"
-	names anti.sayari
+	names cssf
 	personality
 		disables plunders heroic
 		confusion 21
@@ -120,7 +153,7 @@ fleet cssf.general.emeraldSword.med.1
 
 fleet cssf.general.emeraldSword.large.1
 	government "Yuyuko Saigyouji"
-	names anti.sayari
+	names cssf
 	personality
 		disables plunders heroic
 		confusion 12
@@ -135,7 +168,7 @@ fleet cssf.general.emeraldSword.large.1
 
 fleet cssf.war.sayariPlushieAttack.small.1
 	government "Yuyuko Saigyouji"
-	names anti.sayari
+	names cssf
 	cargo 0
 	personality
 		plunders harvests disables heroic
@@ -148,7 +181,7 @@ fleet cssf.war.sayariPlushieAttack.small.1
 
 fleet cssf.war.Patrol.small.1
 	government "Yuyuko Saigyouji"
-	names anti.sayari
+	names cssf
 	cargo 10
 	personality
 		plunders harvests disables heroic
@@ -168,7 +201,7 @@ fleet cssf.war.Patrol.small.1
 ###################################################################################################################
 fleet imc.mining.illuminaMiners.small.1
 	government "Illumina Mining Company"
-	names "Civilian"
+	names "civilian"
 	personality
 		timid waiting harvests mining
 	variant 1
@@ -184,7 +217,7 @@ fleet imc.mining.illuminaMiners.small.1
 
 fleet imc.mining.illuminaMiners.small.2
 	government "Illumina Mining Company"
-	names "Civilian"
+	names "civilian"
 	personality
 		timid waiting harvests mining
 	variant 1
@@ -196,7 +229,7 @@ fleet imc.mining.illuminaMiners.small.2
 
 fleet imc.mining.illuminaMiners.med.1
 	government "Illumina Mining Company"
-	names "Civilian"
+	names "civilian"
 	personality
 		timid waiting harvests mining
 	variant 4
@@ -208,6 +241,7 @@ fleet spa.trade.HumanSpace.large.1
 	names spa.allNames
 	personality
 		heroic
+		confusion 20
 	variant
 		"Hauler III" 20
 		"Hauler II" 10
@@ -223,6 +257,7 @@ fleet spa.trade.haiSpace.large.1
 	names spa.allNames
 	personality
 		heroic
+		confusion 18
 	variant
 		"Shield Beetle" 15
 		"Emerald Sword" 4
@@ -233,6 +268,7 @@ fleet spa.general.amidalaVariants.large.1
 	names spa.allNames
 	personality
 		heroic
+		confusion 18
 	variant 7
 		"Amidala" 20
 	variant 3
@@ -247,6 +283,7 @@ fleet spa.trade.gen.small.1
 	names spa.allNames
 	personality
 		timid disables
+		confusion 10
 	#### BEGIN SCRIPT OUTPUT #### Explanation below
 	variant 1
 		"Hauler" 5
@@ -329,6 +366,11 @@ fleet spa.trade.gen.small.1
 		"SPA Gunboat"  10
 		"SPA Cruiser"   2
 		"Hauler III"    8
+	variant 10
+		"SPA Gunboat (Proton Gun)"       20
+		"Hauler III"                     10
+		"Freighter"                       8
+		"SPA Cruiser"                     2
 fleet spa.war.illuminaReg.large.1
 	names spa.allNames
 	cargo 13
@@ -354,6 +396,8 @@ fleet spa.war.illuminaReg.large.1
 	variant 1
 		"SPA Gunboat" 45
 		"SPA Cruiser" 18
+	variant 3
+		"SPA Gunboat (Proton Gun)" 12
 
 
 fleet spa.war.vanguard.large.1
@@ -361,6 +405,7 @@ fleet spa.war.vanguard.large.1
 	names spa.allNames
 	personality
 		disables heroic
+		confusion 33
 	variant 1
 		"Vanguard" 16
 		"Firebird" 5
@@ -373,6 +418,7 @@ fleet spa.war.amidala.large.1
 	names spa.allNames
 	personality
 		timid disables
+		confusion 29
 	variant 1
 		"Amidala" 25
 
@@ -382,6 +428,7 @@ fleet spa.war.shieldBeetle.large.1
 	names spa.allNames
 	personality
 		heroic disables
+		confusion 27
 	variant 1
 		"Shield Beetle" 10
 		"Geocoris" 10
@@ -397,14 +444,42 @@ fleet spa.war.localguard.small.1
 		Firebird 2
 
 
+fleet spa.war.ghesiePatrol.small.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		disables plunders
+		confusion 10
+	variant 1
+		"SPA Gunboat (Proton Gun)" 15
+		"SPA Cruiser" 2
+		"Amidala" 1
+	variant 4
+		"SPA Gunboat" 4
+		"SPA Gunboat (Proton Gun)" 6
+
 fleet spa.exploration.scout.small.1
 	government "Sayari Plushie"
 	names spa.allNames
 	personality
 		heroic disables
+		confusion 28
 	variant 1
 		"Sparrow" 3
 		"Amidala" 1
+fleet spa.exploration.scout.small.2
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		heroic disables
+		confusion 10
+	variant 1
+		"SPA Cruiser"    1
+		"SPA Gunboat"    2
+	variant
+		"SPA Gunboat"    3
+	variant
+		"SPA Cruiser"    2
 
 
 fleet spa.general.korathChaser.1
@@ -412,6 +487,7 @@ fleet spa.general.korathChaser.1
 	names spa.allNames
 	personality
 		disables plunders vindictive
+		confusion 33
 	variant 1
 		"Korath Chaser" 50
 
@@ -421,17 +497,26 @@ fleet spa.general.navyShips.large.1
 	names spa.allNames
 	personality
 		disables plunders
+		confusion 30
 	variant 20
 		"SPA Cruiser" 3
-		"Carrier" 5
+		"SPA Carrier (Combat)" 5
 		"Combat Drone" 30
 		"Korath Chaser" 20
 	variant 40
-		"Carrier" 3
+		"SPA Carrier (Combat)" 3
 		"Combat Drone" 18
 		"Korath Chaser" 12
 		Rainmaker 8
 		Frigate 5
+	variant 30
+		"SPA Gunboat (Proton Gun)" 50
+		"SPA Carrier (Combat)" 10
+		"Combat Drone" 60
+		"Korath Chaser" 40
+	variant 20
+		"SPA Gunboat" 20
+		"SPA Gunboat (Proton Gun)" 15
 
 
 fleet spa.general.freeWorldsShips.large.1
@@ -439,6 +524,7 @@ fleet spa.general.freeWorldsShips.large.1
 	names spa.allNames
 	personality
 		disables plunders
+		confusion 25
 	variant 30
 		Skein 10
 		"Korath Chaser" 60
@@ -450,6 +536,7 @@ fleet spa.general.Falcon.large.1
 	names spa.allNames
 	personality
 		heroic
+		confusion 27
 	variant 4
 		Falcon 20
 	variant 4
@@ -468,11 +555,16 @@ fleet spa.general.navyGunboat.med.1
 		"SPA Gunboat" 15
 	variant 3
 		"SPA Gunboat" 10
+	variant 5
+		"SPA Gunboat (Proton Gun)" 10
+	variant 3
+		"SPA Gunboat (Proton Gun)" 20
 fleet spa.general.Bactrian.small.1
 	names spa.allNames
 	government "Sayari Plushie"
 	personality
 		heroic
+		confusion 13
 	variant 2
 		"Marauder Bactrian" 5
 	variant 10
@@ -482,6 +574,7 @@ fleet spa.general.HeliarchPunishers.med.1
 	names spa.allNames
 	personality
 		heroic
+		confusion 13
 	variant
 		"Heliarch Punisher" 15
 	government "Sayari Plushie"
@@ -552,21 +645,21 @@ fleet sparl.war.carriers.med.1
 		plunders disables vindictive
 	names sparl.names.leest
 	variant 30
-		"Carrier" 4
+		"SPA Carrier (Combat)" 4
 		"Lance" 16
 		"Combat Drone" 24
 	variant 50
-		"Carrier" 6
+		"SPA Carrier (Combat)" 6
 		"SPA Cruiser" 5
 		"Lance" 24
 		"Combat Drone" 36
-		"Gunboat" 8
+		"SPA Gunboat" 8
 	variant 20
-		"Carrier" 12
+		"SPA Carrier (Combat)" 12
 		"SPA Cruiser" 14
 		"Lance" 48
 		"Combat Drone" 72
-		"Gunboat" 10
+		"SPA Gunboat" 10
 fleet sparl.war.frigates.med.1
 	government "SPA: Republic Livery"
 	personality
@@ -581,15 +674,15 @@ fleet sparl.war.frigates.med.1
 		"Frigate" 40
 	variant 65
 		"Frigate" 12
-		"Gunboat" 5
+		"SPA Gunboat" 5
 	variant 50
 		"Frigate" 8
-		"Gunboat" 3
+		"SPA Gunboat" 3
 	variant 30
-		"Carrier" 4
+		"SPA Carrier (Combat)" 4
 		"Combat Drone" 24
 		"Lance" 16
-		"Gunboat" 5
+		"SPA Gunboat" 5
 fleet sparl.general.auxCargo.med.1
 	government "SPA: Republic Livery"
 	personality
@@ -601,7 +694,7 @@ fleet sparl.general.auxCargo.med.1
 		"SPA Gunboat" 8
 	variant 20
 		"Auxiliary (Cargo)" 30
-		"Carrier" 5
+		"SPA Carrier (Combat)" 5
 		"Combat Drone" 30
 		"Lance" 20
 		"SPA Gunboat" 16
