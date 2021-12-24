@@ -2,6 +2,7 @@ phrase cssf
 	phrase
 		cssf.touhouCharacterNames 164
 		cssf.touhouLocations 87
+		cssf.ghost 18
 	word
 		""
 		" I"
@@ -14,6 +15,22 @@ phrase cssf
 		" IX"
 		" X"
 		" XI"
+
+phrase cssf.ghost
+	word
+		"Nimble"
+		"Agile"
+		"Sword"
+		"Mace"
+		"Resillient"
+		"Fighting"
+	word
+		" "
+	word
+		"Ghost"
+		"Phantom"
+		"Spirit"
+
 
 phrase cssf.touhouCharacterNames
 	word
