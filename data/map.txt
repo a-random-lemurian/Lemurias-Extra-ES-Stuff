@@ -1836,6 +1836,35 @@ system Selseik
 system Sorusep
 	pos -1431.4301 -235.86756
 	link Ikopp
+	fleet spa.exploration.scout.small.2 2000
+	object
+		sprite "star/g0"
+		period 0
+		distance 0
+	object
+		sprite "planet/rock0"
+		period 144
+		distance 403
+	object
+		sprite "planet/rock14"
+		period 288
+		distance 883
+	object
+		sprite "planet/desert2"
+		period 388
+		distance 1443
+	object
+		sprite "planet/forest6"
+		period 403
+		distance 1904
+	object
+		sprite "planet/gas8"
+		period 577
+		distance 2654
+	object
+		sprite "planet/gas4"
+		period 643
+		distance 3883
 
 system Soles
 	pos -1589.8468 -58.450889
