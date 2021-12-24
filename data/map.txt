@@ -1214,6 +1214,27 @@ system Raidei
 	link Lakodelfraddi
 	link Finduue
 	link Lesarkei
+	object
+		sprite "star/a5"
+		distance 0
+		period 0
+	object
+		sprite "planet/lava4"
+		distance 344
+		period 133
+	object
+		sprite "planet/forest6"
+		distance 773
+		period 310
+	object
+		sprite "planet/desert2"
+		distance 1335
+		period 433
+	object
+		sprite "planet/gas5"
+		distance 2123
+		period 572
+		
 
 
 ### S
