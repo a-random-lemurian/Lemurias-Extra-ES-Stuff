@@ -1569,6 +1569,16 @@ system Defal
 	government "Sayari Plushie"
 	link Ikopp
 	link Pelitol
+	trade Clothing 376
+	trade Electronics 733
+	trade Equipment 608
+	trade Food 492
+	trade "Heavy Metals" 483
+	trade Industrial 711
+	trade "Luxury Goods" 989
+	trade Medical 874
+	trade Metal 388
+	trade Plastic 434
 	fleet spa.exploration.scout.small.2 2000
 	object
 		sprite "star/k5"
@@ -1752,6 +1762,16 @@ system Pelitol
 	pos -1357.2079 -286.53422
 	link Defal
 	link Ikopp
+	trade Clothing 344
+	trade Electronics 713
+	trade Equipment 584
+	trade Food 481
+	trade "Heavy Metals" 473
+	trade Industrial 733
+	trade "Luxury Goods" 964
+	trade Medical 855
+	trade Plastic 509
+	trade Metal 399
 	fleet spa.exploration.scout.small.2 2000
 	object
 		sprite "star/k0"
