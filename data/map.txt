@@ -851,6 +851,38 @@ system Lesarkei
 	link Zusul
 	link Raidei
 	link Minjuuk
+	object 
+		sprite star/g0
+		distance 0
+		period 0
+	object
+		sprite planet/rock4
+		distance 440
+		period 147
+	object
+		sprite planet/rock12
+		distance 755
+		period 348
+	object
+		sprite planet/forest0
+		distance 1339
+		period 477
+	object
+		sprite planet/ice3
+		distance 1660
+		period 549
+	object
+		sprite planet/gas15
+		distance 2448
+		period 711
+	object
+		sprite planet/gas7
+		distance 3311
+		period 842
+	object
+		sprite planet/gas13
+		distance 3874
+		period 1004
 system Leideete
 	pos -745.94444 -245.83333
 	government Republic
