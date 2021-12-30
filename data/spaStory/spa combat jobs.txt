@@ -21,6 +21,7 @@ mission fi.destroyCSSFpatrol.small.1.spa
 	job
 	repeat
 	to offer
+		"random" > 80
 		"combat rating" > 300
 	source
 		government "Sayari Plushie"
