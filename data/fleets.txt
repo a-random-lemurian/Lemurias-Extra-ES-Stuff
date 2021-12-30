@@ -249,7 +249,7 @@ fleet spa.trade.HumanSpace.large.1
 	variant
 		"Deep River" 5
 		Geocoris 20
-		"Shield Beetle" 4
+		"SPA Shield Beetle (Proton)" 4
 
 
 fleet spa.trade.haiSpace.large.1
@@ -259,7 +259,7 @@ fleet spa.trade.haiSpace.large.1
 		heroic
 		confusion 18
 	variant
-		"Shield Beetle" 15
+		"SPA Shield Beetle (Proton)" 15
 		"Emerald Sword" 4
 
 
@@ -388,7 +388,7 @@ fleet spa.war.illuminaReg.large.1
 	variant 1
 		"Amidala" 16
 	variant 1
-		"Shield Beetle" 15
+		"SPA Shield Beetle (Proton)" 15
 		"Geocoris" 5
 	variant 4
 		"SPA Gunboat" 24
@@ -430,7 +430,7 @@ fleet spa.war.shieldBeetle.large.1
 		heroic disables
 		confusion 27
 	variant 1
-		"Shield Beetle" 10
+		"SPA Shield Beetle (Proton)" 10
 		"Geocoris" 10
 
 

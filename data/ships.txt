@@ -286,3 +286,71 @@ ship "Carrier" "SPA Carrier (Combat)"
 	description "The Carrier is more than just a warship: it is practically a mobile space station, with docking bays for an entire squadron of drones and fighters and enough crew to fill a small village. Although designed primarily for engaging enemies from a distance, a Carrier can also do significant damage in close combat."
 	description "This is yet another SPA-built variant of the Carrier, since it seems they have an affinity for Republic ships due to their firepower."
 
+
+ship "Shield Beetle" "SPA Shield Beetle (Proton)"
+	sprite "ship/hai shield beetle"
+	thumbnail "thumbnail/hai shield beetle"
+	attributes
+		category "Heavy Warship"
+		"cost" 19900000
+		"shields" 55000
+		"hull" 8920
+		"required crew" 66
+		"bunks" 133
+		"mass" 730
+		"drag" 6.5
+		"heat dissipation" .4
+		"fuel capacity" 900
+		"cargo space" 166
+		"outfit space" 1127
+		"weapon capacity" 521
+		"engine capacity" 190
+		weapon
+			"blast radius" 400
+			"shield damage" 4000
+			"hull damage" 2000
+			"hit force" 3000
+	outfits
+		"Proton Gun" 8
+		"Proton Turret" 2
+		"Chameleon Anti-Missile" 2
+		"Boulder Reactor"
+		"Geode Reactor"
+		"Hai Gorge Batteries"
+		"Hai Ravine Batteries"
+		"Hai Diamond Regenerator"
+		"Large Heat Shunt" 4
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+		"Hyperdrive"
+
+	engine -44 133
+	engine  44 133
+
+	gun -22   -102   "Proton Gun"
+	gun  22   -102   "Proton Gun"
+	gun -34   -68    "Proton Gun"
+	gun  34   -68    "Proton Gun"
+	gun -49   -38    "Proton Gun"
+	gun  49   -38    "Proton Gun"
+	gun -61   -14    "Proton Gun"
+	gun  61   -14    "Proton Gun"
+
+	turret -39  48 "Proton Turret"
+	turret  39  48 "Proton Turret"
+	turret -57  75 "Chameleon Anti-Missile"
+	turret  57  75 "Chameleon Anti-Missile"
+
+	leak    "leak"             40 50
+	leak    "flame"            50 80
+	leak    "big leak"         60 50
+
+	explode "tiny explosion"   50
+	explode "small explosion"  50
+	explode "medium explosion" 50
+	explode "large explosion"  50
+	explode "huge explosion"   20
+
+	"final explode" "final explosion large"
+	description "This ship was first built millennia ago, near the end of a more violent time in Hai history. Since then, it has served as the only heavy warship at the disposal of the Hai. The Shield Beetle is a versatile warship used by the Hai to guard their merchant convoys, or by the Unfettered to attack those very same convoys."
+	description "Naturally, the SPA has taken advantage of this versatility, replacing all the gun ports with Syndicate Proton Guns, more specifically, 10 of them, which can be used to deadly effect."
