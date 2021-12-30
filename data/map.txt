@@ -2047,7 +2047,7 @@ planet Laateli
 	outfitter "Lovelace Basics"
 	outfitter Nuke
 	landscape land/laateli
-	description "Laateli is an Earth-like planet home to a large shipyard and over 1.34 billion people. The streets of it's largest city, Laadecki is bustling with small businesses strewn across the cityscape with the occasional chop-shop. The slave trade has proliferated deep within the planet's mantle. Amongst the inhabitants, there is rumor that deep in the nearby uninhabited systems lies an entrance to an alien civillization. No explorer has been daring enough to investigate this, and it is often dismissed as mere nonsense. Due to the large shipyards here, it is a popular stopping point for captains who wish to purchase new ships or upgrades. 3"
+	description "Laateli is an Earth-like planet home to a large shipyard and over 1.34 billion people. The streets of it's largest city, Laadecki is bustling with small businesses strewn across the cityscape with the occasional chop-shop. The slave trade has proliferated deep within the planet's mantle. Amongst the inhabitants, there is rumor that deep in the nearby uninhabited systems lies an entrance to an alien civillization. No explorer has been daring enough to investigate this, and it is often dismissed as mere nonsense. Due to the large shipyards here, it is a popular stopping point for captains who wish to purchase new ships or upgrades."
 	spaceport "The spaceport is busy with ships docking and undocking constantly. Air traffic controllers continue to exist, but ever since spacecraft made atmospheric-based vehicles obsolete, their main responsibility is now to control the flow of ships into the system."
 	government Republic
 	security 0.67
