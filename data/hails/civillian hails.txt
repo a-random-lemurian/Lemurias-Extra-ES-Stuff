@@ -88,3 +88,58 @@ phrase "friendly civilian"
 		"software"
 	word
 		"!"
+
+
+phrase "friendly civilian"
+	word
+		"Hey you!"
+		"Hey <first>!"
+		"Hey <first> <last>!"
+	word
+		" "
+	word
+		"If you write any code in"
+		"If you write any"
+		"If you're a developer that writes code in"
+	word
+		" "
+	word
+		"Java"
+		"C"
+		"C++"
+		"Python"
+		"Go"
+		"JavaScript"
+	word
+		","
+	word
+		" "
+	phrase
+		leest.foss.1 60
+
+
+phrase leest.foss.1
+	word
+		"you better"
+		"you ought to"
+	word
+		" "
+	word
+		"license your code"
+		"license it under"
+	word
+		" "
+	word
+		"the"
+	word
+		" "
+	word
+		"Apache License"
+		"GNU General Public License"
+		"MIT License"
+	word
+		"!"
+		", otherwise you're the mark of the proprietary devil!"
+		", otherwise Richard Stallman will be very disappointed in you!"
+		", otherwise Ian Murdock will be very disappointed in you!"
+		", otherwise Linus Torvalds will be very disappointed in you!"
