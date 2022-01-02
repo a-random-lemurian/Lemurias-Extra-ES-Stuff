@@ -137,9 +137,51 @@ phrase leest.foss.1
 		"Apache License"
 		"GNU General Public License"
 		"MIT License"
+	phrase
+		leest.foss.sp.proprietaryInsults
+
+phrase leest.foss.sp.proprietaryInsults
+	phrase
+		leest.foss.sp.proprietaryInsults.1
+		leest.foss.sp.proprietaryInsults.2
+		leest.foss.sp.proprietaryInsults.3
+
+phrase leest.foss.sp.proprietaryInsults.1
+	word
+		","
+	word
+		" "
+	word
+		"otherwise "
+		"and if you don't, "
+		"but if it's proprietary, "
+		"but if it's closed source, "
+	phrase
+		technames.people.foss
+	word
+		" "
+	word
+		"will definitely be disappointed in you!"
+		"will be disappointed in you!"
+		"will be ashamed of you!"
+
+phrase leest.foss.sp.proprietaryInsults.2
 	word
 		"!"
-		", otherwise you're the mark of the proprietary devil!"
-		", otherwise Richard Stallman will be very disappointed in you!"
-		", otherwise Ian Murdock will be very disappointed in you!"
-		", otherwise Linus Torvalds will be very disappointed in you!"
+
+phrase leest.foss.sp.proprietaryInsults.3
+	word
+		","
+	word
+		" "
+	word
+		"otherwise"
+	word
+		" "
+	word
+		"you are the mark of the devil"
+		"you are evil"
+		"you are the mark of the proprietary devil"
+		"you should have been blown up by pirates a long time ago"
+	word
+		"!"
