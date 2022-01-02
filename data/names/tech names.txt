@@ -44,6 +44,20 @@ phrase technames.programmingLangs
 		"Perl"
 # Notable people in tech (e.g Richard Stallman)
 phrase technames.people
+	phrase
+		technames.people.misc 3
+		technames.people.foss 22
+
+phrase technames.people.misc 
+	word
+
+		"Bill Gates" # Co-founder of Microsoft
+		"Steve Jobs" # Founder of Apple
+
+		# Miscellaneous
+		"Ada Lovelace"
+
+phrase technames.people.foss
 	word
 		"Richard Stallman"
 		"Ian Murdock" # Debian founder
@@ -51,8 +65,6 @@ phrase technames.people
 		"Dennis Ritchie" # Creator of the C programming language
 		"Bjarne Stroustrup" # Creator of C++
 
-		"Bill Gates" # Co-founder of Microsoft
-		"Steve Jobs" # Founder of Apple
 
 		# Debian project leaders
 		"Bruce Perens"
@@ -72,6 +84,3 @@ phrase technames.people
 		"Chris Lamb"
 		"Sam Hartman"
 		"Jonathan Carter"
-
-		# Miscellaneous
-		"Ada Lovelace"
