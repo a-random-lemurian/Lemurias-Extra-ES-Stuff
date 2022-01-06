@@ -237,7 +237,7 @@ fleet spa.trade.HumanSpace.large.1
 		heroic
 		confusion 20
 	variant
-		"Hauler III" 20
+		"SPA Hauler III" 20
 		"Hauler II" 10
 		Falcon 4
 	variant
@@ -304,16 +304,16 @@ fleet spa.trade.gen.small.1
 		"Hauler II" 5
 		"SPA Gunboat" 5
 	variant 1
-		"Hauler III" 5
+		"SPA Hauler III" 5
 		"Sparrow" 5
 	variant 1
-		"Hauler III" 5
+		"SPA Hauler III" 5
 		"Headhunter" 5
 	variant 1
-		"Hauler III" 5
+		"SPA Hauler III" 5
 		"Quicksilver" 5
 	variant 1
-		"Hauler III" 5
+		"SPA Hauler III" 5
 		"SPA Gunboat" 5
 	variant 1
 		"Auxiliary" 5
@@ -352,17 +352,17 @@ fleet spa.trade.gen.small.1
 		"SPA Gunboat"  20
 		"SPA Cruiser"   8
 	variant 2
-		"Hauler III"    1
-		"SPA Gunboat"   2
-		"Star Barge"    3
-		"Fury"          1
+		"SPA Hauler III"    1
+		"SPA Gunboat"       2
+		"Star Barge"        3
+		"Fury"              1
 	variant 4
-		"SPA Gunboat"  10
-		"SPA Cruiser"   2
-		"Hauler III"    8
+		"SPA Gunboat"      10
+		"SPA Cruiser"       2
+		"SPA Hauler III"    8
 	variant 10
 		"SPA Gunboat (Proton Gun)"       20
-		"Hauler III"                     10
+		"SPA Hauler III"                 10
 		"Freighter"                       8
 		"SPA Cruiser"                     2
 fleet spa.war.illuminaReg.large.1
