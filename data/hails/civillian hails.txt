@@ -118,6 +118,45 @@ phrase "friendly civilian"
 		leest.foss.1 60
 
 
+phrase "friendly civilian"
+	word
+		"I don't get it"
+		"I can't comprehend"
+		"It blows my mind"
+	word
+		" "
+	word
+		"how"
+		"why"
+	word
+		" "
+	word
+		"so many people"
+	word
+		" "
+	word
+		"are installing"
+		"are using"
+	word
+		" "
+	word
+		"systemd"
+	word
+		"!"
+	word
+		" "
+	word
+		"That's just"
+	word
+		" "
+	word
+		"terrible"
+		"evil"
+		"horrible"
+	word
+		"!"
+		"."
+
 phrase leest.foss.1
 	word
 		"you better"
