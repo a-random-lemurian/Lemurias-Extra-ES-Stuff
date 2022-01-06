@@ -50,6 +50,7 @@ phrase linuxMisc
 		"Torvalds"
 		"Linus Torvalds"
 		"Sudo"
+		"Systemd"
 phrase linuxDistroNames
 	word
 		"Ubuntu"
