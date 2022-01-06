@@ -272,11 +272,11 @@ phrase spa.hails.subphrases.mandates.sp1
 		" ensure the safety of "
 		" ensure the continued safety of "
 	word
-		" the Authority"
-		" the Sayari Plushie Authority"
-		" Sayari"
-		" Freya Winters"
-		" our plushie manufacturing plants"
-		" our trade fleets"
+		"the Authority"
+		"the Sayari Plushie Authority"
+		"Sayari"
+		"Freya Winters"
+		"our plushie manufacturing plants"
+		"our trade fleets"
 	word
 		"!"
