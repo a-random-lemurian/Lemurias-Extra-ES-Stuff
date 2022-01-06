@@ -21,6 +21,7 @@ shipyard "Sayari Advanced"
 	"SPA Gunboat"
 	"SPA Cruiser"
 	"SPA Carrier (Combat)"
+	"SPA Hauler III"
 
 shipyard "Sayari Advanced without Falcon"
 	"Amidala"

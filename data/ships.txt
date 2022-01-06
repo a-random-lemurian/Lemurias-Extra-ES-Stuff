@@ -15,6 +15,78 @@
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
+ship "Hauler III" "SPA Hauler III"
+	sprite "ship/hauler iii"
+	thumbnail "thumbnail/hauler iii"
+	attributes
+		category "Heavy Freighter"
+		"cost" 4339500
+		"shields" 4300
+		"hull" 3980
+		"required crew" 5
+		"bunks" 23
+		"mass" 335
+		"drag" 11.3
+		"heat dissipation" .4
+		"fuel capacity" 900
+		"cargo space" 430
+		"outfit space" 590
+		"weapon capacity" 260
+		"engine capacity" 140
+		weapon
+			"blast radius" 100
+			"shield damage" 1000
+			"hull damage" 500
+			"hit force" 1500
+	outfits
+		"Electron Beam" 2
+		"Electron Turret" 4
+
+		"Yellow Sun Reactor"
+		"LP072a Battery Pack" 4
+		"D23-QP Shield Generator"
+		"Large Heat Shunt" 2
+		
+		"A250 Atomic Thruster"
+		"A255 Atomic Steering"
+		"Hyperdrive"
+
+	engine -45 196.5
+	engine 45 196.5
+	gun -14.5 -166.5    "Electron Beam"
+	gun 14.5 -166.5     "Electron Beam"
+	turret -21.5 -122   "Electron Turret"
+	turret 21.5 -122    "Electron Turret"
+	turret -18.5 152.5  "Electron Turret"
+	turret 18.5 152.5   "Electron Turret"
+	leak "leak" 50 50
+	leak "flame" 40 80
+	leak "big leak" 80 30
+	explode "small explosion" 15
+	explode "medium explosion" 30
+	explode "large explosion" 20
+	explode "huge explosion" 5
+	"final explode" "final explosion large"
+	description "Considered by many to be outdated, there are nonetheless many Haulers still in service due to their combination of comparatively low price and simple construction. This large version of the Hauler provides the best tradeoff between price and cargo space."
+
+
+ship Berserker "Berserker Miner"
+	plural "Berserker Miners"
+	swizzle 6
+	add attributes
+		cost 130000
+		mass 15
+	outfits
+		"Beam Laser" 4
+		"D23-QP Shield Generator"
+		Hyperdrive
+		"LP072a Battery Pack"
+		"X2700 Ion Thruster"
+		"X3200 Ion Steering"
+		"nGVF-CC Fuel Cell"
+	description "Once one of the most popular interceptor-class ships, the Berserker's popularity is now waning in favor of more modern and versatile ships like the Hawk. Although limited numbers are still produced by Betelgeuse Shipyards, most Berserkers that are in service today are more than half a century old. This Berserker clearly was built with mining in mind."
+
+
 ship "Gunboat" "SPA Gunboat"
 	sprite "ship/gunboat"
 	thumbnail "thumbnail/gunboat"
