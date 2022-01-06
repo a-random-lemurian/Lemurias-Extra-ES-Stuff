@@ -15,23 +15,6 @@
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
-ship Berserker "Berserker Miner"
-	plural "Berserker Miners"
-	swizzle 6
-	add attributes
-		cost 130000
-		mass 15
-	outfits
-		"Beam Laser" 4
-		"D23-QP Shield Generator"
-		Hyperdrive
-		"LP072a Battery Pack"
-		"X2700 Ion Thruster"
-		"X3200 Ion Steering"
-		"nGVF-CC Fuel Cell"
-	description "Once one of the most popular interceptor-class ships, the Berserker's popularity is now waning in favor of more modern and versatile ships like the Hawk. Although limited numbers are still produced by Betelgeuse Shipyards, most Berserkers that are in service today are more than half a century old. This Berserker clearly was built with mining in mind."
-
-
 ship "Gunboat" "SPA Gunboat"
 	sprite "ship/gunboat"
 	thumbnail "thumbnail/gunboat"

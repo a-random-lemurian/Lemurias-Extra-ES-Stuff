@@ -205,13 +205,10 @@ fleet imc.mining.illuminaMiners.small.1
 	personality
 		timid waiting harvests mining
 	variant 1
-		"Berserker Miner" 4
 		Firebird 2
-	variant 3 
-		"Berserker Miner" 2
+	variant 3
 		Firebird 1
 	variant 3
-		"Berserker Miner" 1
 		"Hawk" 1
 
 
@@ -221,10 +218,8 @@ fleet imc.mining.illuminaMiners.small.2
 	personality
 		timid waiting harvests mining
 	variant 1
-		"Berserker Miner" 3
 	variant 2
 		"Firebird" 1
-		"Berserker Miner" 2
 
 
 fleet imc.mining.illuminaMiners.med.1
@@ -233,7 +228,6 @@ fleet imc.mining.illuminaMiners.med.1
 	personality
 		timid waiting harvests mining
 	variant 4
-		"Berserker Miner" 8
 		"Argosy" 4
 ###################################################################################################################
 fleet spa.trade.HumanSpace.large.1
