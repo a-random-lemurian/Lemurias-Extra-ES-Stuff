@@ -17,6 +17,17 @@
 
 # Deprecated ships and outfits. Still retained for backwards compatibility
 
+government "Illumina Mining Company"
+	"display name" "Illumina Miners"
+	swizzle 15
+	color 23 12 52
+	"attitude toward"
+		Syndicate 0.4
+		Republic 1
+		Merchant 0.5
+		Pirate -1
+		"Free Worlds" 1
+
 ship Berserker "Berserker Miner"
 	plural "Berserker Miners"
 	swizzle 6

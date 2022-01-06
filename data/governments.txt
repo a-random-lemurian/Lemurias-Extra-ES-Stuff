@@ -33,17 +33,6 @@ government "Yuyuko Saigyouji"
 		Pirate -1
 		"Sayari Plushie" -2
 
-government "Illumina Mining Company"
-	"display name" "Illumina Miners"
-	swizzle 15
-	color 23 12 52
-	"attitude toward"
-		Syndicate 0.4
-		Republic 1
-		Merchant 0.5
-		Pirate -1
-		"Free Worlds" 1
-
 government "Anime Organization"
 	"display name" "Anime Organization"
 	swizzle 6

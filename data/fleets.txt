@@ -200,7 +200,7 @@ fleet cssf.war.Patrol.small.1
 		Roost 1
 ###################################################################################################################
 fleet imc.mining.illuminaMiners.small.1
-	government "Illumina Mining Company"
+	government "Merchant"
 	names "civilian"
 	personality
 		timid waiting harvests mining
@@ -213,7 +213,7 @@ fleet imc.mining.illuminaMiners.small.1
 
 
 fleet imc.mining.illuminaMiners.small.2
-	government "Illumina Mining Company"
+	government "Merchant"
 	names "civilian"
 	personality
 		timid waiting harvests mining
@@ -223,7 +223,7 @@ fleet imc.mining.illuminaMiners.small.2
 
 
 fleet imc.mining.illuminaMiners.med.1
-	government "Illumina Mining Company"
+	government "Merchant"
 	names "civilian"
 	personality
 		timid waiting harvests mining
