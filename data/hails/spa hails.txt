@@ -276,6 +276,7 @@ phrase spa.hails.subphrases.mandates.sp1
 		"the Sayari Plushie Authority"
 		"Sayari"
 		"Freya Winters"
+		"Emeka'a Isai"
 		"our plushie manufacturing plants"
 		"our trade fleets"
 	word
