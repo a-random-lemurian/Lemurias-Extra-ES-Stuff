@@ -217,7 +217,6 @@ fleet imc.mining.illuminaMiners.small.2
 	names "civilian"
 	personality
 		timid waiting harvests mining
-	variant 1
 	variant 2
 		"Firebird" 1
 
