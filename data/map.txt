@@ -235,6 +235,9 @@ system Deriie
 
 system Denleitt
 	government "Anime Organization"
+	fleet animeorg.general.patrol.small.1 1400
+	fleet spa.war.amidala.large 500
+	fleet spa.trade.HumanSpace.large 1700
 	pos -1095.4722 -83.416663
 	link Aixafer
 	link Littike
