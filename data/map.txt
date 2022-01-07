@@ -648,11 +648,11 @@ system Jarkiiens
 	link Hiljaak
 	link Illumina
 	fleet "Large Northern Merchants" 300
-	fleet spa.war.illuminaReg.large.1 800
-	fleet cssf.war.illuminaReg.large.1 2400
-	fleet cssf.general.emeraldSword.med.1 600
-	fleet spa.trade.HumanSpace.large.1 800
-	fleet "Small Northern Merchants" 400
+	fleet spa.war.illuminaReg.large.1 550
+	fleet cssf.war.illuminaReg.large.1 4000
+	fleet cssf.general.emeraldSword.med.1 3000
+	fleet spa.trade.HumanSpace.large.1 1200
+	fleet "Small Northern Merchants" 300
 	trade Clothing 343
 	trade "Data drives" 13201
 	trade Electronics 678
