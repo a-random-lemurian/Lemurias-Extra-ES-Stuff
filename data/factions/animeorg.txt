@@ -1,0 +1,3 @@
+phrase animeorg
+	phrase
+		japan.towns
