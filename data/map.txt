@@ -239,7 +239,27 @@ system Denleitt
 	link Littike
 	link Luisark
 	link Sayreopli
-
+	object
+		sprite star/g0
+		distance 0
+		period 0
+	object
+		sprite planet/lava4
+		distance 440
+		period 103
+	object
+		sprite planet/earth
+		distance 1073
+		period 412
+	object 
+		sprite planet/forest0
+		distance 1553
+		period 544
+	object
+		sprite planet/forest6
+		distance 2133
+		period 766
+		
 
 system Duffeni
 	pos -914.33333 -184.91667
