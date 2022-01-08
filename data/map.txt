@@ -235,14 +235,17 @@ system Deriie
 
 system Denleitt
 	government "Anime Organization"
-	fleet animeorg.general.patrol.small.1 1400
+	fleet animeorg.general.patrol.small.1 300
+	fleet animeorg.general.patrol.small.1 300
+	fleet animeorg.general.patrol.small.1 300
 	fleet spa.war.amidala.large 500
 	fleet spa.trade.HumanSpace.large 1700
 	fleet "Small Northern Merchants" 400
 	fleet "Small Northern Merchants" 400
 	fleet "Large Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
-	fleet "Large Northern Pirates" 1300
+	fleet "Small Northern Pirates" 3700
+	fleet "Large Northern Pirates" 4000
 	fleet "Large Deep Merchants" 900
 	fleet "Large Republic" 3000
 	fleet "Small Republic" 2800
