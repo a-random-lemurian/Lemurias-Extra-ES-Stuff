@@ -2263,6 +2263,8 @@ planet Eisei
 	description "Eisei is the home of the Anime Organization, the predecessor state to the Sayari Plushie Authority. Their mandate has always been the preservation of anime. Anime screenings occur often on this world. As for the planet itself, the land-to-water ratio is similar to Earth, with a large desert covering 43% of the main continent. The coastline is heavily urbanized, and it appears the Anime Organization calls the shots on this world, with little interference from the Republic or Free Worlds."
 	spaceport "The main spaceport is large. Advertisements for anime screenings litter the walls, while bookstores tout their 'new mangas' in stock. This is as 'Japanese' as the spaceport can get. Flags which look like red circles on white backgrounds adorn some of these bookstores."
 	shipyard "Eisei"
+	outfitter "Basic Outfits"
+	outfitter "Common Outfits"
 ##################################################################################################
 #===< Northwest Illumina Regions planets >===#
 planet "Defal VI Station"
