@@ -68,7 +68,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Kestrix II                | Chris Light          | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Badlands_NP_(creteatious_beds).jpg))
 | Kestrix III               | Ronincmc             | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Badlands00523.JPG))
 | Merschre                  | Trick17              | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:BlackRiver1.JPG))
-
+| Eisei                     | Skye Marthaler       | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Looking_eastward_at_Charles_Mound,_the_highest_point_in_Illinois.jpg))
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
 
 </details>

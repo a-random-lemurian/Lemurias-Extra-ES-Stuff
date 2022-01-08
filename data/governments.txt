@@ -35,7 +35,7 @@ government "Yuyuko Saigyouji"
 
 government "Anime Organization"
 	"display name" "Anime Organization"
-	swizzle 6
+	swizzle 5
 	color 0.9882352941176471 0.6862745098039216 0.23529411764705882 0.0
 	"attitude toward"
 		Pirate -1
@@ -43,6 +43,9 @@ government "Anime Organization"
 		Merchant 0.5
 		Syndicate 0.4
 		"Free Worlds" 1
+	"friendly hail" animeorg.hails.friendly
+	"hostile hail" animeorg.hails.hostile
+
 
 government "SPA: Republic Livery"
 	"display name" "Republic"

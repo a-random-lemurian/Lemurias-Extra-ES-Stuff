@@ -691,3 +691,19 @@ fleet sparl.general.auxCargo.med.1
 		"Combat Drone" 30
 		"Lance" 20
 		"SPA Gunboat" 16
+###################################################################################################################
+fleet animeorg.general.patrol.small.1
+	government "Anime Organization"
+	personality
+		confusion 35
+		vindictive heroic
+	names animeorg
+	variant 40
+		"Star Barge" 3
+		"Sparrow" 2
+	variant 25
+		"Splinter" 4
+		"Quicksilver" 2
+	variant 10
+		"Hauler II" 3
+		"Headhunter" 1

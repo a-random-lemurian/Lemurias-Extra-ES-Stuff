@@ -234,12 +234,44 @@ system Deriie
 
 
 system Denleitt
+	government "Anime Organization"
+	fleet animeorg.general.patrol.small.1 1400
+	fleet spa.war.amidala.large 500
+	fleet spa.trade.HumanSpace.large 1700
+	fleet "Small Northern Merchants" 400
+	fleet "Small Northern Merchants" 400
+	fleet "Large Northern Merchants" 600
+	fleet "Large Northern Merchants" 600
+	fleet "Large Northern Pirates" 1300
+	fleet "Large Deep Merchants" 900
+	fleet "Large Republic" 3000
+	fleet "Small Republic" 2800
 	pos -1095.4722 -83.416663
 	link Aixafer
 	link Littike
 	link Luisark
 	link Sayreopli
-
+	object
+		sprite star/g0
+		distance 0
+		period 0
+	object
+		sprite planet/lava4
+		distance 440
+		period 103
+	object Eisei
+		sprite planet/earth
+		distance 1073
+		period 412
+	object 
+		sprite planet/forest0
+		distance 1553
+		period 544
+	object
+		sprite planet/forest6
+		distance 2133
+		period 766
+		
 
 system Duffeni
 	pos -914.33333 -184.91667
@@ -2232,7 +2264,15 @@ planet "Kestrix III"
 	government "Pirate"
 	description "This is a moon of the gas giant named Kestrix. Piracy runs rampant here on this world, and many pirates here have their guns pointed at you. Kestrix III is the more populous planet of the three. None of the pirates here want to trade with you or sell you even the most basic of outfits. Most of the pirates here are big and rich pirate warlords while lower-class crew and captains reside on Kestrix I and II respectively. There are many crew here who normally would belong on Kestrix I or on Leroo Station. You do meet a few friendly merchant captains who want to trade."
 	spaceport "The spaceport is rundown and the conditions are almost inhuman. Well-dressed men (likely rich pirates) sit at their tables as poorer-looking men and women bring them plates full of food. There is a field hospital here, but it is relatively empty, and it is likely the only medical care facility in the Kestrix Moons."
-
+planet Eisei
+	attributes illuminareg animeorg
+	landscape "land/eisei"
+	government "Anime Organization"
+	description "Eisei is the home of the Anime Organization, the predecessor state to the Sayari Plushie Authority. Their mandate has always been the preservation of anime. Anime screenings occur often on this world. As for the planet itself, the land-to-water ratio is similar to Earth, with a large desert covering 43% of the main continent. The coastline is heavily urbanized, and it appears the Anime Organization calls the shots on this world, with little interference from the Republic or Free Worlds."
+	spaceport "The main spaceport is large. Advertisements for anime screenings litter the walls, while bookstores tout their 'new mangas' in stock. This is as 'Japanese' as the spaceport can get. Flags which look like red circles on white backgrounds adorn some of these bookstores."
+	shipyard "Eisei"
+	outfitter "Basic Outfits"
+	outfitter "Common Outfits"
 ##################################################################################################
 #===< Northwest Illumina Regions planets >===#
 planet "Defal VI Station"

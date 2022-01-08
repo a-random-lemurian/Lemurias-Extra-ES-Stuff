@@ -1,0 +1,69 @@
+news animeorg.news.screening.1
+	location
+		government "Anime Organization"
+	name
+		word
+			"Event security"
+	message
+		word
+			"Please"
+		word
+			" "
+		word
+			"identify yourself"
+			"show your ID"
+		word
+			" "
+		word
+			"to enter the screening."
+
+news animeorg.news.general.1
+	location
+		government "Anime Organization"
+	name
+		word
+			"Merchant"
+			"Merchant captain"
+			"Captain"
+			"Trader captain"
+	message
+		word
+			"I wonder why"
+		word
+			" "
+		word
+			"we can't take on any anime transport missions"
+			"we aren't being offered anime transport missions"
+		word
+			"."
+			"!"
+			". It's a mystery why."
+
+news animeorg.news.animeSeller.1
+	location
+		government "Anime Organization"
+	name
+		word
+			"Bookstore owner"
+			"Bookseller"
+			"Book salesman"
+	message
+		word
+			"Get your"
+		word
+			" "
+		word
+			"anime"
+			"manga"
+		word
+			" "
+		word
+			"books"
+			"material"
+		word
+			" "
+		word
+			"today!"
+			"now!"
+			"while you can!"
+			"before it sells out!"

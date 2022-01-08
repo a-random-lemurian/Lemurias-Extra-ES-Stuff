@@ -26,6 +26,13 @@ shipyard "Sayari Advanced"
 shipyard "Sayari Advanced without Falcon"
 	"Amidala"
 
+shipyard "Eisei"
+	"Splinter"
+	"Quicksilver"
+	"Hauler"
+	"Hauler II"
+	"Hauler III"
+
 
 outfitter "Sayari Outfits"
 	"Hyperdrive"
