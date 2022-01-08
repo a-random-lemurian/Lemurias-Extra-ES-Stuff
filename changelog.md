@@ -1,3 +1,23 @@
+### v0.10.9
+- More hails
+   - Added hails about making free software
+   - Added hails that insult the player if he writes proprietary programs
+- Removed the Berserker Miner
+- Removed the Illumina Mining Company
+- Added a SPA variant of the Hauler III
+- Added the "random" attribute to the SPA mission for destroying a CSSF fleet
+- Added a variant of the Hai Shield Beetle equipped with Syndicate Proton Guns
+- Populate Lesarkei with planets
+- Fixed typos
+   - Laateli description had an extra `3` at the end
+- Rebalanced Jarkiiens fleets, less CSSF presence
+- Added Emeka'a Isai's name to the phrase lists
+   - For reference, she's that one governer you meet during the
+     Wanderer campaign
+- Added a new planet called "Eisei", owned by the Anime Organization
+- Added more stuff about the Anime Organization
+- ~~Emeka'a Isai plushies!~~
+
 ### v0.10.8
 This is honestly a lot of content to work on. We hope that this release makes your Christmas a bit better. If you fancy playing Endless Sky on Christmas, that is.
 - Added planets to several systems:
