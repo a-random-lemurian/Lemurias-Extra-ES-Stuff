@@ -176,3 +176,39 @@ phrase japan.towns.saitama
 		Yokoze
 		Yorii
 		Yoshimi
+
+phrase japan.towns.osaka
+	word
+		Daito,
+		Fujiidera
+		Habikino
+		Hannan
+		Higashiosaka
+		Hirakata
+		Ibaraki
+		Ikeda
+		Izumi
+		Izumiotsu
+		Izumisano
+		Kadoma
+		Kaizuka
+		Kashiwara
+		Katano
+		Kawachinagano
+		Kishiwada
+		Matsubara
+		Minoh
+		Moriguchi
+		Neyagawa
+		Osaka
+		Osakasayama
+		Sakai
+		Sennan
+		Settsu
+		Shijonawate
+		Suita
+		Takaishi
+		Takatsuki
+		Tondabayashi
+		Toyonaka
+		Yao
