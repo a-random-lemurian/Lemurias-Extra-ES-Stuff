@@ -29,7 +29,7 @@ shipyard "Sayari Advanced without Falcon"
 shipyard "Eisei"
 	"Splinter"
 	"Quicksilver"
-	"Hauler I"
+	"Hauler"
 	"Hauler II"
 	"Hauler III"
 
