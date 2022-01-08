@@ -238,6 +238,14 @@ system Denleitt
 	fleet animeorg.general.patrol.small.1 1400
 	fleet spa.war.amidala.large 500
 	fleet spa.trade.HumanSpace.large 1700
+	fleet "Small Northern Merchants" 400
+	fleet "Small Northern Merchants" 400
+	fleet "Large Northern Merchants" 600
+	fleet "Large Northern Merchants" 600
+	fleet "Large Northern Pirates" 1300
+	fleet "Large Deep Merchants" 900
+	fleet "Large Republic" 3000
+	fleet "Small Republic" 2800
 	pos -1095.4722 -83.416663
 	link Aixafer
 	link Littike
