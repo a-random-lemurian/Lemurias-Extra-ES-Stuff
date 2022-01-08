@@ -1,0 +1,18 @@
+news animeorg.news.screening.1
+	location
+		government "Anime Organization"
+	name
+		word
+			"Event security"
+	message
+		word
+			"Please"
+		word
+			" "
+		word
+			"identify yourself"
+			"show your ID"
+		word
+			" "
+		word
+			"to enter the screening."
