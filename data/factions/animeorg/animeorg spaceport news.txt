@@ -16,3 +16,25 @@ news animeorg.news.screening.1
 			" "
 		word
 			"to enter the screening."
+
+news animeorg.news.general.1
+	location
+		government "Anime Organization"
+	name
+		word
+			"Merchant"
+			"Merchant captain"
+			"Captain"
+			"Trader captain"
+	message
+		word
+			"I wonder why"
+		word
+			" "
+		word
+			"we can't take on any anime transport missions"
+			"we aren't being offered anime transport missions"
+		word
+			"."
+			"!"
+			". It's a mystery why."
