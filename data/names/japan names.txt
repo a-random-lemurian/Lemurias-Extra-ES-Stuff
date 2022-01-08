@@ -48,7 +48,7 @@ phrase japan.towns.hokkaido
 		Higashikagura
 		Higashikawa
 		Hiroo
-		Hokuryū
+		Hokuryu
 		Honbetsu
 		Horokanai
 		Horonobe
@@ -70,8 +70,8 @@ phrase japan.towns.hokkaido
 		Kuromatsunai
 		Kushiro
 		Kutchan
-		Kyōgoku
-		Kyōwa
+		Kyogoku
+		Kyowa
 		Makubetsu
 		Mashike
 		Matsumae
@@ -96,11 +96,11 @@ phrase japan.towns.hokkaido
 		Oketo
 		Okoppe
 		Okushiri
-		Ōmu
+		Omu
 		Oshamambe
 		Otobe
 		Otofuke
-		Ōzora
+		Ozora
 		Pippu
 		Rankoshi
 		Rausu
@@ -136,7 +136,7 @@ phrase japan.towns.hokkaido
 		Tōbetsu
 		Tōma
 		Tomamae
-		Tōyako
+		Toyako
 		Toyokoro
 		Toyotomi
 		Toyoura
@@ -145,11 +145,11 @@ phrase japan.towns.hokkaido
 		Urahoro
 		Urakawa
 		Urausu
-		Uryū
+		Uryu
 		Wassamu
 		Yakumo
 		Yoichi
-		Yūbetsu
+		Yubetsu
 		Yuni
 
 phrase japan.towns.saitama
