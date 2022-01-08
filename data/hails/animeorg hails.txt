@@ -1,0 +1,50 @@
+phrase animeorg.hails.friendly
+	phrase
+		animeorg.hails.friendly.1
+
+phrase animeorg.hails.hostile
+	phrase
+		animeorg.hails.hostile.1
+
+
+phrase animeorg.hails.friendly.1
+	word
+		"Screenings "
+	word
+		"of"
+	word
+		" "
+	word
+		"a few movies"
+		"some ancient anime movies"
+	word
+		" "
+	word
+		"are underway!"
+	word
+		" "
+	word
+		"Tickets are free."
+		"Tickets are 10 credits per adult, 5 credits per child."
+
+
+phrase animeorg.hails.hostile.1
+	word
+		"Hey you!"
+	word
+		" "
+	word
+		"Have you been"
+	word
+		" "
+	word
+		"infringing our copyrights"
+		"pirating our movies"
+		"breaking the law by pirating our movies"
+		"stealing our movies"
+	word
+		"?"
+	word
+		" "
+	word
+		"Clearly you did!"
