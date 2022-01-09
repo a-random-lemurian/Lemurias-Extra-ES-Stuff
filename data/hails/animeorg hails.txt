@@ -1,11 +1,11 @@
 phrase animeorg.hails.friendly
 	phrase
-		animeorg.hails.friendly.1
+		animeorg.hails.friendly.1 4
 
 phrase animeorg.hails.hostile
 	phrase
-		animeorg.hails.hostile.1
-		animeorg.hails.hostile.2
+		animeorg.hails.hostile.1 4
+		animeorg.hails.hostile.2 16
 
 
 phrase animeorg.hails.friendly.1
