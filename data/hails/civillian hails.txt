@@ -57,15 +57,6 @@ phrase "friendly civilian"
 	word
 		"."
 		"!"
-		" and if you use something else, you are "
-	word
-		"a maggot"
-		"as useless as a blaster cannon on a shuttlecraft"
-		"a wimp"
-		"a clearly retarded captain"
-	word
-		"!"
-		", you understand?"
 
 
 phrase "friendly civilian"
