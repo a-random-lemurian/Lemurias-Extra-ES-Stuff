@@ -954,9 +954,7 @@ system Ladosak
 		sprite "planet/rock12"
 		period 533
 		distance 1993
-system Limen
-	add link Hiljaak
-	add link Orbona
+
 
 system Luduras
 	pos -779.16667 -606.27777
