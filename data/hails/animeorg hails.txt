@@ -5,6 +5,7 @@ phrase animeorg.hails.friendly
 phrase animeorg.hails.hostile
 	phrase
 		animeorg.hails.hostile.1
+		animeorg.hails.hostile.2
 
 
 phrase animeorg.hails.friendly.1
@@ -48,3 +49,21 @@ phrase animeorg.hails.hostile.1
 		" "
 	word
 		"Clearly you did!"
+
+phrase animeorg.hails.hostile.2
+	word
+		"Hostility"
+		"Acts of aggression"
+		"Deliberate aggression"
+		"Premeditated agression"
+	word
+		" "
+	word
+		"against the Anime Organization"
+	word
+		" "
+	word
+		"will not be tolerated."
+		"is not tolerated."
+		"is prohibited."
+		"is punishable by death."
