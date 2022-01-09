@@ -45,10 +45,10 @@ phrase "friendly civilian"
 	word
 		"My "
 	word
-		" ship's navigation"
-		" ship's targeting"
-		" ship's general"
-		" personal"
+		"ship's navigation"
+		"ship's targeting"
+		"ship's general"
+		"personal"
 		""
 	word
 		" computer uses "
