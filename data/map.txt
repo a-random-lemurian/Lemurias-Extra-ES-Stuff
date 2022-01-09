@@ -368,12 +368,12 @@ system Ghesie
 	link Iloke
 	link Ladosak
 	link Lorfreei
-	fleet spa.war.ghesiePatrol.small.1 3000
+	fleet spa.war.ghesiePatrol.small.1 2000
 	fleet "Small Northern Pirates" 1200
 	fleet "Small Northern Pirates" 800
 	fleet "Large Northern Pirates" 900
 	fleet pirates.war.capitalShip.large.1 2000
-	fleet pirates.war.ghesieGuard.1 800
+	fleet pirates.war.ghesieGuard.1 2800
 	fleet republicLargeDerelict 1000
 	fleet "Small Republic" 4000
 	fleet "Small Republic" 4000
