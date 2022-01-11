@@ -34,7 +34,7 @@ news spa.miscPlushies.merchants
 			"Winters "
 			"new Sayari "
 			"mini-size Sayari "
-			"Emeka'a Isai"
+			"Emeka'a Isai "
 		word
 			"plushies. "
 			"plushies soon. "
