@@ -2154,6 +2154,7 @@ planet Khoramelia
 	attributes illuminareg sayariplush
 	shipyard "Basic Ships"
 	shipyard "Sayari Advanced"
+	outfitter "Sayari Outfits"
 	outfitter "Ammo North"
 	outfitter "Ammo South"
 	outfitter "Common Outfits"
