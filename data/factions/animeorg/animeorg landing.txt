@@ -1,5 +1,7 @@
 mission animeorg.landing
 	source "Eisei"
+	to offer
+		not "watchedAnimeOnEisei"
 	landing
 	on offer
 		conversation
