@@ -216,3 +216,212 @@ mission animeorg.transportFromHS.9
             dialog phrase animeorg.transportFromHS.complete
 
 
+mission animeorg.transportFromHS.spa.0
+    name "<bunks> passengers to <system>"
+    job
+    repeat
+    passengers 2 4 .5
+    description "This group of <bunks> is headed to an anime screening on <planet>, <system>. Transport them to their destination for <payment>."
+    source
+            government "Sayari Plushie"
+    destination
+            government "Anime Organization"
+    to offer
+            random < 50
+            "passenger space" > 10
+    on visit
+            dialog phrase "generic passenger on visit"
+    on complete
+            payment 88000 40
+            dialog phrase animeorg.transportFromHS.complete
+
+mission animeorg.transportFromHS.spa.1
+    name "<bunks> passengers to <system>"
+    job
+    repeat
+    passengers 2 4 .5
+    description "This group of <bunks> is headed to an anime screening on <planet>, <system>. Transport them to their destination for <payment>."
+    source
+            government "Sayari Plushie"
+    destination
+            government "Anime Organization"
+    to offer
+            random < 50
+            "passenger space" > 10
+    on visit
+            dialog phrase "generic passenger on visit"
+    on complete
+            payment 88000 40
+            dialog phrase animeorg.transportFromHS.complete
+
+mission animeorg.transportFromHS.spa.2
+    name "<bunks> passengers to <system>"
+    job
+    repeat
+    passengers 2 4 .5
+    description "This group of <bunks> is headed to an anime screening on <planet>, <system>. Transport them to their destination for <payment>."
+    source
+            government "Sayari Plushie"
+    destination
+            government "Anime Organization"
+    to offer
+            random < 50
+            "passenger space" > 10
+    on visit
+            dialog phrase "generic passenger on visit"
+    on complete
+            payment 88000 40
+            dialog phrase animeorg.transportFromHS.complete
+
+mission animeorg.transportFromHS.spa.3
+    name "<bunks> passengers to <system>"
+    job
+    repeat
+    passengers 2 4 .5
+    description "This group of <bunks> is headed to an anime screening on <planet>, <system>. Transport them to their destination for <payment>."
+    source
+            government "Sayari Plushie"
+    destination
+            government "Anime Organization"
+    to offer
+            random < 50
+            "passenger space" > 10
+    on visit
+            dialog phrase "generic passenger on visit"
+    on complete
+            payment 88000 40
+            dialog phrase animeorg.transportFromHS.complete
+
+mission animeorg.transportFromHS.spa.4
+    name "<bunks> passengers to <system>"
+    job
+    repeat
+    passengers 2 4 .5
+    description "This group of <bunks> is headed to an anime screening on <planet>, <system>. Transport them to their destination for <payment>."
+    source
+            government "Sayari Plushie"
+    destination
+            government "Anime Organization"
+    to offer
+            random < 50
+            "passenger space" > 10
+    on visit
+            dialog phrase "generic passenger on visit"
+    on complete
+            payment 88000 40
+            dialog phrase animeorg.transportFromHS.complete
+
+mission animeorg.transportFromHS.spa.5
+    name "<bunks> passengers to <system>"
+    job
+    repeat
+    passengers 2 4 .5
+    description "This group of <bunks> is headed to an anime screening on <planet>, <system>. Transport them to their destination for <payment>."
+    source
+            government "Sayari Plushie"
+    destination
+            government "Anime Organization"
+    to offer
+            random < 50
+            "passenger space" > 10
+    on visit
+            dialog phrase "generic passenger on visit"
+    on complete
+            payment 88000 40
+            dialog phrase animeorg.transportFromHS.complete
+
+mission animeorg.transportFromHS.spa.6
+    name "<bunks> passengers to <system>"
+    job
+    repeat
+    passengers 2 4 .5
+    description "This group of <bunks> is headed to an anime screening on <planet>, <system>. Transport them to their destination for <payment>."
+    source
+            government "Sayari Plushie"
+    destination
+            government "Anime Organization"
+    to offer
+            random < 50
+            "passenger space" > 10
+    on visit
+            dialog phrase "generic passenger on visit"
+    on complete
+            payment 88000 40
+            dialog phrase animeorg.transportFromHS.complete
+
+mission animeorg.transportFromHS.spa.7
+    name "<bunks> passengers to <system>"
+    job
+    repeat
+    passengers 2 4 .5
+    description "This group of <bunks> is headed to an anime screening on <planet>, <system>. Transport them to their destination for <payment>."
+    source
+            government "Sayari Plushie"
+    destination
+            government "Anime Organization"
+    to offer
+            random < 50
+            "passenger space" > 10
+    on visit
+            dialog phrase "generic passenger on visit"
+    on complete
+            payment 88000 40
+            dialog phrase animeorg.transportFromHS.complete
+
+mission animeorg.transportFromHS.spa.8
+    name "<bunks> passengers to <system>"
+    job
+    repeat
+    passengers 2 4 .5
+    description "This group of <bunks> is headed to an anime screening on <planet>, <system>. Transport them to their destination for <payment>."
+    source
+            government "Sayari Plushie"
+    destination
+            government "Anime Organization"
+    to offer
+            random < 50
+            "passenger space" > 10
+    on visit
+            dialog phrase "generic passenger on visit"
+    on complete
+            payment 88000 40
+            dialog phrase animeorg.transportFromHS.complete
+
+mission animeorg.transportFromHS.spa.9
+    name "<bunks> passengers to <system>"
+    job
+    repeat
+    passengers 2 4 .5
+    description "This group of <bunks> is headed to an anime screening on <planet>, <system>. Transport them to their destination for <payment>."
+    source
+            government "Sayari Plushie"
+    destination
+            government "Anime Organization"
+    to offer
+            random < 50
+            "passenger space" > 10
+    on visit
+            dialog phrase "generic passenger on visit"
+    on complete
+            payment 88000 40
+            dialog phrase animeorg.transportFromHS.complete
+
+mission animeorg.transportFromHS.spa.10
+    name "<bunks> passengers to <system>"
+    job
+    repeat
+    passengers 2 4 .5
+    description "This group of <bunks> is headed to an anime screening on <planet>, <system>. Transport them to their destination for <payment>."
+    source
+            government "Sayari Plushie"
+    destination
+            government "Anime Organization"
+    to offer
+            random < 50
+            "passenger space" > 10
+    on visit
+            dialog phrase "generic passenger on visit"
+    on complete
+            payment 88000 40
+            dialog phrase animeorg.transportFromHS.complete
+
