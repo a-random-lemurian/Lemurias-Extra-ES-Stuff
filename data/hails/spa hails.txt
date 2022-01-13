@@ -33,6 +33,9 @@ phrase spa.hails.friendly
 		spa.hails.friendly.sp7 72
 
 
+		spa.hails.funFacts 34
+
+
 phrase spa.hails.hostile.sp1
 	word
 		"You shall pay for "
