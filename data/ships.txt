@@ -409,3 +409,64 @@ ship "Shield Beetle" "SPA Shield Beetle (Proton)"
 	"final explode" "final explosion large"
 	description "This ship was first built millennia ago, near the end of a more violent time in Hai history. Since then, it has served as the only heavy warship at the disposal of the Hai. The Shield Beetle is a versatile warship used by the Hai to guard their merchant convoys, or by the Unfettered to attack those very same convoys."
 	description "Naturally, the SPA has taken advantage of this versatility, replacing all the gun ports with Syndicate Proton Guns, more specifically, 10 of them, which can be used to deadly effect."
+
+ship "Skein" "SPA Skein"
+	sprite "ship/skein"
+	thumbnail "thumbnail/skein"
+	attributes
+		category "Medium Warship"
+		"cost" 4200000
+		"shields" 8500
+		"hull" 5100
+		"required crew" 9
+		"bunks" 14
+		"mass" 490
+		"drag" 12.5
+		"heat dissipation" .66
+		"fuel capacity" 900
+		"cargo space" 40
+		"outfit space" 590
+		"weapon capacity" 200
+		"engine capacity" 80
+		weapon
+			"blast radius" 100
+			"shield damage" 1000
+			"hull damage" 500
+			"hit force" 1500
+	outfits
+		"Heavy Laser" 2
+		"Heavy Laser Turret" 4
+		
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D67-TM Shield Generator" 4
+		
+		"A250 Atomic Thruster"
+		"A255 Atomic Steering"
+		"Hyperdrive"
+
+	engine -45 196.5
+	engine 45 196.5
+	gun -14.5 -166.5 "Heavy Laser"
+	gun 14.5 -166.5 "Heavy Laser"
+	turret -21.5 -122 "Heavy Laser Turret"
+	turret 21.5 -122 "Heavy Laser Turret"
+	turret -18.5 152.5 "Heavy Laser Turret"
+	turret 18.5 152.5 "Heavy Laser Turret"
+	bay "Fighter" -47 -61 under
+	bay "Fighter" 47 -61 under
+	bay "Fighter" -47 14 under
+	bay "Fighter" 47 14 under
+	bay "Fighter" -47 88 under
+	bay "Fighter" 47 88 under
+	leak "leak" 50 50
+	leak "flame" 40 80
+	leak "big leak" 70 30
+	explode "small explosion" 15
+	explode "medium explosion" 30
+	explode "large explosion" 20
+	explode "huge explosion" 5
+	"final explode" "final explosion large"
+	description `This particular cockpit and engine set has found itself attached to three of Southbound Shipyards' new "Type F" Fighter-carrier pods. When the Free Worlds asked for a carrier, they did not expect one that would be able to carry more fighters than even the heaviest Navy warships. Given this fact, the Free Worlds have asked Southbound and Tarazed to restrict sale of the "Hauler III: Type F", "Skein" to its Militia only.`
+	description `This is a modified variant, built by the SPA for it's needs. Fleets that need to transport plushies in questionable situations (such as when the CSSF is patrolling a particular system), often use this particular variant of the Skein.`
+	description `The Sayari Plushie Authority is willing to sell this ship to anyone with enough money, without the need for a militia license from the Free Worlds.`

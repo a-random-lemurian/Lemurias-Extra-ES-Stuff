@@ -519,10 +519,10 @@ fleet spa.general.freeWorldsShips.large.1
 		disables plunders
 		confusion 25
 	variant 30
-		Skein 10
+		"SPA Skein" 10
 		"Korath Chaser" 60
 	variant 20
-		Skein 3
+		"SPA Skein" 3
 		"Korath Chaser" 18
 fleet spa.general.Falcon.large.1
 	government "Sayari Plushie"
