@@ -28,3 +28,9 @@ phrase leest.timePeriods.sp1
 		"the beginning of time"
 		"we humans first ventured into space"
 		"God knows how long"
+
+phrase spa.hails.phrases.places.cottonFarmingPlanets
+	word
+		"New India"
+		"Shroud"
+		"Thrall"
