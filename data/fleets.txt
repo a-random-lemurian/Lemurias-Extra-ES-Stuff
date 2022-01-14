@@ -391,7 +391,12 @@ fleet spa.war.illuminaReg.large.1
 		"SPA Cruiser" 18
 	variant 3
 		"SPA Gunboat (Proton Gun)" 12
-
+	variant 5
+		"SPA Skein" 5
+		"Korath Chaser" 30
+	variant 2
+		"SPA Skein" 12
+		"Korath Chaser" 72
 
 fleet spa.war.vanguard.large.1
 	government "Sayari Plushie"
@@ -519,10 +524,10 @@ fleet spa.general.freeWorldsShips.large.1
 		disables plunders
 		confusion 25
 	variant 30
-		Skein 10
+		"SPA Skein" 10
 		"Korath Chaser" 60
 	variant 20
-		Skein 3
+		"SPA Skein" 3
 		"Korath Chaser" 18
 fleet spa.general.Falcon.large.1
 	government "Sayari Plushie"
