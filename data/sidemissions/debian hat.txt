@@ -15,8 +15,6 @@
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
-# Debian is a registered trademark of Software in the Public Interest, Inc.
-
 
 phrase debianHatGiven
 	word
