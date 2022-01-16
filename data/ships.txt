@@ -86,6 +86,59 @@ ship Berserker "Berserker Miner"
 		"nGVF-CC Fuel Cell"
 	description "Once one of the most popular interceptor-class ships, the Berserker's popularity is now waning in favor of more modern and versatile ships like the Hawk. Although limited numbers are still produced by Betelgeuse Shipyards, most Berserkers that are in service today are more than half a century old. This Berserker clearly was built with mining in mind."
 
+ship "Aerie" "Aerie Miner"
+	sprite "ship/aerie"
+	thumbnail "thumbnail/aerie"
+	attributes
+		category "Medium Warship"
+		"cost" 3500000
+		"shields" 7200
+		"hull" 1300
+		"required crew" 10
+		"bunks" 23
+		"mass" 140
+		"drag" 4.1
+		"heat dissipation" .7
+		"fuel capacity" 500
+		"cargo space" 125
+		"outfit space" 490
+		"weapon capacity" 190
+		"engine capacity" 95
+		weapon
+			"blast radius" 80
+			"shield damage" 800
+			"hull damage" 400
+			"hit force" 1200
+	outfits
+		"Heavy Laser" 2
+		"Heavy Laser Turret" 4
+		
+		"NT-200 Nucleovoltaic"
+		"KP-6 Photovoltaic Panel" 2
+		"LP072a Battery Pack"
+		"D41-HY Shield Generator"
+		"Laser Rifle" 3
+		
+		"A370 Atomic Thruster"
+		"A375 Atomic Steering"
+		"Hyperdrive"
+		
+	engine 0 91
+	gun -13 -79 "Heavy Laser"
+	gun 13 -79 "Heavy Laser"
+	turret 0 0 "Heavy Laser Turret"
+	turret 0 14 "Heavy Laser Turret"
+	turret -17 14 "Heavy Laser Turret"
+	turret 17 14 "Heavy Laser Turret"
+	leak "leak" 50 50
+	leak "flame" 50 80
+	leak "big leak" 90 30
+	explode "tiny explosion" 10
+	explode "small explosion" 25
+	explode "medium explosion" 25
+	explode "large explosion" 10
+	"final explode" "final explosion medium"
+	description "This Lionheart Aerie ship has been modified significantly for use as a mining ship. As a result, the fighter bays have been converted into cargo and weapon space for mining turrets."
 
 ship "Gunboat" "SPA Gunboat"
 	sprite "ship/gunboat"

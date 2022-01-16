@@ -228,6 +228,21 @@ fleet imc.mining.illuminaMiners.med.1
 		timid waiting harvests mining
 	variant 4
 		"Argosy" 4
+
+
+fleet imc.mining.aerie.small.1
+	government "Merchant"
+	names "civilian"
+	personality
+		timid waiting harvests mining
+	variant 10
+		"Aerie Miner" 4
+	variant 90
+		"Aerie Miner" 8
+	variant 30
+		"Aerie Miner" 13
+
+
 ###################################################################################################################
 fleet spa.trade.HumanSpace.large.1
 	government "Sayari Plushie"

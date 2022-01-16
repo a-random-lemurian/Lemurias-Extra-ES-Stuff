@@ -619,6 +619,7 @@ system Illuria
 	fleet "Large Northern Merchants" 600
 	fleet "Large Southern Merchants" 600
 	fleet imc.mining.illuminaMiners.med.1 600
+	fleet imc.mining.aerie.small.1 1200
 	fleet spa.trade.HumanSpace.large.1 1300
 	fleet spa.war.localguard.small.1 500
 	habitable 889.35
