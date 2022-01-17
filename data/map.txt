@@ -971,11 +971,13 @@ system Lindookor
 system Littike
 	pos -1096.4722 -142.41666
 	government "Sayari Plushie"
-	fleet spa.war.illuminaReg.large.1 900
-	fleet spa.general.Bactrian.small.1 1700
+	fleet spa.war.illuminaReg.large.1 1000
+	fleet spa.general.Bactrian.small.1 1500
 	fleet "Large Northern Pirates" 4000
-	fleet "Large Northern Merchants" 2000
-	fleet "Paradise Merchants" 1600
+	fleet "Large Northern Merchants" 300
+	fleet "Paradise Merchants" 300
+	fleet spa.patrol.small.1 900
+	fleet spa.patrol.small.1 900
 	link Denleitt
 	link Lakodelfraddi
 	link Oldothe
