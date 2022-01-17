@@ -198,6 +198,25 @@ fleet cssf.war.Patrol.small.1
 		Argosy 2
 		Sparrow 3
 		Roost 1
+fleet cssf.war.orbona.1
+	government "Yuyuko Saigyouji"
+	names cssf
+	cargo 10
+	personality
+		heroic vindictive
+		confusion 30
+	variant 10
+		Falcon 5
+		Firebird 12
+		"Kar Ik Vot 349" 5
+	variant 20
+		Leviathan 8
+		Falcon 10
+	variant 15
+		"Marauder Falcon (Weapons)" 8
+		"Marauder Leviathan (Weapons)" 5
+		"Marauder Firebird (Weapons)" 9
+		"Marauder Quicksilver (Weapons)" 19
 ###################################################################################################################
 fleet imc.mining.illuminaMiners.small.1
 	government "Merchant"

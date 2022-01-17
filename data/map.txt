@@ -1252,6 +1252,7 @@ system Orbona
 	add fleet spa.general.amidalaVariants.large.1 800
 	add fleet cssf.general.emeraldSword.large.1 2700
 	add fleet spa.general.EmeraldSword.med.1 1200
+	add fleet cssf.war.orbona.1 600
 ### P
 system Pekora
 	pos -905.80556 -439.05556
