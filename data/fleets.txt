@@ -622,6 +622,32 @@ fleet spa.general.EmeraldSword.med.1
 		"Emerald Sword" 4
 
 
+fleet spa.general.patrol.small.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		confusion 14
+		heroic disables
+	variant 20
+		"Falcon"                          3
+		"Firebird"                        2
+		"Quicksilver"                     8
+	variant 15
+		"SPA Gunboat"                     8
+		"SPA Cruiser"                     3
+	variant 30
+		"SPA Gunboat"                     12
+	variant 10
+		"SPA Gunboat"                     10
+		"Quicksilver"                     5
+		"Firebird"                        3
+		"Falcon"                          4
+	variant 20
+		"Marauder Falcon (Weapons)"       5
+		"Falcon"                          8
+		"Quicksilver"                     8
+
+
 fleet spa.mining.amidalaMiner.med.1
 	government "Sayari Plushie"
 	names spa.allNames
