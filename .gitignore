@@ -30,3 +30,4 @@ __pycache__
 !Wintersconfig.yaml
 !.git
 !.gitignore
+!.gitattributes
