@@ -1480,6 +1480,7 @@ system Suerolii
 	fleet cssf.war.illuminaReg.large.1 2100
 	fleet "Paradise Merchants" 1400
 	fleet "Large Northern Pirates" 4000
+	fleet spa.general.emptyCarriers.small.1 2800
 	trade Clothing 448
 	trade "Data drives" 8948
 	trade Electronics 998

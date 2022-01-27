@@ -648,6 +648,20 @@ fleet spa.general.patrol.small.1
 		"Quicksilver"                     8
 
 
+# Sometimes, in battle, fighters will have
+# no carriers to board due to them being
+# destroyed by the enemy.
+fleet spa.general.emptyCarriers.small.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		confusion 19
+		heroic disables
+	variant 30
+		"SPA Skein" 2
+		"Falcon" 5
+
+
 fleet spa.mining.amidalaMiner.med.1
 	government "Sayari Plushie"
 	names spa.allNames
