@@ -351,7 +351,8 @@ ship "Cruiser" "SPA Cruiser (Korath Slicer)"
 			"hit force" 3900
 	outfits
 		"Korath Slicer" 6
-		"Korath Slicer Turret" 6
+		"Korath Slicer Turret" 3
+		"Heavy Anti-Missile Turret" 3
 		
 		"Blue Sun Reactor" 1
 		"LP576a Battery Pack" 2
@@ -380,9 +381,9 @@ ship "Cruiser" "SPA Cruiser (Korath Slicer)"
 	turret    0 -39.5   "Korath Slicer Turret"
 	turret  -32   -23   "Korath Slicer Turret"
 	turret   32   -23   "Korath Slicer Turret"
-	turret    0     0   "Korath Slicer Turret"
-	turret   10     0   "Korath Slicer Turret"
-	turret  -10     0   "Korath Slicer Turret"
+	turret    0     0   "Heavy Anti-Missile Turret"
+	turret   10     0   "Heavy Anti-Missile Turret"
+	turret  -10     0   "Heavy Anti-Missile Turret"
 
 	bay "Drone" -25  19.5
 	bay "Drone"  25  19.5
