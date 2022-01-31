@@ -402,6 +402,7 @@ fleet spa.war.illuminaReg.large.1
 	names spa.allNames
 	cargo 13
 	government "Sayari Plushie"
+	fighters spafighterhexcode
 	personality
 		confusion 8
 		disables harvests
@@ -517,6 +518,7 @@ fleet spa.exploration.scout.small.2
 fleet spa.general.korathChaser.1
 	government "Sayari Plushie"
 	names spa.allNames
+	fighters spafighterhexcode
 	personality
 		disables plunders vindictive
 		confusion 33
@@ -527,6 +529,7 @@ fleet spa.general.korathChaser.1
 fleet spa.general.navyShips.large.1
 	government "Sayari Plushie"
 	names spa.allNames
+	fighters spafighterhexcode
 	personality
 		disables plunders
 		confusion 30
@@ -554,6 +557,7 @@ fleet spa.general.navyShips.large.1
 fleet spa.general.freeWorldsShips.large.1
 	government "Sayari Plushie"
 	names spa.allNames
+	fighters spafighterhexcode
 	personality
 		disables plunders
 		confusion 25
