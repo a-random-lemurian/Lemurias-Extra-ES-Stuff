@@ -1,3 +1,19 @@
+### v0.10.10
+- Rebalancing
+   - Removed SPA and CSSF fleets from human space
+   - Rebalance Ghesie fleets: buffed SPA patrols and "nerfed"/weakened pirates
+   - Rebalanced Denleitt fleets (nerfed pirates and buffed Anime Organization patrols)
+   - Reduced spawn frequency of SPA Heliarch Punisher fleets in Serfeiia
+- Added Anime Organization transport missions. Payment is lower when taking these missions from SPA space.
+- Added more spaceport news for the Anime Organization
+- Added Aerie variant for mining.
+- Added Aerie Miner fleet that spawns in Illuria
+- Added "fun fact" hails to the SPA
+- Added dialog triggered when landing on Eisei for the first time
+- Added Anime Organization spaceport news
+- Added a CSSF fleet that spawns only in Orbona
+- Added a SPA fleet with empty carriers (to pick up "orphaned" fighters whose carriers were destroyed)
+
 ### v0.10.9
 - More hails
    - Added hails about making free software
