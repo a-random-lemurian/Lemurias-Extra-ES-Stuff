@@ -432,7 +432,12 @@ fleet spa.war.illuminaReg.large.1
 	variant 2
 		"SPA Skein" 12
 		"Korath Chaser" 72
-
+	variant 7
+		"SPA Cruiser (Korath Slicer)" 10
+		"SPA Cruiser" 4
+		"SPA Gunboat" 3
+	variant 1
+		"SPA Cruiser (Korath Slicer)" 14
 fleet spa.war.vanguard.large.1
 	government "Sayari Plushie"
 	names spa.allNames
