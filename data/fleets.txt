@@ -402,6 +402,7 @@ fleet spa.war.illuminaReg.large.1
 	names spa.allNames
 	cargo 13
 	government "Sayari Plushie"
+	fighters spafighterhexcode
 	personality
 		confusion 8
 		disables harvests
@@ -431,7 +432,12 @@ fleet spa.war.illuminaReg.large.1
 	variant 2
 		"SPA Skein" 12
 		"Korath Chaser" 72
-
+	variant 7
+		"SPA Cruiser (Korath Slicer)" 10
+		"SPA Cruiser" 4
+		"SPA Gunboat" 3
+	variant 1
+		"SPA Cruiser (Korath Slicer)" 14
 fleet spa.war.vanguard.large.1
 	government "Sayari Plushie"
 	names spa.allNames
@@ -489,6 +495,8 @@ fleet spa.war.ghesiePatrol.small.1
 	variant 4
 		"SPA Gunboat" 4
 		"SPA Gunboat (Proton Gun)" 6
+	variant
+		"SPA Cruiser (Korath Slicer)" 16
 
 fleet spa.exploration.scout.small.1
 	government "Sayari Plushie"
@@ -517,6 +525,7 @@ fleet spa.exploration.scout.small.2
 fleet spa.general.korathChaser.1
 	government "Sayari Plushie"
 	names spa.allNames
+	fighters spafighterhexcode
 	personality
 		disables plunders vindictive
 		confusion 33
@@ -527,6 +536,7 @@ fleet spa.general.korathChaser.1
 fleet spa.general.navyShips.large.1
 	government "Sayari Plushie"
 	names spa.allNames
+	fighters spafighterhexcode
 	personality
 		disables plunders
 		confusion 30
@@ -554,6 +564,7 @@ fleet spa.general.navyShips.large.1
 fleet spa.general.freeWorldsShips.large.1
 	government "Sayari Plushie"
 	names spa.allNames
+	fighters spafighterhexcode
 	personality
 		disables plunders
 		confusion 25

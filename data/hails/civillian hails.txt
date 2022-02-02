@@ -43,6 +43,30 @@ phrase "friendly civilian"
 
 phrase "friendly civilian"
 	word
+		"Today"
+		"Yesterday"
+	word
+		", I"
+	word
+		" "
+	word
+		"exceeded my API quota"
+		"went over my API limit"
+		"got ratelimited"
+	word
+		" "
+	word
+		"and now my ship can't"
+	word
+		" "
+	word
+		"connect to the asteroid locator API. "
+		"connect to the trade prices API."
+		"connect to the trade route recommendation API."
+
+
+phrase "friendly civilian"
+	word
 		"My "
 	word
 		"ship's navigation"

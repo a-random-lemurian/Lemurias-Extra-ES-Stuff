@@ -33,6 +33,7 @@ phrase spa.allNames.noPrefix
 		spa.miscCharacternames 5
 		linuxRelated 50
 		technames 41
+		standaloneNames 32
 phrase spa.multiword
 	phrase
 		spa.multiword.1 10
