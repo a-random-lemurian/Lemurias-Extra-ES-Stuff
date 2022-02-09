@@ -139,6 +139,9 @@ fleet cssf.war.illuminaReg.large.1
 	variant 14
 		"Bactrian" 5
 		"Firebird" 14
+	variant 21
+		"Old Bactrian" 4
+		"Firebird" 3
 
 fleet cssf.general.emeraldSword.med.1
 	government "Yuyuko Saigyouji"

@@ -602,3 +602,5 @@ ship "Skein" "SPA Skein"
 	description `This particular cockpit and engine set has found itself attached to three of Southbound Shipyards' new "Type F" Fighter-carrier pods. When the Free Worlds asked for a carrier, they did not expect one that would be able to carry more fighters than even the heaviest Navy warships. Given this fact, the Free Worlds have asked Southbound and Tarazed to restrict sale of the "Hauler III: Type F", "Skein" to its Militia only.`
 	description `This is a modified variant, built by the SPA for it's needs. Fleets that need to transport plushies in questionable situations (such as when the CSSF is patrolling a particular system), often use this particular variant of the Skein.`
 	description `The Sayari Plushie Authority is willing to sell this ship to anyone with enough money, without the need for a militia license from the Free Worlds.`
+ship "Bactrian" "Old Bactrian"
+	sprite "ship/old_bactrian"
