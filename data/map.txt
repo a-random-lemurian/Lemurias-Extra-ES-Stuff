@@ -240,10 +240,14 @@ system Denleitt
 	fleet animeorg.general.patrol.small.1 300
 	fleet spa.war.amidala.large 500
 	fleet spa.trade.HumanSpace.large 1700
-	fleet "Small Northern Merchants" 400
-	fleet "Small Northern Merchants" 400
-	fleet "Large Northern Merchants" 600
-	fleet "Large Northern Merchants" 600
+	fleet "Small Northern Merchants" 300
+	fleet "Small Northern Merchants" 300
+	fleet "Small Northern Merchants" 300
+	fleet "Small Northern Merchants" 300
+	fleet "Small Northern Merchants" 300
+	fleet "Small Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
 	fleet "Small Northern Pirates" 3700
 	fleet "Large Northern Pirates" 4000
 	fleet "Large Deep Merchants" 900
