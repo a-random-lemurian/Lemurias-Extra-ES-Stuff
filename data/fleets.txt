@@ -659,6 +659,41 @@ fleet spa.general.patrol.small.1
 		"Quicksilver"                     8
 
 
+fleet spa.general.patrol.small.2
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		confusion 17
+		heroic disables
+	variant 35
+		"Falcon" 3
+		"Firebird" 2
+	variant 20
+		"SPA Gunboat" 5
+		"SPA Cruiser" 3
+	variant 30
+		"Quicksilver" 7
+	variant 15
+		"SPA Cruiser" 2
+		"Bactrian" 3
+	variant 40
+		"SPA Cruiser" 4
+		"Falcon" 3
+	variant 10
+		"Quicksilver" 3
+		"Amidala" 2
+	variant 20
+		"Amidala" 4
+		"SPA Cruiser" 2
+		"SPA Gunboat" 4
+	variant 15
+		"Bactrian" 3
+	variant 10
+		"Hauler III" 4
+		"Mule" 5
+	variant 25
+		"Mule" 2
+
 # Sometimes, in battle, fighters will have
 # no carriers to board due to them being
 # destroyed by the enemy.
