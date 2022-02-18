@@ -1,3 +1,8 @@
+### v0.10.11
+- Added hails about some ships exceeding API ratelimits.
+- Added SPA variant of the Cruiser equipped with Particle Cannons.
+- Added the old Bactrian image back.
+
 ### v0.10.10
 - Rebalancing
    - Removed SPA and CSSF fleets from human space
