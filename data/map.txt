@@ -976,8 +976,15 @@ system Littike
 	pos -1096.4722 -142.41666
 	government "Sayari Plushie"
 	fleet spa.war.illuminaReg.large.1 1000
-	fleet spa.general.Bactrian.small.1 1500
 	fleet "Large Northern Pirates" 4000
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
 	fleet "Large Northern Merchants" 300
 	fleet "Paradise Merchants" 300
 	fleet spa.patrol.small.1 900
@@ -1211,7 +1218,12 @@ system Oldothe
 	fleet spa.war.amidala.large.1 1300
 	fleet spa.trade.HumanSpace.large.1 1600
 	fleet spa.mining.amidalaMiner.med.1 1500
-	fleet "Large Northern Merchants" 600
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 300
 	trade Clothing 431
 	trade Electronics 652
 	trade Equipment 594
