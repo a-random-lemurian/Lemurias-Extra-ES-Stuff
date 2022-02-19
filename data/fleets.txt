@@ -646,9 +646,11 @@ fleet spa.general.patrol.small.1
 		"Falcon"                          3
 		"Firebird"                        2
 		"Quicksilver"                     8
+		"SPA Cruiser (Particle Cannon)"   7
 	variant 15
 		"SPA Gunboat"                     8
 		"SPA Cruiser"                     3
+		"SPA Cruiser (Particle Cannon)"   7
 	variant 30
 		"SPA Gunboat"                     12
 	variant 10
@@ -656,10 +658,12 @@ fleet spa.general.patrol.small.1
 		"Quicksilver"                     5
 		"Firebird"                        3
 		"Falcon"                          4
+		"SPA Cruiser (Particle Cannon)"   7
 	variant 20
 		"Marauder Falcon (Weapons)"       5
 		"Falcon"                          8
 		"Quicksilver"                     8
+		"SPA Cruiser (Particle Cannon)"   7
 
 
 fleet spa.general.patrol.small.2
