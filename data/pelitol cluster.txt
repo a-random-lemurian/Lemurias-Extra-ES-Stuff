@@ -225,3 +225,14 @@ system Dorkelt
 	link Defal
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
+
+planet "Defal VI Station"
+	landscape "land/space2"
+	government "Sayari Plushie"
+	description "This is an outpost reachable only by jump drive. This is just about the closest settlement to Coalition space by travel time, but a jump drive would be needed to do that."
+	spaceport "As standard procedure, there are fuel pumps. Not many people are here, and you feel like you're in a distant region of space. There is only one ship docked. The crew seem friendly and even let you view one of their plushies. Even in remote space, Freya Winters plushies run rampant."
+planet Perechra
+	landscape "land/perechra"
+	government "Sayari Plushie"
+	description "Perechra is a SPA outpost world in the southern parts of the Northwest Illumina Regions. With a population of 12,000, the world's facilties are primitive and meet only the barebones basic standards of medicine, hygiene and other critical services."
+	spaceport "The spaceport is barebones, with just 5 landing pads for large ships. You see 4 small ships on one of the landing pads. People here give you weird looks, since not many people land often."
