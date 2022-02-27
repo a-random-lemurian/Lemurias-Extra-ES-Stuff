@@ -6,6 +6,7 @@ galaxy pelitolNebula
 system Sorusep
 	pos -8431.4301 -235.86756
 	link Ikopp
+	link Oratelis
 	fleet spa.exploration.scout.small.2 2000
 	object
 		sprite "star/g0"
@@ -94,6 +95,7 @@ system Defal
 	government "Sayari Plushie"
 	link Ikopp
 	link Pelitol
+	link Dorkelt
 	trade Clothing 376
 	trade Electronics 733
 	trade Equipment 608
@@ -137,6 +139,7 @@ system Ikopp
 	pos -8401.2079 -271.42311
 	link Defal
 	link Pelitol
+	link Repolitea
 	link Sorusep
 	fleet spa.exploration.scout.small.2 2000
 	object
@@ -163,3 +166,38 @@ system Ikopp
 		sprite "planet/gas13"
 		period 2663
 		distance 6591
+
+system Repolitea
+	pos -8477.3299 -290.50439
+	link Ikopp
+	link Doler
+	link Sarut
+	fleet spa.exploration.scout.small.2 800
+
+system Sarut
+	pos -8494.2013 -254.20034
+	link Repolitea
+	fleet spa.general.heliarchShips.med.1 2000
+	fleet spa.exploration.scout.small.2 500
+
+system Doler
+	pos -8497.2208 -341.10098
+	link Repolitea
+	link Oratelis
+	fleet spa.general.heliarchShips.med.1 2000
+	fleet spa.exploration.scout.small.2 500
+
+system Oratelis
+	pos -8455.3029 -201.04985
+	link Sorusep
+	link Sarut
+	link Dorkelt
+	fleet spa.general.heliarchShips.med.1 2000
+	fleet spa.exploration.scout.small.2 500
+
+system Dorkelt
+	pos -8402.4995 -203.45588
+	link Oratelis
+	link Defal
+	fleet spa.general.heliarchShips.med.1 2000
+	fleet spa.exploration.scout.small.2 500
