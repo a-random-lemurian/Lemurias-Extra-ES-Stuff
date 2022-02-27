@@ -181,7 +181,7 @@ system Repolitea
 		sprite "planet/rock12"
 		distance 504
 		period 200
-	object 
+	object
 		sprite "planet/earth"
 		distance 1066
 		period 400
@@ -238,6 +238,10 @@ system Doler
 	link Oratelis
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
+	object
+		sprite "star/a3"
+		distance 0
+		period 0
 
 system Oratelis
 	pos -8455.3029 -201.04985
@@ -246,6 +250,10 @@ system Oratelis
 	link Dorkelt
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
+	object
+		sprite "star/k0"
+		distance 0
+		period 0
 
 system Dorkelt
 	pos -8402.4995 -203.45588
@@ -253,6 +261,11 @@ system Dorkelt
 	link Defal
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
+	object
+		sprite "star/f0"
+		distance 0
+		period 0
+
 planet "Kaistra"
 	landscape "land/kaistra"
 	government "Sayari Plushie"
