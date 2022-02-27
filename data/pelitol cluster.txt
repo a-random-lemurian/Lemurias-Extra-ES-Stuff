@@ -1,0 +1,160 @@
+system Sorusep
+	pos -8431.4301 -235.86756
+	link Ikopp
+	fleet spa.exploration.scout.small.2 2000
+	object
+		sprite "star/g0"
+		period 0
+		distance 0
+	object
+		sprite "planet/rock0"
+		period 144
+		distance 403
+	object
+		sprite "planet/rock14"
+		period 288
+		distance 883
+	object
+		sprite "planet/desert2"
+		period 388
+		distance 1443
+	object
+		sprite "planet/forest6"
+		period 403
+		distance 1904
+	object
+		sprite "planet/gas8"
+		period 577
+		distance 2654
+	object
+		sprite "planet/gas4"
+		period 643
+		distance 3883
+
+system Pelitol
+	government "Sayari Plushie"
+	pos -8357.2079 -286.53422
+	link Defal
+	link Ikopp
+	trade Clothing 344
+	trade Electronics 713
+	trade Equipment 584
+	trade Food 481
+	trade "Heavy Metals" 473
+	trade Industrial 733
+	trade "Luxury Goods" 964
+	trade Medical 855
+	trade Plastic 509
+	trade Metal 399
+	fleet spa.exploration.scout.small.2 2000
+	object
+		sprite "star/k0"
+		period 0
+		distance 0
+	object
+		sprite "planet/rock11"
+		period 182
+		distance 503
+	object Perechra
+		sprite "planet/forest0"
+		period 277
+		distance 774
+	object
+		sprite "planet/desert3"
+		period 324
+		distance 913
+	object
+		sprite "planet/rock16"
+		period 530
+		distance 1233
+	object
+		sprite "planet/rock3"
+		period 677
+		distance 1448
+	object
+		sprite "planet/gas14-b"
+		period 988
+		distance 2884
+	object
+		sprite "planet/gas3-hot"
+		period 1332
+		distance 3902
+	object "Pelitol-Sedlai Wormhole"
+		sprite "planet/wormhole"
+		period 2445
+		distance 6550
+
+system Defal
+	pos -8356.319 -246.08978
+	government "Sayari Plushie"
+	link Ikopp
+	link Pelitol
+	trade Clothing 376
+	trade Electronics 733
+	trade Equipment 608
+	trade Food 492
+	trade "Heavy Metals" 483
+	trade Industrial 711
+	trade "Luxury Goods" 989
+	trade Medical 874
+	trade Metal 388
+	trade Plastic 434
+	fleet spa.exploration.scout.small.2 2000
+	object
+		sprite "star/k5"
+		period 0
+		distance 0
+	object
+		sprite "planet/rock5"
+		period 133
+		distance 449
+	object
+		sprite "planet/dust6"
+		period 249
+		distance 776
+	object
+		sprite "planet/forest0"
+		period 377
+		distance 1203
+	object
+		sprite "planet/gas5"
+		period 431
+		distance 1653
+	object
+		sprite "planet/gas8"
+		period 553
+		distance 2344
+		object "Defal VI Station"
+			sprite "planet/station15"
+			period 39
+			distance 233
+system Ikopp
+	pos -8401.2079 -271.42311
+	link Defal
+	link Pelitol
+	link Sorusep
+	fleet spa.exploration.scout.small.2 2000
+	object
+		sprite "star/a0"
+		period 0
+		distance 0
+	object
+		sprite "planet/rock3"
+		period 144
+		distance 340
+	object
+		sprite "planet/rock5"
+		period 322
+		distance 711
+	object
+		sprite "planet/ice3"
+		period 559
+		distance 1493
+	object
+		sprite "planet/gas14"
+		period 1994
+		distance 4303
+	object
+		sprite "planet/gas13"
+		period 2663
+		distance 6591
