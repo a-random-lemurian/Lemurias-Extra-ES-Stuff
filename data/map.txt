@@ -1466,13 +1466,23 @@ system Serfeiia
 
 
 
-
 system Sedlai
 	pos -1039.0278 -284.58333
 	link Fevbaa
 	link Jalak
 	link Minjuuk
-
+	object
+		sprite star/k0
+		distance 0
+		period 0
+	object 
+		sprite planet/lava4
+		distance 388
+		period 123
+	object "Pelitol-Sedlai Wormhole"
+		sprite "planet/wormhole"
+		distance 2345
+		period 554
 
 system Sundum
 	pos -975.13889 -411.94444
@@ -1927,6 +1937,10 @@ system Pelitol
 		sprite "planet/gas3-hot"
 		period 1332
 		distance 3902
+	object "Pelitol-Sedlai Wormhole"
+		sprite "planet/wormhole"
+		period 2445
+		distance 6550
 ### Q ###
 system Qartalp
 	pos -1408.569 -726.83978
@@ -2308,3 +2322,9 @@ planet Perechra
 	government "Sayari Plushie"
 	description "Perechra is a SPA outpost world in the southern parts of the Northwest Illumina Regions. With a population of 12,000, the world's facilties are primitive and meet only the barebones basic standards of medicine, hygiene and other critical services."
 	spaceport "The spaceport is barebones, with just 5 landing pads for large ships. You see 4 small ships on one of the landing pads. People here give you weird looks, since not many people land often."
+
+
+###############################################################################
+#===< Wormholes >===#
+planet "Pelitol-Sedlai Wormhole"
+	description ""
