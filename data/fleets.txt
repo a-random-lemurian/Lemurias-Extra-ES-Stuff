@@ -616,13 +616,26 @@ fleet spa.general.Bactrian.small.1
 	variant 10
 		"Bactrian" 5
 
-fleet spa.general.HeliarchPunishers.med.1
+fleet spa.general.heliarchShips.med.1
 	names spa.allNames
 	personality
 		heroic
 		confusion 13
-	variant
-		"Heliarch Punisher" 15
+	variant 10
+		"Heliarch Punisher" 1
+		"Heliarch Hunter" 3
+		"Heliarch Judicator" 2
+		"Korath Chaser" 12
+	variant 20
+		"Heliarch Hunter" 5
+		"Heliarch Judicator" 4
+		"Heliarch Interdictor" 2
+		"Heliarch Neutralizer" 1
+		"Korath Chaser" 24
+	variant 5
+		"Heliarch Punisher" 2
+	variant 12
+		"Heliarch Hunter" 4
 	government "Sayari Plushie"
 
 
