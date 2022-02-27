@@ -173,6 +173,30 @@ system Repolitea
 	link Doler
 	link Sarut
 	fleet spa.exploration.scout.small.2 800
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object 
+		sprite "planet/rock12"
+		distance 504
+		period 200
+	object 
+		sprite "planet/earth"
+		distance 1066
+		period 400
+	object 
+		sprite "planet/gas11"
+		distance 4599
+		period 577
+	object 
+		sprite "planet/gas4"
+		distance 7304
+		period 708
+	object 
+		sprite "planet/gas7"
+		distance 13440
+		period 901
 
 system Sarut
 	pos -8494.2013 -254.20034
