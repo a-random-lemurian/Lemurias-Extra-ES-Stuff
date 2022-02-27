@@ -1697,7 +1697,7 @@ system Doru
 	link Soles
 
 system Defal
-	pos -1356.319 -246.08978
+	pos -8356.319 -246.08978
 	government "Sayari Plushie"
 	link Ikopp
 	link Pelitol
@@ -1799,7 +1799,7 @@ system Forel
 	link Finduue
 ### I ###
 system Ikopp
-	pos -1401.2079 -271.42311
+	pos -8401.2079 -271.42311
 	link Defal
 	link Pelitol
 	link Sorusep
@@ -1891,7 +1891,7 @@ system Pyrau
 
 system Pelitol
 	government "Sayari Plushie"
-	pos -1357.2079 -286.53422
+	pos -8357.2079 -286.53422
 	link Defal
 	link Ikopp
 	trade Clothing 344
@@ -1990,7 +1990,7 @@ system Selseik
 
 
 system Sorusep
-	pos -1431.4301 -235.86756
+	pos -8431.4301 -235.86756
 	link Ikopp
 	fleet spa.exploration.scout.small.2 2000
 	object

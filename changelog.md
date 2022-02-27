@@ -4,6 +4,8 @@
 - Added the old Bactrian image back.
 - Rebalanced the SPA Heliarch fleet.
 - Increased merchant ship traffic in Denleitt and nearby systems.
+- Shifted Pelitol cluster 7000 units to the west.
+- Added wormhole between Sedlai and Pelitol.
 
 ### v0.10.10
 - Rebalancing
