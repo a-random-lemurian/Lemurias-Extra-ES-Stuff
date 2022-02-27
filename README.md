@@ -69,10 +69,12 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Kestrix III               | Ronincmc             | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Badlands00523.JPG))
 | Merschre                  | Trick17              | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:BlackRiver1.JPG))
 | Eisei                     | Skye Marthaler       | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Looking_eastward_at_Charles_Mound,_the_highest_point_in_Illinois.jpg))
+| Kaistra                   | Albinfo              | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:WK402_WikipediaWeekendTirana2015_MaguraMine_122.JPG))
 
   
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
 
+- Pelitol Cluster nebula image: *NASA, ESA, J. Hester and A. Loll (Arizona State University)*, [original](https://en.wikipedia.org/wiki/File:Crab_Nebula.jpg)
 </details>
 
 ### Planet sprites

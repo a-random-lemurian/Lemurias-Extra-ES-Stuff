@@ -253,6 +253,11 @@ system Dorkelt
 	link Defal
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
+planet "Kaistra"
+	landscape "land/kaistra"
+	government "Sayari Plushie"
+	description "Even deeper into the Pelitol Cluster, is the planet of Kaistra. Kaistra is an even smaller outpost, a mere mining colony."
+	spaceport "Kaistra's spaceport consists of a few landing pads, and the minimum required facilities."
 
 planet "Defal VI Station"
 	landscape "land/space2"
