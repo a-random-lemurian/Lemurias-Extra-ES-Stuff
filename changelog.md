@@ -2,6 +2,8 @@
 - Added hails about some ships exceeding API ratelimits.
 - Added SPA variant of the Cruiser equipped with Particle Cannons.
 - Added the old Bactrian image back.
+- Rebalanced the SPA Heliarch fleet.
+- Increased merchant ship traffic in Denleitt and nearby systems.
 
 ### v0.10.10
 - Rebalancing
