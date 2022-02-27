@@ -203,6 +203,34 @@ system Sarut
 	link Repolitea
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
+	object
+		sprite "star/a5"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock2"
+		distance 506
+		period 320
+	object "Kaistra"
+		sprite "planet/forest3"
+		distance 889
+		period 450
+	object
+		sprite "planet/cloud2"
+		distance 2094
+		period 776
+	object
+		sprite "planet/gas7"
+		distance 5044
+		period 1409
+	object
+		sprite "planet/gas4"
+		distance 8842
+		period 2033
+	object
+		sprite "planet/gas2"
+		distance 11908
+		period 2776
 
 system Doler
 	pos -8497.2208 -341.10098
