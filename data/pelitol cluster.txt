@@ -174,6 +174,7 @@ system Repolitea
 	link Ikopp
 	link Doler
 	link Sarut
+	fleet spa.general.heliarchShips.med.1 500
 	fleet spa.exploration.scout.small.2 800
 	object
 		sprite "star/g0"
@@ -183,7 +184,7 @@ system Repolitea
 		sprite "planet/rock12"
 		distance 504
 		period 200
-	object
+	object "Salistra"
 		sprite "planet/earth"
 		distance 1066
 		period 400
@@ -338,3 +339,12 @@ planet Perechra
 	government "Sayari Plushie"
 	description "Perechra is a SPA outpost world in the southern parts of the Northwest Illumina Regions. With a population of 12,000, the world's facilties are primitive and meet only the barebones basic standards of medicine, hygiene and other critical services."
 	spaceport "The spaceport is barebones, with just 5 landing pads for large ships. You see 4 small ships on one of the landing pads. People here give you weird looks, since not many people land often."
+
+planet "Salistra"
+	shipyard "Sayari Advanced"
+	outfitter "Sayari Outfits"
+	outfitter "Common Outfits"
+	landscape "land/salistra"
+	government "Sayari Plushie"
+	description "Salistra is an Earth-like world in the Pelitol Cluster. Salistra is primarily a farming, manufacturing, and shipbuilding world. Salistra is home to the Salistra Shipyard in orbit. The colony of Kaistra in the neighbouring Sarut system is the Salistra Shipyard's primary source of material."
+	spaceport "The Salistra Spaceport is located on an island in the middle of one of Salistra's large oceans."
