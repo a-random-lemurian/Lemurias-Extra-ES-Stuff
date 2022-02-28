@@ -23,6 +23,14 @@ shipyard "Sayari Advanced"
 	"SPA Carrier (Combat)"
 	"SPA Hauler III"
 
+shipyard "Sayari Heliarch Ships"
+	"SPA Heliarch Punisher"
+	"SPA Heliarch Breacher"
+	"SPA Heliarch Hunter"
+	"SPA Heliarch Interdictor"
+	"SPA Heliarch Judicator"
+	"SPA Heliarch Neutralizer"
+
 shipyard "Sayari Advanced without Falcon"
 	"Amidala"
 

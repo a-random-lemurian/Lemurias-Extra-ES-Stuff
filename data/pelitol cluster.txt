@@ -352,6 +352,7 @@ planet Perechra
 
 planet "Salistra"
 	shipyard "Sayari Advanced"
+	shipyard "Sayari Heliarch Ships"
 	outfitter "Sayari Outfits"
 	outfitter "Common Outfits"
 	landscape "land/salistra"
