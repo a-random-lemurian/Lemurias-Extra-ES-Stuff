@@ -252,6 +252,7 @@ system Oratelis
 	pos -8455.3029 -201.04985
 	link Sorusep
 	link Sarut
+	link Arket
 	link Dorkelt
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
@@ -271,6 +272,55 @@ system Dorkelt
 		sprite "star/f0"
 		distance 0
 		period 0
+
+system Arket
+	government "Sayari Plushie"
+	pos -8454.1998 -161.30113
+	link Oratelis
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 445
+		period 184
+	object
+		sprite "planet/rock2"
+		distance 778
+		period 245
+	object
+		sprite "planet/cloud3"
+		distance 1247
+		period 368
+	object
+		sprite "planet/cloud1"
+		distance 1788
+		period 421
+	object
+		sprite "planet/forest1"
+		distance 2456
+		period 477
+	object
+		sprite "planet/rock9"
+		distance 3440
+		period 554
+	object
+		sprite "planet/rock3"
+		distance 4211
+		period 774
+	object
+		sprite "planet/gas4"
+		distance 5274
+		period 903
+	object
+		sprite "planet/gas1"
+		distance 6204
+		period 1244
+	object
+		sprite "planet/gas7"
+		distance 7203
+		period 1567
 
 planet "Kaistra"
 	landscape "land/kaistra"
