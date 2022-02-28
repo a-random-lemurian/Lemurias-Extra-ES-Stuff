@@ -189,22 +189,50 @@ system Repolitea
 		sprite "planet/rock12"
 		distance 504
 		period 200
+		object
+			sprite "planet/station4"
+			distance 165
+			period 16
 	object "Salistra"
 		sprite "planet/earth"
 		distance 1066
 		period 400
+		object
+			sprite "planet/station1"
+			distance 300
+			period 16
+		object
+			sprite "planet/station3"
+			distance 400
+			period 20
+		object
+			sprite "planet/station5"
+			distance 500
+			period 24
 	object 
 		sprite "planet/gas11"
 		distance 4599
 		period 577
+		object
+			sprite "planet/station1"
+			distance 439
+			period 16
 	object 
 		sprite "planet/gas4"
 		distance 7304
 		period 708
+		object
+			sprite "planet/station5"
+			distance 338
+			period 16
 	object 
 		sprite "planet/gas7"
 		distance 13440
 		period 901
+		object
+			sprite "planet/station9"
+			distance 506
+			period 16
 
 system Sarut
 	government "Sayari Plushie"
