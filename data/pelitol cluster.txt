@@ -8,6 +8,7 @@ system Sorusep
 	link Ikopp
 	link Oratelis
 	fleet spa.exploration.scout.small.2 2000
+	fleet spa.general.pelitolCluster.med.1 1200
 	object
 		sprite "star/g0"
 		period 0
@@ -53,6 +54,7 @@ system Pelitol
 	trade Plastic 509
 	trade Metal 399
 	fleet spa.exploration.scout.small.2 2000
+	fleet spa.general.pelitolCluster.med.1 1200
 	object
 		sprite "star/k0"
 		period 0
@@ -107,6 +109,7 @@ system Defal
 	trade Metal 388
 	trade Plastic 434
 	fleet spa.exploration.scout.small.2 2000
+	fleet spa.general.pelitolCluster.med.1 1200
 	object
 		sprite "star/k5"
 		period 0
@@ -143,6 +146,7 @@ system Ikopp
 	link Repolitea
 	link Sorusep
 	fleet spa.exploration.scout.small.2 2000
+	fleet spa.general.pelitolCluster.med.1 1200
 	object
 		sprite "star/a0"
 		period 0
@@ -176,6 +180,7 @@ system Repolitea
 	link Sarut
 	fleet spa.general.heliarchShips.med.1 500
 	fleet spa.exploration.scout.small.2 800
+	fleet spa.general.pelitolCluster.med.1 1200
 	object
 		sprite "star/g0"
 		distance 0
@@ -207,6 +212,7 @@ system Sarut
 	link Repolitea
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
+	fleet spa.general.pelitolCluster.med.1 1200
 	object
 		sprite "star/a5"
 		distance 0
@@ -243,6 +249,7 @@ system Doler
 	link Oratelis
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
+	fleet spa.general.pelitolCluster.med.1 1200
 	object
 		sprite "star/a3"
 		distance 0
@@ -257,6 +264,7 @@ system Oratelis
 	link Dorkelt
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
+	fleet spa.general.pelitolCluster.med.1 1200
 	object
 		sprite "star/k0"
 		distance 0
@@ -269,6 +277,7 @@ system Dorkelt
 	link Defal
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
+	fleet spa.general.pelitolCluster.med.1 1200
 	object
 		sprite "star/f0"
 		distance 0
@@ -278,6 +287,7 @@ system Arket
 	government "Sayari Plushie"
 	pos -8454.1998 -161.30113
 	link Oratelis
+	fleet spa.general.pelitolCluster.med.1 1200
 	object
 		sprite "star/g0"
 		distance 0

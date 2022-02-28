@@ -736,6 +736,34 @@ fleet spa.mining.amidalaMiner.med.1
 		mining harvests
 	variant 1
 		"Amidala Miner" 4
+
+fleet spa.general.pelitolCluster.med.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		confusion 17
+	variant 20
+		"Bulk Freighter" 3
+		"Falcon" 1
+	variant 15
+		"Hauler III" 2
+		"Falcon" 1
+	variant 30
+		"SPA Gunboat" 6
+		"Star Queen" 1
+	variant 10
+		"SPA Gunboat" 1
+	variant 5
+		"SPA Gunboat" 2
+	variant 10
+		"SPA Cruiser" 1
+	variant 20
+		"Amidala" 1
+	variant 50
+		"Amidala" 4
+		"SPA Cruiser" 1
+		"SPA Gunboat" 8
+
 ###################################################################################################################
 # Pirate fleets spawned during attack missions
 fleet pirates.war.raiders.small.1
