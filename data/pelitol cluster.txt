@@ -136,6 +136,7 @@ system Defal
 			period 39
 			distance 233
 system Ikopp
+	government "Sayari Plushie"
 	pos -8401.2079 -271.42311
 	link Defal
 	link Pelitol
@@ -168,6 +169,7 @@ system Ikopp
 		distance 6591
 
 system Repolitea
+	government "Sayari Plushie"
 	pos -8477.3299 -290.50439
 	link Ikopp
 	link Doler
@@ -199,6 +201,7 @@ system Repolitea
 		period 901
 
 system Sarut
+	government "Sayari Plushie"
 	pos -8494.2013 -254.20034
 	link Repolitea
 	fleet spa.general.heliarchShips.med.1 2000
@@ -233,6 +236,7 @@ system Sarut
 		period 2776
 
 system Doler
+	government "Sayari Plushie"
 	pos -8497.2208 -341.10098
 	link Repolitea
 	link Oratelis
@@ -244,6 +248,7 @@ system Doler
 		period 0
 
 system Oratelis
+	government "Sayari Plushie"
 	pos -8455.3029 -201.04985
 	link Sorusep
 	link Sarut
@@ -256,6 +261,7 @@ system Oratelis
 		period 0
 
 system Dorkelt
+	government "Sayari Plushie"
 	pos -8402.4995 -203.45588
 	link Oratelis
 	link Defal
