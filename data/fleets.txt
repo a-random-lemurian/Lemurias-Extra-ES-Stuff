@@ -714,6 +714,16 @@ fleet spa.general.patrol.small.2
 	variant 25
 		"Mule" 2
 
+fleet spa.general.surveillance.large.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		confusion 32
+		surveillance unconstrained staying waiting
+	variant 4
+		"Surveillance Drone" 60
+	variant 8
+		"Surveillance Drone" 200
 # Sometimes, in battle, fighters will have
 # no carriers to board due to them being
 # destroyed by the enemy.

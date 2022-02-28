@@ -318,6 +318,7 @@ system Oratelis
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.general.surveillance.large.1 1500
 	object
 		sprite "star/k0"
 		distance 0
@@ -347,6 +348,7 @@ system Dorkelt
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.general.surveillance.large.1 1500
 	object
 		sprite "star/f0"
 		distance 0
