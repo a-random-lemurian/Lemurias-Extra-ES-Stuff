@@ -2,10 +2,13 @@
 - Added hails about some ships exceeding API ratelimits.
 - Added SPA variant of the Cruiser equipped with Particle Cannons.
 - Added the old Bactrian image back.
-- Rebalanced the SPA Heliarch fleet.
 - Increased merchant ship traffic in Denleitt and nearby systems.
 - Shifted Pelitol cluster 7000 units to the west.
 - Added wormhole between Sedlai and Pelitol.
+- Rewrote the SPA Heliarch ship fleet from scratch.
+- Added SPA variants of the Heliarch Punisher, Breacher, Hunter, Interdictor, Judicator, and Neutralizer.
+- Added new landable planets Kaistra and Salistra.
+- Added new systems Repolitea, Sarut, Doler, Oratelis, Dorkelt, and Arket
 
 ### v0.10.10
 - Rebalancing
