@@ -11,3 +11,8 @@ We trust you have learnt of the *golden rule*, which is
 to treat others as you wish to be treated.
 
 
+## Ukraine
+
+We are fully aware of the war, but LEESt devs would like to
+remain neutral regarding the conflict, and focus on developing
+the plugin.
