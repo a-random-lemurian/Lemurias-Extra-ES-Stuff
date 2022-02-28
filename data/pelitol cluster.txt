@@ -282,6 +282,31 @@ system Doler
 		sprite "star/a3"
 		distance 0
 		period 0
+	object
+		sprite "planet/rock3"
+		distance 449
+		period 209
+	object
+		sprite "planet/rock1"
+		distance 774
+		period 344
+	object
+		sprite "planet/forest0-b"
+		distance 1440
+		period 576
+	object
+		sprite "planet/forest3-b"
+		distance 1705
+		period 770
+	object
+		sprite "planet/dust6-b"
+		distance 2339
+		period 903
+	object
+		sprite "planet/gas4"
+		distance 4550
+		period 1554
+
 
 system Oratelis
 	government "Sayari Plushie"
@@ -297,6 +322,22 @@ system Oratelis
 		sprite "star/k0"
 		distance 0
 		period 0
+	object
+		sprite "planet/lava2"
+		distance 433
+		period 104
+	object
+		sprite "planet/rock3"
+		distance 776
+		period 287
+	object
+		sprite "planet/earth"
+		distance 1104
+		period 344
+	object
+		sprite "planet/rock7"
+		distance 1503
+		period 455
 
 system Dorkelt
 	government "Sayari Plushie"
@@ -310,6 +351,30 @@ system Dorkelt
 		sprite "star/f0"
 		distance 0
 		period 0
+	object
+		sprite "planet/rock4"
+		distance 704
+		period 304
+	object
+		sprite "planet/rock13"
+		distance 1503
+		period 454
+	object
+		sprite "planet/rock4"
+		distance 1883
+		period 567
+	object
+		sprite "planet/forest4"
+		distance 2301
+		period 643
+	object
+		sprite "planet/gas4"
+		distance 4593
+		period 902
+	object
+		sprite "planet/gas9"
+		distance 14894
+		period 1887
 
 system Arket
 	government "Sayari Plushie"
