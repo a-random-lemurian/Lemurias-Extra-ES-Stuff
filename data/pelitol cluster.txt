@@ -239,6 +239,7 @@ system Sarut
 	government "Sayari Plushie"
 	pos -8494.2013 -254.20034
 	link Repolitea
+	link Oratelis
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
 	fleet spa.general.pelitolCluster.med.1 1200
@@ -275,7 +276,6 @@ system Doler
 	government "Sayari Plushie"
 	pos -8497.2208 -341.10098
 	link Repolitea
-	link Oratelis
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
 	fleet spa.general.pelitolCluster.med.1 1200
