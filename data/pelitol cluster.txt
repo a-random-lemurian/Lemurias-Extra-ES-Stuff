@@ -43,6 +43,7 @@ system Pelitol
 	pos -8357.2079 -286.53422
 	link Defal
 	link Ikopp
+	link Frechisa
 	trade Clothing 344
 	trade Electronics 713
 	trade Equipment 584
@@ -427,6 +428,145 @@ system Arket
 		sprite "planet/gas7"
 		distance 7203
 		period 1567
+
+system Frechisa
+	government "Sayari Plushie"
+	pos -8301.4954 -311.04398
+	link Pelitol
+	link Olerak
+	link Ertusca
+	fleet spa.exploration.scout.small.2 2000
+	fleet spa.general.pelitolCluster.med.1 1200
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 440
+		period 132
+	object
+		sprite "planet/rock1"
+		distance 779
+		period 244
+	object
+		sprite "planet/forest4"
+		distance 1220
+		period 455
+	object
+		sprite "planet/forest2"
+		distance 1554
+		period 569
+	object
+		sprite "planet/ice2"
+		distance 1900
+		period 795
+	object
+		sprite "planet/gas3"
+		distance 2782
+		period 1003
+	object
+		sprite "planet/gas1"
+		distance 6591
+		period 1440
+	object
+		sprite "planet/gas7"
+		distance 10943
+		period 2431
+
+system Ertusca
+	government "Sayari Plushie"
+	pos -8259.4910 -330.93343
+	link Frechisa
+	fleet spa.exploration.scout.small.2 2000
+	fleet spa.general.pelitolCluster.med.1 1200
+	object
+		sprite "star/g3"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 449
+		period 133
+	object
+		sprite "planet/rock1"
+		distance 772
+		period 240
+	object
+		sprite "planet/dust3"
+		distance 1211
+		period 377
+	object
+		sprite "planet/dust1"
+		distance 1770
+		period 450
+	object
+		sprite "planet/forest1"
+		distance 2445
+		period 601
+	object
+		sprite "planet/gas2"
+		distance 6552
+		period 1443
+	object
+		sprite "planet/gas7"
+		distance 13221
+		period 2908
+
+system Olerak
+	government "Sayari Plushie"
+	pos -8307.3493 -369.41104
+	link Erited
+	link Frechisa
+	fleet spa.exploration.scout.small.2 2000
+	fleet spa.general.pelitolCluster.med.1 1200
+	object
+		sprite "star/f0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 550
+		period 204
+	object
+		sprite "planet/gas3"
+		distance 2440
+		period 432
+		object
+			sprite "planet/rock3"
+			distance 440
+			period 103
+		object
+			sprite "planet/rock1"
+			distance 883
+			period 244
+
+system Erited
+	government "Sayari Plushie"
+	pos -8242.3493 -401.41104
+	link Olerak
+	fleet spa.exploration.scout.small.2 2000
+	fleet spa.general.pelitolCluster.med.1 1200
+	object
+		sprite "star/f3"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 556
+		period 144
+	object
+		sprite "planet/earth"
+		distance 803
+		period 240
+	object
+		sprite "planet/dust1"
+		distance 1550
+		period 388
+	object
+		sprite "planet/gas3"
+		distance 5503
+		period 798
 
 planet "Kaistra"
 	landscape "land/kaistra"
