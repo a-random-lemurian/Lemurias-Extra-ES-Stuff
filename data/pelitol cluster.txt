@@ -9,6 +9,7 @@ system Sorusep
 	link Oratelis
 	fleet spa.exploration.scout.small.2 2000
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/g0"
 		period 0
@@ -56,6 +57,7 @@ system Pelitol
 	trade Metal 399
 	fleet spa.exploration.scout.small.2 2000
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/k0"
 		period 0
@@ -111,6 +113,7 @@ system Defal
 	trade Plastic 434
 	fleet spa.exploration.scout.small.2 2000
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/k5"
 		period 0
@@ -148,6 +151,7 @@ system Ikopp
 	link Sorusep
 	fleet spa.exploration.scout.small.2 2000
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/a0"
 		period 0
@@ -182,6 +186,7 @@ system Repolitea
 	fleet spa.general.heliarchShips.med.1 500
 	fleet spa.exploration.scout.small.2 800
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/g0"
 		distance 0
@@ -243,6 +248,7 @@ system Sarut
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/a5"
 		distance 0
@@ -279,6 +285,7 @@ system Doler
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/a3"
 		distance 0
@@ -320,6 +327,7 @@ system Oratelis
 	fleet spa.exploration.scout.small.2 500
 	fleet spa.general.pelitolCluster.med.1 1200
 	fleet spa.general.surveillance.large.1 1500
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/k0"
 		distance 0
@@ -350,6 +358,7 @@ system Dorkelt
 	fleet spa.exploration.scout.small.2 500
 	fleet spa.general.pelitolCluster.med.1 1200
 	fleet spa.general.surveillance.large.1 1500
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/f0"
 		distance 0
@@ -384,6 +393,7 @@ system Arket
 	pos -8454.1998 -161.30113
 	link Oratelis
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/g0"
 		distance 0
@@ -437,6 +447,7 @@ system Frechisa
 	link Ertusca
 	fleet spa.exploration.scout.small.2 2000
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/g0"
 		distance 0
@@ -480,6 +491,7 @@ system Ertusca
 	link Frechisa
 	fleet spa.exploration.scout.small.2 2000
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/g3"
 		distance 0
@@ -520,6 +532,7 @@ system Olerak
 	link Frechisa
 	fleet spa.exploration.scout.small.2 2000
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/f0"
 		distance 0
@@ -547,6 +560,7 @@ system Erited
 	link Olerak
 	fleet spa.exploration.scout.small.2 2000
 	fleet spa.general.pelitolCluster.med.1 1200
+	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/f3"
 		distance 0

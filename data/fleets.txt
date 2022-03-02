@@ -220,6 +220,35 @@ fleet cssf.war.orbona.1
 		"Marauder Leviathan (Weapons)" 5
 		"Marauder Firebird (Weapons)" 9
 		"Marauder Quicksilver (Weapons)" 19
+fleet cssf.war.pelitolClusterRaid.small.1
+	government "Yuyuko Saigyouji"
+	names cssf
+	personality
+		heroic vindictive
+		confusion 50
+	variant 5
+		Falcon 2
+		Sparrow 3
+	variant 1
+		Falcon 1
+		Sparrow 10
+	variant 1
+		Firebird 3
+	variant 20
+		"Marauder Falcon (Weapons)" 1
+	variant 10
+		"Marauder Leviathan (Weapons)" 1
+	variant 35
+		"Marauder Firebird (Weapons)" 1
+	variant 25
+		"Marauder Quicksilver (Weapons)" 2
+	variant 15
+		Sparrow 3
+		Quicksilver 1
+	variant 1
+		"Marauder Falcon (Weapons)" 5
+		"Kar Ik Vot 349" 2
+		"Marauder Firebird (Weapons)" 3
 ###################################################################################################################
 fleet imc.mining.illuminaMiners.small.1
 	government "Merchant"
