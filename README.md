@@ -71,8 +71,8 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Eisei                     | Skye Marthaler       | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Looking_eastward_at_Charles_Mound,_the_highest_point_in_Illinois.jpg))
 | Kaistra                   | Albinfo              | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:WK402_WikipediaWeekendTirana2015_MaguraMine_122.JPG))
 | Salistra                  | Murray Foubister     | CC BY-SA 2.0 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Cascades_S_of_Chilliwack,_BC_-_Mt_Cheam_(2104m)_sharp_peak_on_left._(16132353992).jpg))
+| Moristra                  | earth_photos         | CC BY 2.0               | ([orig](https://commons.wikimedia.org/wiki/File:Chinafarmland.jpg))
 
-  
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
 
 - Pelitol Cluster nebula image: *NASA, ESA, J. Hester and A. Loll (Arizona State University)*, [original](https://en.wikipedia.org/wiki/File:Crab_Nebula.jpg)

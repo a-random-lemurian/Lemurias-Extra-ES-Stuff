@@ -569,7 +569,7 @@ system Erited
 		sprite "planet/rock4"
 		distance 556
 		period 144
-	object
+	object Moristra
 		sprite "planet/earth"
 		distance 1120
 		period 240
@@ -581,6 +581,12 @@ system Erited
 		sprite "planet/gas3"
 		distance 5503
 		period 798
+
+planet "Moristra"
+	landscape "land/moristra"
+	government "Sayari Plushie"
+	description "Moristra is the northernmost colony in the Pelitol Cluster. Moristra is primarily an agricultural colony with the exception of the spaceport city, where the farmer's market resides (it takes up over 75% of the spaceport city's space)."
+	spaceport "Moristra's spaceport is home to the farmer's market, where farmers sell their crops and the occasional tractor salesman approaches you, and asks if you want one. Notably, Moristra has very strong right-to-repair laws for tractors and farm equipment, so there are countless facilities where farmers modify their equipment or watch as repairmen, experienced or not, repair their equipment."
 
 planet "Kaistra"
 	landscape "land/kaistra"
