@@ -571,7 +571,7 @@ system Erited
 		period 144
 	object
 		sprite "planet/earth"
-		distance 803
+		distance 1120
 		period 240
 	object
 		sprite "planet/dust1"
