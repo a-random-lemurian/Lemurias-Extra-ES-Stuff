@@ -650,20 +650,27 @@ fleet spa.general.heliarchShips.med.1
 	personality
 		heroic
 		confusion 13
-	variant 10
+	variant 1
 		"SPA Heliarch Punisher" 1
 		"SPA Heliarch Hunter" 3
 		"SPA Heliarch Judicator" 2
 		"Korath Chaser" 12
-	variant 20
+	variant 2
 		"SPA Heliarch Hunter" 5
 		"SPA Heliarch Judicator" 4
 		"SPA Heliarch Interdictor" 2
 		"SPA Heliarch Neutralizer" 1
 		"Korath Chaser" 24
 	variant 5
-		"SPA Heliarch Punisher" 2
-	variant 12
+		"SPA Heliarch Punisher" 1
+	variant 60
+		"SPA Heliarch Neutralizer" 1
+	variant 50
+		"SPA Heliarch Judicator" 1
+		"SPA Heliarch Neutralizer" 2
+	variant 90
+		"SPA Heliarch Interdictor" 1
+	variant 80
 		"SPA Heliarch Hunter" 4
 	government "Sayari Plushie"
 
