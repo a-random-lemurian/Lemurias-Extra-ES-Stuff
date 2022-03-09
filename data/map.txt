@@ -16,8 +16,6 @@
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
 
-system "14 Pole"
-	add link Finduue
 ### A
 system Aixafer
 	pos -1007.4722 -23.416663
@@ -334,7 +332,6 @@ system Eileri
 ### F
 system Finduue
 	pos -1279.0278 -197.80556
-	link "14 Pole"
 	link Lesarkei
 	link Raidei
 system Fevbaa
