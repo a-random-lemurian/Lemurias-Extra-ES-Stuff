@@ -285,15 +285,18 @@ system Duffeni
 	government "Sayari Plushie"
 	link Aljuik
 	link Illuria
-	fleet spa.trade.gen.small.1 300
-	fleet spa.trade.gen.small.1 300
-	fleet spa.trade.gen.small.1 300
-	fleet spa.trade.gen.small.1 300
-	fleet spa.war.illuminaReg.large.1 600
-	fleet spa.war.illuminaReg.large.1 600
-	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 1600
-	fleet spa.general.EmeraldSword.med.1 1400
+	fleet "Small Northern Merchants" 600
+	fleet "Large Northern Merchants" 600
+	fleet "Paradise Merchants" 8000
+	fleet "Small Republic" 6000
+	fleet "Large Republic" 9000
+	fleet "Republic Logistics" 20000
+	fleet "Small Core Merchants" 1000
+	fleet "Large Core Merchants" 2000
+	fleet spa.trade.gen.small.1 1200
+	fleet spa.war.illuminaReg.large.1 3300
+	fleet cssf.war.illuminaReg.large.1 5500
+	fleet spa.general.EmeraldSword.med.1 18000
 	trade Clothing 339
 	trade Electronics 502
 	trade Equipment 554
