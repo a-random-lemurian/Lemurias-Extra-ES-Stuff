@@ -340,7 +340,7 @@ system Oratelis
 		sprite "planet/rock3"
 		distance 776
 		period 287
-	object
+	object "Delistra"
 		sprite "planet/earth"
 		distance 1104
 		period 344
@@ -582,6 +582,11 @@ system Erited
 		distance 5503
 		period 798
 
+planet "Delistra"
+	landscape "land/delistra"
+	government "Sayari Plushie"
+	description "."
+	spaceport "."
 planet "Moristra"
 	landscape "land/moristra"
 	government "Sayari Plushie"
