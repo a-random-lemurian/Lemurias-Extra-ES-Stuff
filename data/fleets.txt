@@ -302,12 +302,12 @@ fleet spa.trade.HumanSpace.large.1
 		heroic
 		confusion 20
 	variant
-		"SPA Hauler III" 20
-		"Hauler II" 10
+		"SPA Hauler III" 4
+		"Hauler II" 5
 		Falcon 4
 	variant
 		"Deep River" 5
-		Geocoris 20
+		Geocoris 3
 		"SPA Shield Beetle (Proton)" 4
 
 
@@ -318,7 +318,7 @@ fleet spa.trade.haiSpace.large.1
 		heroic
 		confusion 18
 	variant
-		"SPA Shield Beetle (Proton)" 15
+		"SPA Shield Beetle (Proton)" 10
 		"Emerald Sword" 4
 
 
@@ -329,9 +329,9 @@ fleet spa.general.amidalaVariants.large.1
 		heroic
 		confusion 18
 	variant 7
-		"Amidala" 20
+		"Amidala" 10
 	variant 3
-		"Skylance Amidala" 10
+		"Skylance Amidala" 5
 	variant 2
 		"Amidala Miner" 5
 
@@ -398,37 +398,37 @@ fleet spa.trade.gen.small.1
 	# to edit or create this manually.
 	variant 3
 		"Auxiliary"    10
-		"SPA Cruiser"   3
-		"SPA Gunboat"   8
+		"SPA Cruiser"   2
+		"SPA Gunboat"   6
 	variant 6
 		"Freighter"     5
 		"SPA Gunboat"   2
 	variant 1
-		"Freighter"    18
-		"SPA Gunboat"   5
+		"Freighter"     9
+		"SPA Gunboat"   3
 	variant 3
 		"Star Barge"    8
 		"SPA Gunboat"   3
 	variant 8
-		"Star Barge"   20
-		"SPA Cruiser"   6
+		"Star Barge"   10
+		"SPA Cruiser"   1
 	variant 4
-		"Freighter"    50
-		"SPA Gunboat"  20
-		"SPA Cruiser"   8
+		"Freighter"     5
+		"SPA Gunboat"   2
+		"SPA Cruiser"   3
 	variant 2
 		"SPA Hauler III"    1
 		"SPA Gunboat"       2
 		"Star Barge"        3
 		"Fury"              1
 	variant 4
-		"SPA Gunboat"      10
+		"SPA Gunboat"       4
 		"SPA Cruiser"       2
 		"SPA Hauler III"    8
 	variant 10
-		"SPA Gunboat (Proton Gun)"       20
-		"SPA Hauler III"                 10
-		"Freighter"                       8
+		"SPA Gunboat (Proton Gun)"        4
+		"SPA Hauler III"                  3
+		"Freighter"                       5
 		"SPA Cruiser"                     2
 fleet spa.war.illuminaReg.large.1
 	names spa.allNames
@@ -439,37 +439,37 @@ fleet spa.war.illuminaReg.large.1
 		confusion 8
 		disables harvests
 	variant 1
-		Falcon 12
-		Leviathan 12
+		Falcon 4
+		Leviathan 2
 		Corvette 3
-		"Amidala" 10
+		"Amidala" 3
 	variant 1
-		Falcon 13
+		Falcon 5
 	variant 1
-		"Amidala" 16
+		"Amidala" 5
 	variant 1
-		"SPA Shield Beetle (Proton)" 15
+		"SPA Shield Beetle (Proton)" 7
 		"Geocoris" 5
 	variant 4
-		"SPA Gunboat" 24
-		"SPA Cruiser" 12
+		"SPA Gunboat" 3
+		"SPA Cruiser" 1
 	variant 1
-		"SPA Gunboat" 45
-		"SPA Cruiser" 18
+		"SPA Gunboat" 5
+		"SPA Cruiser" 2
 	variant 3
-		"SPA Gunboat (Proton Gun)" 12
+		"SPA Gunboat (Proton Gun)" 4
 	variant 5
+		"SPA Skein" 2
+		"Korath Chaser" 12
+	variant 2
 		"SPA Skein" 5
 		"Korath Chaser" 30
-	variant 2
-		"SPA Skein" 12
-		"Korath Chaser" 72
 	variant 7
-		"SPA Cruiser (Korath Slicer)" 10
-		"SPA Cruiser" 4
-		"SPA Gunboat" 3
+		"SPA Cruiser (Korath Slicer)" 4
+		"SPA Cruiser" 1
+		"SPA Gunboat" 2
 	variant 1
-		"SPA Cruiser (Korath Slicer)" 14
+		"SPA Cruiser (Korath Slicer)" 2
 fleet spa.war.vanguard.large.1
 	government "Sayari Plushie"
 	names spa.allNames
@@ -477,10 +477,10 @@ fleet spa.war.vanguard.large.1
 		disables heroic
 		confusion 33
 	variant 1
-		"Vanguard" 16
-		"Firebird" 5
+		"Vanguard" 6
+		"Firebird" 1
 	variant 7
-		"Vanguard" 21
+		"Vanguard" 2
 
 
 fleet spa.war.amidala.large.1
@@ -490,7 +490,7 @@ fleet spa.war.amidala.large.1
 		timid disables
 		confusion 29
 	variant 1
-		"Amidala" 25
+		"Amidala" 4
 
 
 fleet spa.war.shieldBeetle.large.1
@@ -500,8 +500,8 @@ fleet spa.war.shieldBeetle.large.1
 		heroic disables
 		confusion 27
 	variant 1
-		"SPA Shield Beetle (Proton)" 10
-		"Geocoris" 10
+		"SPA Shield Beetle (Proton)" 6
+		"Geocoris" 2
 
 
 fleet spa.war.localguard.small.1
@@ -521,14 +521,14 @@ fleet spa.war.ghesiePatrol.small.1
 		disables plunders
 		confusion 10
 	variant 1
-		"SPA Gunboat (Proton Gun)" 15
+		"SPA Gunboat (Proton Gun)" 6
 		"SPA Cruiser" 2
 		"Amidala" 1
 	variant 4
 		"SPA Gunboat" 4
-		"SPA Gunboat (Proton Gun)" 6
+		"SPA Gunboat (Proton Gun)" 2
 	variant
-		"SPA Cruiser (Korath Slicer)" 16
+		"SPA Cruiser (Korath Slicer)" 5
 
 fleet spa.exploration.scout.small.1
 	government "Sayari Plushie"
@@ -574,23 +574,23 @@ fleet spa.general.navyShips.large.1
 		confusion 30
 	variant 20
 		"SPA Cruiser" 3
-		"SPA Carrier (Combat)" 5
-		"Combat Drone" 30
-		"Korath Chaser" 20
+		"SPA Carrier (Combat)" 2
+		"Combat Drone" 12
+		"Korath Chaser" 8
 	variant 40
 		"SPA Carrier (Combat)" 3
 		"Combat Drone" 18
 		"Korath Chaser" 12
-		Rainmaker 8
-		Frigate 5
+		Rainmaker 3
+		Frigate 2
 	variant 30
-		"SPA Gunboat (Proton Gun)" 50
-		"SPA Carrier (Combat)" 10
-		"Combat Drone" 60
-		"Korath Chaser" 40
+		"SPA Gunboat (Proton Gun)" 8
+		"SPA Carrier (Combat)" 3
+		"Combat Drone" 18
+		"Korath Chaser" 12
 	variant 20
-		"SPA Gunboat" 20
-		"SPA Gunboat (Proton Gun)" 15
+		"SPA Gunboat" 5
+		"SPA Gunboat (Proton Gun)" 2
 
 
 fleet spa.general.freeWorldsShips.large.1
@@ -601,8 +601,8 @@ fleet spa.general.freeWorldsShips.large.1
 		disables plunders
 		confusion 25
 	variant 30
-		"SPA Skein" 10
-		"Korath Chaser" 60
+		"SPA Skein" 5
+		"Korath Chaser" 30
 	variant 20
 		"SPA Skein" 3
 		"Korath Chaser" 18
@@ -615,9 +615,9 @@ fleet spa.general.Falcon.large.1
 	variant 4
 		Falcon 20
 	variant 4
-		"Marauder Falcon (Weapons)" 20
+		"Marauder Falcon (Weapons)" 5
 	variant
-		"Marauder Falcon (Engines)" 30
+		"Marauder Falcon (Engines)" 10
 
 
 fleet spa.general.navyGunboat.med.1
@@ -627,13 +627,13 @@ fleet spa.general.navyGunboat.med.1
 		disables plunders
 		confusion 10
 	variant 1
-		"SPA Gunboat" 15
+		"SPA Gunboat" 7
 	variant 3
-		"SPA Gunboat" 10
+		"SPA Gunboat" 5
 	variant 5
-		"SPA Gunboat (Proton Gun)" 10
+		"SPA Gunboat (Proton Gun)" 5
 	variant 3
-		"SPA Gunboat (Proton Gun)" 20
+		"SPA Gunboat (Proton Gun)" 10
 fleet spa.general.Bactrian.small.1
 	names spa.allNames
 	government "Sayari Plushie"
@@ -641,29 +641,36 @@ fleet spa.general.Bactrian.small.1
 		heroic
 		confusion 13
 	variant 2
-		"Marauder Bactrian" 5
+		"Marauder Bactrian" 2
 	variant 10
-		"Bactrian" 5
+		"Bactrian" 3
 
 fleet spa.general.heliarchShips.med.1
 	names spa.allNames
 	personality
 		heroic
 		confusion 13
-	variant 10
+	variant 1
 		"SPA Heliarch Punisher" 1
 		"SPA Heliarch Hunter" 3
 		"SPA Heliarch Judicator" 2
 		"Korath Chaser" 12
-	variant 20
+	variant 2
 		"SPA Heliarch Hunter" 5
 		"SPA Heliarch Judicator" 4
 		"SPA Heliarch Interdictor" 2
 		"SPA Heliarch Neutralizer" 1
 		"Korath Chaser" 24
 	variant 5
-		"SPA Heliarch Punisher" 2
-	variant 12
+		"SPA Heliarch Punisher" 1
+	variant 60
+		"SPA Heliarch Neutralizer" 1
+	variant 50
+		"SPA Heliarch Judicator" 1
+		"SPA Heliarch Neutralizer" 2
+	variant 90
+		"SPA Heliarch Interdictor" 1
+	variant 80
 		"SPA Heliarch Hunter" 4
 	government "Sayari Plushie"
 
@@ -675,7 +682,7 @@ fleet spa.general.EmeraldSword.med.1
 		confusion 5
 		heroic disables harvests plunders
 	variant 1
-		"Emerald Sword" 4
+		"Emerald Sword" 1
 
 
 fleet spa.general.patrol.small.1
@@ -687,25 +694,25 @@ fleet spa.general.patrol.small.1
 	variant 20
 		"Falcon"                          3
 		"Firebird"                        2
-		"Quicksilver"                     8
-		"SPA Cruiser (Particle Cannon)"   7
+		"Quicksilver"                     4
+		"SPA Cruiser (Particle Cannon)"   2
 	variant 15
-		"SPA Gunboat"                     8
+		"SPA Gunboat"                     4
 		"SPA Cruiser"                     3
-		"SPA Cruiser (Particle Cannon)"   7
+		"SPA Cruiser (Particle Cannon)"   2
 	variant 30
-		"SPA Gunboat"                     12
+		"SPA Gunboat"                     5
 	variant 10
-		"SPA Gunboat"                     10
+		"SPA Gunboat"                     2
 		"Quicksilver"                     5
 		"Firebird"                        3
 		"Falcon"                          4
 		"SPA Cruiser (Particle Cannon)"   7
 	variant 20
-		"Marauder Falcon (Weapons)"       5
-		"Falcon"                          8
-		"Quicksilver"                     8
-		"SPA Cruiser (Particle Cannon)"   7
+		"Marauder Falcon (Weapons)"       2
+		"Falcon"                          4
+		"Quicksilver"                     4
+		"SPA Cruiser (Particle Cannon)"   3
 
 
 fleet spa.general.patrol.small.2
