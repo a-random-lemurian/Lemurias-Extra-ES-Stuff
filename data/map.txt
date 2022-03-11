@@ -613,7 +613,8 @@ system Illuria
 	minables aluminum 1 1
 	minables copper 70 4
 	minables lead 33 4
-	fleet spa.war.illuminaReg.large.1 600
+	fleet spa.war.illuminaReg.small.1 2900
+	fleet spa.war.illuminaReg.large.1 3000
 	fleet cssf.war.illuminaReg.large.1 5000
 	fleet "Large Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
@@ -621,8 +622,8 @@ system Illuria
 	fleet "Large Southern Merchants" 600
 	fleet imc.mining.illuminaMiners.med.1 600
 	fleet imc.mining.aerie.small.1 1200
-	fleet spa.trade.HumanSpace.large.1 1300
-	fleet spa.war.localguard.small.1 500
+	fleet spa.trade.HumanSpace.large.1 4000
+	fleet spa.war.localguard.small.1 5000
 	habitable 889.35
 	belt 853
 	trade Clothing 308

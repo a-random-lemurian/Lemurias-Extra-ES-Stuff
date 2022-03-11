@@ -1,6 +1,7 @@
 ### v0.10.11
 - Added hails about some ships exceeding API ratelimits.
 - Added a small variant of the SPA Illumina Regions fleet.
+- Rebalanced Illuria fleets.
 - Added SPA variant of the Cruiser equipped with Particle Cannons.
 - Added the old Bactrian image back.
 - Increased merchant ship traffic in Denleitt and nearby systems.
