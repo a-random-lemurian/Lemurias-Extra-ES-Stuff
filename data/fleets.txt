@@ -803,6 +803,30 @@ fleet spa.general.pelitolCluster.med.1
 		"SPA Cruiser" 1
 		"SPA Gunboat" 8
 
+fleet spa.war.illuminaReg.small.1
+	government "Sayari Plushie"
+	names spa.allNames
+	personality
+		confusion 32
+	variant 35
+		"SPA Gunboat" 2
+		"SPA Cruiser" 1
+	variant 10
+		"SPA Cruiser" 4
+	variant 20
+		"Corvette" 2
+		"SPA Gunboat" 1
+	variant 40
+		"Scout" 2
+	variant 30
+		"Bastion" 3
+	variant 15
+		"Amidala" 1
+	variant 5
+		"Amidala" 2
+	variant 25
+		"SPA Cruiser" 1
+
 ###################################################################################################################
 # Pirate fleets spawned during attack missions
 fleet pirates.war.raiders.small.1
