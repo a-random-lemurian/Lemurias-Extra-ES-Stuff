@@ -72,6 +72,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Kaistra                   | Albinfo              | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:WK402_WikipediaWeekendTirana2015_MaguraMine_122.JPG))
 | Salistra                  | Murray Foubister     | CC BY-SA 2.0 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Cascades_S_of_Chilliwack,_BC_-_Mt_Cheam_(2104m)_sharp_peak_on_left._(16132353992).jpg))
 | Moristra                  | earth_photos         | CC BY 2.0               | ([orig](https://commons.wikimedia.org/wiki/File:Chinafarmland.jpg))
+| Eteristra                 | David Iliff          | CC BY-SA 3.0            | ([orig](https://en.wikipedia.org/wiki/File:Half_Dome_from_Glacier_Point,_Yosemite_NP_-_Diliff.jpg))
 
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
 
