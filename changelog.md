@@ -1,3 +1,6 @@
+### v0.10.12
+- Completely overhauled SPA fleets. Before this version, SPA fleets were distributed amongst many different fleet objects (specialized for a certain role). The old specialized SPA fleets will remain, for backwards compatibility, and for situations where they are needed (such as system-specific fleets.)
+
 ### v0.10.11
 - Added hails about some ships exceeding API ratelimits.
 - Added a small variant of the SPA Illumina Regions fleet.
