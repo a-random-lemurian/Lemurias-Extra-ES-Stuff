@@ -7,8 +7,9 @@ system Sorusep
 	pos -8431.4301 -235.86756
 	link Ikopp
 	link Oratelis
-	fleet spa.exploration.scout.small.2 2000
-	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.small 800
+	fleet spa.medium 3000
+	fleet spa.large 5000
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/g0"
@@ -55,8 +56,9 @@ system Pelitol
 	trade Medical 855
 	trade Plastic 509
 	trade Metal 399
-	fleet spa.exploration.scout.small.2 2000
-	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.small 700
+	fleet spa.medium 2000
+	fleet spa.large 4000
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/k0"
@@ -111,8 +113,9 @@ system Defal
 	trade Medical 874
 	trade Metal 388
 	trade Plastic 434
-	fleet spa.exploration.scout.small.2 2000
-	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.small 1300
+	fleet spa.medium 4000
+	fleet spa.large 8000
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/k5"
@@ -149,8 +152,9 @@ system Ikopp
 	link Pelitol
 	link Repolitea
 	link Sorusep
-	fleet spa.exploration.scout.small.2 2000
-	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.small 900
+	fleet spa.medium 1700
+	fleet spa.large 3000
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/a0"
@@ -183,9 +187,9 @@ system Repolitea
 	link Ikopp
 	link Doler
 	link Sarut
-	fleet spa.general.heliarchShips.med.1 500
-	fleet spa.exploration.scout.small.2 800
-	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.small 600
+	fleet spa.medium 1300
+	fleet spa.large 2300
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/g0"
@@ -245,9 +249,9 @@ system Sarut
 	pos -8494.2013 -254.20034
 	link Repolitea
 	link Oratelis
-	fleet spa.general.heliarchShips.med.1 2000
-	fleet spa.exploration.scout.small.2 500
-	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.small 500
+	fleet spa.medium 1200
+	fleet spa.large 1800
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/a5"
@@ -282,9 +286,9 @@ system Doler
 	government "Sayari Plushie"
 	pos -8497.2208 -341.10098
 	link Repolitea
-	fleet spa.general.heliarchShips.med.1 2000
-	fleet spa.exploration.scout.small.2 500
-	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.small 800
+	fleet spa.medium 1600
+	fleet spa.large 3400
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/a3"
@@ -323,10 +327,9 @@ system Oratelis
 	link Sarut
 	link Arket
 	link Dorkelt
-	fleet spa.general.heliarchShips.med.1 2000
-	fleet spa.exploration.scout.small.2 500
-	fleet spa.general.pelitolCluster.med.1 1200
-	fleet spa.general.surveillance.large.1 1500
+	fleet spa.small 500
+	fleet spa.medium 900
+	fleet spa.large 3400
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/k0"
@@ -354,10 +357,9 @@ system Dorkelt
 	pos -8402.4995 -203.45588
 	link Oratelis
 	link Defal
-	fleet spa.general.heliarchShips.med.1 2000
-	fleet spa.exploration.scout.small.2 500
-	fleet spa.general.pelitolCluster.med.1 1200
-	fleet spa.general.surveillance.large.1 1500
+	fleet spa.small 800
+	fleet spa.medium 2000
+	fleet spa.large 3700
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/f0"
@@ -392,7 +394,9 @@ system Arket
 	government "Sayari Plushie"
 	pos -8454.1998 -161.30113
 	link Oratelis
-	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.small 700
+	fleet spa.medium 1800
+	fleet spa.large 3400
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/g0"
@@ -445,8 +449,9 @@ system Frechisa
 	link Pelitol
 	link Olerak
 	link Ertusca
-	fleet spa.exploration.scout.small.2 2000
-	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.small 900
+	fleet spa.medium 1900
+	fleet spa.large 5600
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/g0"
@@ -489,8 +494,9 @@ system Ertusca
 	government "Sayari Plushie"
 	pos -8259.4910 -330.93343
 	link Frechisa
-	fleet spa.exploration.scout.small.2 2000
-	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.small 900
+	fleet spa.medium 2400
+	fleet spa.large 5000
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/g3"
@@ -530,8 +536,9 @@ system Olerak
 	pos -8307.3493 -369.41104
 	link Erited
 	link Frechisa
-	fleet spa.exploration.scout.small.2 2000
-	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.small 850
+	fleet spa.medium 1560
+	fleet spa.large 2800
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/f0"
@@ -558,8 +565,9 @@ system Erited
 	government "Sayari Plushie"
 	pos -8242.3493 -401.41104
 	link Olerak
-	fleet spa.exploration.scout.small.2 2000
-	fleet spa.general.pelitolCluster.med.1 1200
+	fleet spa.small 500
+	fleet spa.medium 900
+	fleet spa.large 3500
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/f3"
