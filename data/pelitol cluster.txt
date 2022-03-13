@@ -586,8 +586,8 @@ system Erited
 planet "Eteristra"
 	landscape "land/eteristra"
 	government "Sayari Plushie"
-	description "."
-	spaceport "."
+	description "Eteristra is an undeveloped planet in the Pelitol Cluster. Eteristra acts primarily as a nature reserve."
+	spaceport "The spaceport here is primitive, with very few landing pads. Most traffic into the planet descends into the atmosphere to land in places far away from the spaceport, presumably to record the planet's wildlife (of which a sizeable chunk was imported from Earth)."
 
 planet "Moristra"
 	landscape "land/moristra"
