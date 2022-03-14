@@ -585,8 +585,9 @@ system Erited
 planet "Delistra"
 	landscape "land/delistra"
 	government "Sayari Plushie"
-	description "."
-	spaceport "."
+	description "Delistra is an undeveloped colony. Oratelis is of significant research interest however, so this planet is used as a hub for swarms of Surveillance Drones to enter space and scan the other planets."
+	spaceport "The spaceport does not have much room for normal ships, but there are plenty of automated surveillance drone swarms."
+
 planet "Moristra"
 	landscape "land/moristra"
 	government "Sayari Plushie"
