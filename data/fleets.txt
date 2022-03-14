@@ -752,7 +752,7 @@ fleet spa.general.patrol.small.2
 
 fleet spa.general.surveillance.large.1
 	government "Sayari Plushie"
-	names spa.allNames
+	names spafighterhexcode
 	personality
 		confusion 32
 		surveillance unconstrained staying waiting
@@ -760,6 +760,8 @@ fleet spa.general.surveillance.large.1
 		"Surveillance Drone" 60
 	variant 8
 		"Surveillance Drone" 200
+	variant 6
+		"Surveillance Drone" 400
 # Sometimes, in battle, fighters will have
 # no carriers to board due to them being
 # destroyed by the enemy.

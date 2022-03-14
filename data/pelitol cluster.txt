@@ -326,7 +326,7 @@ system Oratelis
 	fleet spa.general.heliarchShips.med.1 2000
 	fleet spa.exploration.scout.small.2 500
 	fleet spa.general.pelitolCluster.med.1 1200
-	fleet spa.general.surveillance.large.1 1500
+	fleet spa.general.surveillance.large.1 900
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
 	object
 		sprite "star/k0"
