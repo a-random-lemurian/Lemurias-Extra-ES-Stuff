@@ -5,6 +5,7 @@ galaxy pelitolNebula
 
 system Sorusep
 	pos -8431.4301 -235.86756
+	government "Sayari Plushies"
 	link Ikopp
 	link Oratelis
 	fleet spa.exploration.scout.small.2 2000
@@ -18,7 +19,7 @@ system Sorusep
 		sprite "planet/rock0"
 		period 144
 		distance 403
-	object
+	object "Eteristra"
 		sprite "planet/rock14"
 		period 288
 		distance 883
@@ -581,6 +582,12 @@ system Erited
 		sprite "planet/gas3"
 		distance 5503
 		period 798
+
+planet "Eteristra"
+	landscape "land/eteristra"
+	government "Sayari Plushie"
+	description "Eteristra is an undeveloped planet in the Pelitol Cluster. Eteristra acts primarily as a nature reserve."
+	spaceport "The spaceport here is primitive, with very few landing pads. Most traffic into the planet descends into the atmosphere to land in places far away from the spaceport, presumably to record the planet's wildlife (of which a sizeable chunk was imported from Earth)."
 
 planet "Moristra"
 	landscape "land/moristra"
