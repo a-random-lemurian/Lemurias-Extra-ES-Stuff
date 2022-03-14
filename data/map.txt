@@ -186,10 +186,10 @@ system Deriie
 	link Aljuik
 	link Illumina
 	link Jarkiiens
-	fleet spa.small 700
-	fleet spa.medium 1800
-	fleet spa.large 3300
-	fleet cssf.war.illuminaReg.large.1 2600
+	fleet spa.small 400
+	fleet spa.medium 800
+	fleet spa.large 1300
+	fleet cssf.war.illuminaReg.large.1 1700
 	fleet "Large Northern Merchants" 600
 	fleet "Small Northern Pirates" 1200
 	trade Clothing 324
