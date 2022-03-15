@@ -682,3 +682,64 @@ ship "Skein" "SPA Skein"
 	description `The Sayari Plushie Authority is willing to sell this ship to anyone with enough money, without the need for a militia license from the Free Worlds.`
 ship "Bactrian" "Old Bactrian"
 	sprite "ship/old_bactrian"
+ship "Kestrel" "SPA Kestrel"
+	sprite "ship/kestrelw"
+	thumbnail "thumbnail/kestrelw"
+	attributes
+		category "Heavy Warship"
+		cost 14700000
+		mass 740
+		bunks 128
+		"cargo space" 120
+		drag 11
+		"engine capacity" 210
+		"fuel capacity" 500
+		"gun ports" 12
+		"heat dissipation" 0.6
+		hull 7200
+		"outfit space" 810
+		"required crew" 64
+		shields 19400
+		"turret mounts" 4
+		"weapon capacity" 430
+	outfits
+		"A520 Atomic Thruster"
+		"A525 Atomic Steering"
+		"Antimatter Core"
+		"Cloaking Device"
+		"Dark Storm Shielding"
+		"Hyperdrive"
+		"Heavy Laser" 12
+		"Heavy Laser Turret" 4
+		"LP144a Battery Pack"
+		"Liquid Nitrogen Cooler"
+		"Outfits Expansion" 2
+		"Scanning Module" 4
+	crew 68
+	fuel 600
+	shields 19400
+	hull 7200
+	engine 13 170
+	engine -13 170
+	gun -73.5 46 "Heavy Laser"
+	gun -76.5 49 "Heavy Laser"
+	gun 73.5 46 "Heavy Laser"
+	gun 76.5 49 "Heavy Laser"
+	gun -51 49.5 "Heavy Laser"
+	gun -55.5 52.5 "Heavy Laser"
+	gun 51 49.5 "Heavy Laser"
+	gun 55.5 52.5 "Heavy Laser"
+	gun -29.5 52 "Heavy Laser"
+	gun -33 55 "Heavy Laser"
+	gun 29.5 52 "Heavy Laser"
+	gun 33 55 "Heavy Laser"
+	turret -7 -4 "Heavy Laser Turret"
+	turret 7 -4 "Heavy Laser Turret"
+	turret -23 14 "Heavy Laser Turret"
+	turret 23 14 "Heavy Laser Turret"
+	explode "huge explosion" 30
+	explode "large explosion" 45
+	explode "medium explosion" 35
+	explode "small explosion" 25
+	"final explode" "final explosion large" 1
+	description "The SPA Kestrel is a refitted Kestrel, built to fit the needs of the Sayari Plushie Authority."
