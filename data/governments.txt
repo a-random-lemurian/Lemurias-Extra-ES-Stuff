@@ -29,6 +29,8 @@ government "Yuyuko Saigyouji"
 	"display name" CSSF
 	swizzle 13
 	color 0.17 0.18700001 0.20299999
+	"friendly hail" cssf.hails.friendly
+	"hostile hail" cssf.hails.hostile
 	"attitude toward"
 		Pirate -1
 		"Sayari Plushie" -2

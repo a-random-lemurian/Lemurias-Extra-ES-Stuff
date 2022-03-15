@@ -1,0 +1,86 @@
+
+phrase salesperson
+	word
+		"sales"
+	word
+		" associates"
+		" clerks"
+		" executives"
+		"men"
+		"women"
+		"people"
+
+phrase "spa products"
+	word
+		"Freya Winters"
+		"Sayari"
+		"Emeka'a Isai"
+	word
+		" "
+	word
+		"plushies"
+
+phrase cssf.hails.friendly
+	word
+		"Have you "
+	word
+		"heard of"
+		"seen"
+		"encountered"
+	word
+		" "
+	word
+		"those plushie"
+	word
+		" "
+	phrase
+		salesperson
+	word
+		"? "
+	word
+		"Those people are crazy."
+		"They're out of their minds."
+		"They're hostile to us."
+
+phrase cssf.hails.hostile
+	word
+		"Stop"
+	word
+		" "
+	word
+		"immediately"
+		"now"
+		"right there"
+	word
+		", <first> <last>! "
+	word
+		"Contraband plushies have been detected in your cargo bay."
+		"You are in possession of contraband plushies."
+
+phrase cssf.hails.hostile
+	word
+		"Smuggling"
+	word
+		" "
+	phrase
+		"spa products"
+	word
+		" "
+	word
+		"is a"
+	word
+		" "
+	word
+		"severe"
+		"major"
+	word
+		" "
+	word
+		"criminal"
+	word
+		" "
+	word
+		"offense"
+		"offence"
+	word
+		"!"
