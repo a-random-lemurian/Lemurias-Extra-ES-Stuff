@@ -94,7 +94,9 @@ system Aljuik
 	fleet spa.medium 1400
 	fleet spa.large 3400
 	fleet "Large Northern Merchants" 200
-	fleet cssf.war.illuminaReg.large.1 1600
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	trade Clothing 432
 	trade "Data drives" 9800
 	trade Electronics 639
@@ -186,10 +188,12 @@ system Deriie
 	link Aljuik
 	link Illumina
 	link Jarkiiens
-	fleet spa.small 400
-	fleet spa.medium 800
-	fleet spa.large 1300
-	fleet cssf.war.illuminaReg.large.1 1700
+	fleet spa.small 700
+	fleet spa.medium 1800
+	fleet spa.large 3300
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet "Large Northern Merchants" 600
 	fleet "Small Northern Pirates" 1200
 	trade Clothing 324
@@ -294,7 +298,9 @@ system Duffeni
 	fleet spa.small 600
 	fleet spa.medium 4000
 	fleet spa.large 7000
-	fleet cssf.war.illuminaReg.large.1 1600
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	trade Clothing 339
 	trade Electronics 502
 	trade Equipment 554
@@ -437,7 +443,9 @@ system Hiljaak
 	fleet spa.trade.HumanSpace.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.general.amidalaVariants.large.1 700
-	fleet cssf.war.illuminaReg.large.1 1200
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	asteroids "medium rock" 10 2.002
 	asteroids "large rock" 41 2.548
 	asteroids "small metal" 5 2.002
@@ -549,7 +557,9 @@ system Illumina
 	link Serfeiia
 	asteroids "large metal" 19 0
 	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 1600
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet "Large Northern Merchants" 600
 	fleet "Paradise Merchants" 600
 	fleet "Republic Logistics" 600
@@ -618,7 +628,9 @@ system Illuria
 	minables lead 33 4
 	fleet spa.war.illuminaReg.small.1 2900
 	fleet spa.war.illuminaReg.large.1 3000
-	fleet cssf.war.illuminaReg.large.1 5000
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet "Large Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
@@ -690,8 +702,12 @@ system Jarkiiens
 	link Illumina
 	fleet "Large Northern Merchants" 300
 	fleet spa.war.illuminaReg.large.1 550
-	fleet cssf.war.illuminaReg.large.1 4000
-	fleet cssf.general.emeraldSword.med.1 3000
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet spa.trade.HumanSpace.large.1 1200
 	fleet "Small Northern Merchants" 300
 	trade Clothing 343
@@ -1150,11 +1166,19 @@ system Neistat
 	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet spa.general.heliarchShips.med.1 800
-	fleet cssf.war.illuminaReg.large.1 2100
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet pirates.war.bactrian.small.1 1200
 	fleet pirates.war.3bactrians.1 4000
 	habitable 9525.6
@@ -1338,7 +1362,9 @@ system Suerolii
 	link Leideete
 	fleet "Large Northern Merchants" 600
 	fleet spa.war.illuminaReg.large.1 1300
-	fleet cssf.war.illuminaReg.large.1 2100
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet "Paradise Merchants" 1400
 	fleet "Large Northern Pirates" 4000
 	trade Clothing 448
@@ -1391,8 +1417,12 @@ system Serfeiia
 	fleet spa.small 600
 	fleet spa.medium 3000
 	fleet spa.large 5000
-	fleet cssf.war.illuminaReg.large.1 3000
-	fleet cssf.general.emeraldSword.large.1 2300
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	trade Clothing 329
 	trade Electronics 481
 	trade Equipment 542
@@ -1508,7 +1538,9 @@ system Suerolii
 	link Leideete
 	fleet "Large Northern Merchants" 600
 	fleet spa.war.illuminaReg.large.1 1300
-	fleet cssf.war.illuminaReg.large.1 2100
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet "Paradise Merchants" 1400
 	fleet "Large Northern Pirates" 4000
 	fleet spa.general.emptyCarriers.small.1 2800
