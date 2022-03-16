@@ -296,8 +296,8 @@ system Duffeni
 	fleet spa.trade.gen.small.1 300
 	fleet spa.trade.gen.small.1 300
 	fleet spa.small 600
-	fleet spa.medium 4000
-	fleet spa.large 7000
+	fleet spa.medium 1300
+	fleet spa.large 1800
 	fleet cssf.small 2400
 	fleet cssf.medium 4700
 	fleet cssf.large 6700
