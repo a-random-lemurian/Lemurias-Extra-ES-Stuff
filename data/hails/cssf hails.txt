@@ -84,3 +84,32 @@ phrase cssf.hails.hostile
 		"offence"
 	word
 		"!"
+
+phrase cssf.hails.hostile
+	word
+		"Hostile ship!"
+	word
+		" "
+	word
+		"Surrender and allow your "
+	phrase
+		"spa products"
+	word
+		" "
+	word
+		"to be "
+	word
+		"smashed"
+		"incinerated"
+		"burned"
+		"thrown into deep space"
+		"sent on a course to burn up in the atmosphere"
+		"desecrated"
+		"soiled"
+		"destroyed"
+		"ground up into a fine pulp"
+		"disintegrated"
+		"thrown into the engines of the <ship>"
+	word
+		"!"
+		", or face the consequences!"
