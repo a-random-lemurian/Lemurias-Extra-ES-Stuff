@@ -23,8 +23,9 @@ system Aixafer
 	link Oldothe
 	link Zarkxaa
 	government "Sayari Plushie"
-	fleet spa.war.amidala.large.1 1300
-	fleet spa.trade.HumanSpace.large.1 1600
+	fleet spa.small 1200
+	fleet spa.medium 3000
+	fleet spa.large 5600
 	fleet "Large Northern Merchants" 600
 	trade Clothing 327
 	trade Electronics 511
@@ -89,10 +90,13 @@ system Aljuik
 	link Alkxaai
 	link Deriie
 	link Duffeni
-	fleet spa.war.illuminaReg.large.1 200
+	fleet spa.small 500
+	fleet spa.medium 1400
+	fleet spa.large 3400
 	fleet "Large Northern Merchants" 200
-	fleet cssf.war.illuminaReg.large.1 1600
-	fleet spa.general.EmeraldSword.med.1 1400
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	trade Clothing 432
 	trade "Data drives" 9800
 	trade Electronics 639
@@ -136,8 +140,9 @@ system Alkxaai
 	link Jalak
 	link Minjuuk
 	link Oldothe
-	fleet spa.war.amidala.large.1 1300
-	fleet spa.trade.HumanSpace.large.1 1600
+	fleet spa.small 700
+	fleet spa.medium 1500
+	fleet spa.large 3000
 	fleet "Large Northern Merchants" 600
 	fleet "Small Republic" 800
 	fleet "Large Northern Pirates" 6000
@@ -183,9 +188,12 @@ system Deriie
 	link Aljuik
 	link Illumina
 	link Jarkiiens
-	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 2600
-	fleet spa.general.EmeraldSword.med.1 1400
+	fleet spa.small 700
+	fleet spa.medium 1800
+	fleet spa.large 3300
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet "Large Northern Merchants" 600
 	fleet "Small Northern Pirates" 1200
 	trade Clothing 324
@@ -283,18 +291,16 @@ system Duffeni
 	government "Sayari Plushie"
 	link Aljuik
 	link Illuria
-	fleet "Small Northern Merchants" 600
-	fleet "Large Northern Merchants" 600
-	fleet "Paradise Merchants" 8000
-	fleet "Small Republic" 6000
-	fleet "Large Republic" 9000
-	fleet "Republic Logistics" 20000
-	fleet "Small Core Merchants" 1000
-	fleet "Large Core Merchants" 2000
-	fleet spa.trade.gen.small.1 1200
-	fleet spa.war.illuminaReg.large.1 3300
-	fleet cssf.war.illuminaReg.large.1 5500
-	fleet spa.general.EmeraldSword.med.1 18000
+	fleet spa.trade.gen.small.1 300
+	fleet spa.trade.gen.small.1 300
+	fleet spa.trade.gen.small.1 300
+	fleet spa.trade.gen.small.1 300
+	fleet spa.small 600
+	fleet spa.medium 1300
+	fleet spa.large 1800
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	trade Clothing 339
 	trade Electronics 502
 	trade Equipment 554
@@ -437,7 +443,9 @@ system Hiljaak
 	fleet spa.trade.HumanSpace.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.general.amidalaVariants.large.1 700
-	fleet cssf.war.illuminaReg.large.1 1200
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	asteroids "medium rock" 10 2.002
 	asteroids "large rock" 41 2.548
 	asteroids "small metal" 5 2.002
@@ -549,7 +557,9 @@ system Illumina
 	link Serfeiia
 	asteroids "large metal" 19 0
 	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 1600
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet "Large Northern Merchants" 600
 	fleet "Paradise Merchants" 600
 	fleet "Republic Logistics" 600
@@ -618,7 +628,9 @@ system Illuria
 	minables lead 33 4
 	fleet spa.war.illuminaReg.small.1 2900
 	fleet spa.war.illuminaReg.large.1 3000
-	fleet cssf.war.illuminaReg.large.1 5000
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet "Large Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
 	fleet "Large Northern Merchants" 600
@@ -690,8 +702,12 @@ system Jarkiiens
 	link Illumina
 	fleet "Large Northern Merchants" 300
 	fleet spa.war.illuminaReg.large.1 550
-	fleet cssf.war.illuminaReg.large.1 4000
-	fleet cssf.general.emeraldSword.med.1 3000
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet spa.trade.HumanSpace.large.1 1200
 	fleet "Small Northern Merchants" 300
 	trade Clothing 343
@@ -731,9 +747,12 @@ system Jalak
 	pos -995.69444 -241.25
 	link Alkxaai
 	link Sedlai
-	fleet spa.general.freeWorldsShips.large.1 800
-	fleet spa.general.navyShips.large.1 800
-	fleet spa.general.Falcon.large.1 2000
+	# Jalak is the entry-point to the Pelitol Cluster,
+	# so higher fleet numbers here.
+	fleet spa.small 300
+	fleet spa.medium 700
+	fleet spa.large 2000
+	#####################
 	fleet "Large Northern Merchants" 600
 	fleet "Large Southern Merchants" 600
 	trade Clothing 312
@@ -988,8 +1007,10 @@ system Littike
 	fleet "Large Northern Merchants" 300
 	fleet "Large Northern Merchants" 300
 	fleet "Paradise Merchants" 300
-	fleet spa.patrol.small.1 900
-	fleet spa.patrol.small.1 900
+	fleet spa.small 400
+	fleet spa.small 600
+	fleet spa.medium 1500
+	fleet spa.large 2400
 	link Denleitt
 	link Lakodelfraddi
 	link Oldothe
@@ -1045,8 +1066,9 @@ system Minjuuk
 	pos -1083.0278 -219.25
 	government "Sayari Plushie"
 	habitable 1433
-	fleet spa.general.navyShips.large.1 1600
-	fleet spa.war.illuminaReg.large.1 900
+	fleet spa.small 1200
+	fleet spa.medium 1900
+	fleet spa.large 3000
 	fleet spa.trade.gen.small.1 800
 	arrival 0
 		link 4000
@@ -1144,11 +1166,19 @@ system Neistat
 	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
-	fleet cssf.war.illuminaReg.large.1 600
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet spa.general.heliarchShips.med.1 800
-	fleet cssf.war.illuminaReg.large.1 2100
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet pirates.war.bactrian.small.1 1200
 	fleet pirates.war.3bactrians.1 4000
 	habitable 9525.6
@@ -1216,9 +1246,9 @@ system Oldothe
 	minables aluminum 1 1
 	minables copper 70 6
 	minables lead 33 4
-	fleet spa.war.amidala.large.1 1300
-	fleet spa.trade.HumanSpace.large.1 1600
-	fleet spa.mining.amidalaMiner.med.1 1500
+	fleet spa.small 700
+	fleet spa.medium 1400
+	fleet spa.large 3800
 	fleet "Large Northern Merchants" 300
 	fleet "Large Northern Merchants" 300
 	fleet "Large Northern Merchants" 300
@@ -1332,7 +1362,9 @@ system Suerolii
 	link Leideete
 	fleet "Large Northern Merchants" 600
 	fleet spa.war.illuminaReg.large.1 1300
-	fleet cssf.war.illuminaReg.large.1 2100
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet "Paradise Merchants" 1400
 	fleet "Large Northern Pirates" 4000
 	trade Clothing 448
@@ -1382,13 +1414,15 @@ system Suerolii
 system Serfeiia
 	pos -809 -107.91667
 	government "Sayari Plushie"
-	fleet spa.war.illuminaReg.large.1 600
-	fleet spa.trade.HumanSpace.large.1 1200
-	fleet spa.general.EmeraldSword.med.1 800
-	fleet spa.general.heliarchShips.med.1 2700
-	fleet cssf.war.illuminaReg.large.1 3000
-	fleet cssf.general.emeraldSword.large.1 2300
-	fleet spa.war.vanguard.large.1 1500
+	fleet spa.small 600
+	fleet spa.medium 3000
+	fleet spa.large 5000
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	trade Clothing 329
 	trade Electronics 481
 	trade Equipment 542
@@ -1504,7 +1538,9 @@ system Suerolii
 	link Leideete
 	fleet "Large Northern Merchants" 600
 	fleet spa.war.illuminaReg.large.1 1300
-	fleet cssf.war.illuminaReg.large.1 2100
+	fleet cssf.small 2400
+	fleet cssf.medium 4700
+	fleet cssf.large 6700
 	fleet "Paradise Merchants" 1400
 	fleet "Large Northern Pirates" 4000
 	fleet spa.general.emptyCarriers.small.1 2800
@@ -1579,9 +1615,9 @@ system Zarkxaa
 		sprite planet/desert3
 		distance 4096
 		period 1309
-	fleet spa.war.amidala.large.1 2000
-	fleet spa.trade.haiSpace.large.1 1000
-	fleet spa.trade.HumanSpace.large.1 1000
+	fleet spa.small 600
+	fleet spa.medium 2400
+	fleet spa.large 5600
 	fleet "Large Northern Merchants" 600
 	trade Clothing 377
 	trade Electronics 512
