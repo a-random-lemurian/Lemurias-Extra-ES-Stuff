@@ -3,6 +3,8 @@
 - Overhauled CSSF fleets, similar to how the SPA fleets were overhauled.
 - Added SPA variant of the Kestrel.
 - Rebalanced Duffeni fleets.
+- Added hails to the CSSF.
+- Added Delistra and Eteristra, two new planets in the Pelitol Cluster.
 
 ### v0.10.11
 - Added hails about some ships exceeding API ratelimits.
