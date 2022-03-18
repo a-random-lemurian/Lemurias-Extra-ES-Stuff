@@ -3,6 +3,7 @@
 - Overhauled CSSF fleets, similar to how the SPA fleets were overhauled.
 - Added SPA variant of the Kestrel.
 - Rebalanced Duffeni fleets.
+- Added phrase containing names of all U.S. Presidents.
 
 ### v0.10.11
 - Added hails about some ships exceeding API ratelimits.
