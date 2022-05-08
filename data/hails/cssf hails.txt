@@ -10,7 +10,7 @@ phrase salesperson
 		"women"
 		"people"
 
-phrase "spa products"
+phrase "spa products, singular"
 	word
 		"Freya Winters"
 		"Sayari"
@@ -18,7 +18,14 @@ phrase "spa products"
 	word
 		" "
 	word
-		"plushies"
+		"plushie"
+
+phrase "spa products"
+	phrase
+		"spa products, singular"
+	word
+		"s"
+
 
 phrase cssf.hails.friendly
 	word
@@ -30,7 +37,9 @@ phrase cssf.hails.friendly
 	word
 		" "
 	word
-		"those plushie"
+		"those "
+	phrase
+		"spa products, singular"
 	word
 		" "
 	phrase
