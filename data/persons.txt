@@ -16,7 +16,7 @@
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
 person "Liz Cheney"
-	frequency 100000000000
+	frequency 20
 	government "Merchant"
 	phrase
 		word
