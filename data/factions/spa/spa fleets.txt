@@ -91,46 +91,46 @@ fleet spa.medium
 
 	# Smugglers
 	variant 9
-		"Auxiliary (Transport)" 8
-		"SPA Gunboat" 12
+		"Auxiliary (Transport)" 6
+		"SPA Gunboat" 2
 	variant 5
 		"Auxiliary (Cargo)" 3
 		"Auxiliary (Transport)" 1
 		"Auxiliary" 4
-		"SPA Gunboat" 12
+		"SPA Gunboat" 3
 	variant 5
 		"Auxiliary (Cargo)" 4
 		"Auxiliary (Transport)" 2
 		"Auxiliary" 2
-		"SPA Gunboat" 8
+		"SPA Gunboat" 2
 	variant 5
 		"Auxiliary (Cargo)" 5
 		"Auxiliary (Transport)" 2
 		"Auxiliary" 1
-		"SPA Gunboat" 10
+		"SPA Gunboat" 3
 
 fleet spa.large
 	government "Sayari Plushie"
 	names spa.allNames
 	variant 15
-		"SPA Kestrel" 4
+		"SPA Kestrel" 3
 	variant 30
-		"SPA Kestrel" 2
+		"SPA Kestrel" 1
 	variant 35
-		"SPA Kestrel" 4
+		"SPA Kestrel" 2
 	variant 30
 		"SPA Gunboat" 8
 		"SPA Cruiser" 4
 	variant 25
 		"SPA Gunboat" 4
 	variant 15
-		"SPA Gunboat" 12
+		"SPA Gunboat" 5
 	variant 15
 		"SPA Cruiser" 6
 	variant 20
 		"SPA Cruiser" 4
 	variant 10
-		"SPA Cruiser" 8
+		"SPA Cruiser" 4
 	variant 50
 		"Falcon" 5
 	variant 40
