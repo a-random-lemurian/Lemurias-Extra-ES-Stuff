@@ -1293,14 +1293,11 @@ system Orbona
 	add link Neistat
 	add link Serfeiia
 	add link Limen
-	add fleet spa.war.illuminaReg.large.1 600
-	add fleet spa.war.illuminaReg.large.1 600
-	add fleet spa.general.amidalaVariants.large.1 800
-	add fleet spa.general.EmeraldSword.med.1 1200
-	add fleet cssf.war.illuminaReg.large.1 2100
-	add fleet cssf.war.illuminaReg.large.1 600
-	add fleet cssf.general.emeraldSword.large.1 2700
-	add fleet cssf.war.orbona.1 600
+	add fleet spa.small 800
+	add fleet cssf.small 800
+	add fleet spa.medium 1300
+	add fleet cssf.medium 1300
+
 ### P
 system Pekora
 	pos -905.80556 -439.05556
