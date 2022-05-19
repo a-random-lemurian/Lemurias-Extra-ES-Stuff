@@ -942,11 +942,6 @@ system Lesarkei
 		sprite planet/gas13
 		distance 3874
 		period 1004
-system Leideete
-	pos -745.94444 -245.83333
-	government Republic
-	link Neistat
-	link Suerolii
 
 
 system Ladosak
@@ -1160,7 +1155,6 @@ system Neistat
 	pos -768.33333 -161.91667
 	government Republic
 	link Illuria
-	link Leideete
 	link Orbona
 	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
@@ -1355,7 +1349,6 @@ system Suerolii
 	government Republic
 	link Illuria
 	link Ladosak
-	link Leideete
 	fleet "Large Northern Merchants" 600
 	fleet spa.war.illuminaReg.large.1 1300
 	fleet cssf.small 2400
@@ -1531,7 +1524,6 @@ system Suerolii
 	government Republic
 	link Illuria
 	link Ladosak
-	link Leideete
 	fleet "Large Northern Merchants" 600
 	fleet spa.war.illuminaReg.large.1 1300
 	fleet cssf.small 2400
