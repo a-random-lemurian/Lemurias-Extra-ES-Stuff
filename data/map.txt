@@ -439,7 +439,6 @@ system Hiljaak
 	pos -807.36111 -69.555556
 	government Republic
 	link Jarkiiens
-	link Limen
 	fleet spa.trade.HumanSpace.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.general.amidalaVariants.large.1 700
