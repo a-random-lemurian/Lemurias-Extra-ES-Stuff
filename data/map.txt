@@ -1217,10 +1217,16 @@ system Oldothe
 system Orbona
 	add link Serfeiia
 	add link Limen
-	add fleet spa.small 800
-	add fleet cssf.small 800
+	add fleet spa.small 600
+	add fleet cssf.small 600
 	add fleet spa.medium 1300
 	add fleet cssf.medium 1300
+	add fleet "republic small" 900
+	add fleet "republic large" 700
+	add fleet "Large Northern Merchants" 430
+	add fleet "Large Southern Merchants" 540
+	add fleet "Small Northern Merchants" 240
+	add fleet "Small Southern Merchants" 550
 
 ### P
 system Pekora
