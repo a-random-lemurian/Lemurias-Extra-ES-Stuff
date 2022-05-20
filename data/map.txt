@@ -1588,7 +1588,7 @@ system Suerolii
 
 ### Z
 system Zarkxaa
-	pos -916.47223 -20.416663
+	pos -916.47223 -38.1703
 	government "Sayari Plushie"
 	link Aixafer
 	object
