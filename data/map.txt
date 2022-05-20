@@ -610,7 +610,6 @@ system Illuria
 	government Republic
 	link Duffeni
 	link Illumina
-	link Neistat
 	link Suerolii
 	asteroids "small rock" 0 4.95
 	asteroids "medium rock" 0 5.225
@@ -942,11 +941,6 @@ system Lesarkei
 		sprite planet/gas13
 		distance 3874
 		period 1004
-system Leideete
-	pos -745.94444 -245.83333
-	government Republic
-	link Neistat
-	link Suerolii
 
 
 system Ladosak
@@ -1156,75 +1150,6 @@ system Macali
 			distance 174
 			period 1460.04
 ### N
-system Neistat
-	pos -768.33333 -161.91667
-	government Republic
-	link Illuria
-	link Leideete
-	link Orbona
-	fleet spa.war.illuminaReg.large.1 600
-	fleet spa.war.illuminaReg.large.1 600
-	fleet spa.war.illuminaReg.large.1 600
-	fleet cssf.small 2400
-	fleet cssf.medium 4700
-	fleet cssf.large 6700
-	fleet cssf.small 2400
-	fleet cssf.medium 4700
-	fleet cssf.large 6700
-	fleet cssf.small 2400
-	fleet cssf.medium 4700
-	fleet cssf.large 6700
-	fleet spa.general.heliarchShips.med.1 800
-	fleet cssf.small 2400
-	fleet cssf.medium 4700
-	fleet cssf.large 6700
-	fleet pirates.war.bactrian.small.1 1200
-	fleet pirates.war.3bactrians.1 4000
-	habitable 9525.6
-	object
-		sprite star/k0-old
-		period 10
-	object
-		sprite planet/io-b
-		distance 245
-		period 0.030234316
-	object
-		sprite planet/ice5-b
-		distance 669
-		period 0.030234316
-		object
-			sprite planet/oberon-b
-			distance 154
-			period 263.64
-	object
-		sprite planet/gas7
-		distance 1692
-		period 0.030234316
-		object
-			sprite planet/dyson2
-			distance 272
-			period 1460.04
-		object
-			sprite planet/europa
-			distance 395
-			period 446.865
-		object
-			sprite planet/callisto
-			distance 528
-			period 1460.04
-		object
-			sprite planet/dust5-b
-			distance 701
-			period 1460.04
-	object
-		sprite planet/station1k
-		distance 3013
-		period 0.030234316
-	object
-		sprite planet/dust0-b
-		distance 3417
-		period 0.030234316
-
 
 ### O
 system Oldothe
@@ -1290,7 +1215,6 @@ system Oldothe
 		distance 2776
 
 system Orbona
-	add link Neistat
 	add link Serfeiia
 	add link Limen
 	add fleet spa.small 800
@@ -1355,7 +1279,6 @@ system Suerolii
 	government Republic
 	link Illuria
 	link Ladosak
-	link Leideete
 	fleet "Large Northern Merchants" 600
 	fleet spa.war.illuminaReg.large.1 1300
 	fleet cssf.small 2400
@@ -1531,7 +1454,6 @@ system Suerolii
 	government Republic
 	link Illuria
 	link Ladosak
-	link Leideete
 	fleet "Large Northern Merchants" 600
 	fleet spa.war.illuminaReg.large.1 1300
 	fleet cssf.small 2400
