@@ -706,7 +706,6 @@ ship "Kestrel" "SPA Kestrel"
 		"A520 Atomic Thruster"
 		"A525 Atomic Steering"
 		"Antimatter Core"
-		"Cloaking Device"
 		"Dark Storm Shielding"
 		"Hyperdrive"
 		"Heavy Laser" 12
