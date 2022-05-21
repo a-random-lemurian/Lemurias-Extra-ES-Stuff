@@ -1,7 +1,7 @@
 
-galaxy pelitolNebula
-	pos -8057.2079 -0.53422
-	sprite "galaxy/pelitol cluster"
+# galaxy pelitolNebula
+# 	pos -8057.2079 -0.53422
+# 	sprite "galaxy/pelitol cluster"
 
 system Sorusep
 	pos -8431.4301 -235.86756
