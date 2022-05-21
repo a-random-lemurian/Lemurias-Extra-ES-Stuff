@@ -401,6 +401,16 @@ system Arket
 	fleet spa.medium 1800
 	fleet spa.large 3400
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
+	fleet spa.small 1900
+	fleet spa.medium 2300
+	fleet spa.large 3100
+	fleet cssf.small 900
+	fleet cssf.medium 1200
+	fleet cssf.large 1800
+	fleet "Large Northern Merchants" 1300
+	fleet "Small Northern Merchants" 700
+	fleet "Small Northern Pirates" 900
+	fleet "Large Northern Pirates" 1300
 	object
 		sprite "star/g0"
 		distance 0
@@ -477,11 +487,32 @@ system Paricasa
 	link Arket
 	link Telicasa
 
+	fleet spa.small 1900
+	fleet spa.medium 2300
+	fleet spa.large 3100
+	fleet cssf.small 900
+	fleet cssf.medium 1200
+	fleet cssf.large 1800
+	fleet "Large Northern Merchants" 1300
+	fleet "Small Northern Merchants" 700
+	fleet "Small Northern Pirates" 900
+	fleet "Large Northern Pirates" 1300
+
 system Telicasa
 	government "Sayari Plushie"
 	pos -8343.103 -94.2014
 	link Paricasa
 	link Kolicasa
+	fleet spa.small 1900
+	fleet spa.medium 2300
+	fleet spa.large 3100
+	fleet cssf.small 900
+	fleet cssf.medium 1200
+	fleet cssf.large 1800
+	fleet "Large Northern Merchants" 1300
+	fleet "Small Northern Merchants" 700
+	fleet "Small Northern Pirates" 900
+	fleet "Large Northern Pirates" 1300
 
 system Kolicasa
 	government "Sayari Plushie"
@@ -490,6 +521,17 @@ system Kolicasa
 	link Varfeticasa
 	link Lesokicasa
 
+	fleet spa.small 1900
+	fleet spa.medium 2300
+	fleet spa.large 3100
+	fleet cssf.small 900
+	fleet cssf.medium 1200
+	fleet cssf.large 1800
+	fleet "Large Northern Merchants" 1300
+	fleet "Small Northern Merchants" 700
+	fleet "Small Northern Pirates" 900
+	fleet "Large Northern Pirates" 1300
+
 system Varfeticasa
 	government "Sayari Plushie"
 	pos -8403.0488 -33.240
@@ -497,9 +539,20 @@ system Varfeticasa
 	link Kolicasa
 
 system Lesokicasa
-	government "Sayari Plushie"
+	government "Independent"
 	pos -8307.2033 1.887
+	arrival 3000
 	link Kolicasa
+	fleet spa.small 1900
+	fleet spa.medium 2300
+	fleet spa.large 3100
+	fleet cssf.small 900
+	fleet cssf.medium 1200
+	fleet cssf.large 1800
+	fleet "Large Northern Merchants" 1300
+	fleet "Small Northern Merchants" 700
+	fleet "Small Northern Pirates" 900
+	fleet "Large Northern Pirates" 1300
 	object
 		sprite "star/g0"
 		distance 0
@@ -508,7 +561,7 @@ system Lesokicasa
 		sprite "planet/rock3"
 		distance 550
 		period 311
-	object
+	object Pondar
 		sprite "planet/rock8"
 		distance 1044
 		period 450
@@ -713,3 +766,9 @@ planet "Salistra"
 	government "Sayari Plushie"
 	description "Salistra is an Earth-like world in the Pelitol Cluster. Salistra is primarily a farming, manufacturing, and shipbuilding world. Salistra is home to the Salistra Shipyard in orbit. The colony of Kaistra in the neighbouring Sarut system is the Salistra Shipyard's primary source of material."
 	spaceport "The Salistra Spaceport is located on an island in the middle of one of Salistra's large oceans."
+
+planet "Pondar"
+	government "Independent"
+	landscape "land/pondar"
+	description "Pondar is a very remote part of human space located at the southernmost part of the Pelitol Cluster. Settled in roughly 26-27th century CE with 300 colonists, Pondar is now home to 9,210 people and serves as a hotspot for pirate and CSSF activity. The CSSF and pirate warlords operate their own bases on Pondar."
+	spaceport "Pondar's spaceport is one of three ports on this planet. The other ports belong to the CSSF and pirate warlords respectively."
