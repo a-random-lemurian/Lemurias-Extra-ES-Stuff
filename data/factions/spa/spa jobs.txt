@@ -123,3 +123,163 @@ mission spa.plushieTransport.mission.1
 		payment 130000 230
 		dialog phrase spa.tr.complete
 		"reputation: Sayari Plushie" += 20
+
+phrase "SPA salespeople complete"
+	word
+		"The SPA sales"
+	word
+		"men" 25
+		"women" 25
+		"people" 50
+	word
+		" "
+	word
+		"leave your ship after paying you <payment>. "
+	word
+		"You see some mysterious people chase them." 30
+		"" 70
+
+mission spa.salespeopleTransport.1
+	name "<bunks> SPA salespeople to <system>"
+	description "Transport <bunks> SPA salespeople to <planet>, <system> for <payment>."
+	passengers 3 30
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		distance 8 40
+		government Republic Syndicate "Free Worlds" Hai Neutral Independent
+	to offer
+		random > 30
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		payment 70000 240
+		dialog phrase "SPA salespeople complete"
+		"reputation: Sayari Plushie" += 20
+	npc
+		government "Yuyuko Saigyouji"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 7
+			variant
+				"Fury" 6
+			variant
+				"Berserker" 4
+			variant
+				"Falcon" 2
+	npc
+		government "Sayari Plushie"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "spa.allNames"
+			variant
+				"SPA Gunboat" 4
+			variant
+				"SPA Cruiser" 2
+			variant
+				"Amidala" 2
+
+mission spa.salespeopleTransport.2
+	name "<bunks> SPA salespeople to <system>"
+	description "Transport <bunks> SPA salespeople to <planet>, <system> for <payment>."
+	passengers 3 30
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		distance 8 40
+		government Republic Syndicate "Free Worlds" Hai Neutral Independent
+	to offer
+		random > 30
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		payment 70000 240
+		dialog phrase "SPA salespeople complete"
+		"reputation: Sayari Plushie" += 20
+	npc
+		government "Yuyuko Saigyouji"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 7
+			variant
+				"Fury" 6
+			variant
+				"Berserker" 4
+			variant
+				"Falcon" 2
+	npc
+		government "Sayari Plushie"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "spa.allNames"
+			variant
+				"SPA Gunboat" 4
+			variant
+				"SPA Cruiser" 2
+			variant
+				"Amidala" 2
+
+mission spa.salespeopleTransport.3
+	name "<bunks> SPA salespeople to <system>"
+	description "Transport <bunks> SPA salespeople to <planet>, <system> for <payment>."
+	passengers 3 30
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		distance 8 40
+		government Republic Syndicate "Free Worlds" Hai Neutral Independent
+	to offer
+		random > 30
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		payment 70000 240
+		dialog phrase "SPA salespeople complete"
+		"reputation: Sayari Plushie" += 20
+	npc
+		government "Yuyuko Saigyouji"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 7
+			variant
+				"Fury" 6
+			variant
+				"Berserker" 4
+			variant
+				"Falcon" 2
+	npc
+		government "Sayari Plushie"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "spa.allNames"
+			variant
+				"SPA Gunboat" 4
+			variant
+				"SPA Cruiser" 2
+			variant
+				"Amidala" 2
+
