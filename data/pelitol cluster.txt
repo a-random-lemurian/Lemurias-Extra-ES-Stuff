@@ -401,6 +401,16 @@ system Arket
 	fleet spa.medium 1800
 	fleet spa.large 3400
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
+	fleet spa.small 1900
+	fleet spa.medium 2300
+	fleet spa.large 3100
+	fleet cssf.small 900
+	fleet cssf.medium 1200
+	fleet cssf.large 1800
+	fleet "Large Northern Merchants" 1300
+	fleet "Small Northern Merchants" 700
+	fleet "Small Northern Pirates" 900
+	fleet "Large Northern Pirates" 1300
 	object
 		sprite "star/g0"
 		distance 0
@@ -477,11 +487,32 @@ system Paricasa
 	link Arket
 	link Telicasa
 
+	fleet spa.small 1900
+	fleet spa.medium 2300
+	fleet spa.large 3100
+	fleet cssf.small 900
+	fleet cssf.medium 1200
+	fleet cssf.large 1800
+	fleet "Large Northern Merchants" 1300
+	fleet "Small Northern Merchants" 700
+	fleet "Small Northern Pirates" 900
+	fleet "Large Northern Pirates" 1300
+
 system Telicasa
 	government "Sayari Plushie"
 	pos -8343.103 -94.2014
 	link Paricasa
 	link Kolicasa
+	fleet spa.small 1900
+	fleet spa.medium 2300
+	fleet spa.large 3100
+	fleet cssf.small 900
+	fleet cssf.medium 1200
+	fleet cssf.large 1800
+	fleet "Large Northern Merchants" 1300
+	fleet "Small Northern Merchants" 700
+	fleet "Small Northern Pirates" 900
+	fleet "Large Northern Pirates" 1300
 
 system Kolicasa
 	government "Sayari Plushie"
@@ -489,6 +520,17 @@ system Kolicasa
 	link Telicasa
 	link Varfeticasa
 	link Lesokicasa
+
+	fleet spa.small 1900
+	fleet spa.medium 2300
+	fleet spa.large 3100
+	fleet cssf.small 900
+	fleet cssf.medium 1200
+	fleet cssf.large 1800
+	fleet "Large Northern Merchants" 1300
+	fleet "Small Northern Merchants" 700
+	fleet "Small Northern Pirates" 900
+	fleet "Large Northern Pirates" 1300
 
 system Varfeticasa
 	government "Sayari Plushie"
