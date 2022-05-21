@@ -40,6 +40,9 @@ fleet spa.small
 	variant 70
 		"SPA Gunboat" 2
 		"Bulk Freighter" 1
+	variant 65
+		"Container Transport" 1
+		"SPA Gunboat" 2
 	variant 50
 		"Bulk Freighter" 2
 	variant 35
