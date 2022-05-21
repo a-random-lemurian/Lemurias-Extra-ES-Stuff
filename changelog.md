@@ -4,6 +4,7 @@
 - Rebalanced Orbona fleets
 - Moved Zarkxaa out of jump drive range of Gamma Corvi
 - Added Liz Cheney
+- Rebalanced government attitudes towards each other
 - Star system changes
    - Added:
       - Vensur

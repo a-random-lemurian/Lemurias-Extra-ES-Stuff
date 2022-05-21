@@ -20,8 +20,8 @@ government "Sayari Plushie"
 	swizzle 12
 	color 0.71399999 0.50599998 0.741
 	"attitude toward"
-		Pirate -1
-		"Yuyuko Saigyouji" -2
+		Pirate -.3
+		"Yuyuko Saigyouji" -.5
 	"friendly hail" spa.hails.friendly
 	"hostile hail" spa.hails.hostile
 
@@ -33,18 +33,14 @@ government "Yuyuko Saigyouji"
 	"hostile hail" cssf.hails.hostile
 	"attitude toward"
 		Pirate -1
-		"Sayari Plushie" -2
+		"Sayari Plushie" -.5
 
 government "Anime Organization"
 	"display name" "Anime Organization"
 	swizzle 5
 	color 0.9882352941176471 0.6862745098039216 0.23529411764705882 0.0
 	"attitude toward"
-		Pirate -1
-		Republic 1
-		Merchant 0.5
-		Syndicate 0.4
-		"Free Worlds" 1
+		Pirate -.3
 	"friendly hail" animeorg.hails.friendly
 	"hostile hail" animeorg.hails.hostile
 
@@ -57,11 +53,10 @@ government "SPA: Republic Livery"
 	"crew defense" 2.2
 	"player reputation" 200
 	"attitude toward"
-		Merchant 0.40
 		Militia .3
-		Pirate -1
-		"Sayari Plushie" 1.60
-		"Yuyuko Saigyouji" -1
+		Pirate -.3
+		"Sayari Plushie" .5
+		"Yuyuko Saigyouji" -.3
 	"friendly hail" "friendly navy"
 	"hostile hail" "hostile navy"
 	raid "pirate raid"
