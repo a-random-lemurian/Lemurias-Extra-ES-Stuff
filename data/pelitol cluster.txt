@@ -500,6 +500,13 @@ system Lesokicasa
 	government "Sayari Plushie"
 	pos -8307.2033 1.887
 	link Kolicasa
+	fleet spa.small 900
+	fleet spa.medium 4000
+	fleet cssf.small 1200
+	fleet "Large Northern Merchants" 1300
+	fleet "Small Northern Merchants" 700
+	fleet "Small Northern Pirates" 900
+	fleet "Large Northern Pirates" 1300
 	object
 		sprite "star/g0"
 		distance 0
