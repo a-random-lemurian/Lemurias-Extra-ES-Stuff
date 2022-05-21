@@ -283,3 +283,189 @@ mission spa.salespeopleTransport.3
 			variant
 				"Amidala" 2
 
+phrase "SPA intel retrieval in progress"
+	word
+		"You fly to the base with the coordinates and break into the facility. You go undetected as you make a copy of the documents you were sent to steal."
+	word
+		" You leave."
+		" A CSSF soldier spots you, but you subdue them and quickly leave before backup is called."
+
+phrase "SPA intel retrieval complete"
+	word
+		"You arrive at the spaceport. A SPA officer waits outside your ship. You hand "
+	word
+		"them"
+		"her"
+		"him"
+	word
+		" the "
+	word
+		"documents"
+		"classified intel"
+		"data chips"
+	word
+		" and recieve your payment of <payment>."
+
+mission "SPA CSSF Intel Retrieval [1]"
+	name "Retrieve CSSF intel"
+	description "Break into a secret CSSF base discovered on <stopovers> and steal some documents. Tools for forced entry will be provided. Deliver the stolen documents to an agent on <planet>, <system> for your payment of <payment>."
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		distance 10 20
+		government Republic Syndicate "Free Worlds" Hai Neutral Independent
+	to offer
+		random > 1
+	on visit
+		dialog phrase spa.tr.visit
+	on stopover
+		dialog phrase "SPA intel retrieval in progress"
+	on complete
+		payment 340000 200
+		dialog phrase "SPA intel retrieval complete"
+		"reputation: Sayari Plushie" += 30
+	stopover
+		not attributes "station"
+		not government "Pirate"
+		not government "Sayari Plushie"
+		distance 13 40
+	npc
+		government "Yuyuko Saigyouji (Hostile)"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Falcon" 2
+			variant
+				"Firebird" 3
+				"Falcon" 1
+			variant
+				"Splinter" 3
+				"Quicksilver" 1
+
+mission "SPA CSSF Intel Retrieval [2]"
+	name "Retrieve CSSF intel"
+	description "Break into a secret CSSF base discovered on <stopovers> and steal some documents. Tools for forced entry will be provided. Deliver the stolen documents to an agent on <planet>, <system> for your payment of <payment>."
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		distance 10 20
+		government Republic Syndicate "Free Worlds" Hai Neutral Independent
+	to offer
+		random > 1
+	on visit
+		dialog phrase spa.tr.visit
+	on stopover
+		dialog phrase "SPA intel retrieval in progress"
+	on complete
+		payment 340000 200
+		dialog phrase "SPA intel retrieval complete"
+		"reputation: Sayari Plushie" += 30
+	stopover
+		not attributes "station"
+		not government "Pirate"
+		not government "Sayari Plushie"
+		distance 13 40
+	npc
+		government "Yuyuko Saigyouji (Hostile)"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Falcon" 2
+			variant
+				"Firebird" 3
+				"Falcon" 1
+			variant
+				"Splinter" 3
+				"Quicksilver" 1
+
+mission "SPA CSSF Intel Retrieval [3]"
+	name "Retrieve CSSF intel"
+	description "Break into a secret CSSF base discovered on <stopovers> and steal some documents. Tools for forced entry will be provided. Deliver the stolen documents to an agent on <planet>, <system> for your payment of <payment>."
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		distance 10 20
+		government Republic Syndicate "Free Worlds" Hai Neutral Independent
+	to offer
+		random > 1
+	on visit
+		dialog phrase spa.tr.visit
+	on stopover
+		dialog phrase "SPA intel retrieval in progress"
+	on complete
+		payment 340000 200
+		dialog phrase "SPA intel retrieval complete"
+		"reputation: Sayari Plushie" += 30
+	stopover
+		not attributes "station"
+		not government "Pirate"
+		not government "Sayari Plushie"
+		distance 13 40
+	npc
+		government "Yuyuko Saigyouji (Hostile)"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Falcon" 2
+			variant
+				"Firebird" 3
+				"Falcon" 1
+			variant
+				"Splinter" 3
+				"Quicksilver" 1
+
+mission "SPA CSSF Intel Retrieval [4]"
+	name "Retrieve CSSF intel"
+	description "Break into a secret CSSF base discovered on <stopovers> and steal some documents. Tools for forced entry will be provided. Deliver the stolen documents to an agent on <planet>, <system> for your payment of <payment>."
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		distance 10 20
+		government Republic Syndicate "Free Worlds" Hai Neutral Independent
+	to offer
+		random > 1
+	on visit
+		dialog phrase spa.tr.visit
+	on stopover
+		dialog phrase "SPA intel retrieval in progress"
+	on complete
+		payment 340000 200
+		dialog phrase "SPA intel retrieval complete"
+		"reputation: Sayari Plushie" += 30
+	stopover
+		not attributes "station"
+		not government "Pirate"
+		not government "Sayari Plushie"
+		distance 13 40
+	npc
+		government "Yuyuko Saigyouji (Hostile)"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Falcon" 2
+			variant
+				"Firebird" 3
+				"Falcon" 1
+			variant
+				"Splinter" 3
+				"Quicksilver" 1
