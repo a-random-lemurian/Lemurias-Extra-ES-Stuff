@@ -250,6 +250,7 @@ system Sarut
 	pos -8494.2013 -254.20034
 	link Repolitea
 	link Oratelis
+	link Vourgat
 	fleet spa.small 500
 	fleet spa.medium 1200
 	fleet spa.large 1800
@@ -460,6 +461,7 @@ system Vensur
 	government "Sayari Plushie"
 	pos -8488.108 -120.618
 	link Arket
+	link Sprad
 	link Starish
 
 system Starish
@@ -720,6 +722,57 @@ system Erited
 		sprite "planet/gas3"
 		distance 5503
 		period 798
+
+system Ourais
+	pos -8741.6111 -214.88889
+	habitable 441.8
+	belt 1344
+	link Daxter
+	link Erou
+	asteroids "medium rock" 4 5.4054
+	asteroids "large rock" 1 4.9842
+	asteroids "small metal" 90 4.9842
+	asteroids "medium metal" 64 3.5802
+	asteroids "large metal" 31 4.563
+	minables titanium 11 6.8329281
+	minables tungsten 36 5.4707939
+
+system Vourgat
+	pos -8546.5 -222.44444
+	link Presad
+	link Sarut
+	link Sprad
+
+system Erou
+	pos -8716.7222 -275.33333
+	link Ourais
+	link Presad
+
+system Sprad
+	pos -8510.0556 -141.55556
+	link Varisa
+	link Vensur
+	link Vourgat
+
+system Presad
+	pos -8639.3889 -269.55556
+	link Erou
+	link Vourgat
+
+system Sprooe
+	pos -8730.8056 -99.694444
+	link Daxter
+
+system Daxter
+	pos -8702.0556 -172.22222
+	link Ourais
+	link Sprooe
+	link Varisa
+
+system Varisa
+	pos -8612.7222 -179.33333
+	link Daxter
+	link Sprad
 
 planet "Eteristra"
 	landscape "land/eteristra"
