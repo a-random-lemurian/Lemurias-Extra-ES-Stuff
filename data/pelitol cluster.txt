@@ -501,9 +501,12 @@ system Lesokicasa
 	pos -8307.2033 1.887
 	arrival 3000
 	link Kolicasa
-	fleet spa.small 900
-	fleet spa.medium 4000
-	fleet cssf.small 1200
+	fleet spa.small 1900
+	fleet spa.medium 2300
+	fleet spa.large 3100
+	fleet cssf.small 900
+	fleet cssf.medium 1200
+	fleet cssf.large 1800
 	fleet "Large Northern Merchants" 1300
 	fleet "Small Northern Merchants" 700
 	fleet "Small Northern Pirates" 900
