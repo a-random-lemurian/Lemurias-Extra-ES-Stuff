@@ -500,6 +500,26 @@ system Lesokicasa
 	government "Sayari Plushie"
 	pos -8307.2033 1.887
 	link Kolicasa
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock3"
+		distance 550
+		period 311
+	object
+		sprite "planet/rock8"
+		distance 1044
+		period 450
+	object
+		sprite "planet/gas3"
+		distance 3442
+		period 788
+	object
+		sprite "planet/gas1"
+		distance 5203
+		period 1208
 
 system Frechisa
 	government "Sayari Plushie"
