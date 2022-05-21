@@ -395,6 +395,7 @@ system Arket
 	government "Sayari Plushie"
 	pos -8454.1998 -161.30113
 	link Oratelis
+	link Vensur
 	fleet spa.small 700
 	fleet spa.medium 1800
 	fleet spa.large 3400
@@ -443,6 +444,31 @@ system Arket
 		sprite "planet/gas7"
 		distance 7203
 		period 1567
+
+system Vensur
+	government "Sayari Plushie"
+	pos -8488.108 -120.618
+	link Arket
+	link Starish
+
+system Starish
+	government "Sayari Plushie"
+	pos -8472.1898 -87.287
+	link Vensur
+	link Darceas
+	link Orchao
+
+system Darceas
+	government "Sayari Plushie"
+	pos -8461.199 -33.3076
+	link Starish
+	link Orchao
+
+system Orchao
+	government "Sayari Plushie"
+	pos -8544.02 -55.332
+	link Darceas
+	link Starish
 
 system Frechisa
 	government "Sayari Plushie"
