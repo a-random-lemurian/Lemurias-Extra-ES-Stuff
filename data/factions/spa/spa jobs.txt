@@ -16,6 +16,14 @@
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
 
+# FIXME: Payment for missions in the Pelitol Cluster
+# broken due to requirement for wormhole travel
+#
+# Possible fixes:
+# - Fix Endless Sky game engine
+# - Don't offer mission in Pelitol Cluster
+
+
 mission tr.cargo.small.low.1.spa
 	name "SPA: Transport <cargo> to <system>"
 	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>."
@@ -32,7 +40,7 @@ mission tr.cargo.small.low.1.spa
 		dialog phrase spa.tr.visit
 	on complete
 		dialog phrase spa.tr.complete
-		payment 64000 95
+		payment 130000 230
 
 
 mission tr.cargo.med.low.2.spa
@@ -52,7 +60,7 @@ mission tr.cargo.med.low.2.spa
 		dialog phrase spa.tr.visit
 	on complete
 		dialog phrase spa.tr.complete
-		payment 64000 95
+		payment 130000 230
 
 
 mission tr.cargo.med.low.3.spa
@@ -72,7 +80,7 @@ mission tr.cargo.med.low.3.spa
 		dialog phrase spa.tr.visit
 	on complete
 		dialog phrase spa.tr.complete
-		payment 64000 95
+		payment 130000 230
 
 
 mission tr.cargo.large.low.1.spa
@@ -92,7 +100,7 @@ mission tr.cargo.large.low.1.spa
 		dialog phrase spa.tr.visit
 	on complete
 		dialog phrase spa.tr.complete
-		payment 76000 27
+		payment 130000 230
 		"reputation: Sayari Plushie" += 5
 
 
@@ -112,6 +120,6 @@ mission spa.plushieTransport.mission.1
 	on visit
 		dialog phrase spa.tr.visit
 	on complete
+		payment 130000 230
 		dialog phrase spa.tr.complete
-		payment 64000 100
 		"reputation: Sayari Plushie" += 20
