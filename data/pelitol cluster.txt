@@ -736,6 +736,34 @@ system Ourais
 	asteroids "large metal" 31 4.563
 	minables titanium 11 6.8329281
 	minables tungsten 36 5.4707939
+	object
+		sprite "star/f0"
+		distance 0
+		period 0
+	object 
+		sprite "planet/lava2"
+		distance 451
+		period 211
+	object
+		sprite "planet/rock8"
+		distance 788
+		period 343
+	object
+		sprite "planet/forest3"
+		distance 1503
+		period 632
+	object
+		sprite "planet/gas2"
+		distance 3345
+		period 1023
+	object
+		sprite "planet/gas7"
+		distance 7741
+		period 1744
+		object
+			sprite "planet/rock1"
+			distance 820
+			period 344
 
 system Vourgat
 	pos -8546.5 -222.44444
