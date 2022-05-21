@@ -25,6 +25,18 @@ government "Sayari Plushie"
 	"friendly hail" spa.hails.friendly
 	"hostile hail" spa.hails.hostile
 
+# CSSF forces, always hostile to the player.....
+government "Yuyuko Saigyouji (Hostile)"
+	"display name" CSSF
+	swizzle 13
+	color 0.17 0.18700001 0.20299999
+	"friendly hail" cssf.hails.friendly
+	"hostile hail" cssf.hails.hostile
+	"attitude toward"
+		Pirate -.3
+		"Sayari Plushie" -.5
+	"player reputation" -5000
+
 government "Yuyuko Saigyouji"
 	"display name" CSSF
 	swizzle 13
