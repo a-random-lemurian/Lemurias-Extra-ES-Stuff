@@ -499,6 +499,7 @@ system Varfeticasa
 system Lesokicasa
 	government "Independent"
 	pos -8307.2033 1.887
+	arrival 3000
 	link Kolicasa
 	fleet spa.small 900
 	fleet spa.medium 4000
