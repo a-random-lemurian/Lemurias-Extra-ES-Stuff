@@ -4,6 +4,15 @@
 - Rebalanced Orbona fleets
 - Moved Zarkxaa out of jump drive range of Gamma Corvi
 - Added Liz Cheney
+- Star system changes
+   - Added:
+      - Vensur
+      - Darceas
+      - Orchao
+      - Starish
+   - Removed:
+      - Leideete
+      - Neistat
 
 ### v0.10.12
 - Completely overhauled SPA fleets. Before this version, SPA fleets were distributed amongst many different fleet objects (specialized for a certain role). The old specialized SPA fleets will remain, for backwards compatibility, and for situations where they are needed (such as system-specific fleets.)
