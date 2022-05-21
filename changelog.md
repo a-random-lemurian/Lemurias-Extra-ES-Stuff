@@ -4,6 +4,8 @@
 - Rebalanced Orbona fleets
 - Moved Zarkxaa out of jump drive range of Gamma Corvi
 - Added Liz Cheney
+- Added SPA missions to retrieve CSSF intel
+- Added missions to transport SPA salespeople to various parts of human space
 - Star system changes
    - Added:
       - Vensur
