@@ -396,6 +396,7 @@ system Arket
 	pos -8454.1998 -161.30113
 	link Oratelis
 	link Vensur
+	link Paristra
 	fleet spa.small 700
 	fleet spa.medium 1800
 	fleet spa.large 3400
@@ -469,6 +470,36 @@ system Orchao
 	pos -8544.02 -55.332
 	link Darceas
 	link Starish
+
+system Paricasa
+	government "Sayari Plushie"
+	pos -8388.334 -102.119
+	link Arket
+	link Telicasa
+
+system Telicasa
+	government "Sayari Plushie"
+	pos -8343.103 -94.2014
+	link Paricasa
+	link Kolicasa
+
+system Kolicasa
+	government "Sayari Plushie"
+	pos -8342.033 -51.3001
+	link Telicasa
+	link Varfeticasa
+	link Lesokicasa
+
+system Varfeticasa
+	government "Sayari Plushie"
+	pos -8403.0488 -33.240
+	link Darceas
+	link Kolicasa
+
+system Lesokicasa
+	government "Sayari Plushie"
+	pos -8307.2033 1.887
+	link Kolicasa
 
 system Frechisa
 	government "Sayari Plushie"

@@ -10,6 +10,11 @@
       - Darceas
       - Orchao
       - Starish
+      - Paricasa
+      - Telicasa
+      - Kolicasa
+      - Varfeticasa
+      - Lesokicasa
    - Removed:
       - Leideete
       - Neistat
