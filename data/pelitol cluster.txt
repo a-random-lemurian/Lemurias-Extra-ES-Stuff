@@ -497,7 +497,7 @@ system Varfeticasa
 	link Kolicasa
 
 system Lesokicasa
-	government "Sayari Plushie"
+	government "Independent"
 	pos -8307.2033 1.887
 	link Kolicasa
 	fleet spa.small 900
