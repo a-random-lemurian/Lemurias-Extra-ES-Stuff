@@ -5,7 +5,7 @@ galaxy pelitolNebula
 
 system Sorusep
 	pos -8431.4301 -235.86756
-	government "Sayari Plushies"
+	government "Sayari Plushie"
 	link Ikopp
 	link Oratelis
 	fleet spa.small 800
