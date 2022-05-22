@@ -556,7 +556,7 @@ system Kolicasa
 		distance 566
 		period 211
 	object
-		sprite "planet/rock13"
+		sprite "planet/earth"
 		distance 904
 		period 344
 	object
