@@ -497,6 +497,10 @@ system Paricasa
 	fleet "Small Northern Merchants" 700
 	fleet "Small Northern Pirates" 900
 	fleet "Large Northern Pirates" 1300
+	object
+		sprite "star/m3"
+		distance 0
+		period 0
 
 system Telicasa
 	government "Sayari Plushie"
