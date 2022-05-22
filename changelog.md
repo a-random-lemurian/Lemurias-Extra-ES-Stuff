@@ -5,6 +5,8 @@
 - Moved Zarkxaa out of jump drive range of Gamma Corvi
 - Added Liz Cheney
 - Changed SPA government swizzle to 24 (pink). More similar to the Hai's color on the map.
+- Added SPA missions to retrieve CSSF intel
+- Added missions to transport SPA salespeople to various parts of human space
 - Rebalanced government attitudes towards each other
 - Star system changes
    - Added:
