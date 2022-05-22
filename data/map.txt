@@ -176,11 +176,6 @@ system Alkxaai
 		sprite planet/gas13-b
 		distance 3440
 		period 798
-system Akkolie
-	pos -824.91667 -448.38889
-	link Litiedei
-	link Merulie
-	link Zaxlai
 ### D
 system Deriie
 	pos -925 -90.25
@@ -685,13 +680,6 @@ system Illuria
 		period 2357367.3
 
 ### J
-system Julitius
-	pos -926.25 -366.83333
-	link Litiedei
-	link Lorfreei
-	link Sundum
-
-
 system Jarkiiens
 	pos -873.66667 -63.25
 	government Republic
@@ -842,66 +830,6 @@ system Lakodelfraddi
 	link Littike
 	link Sayreopli
 	link Raidei
-
-system Litiedei
-	pos -850.69444 -381.72222
-	link Akkolie
-	link Julitius
-	link Pekora
-	link Ronsulka
-
-
-system Lekkoli
-	pos -767.13889 -300.61111
-	link Macali
-	habitable 29991
-	object
-		sprite star/giant
-		distance 263.03827
-		period 37.05646
-	object
-		sprite star/neutron
-		distance 108.96173
-		period 37.05646
-		offset 180
-	object
-		sprite planet/forest6-b
-		distance 532
-		period 0.0096028809
-		object
-			sprite planet/io
-			distance 148
-			period 699.84
-	object
-		sprite planet/dust0-b
-		distance 792
-		period 0.0096028809
-	object
-		sprite planet/dyson1
-		distance 1544
-		period 0.0096028809
-	object
-		sprite planet/gas14
-		object
-			sprite planet/dust7-b
-			distance 228
-			period 699.84
-		object
-			sprite planet/rock20
-			distance 332
-			period 699.84
-		object
-			sprite planet/rock3
-			distance 493
-			period 699.84
-
-system Lorfreei
-	pos -879.58333 -332.83333
-	link Ghesie
-	link Julitius
-	link Macali
-	fleet republicLargeDerelict 1000
-
 
 system Lesarkei
 	pos -1191.0278 -268.80556
@@ -1112,43 +1040,8 @@ system Minjuuk
 		distance 7721
 
 
-system Merulie
-	pos -871.13889 -504.38889
-	link Akkolie
-	link Pekora
 
 
-system Macali
-	pos -837.80556 -316.83333
-	link Lekkoli
-	link Lorfreei
-	link Ronsulka
-	habitable 11059.2
-	object
-		sprite star/g5-old
-		distance 117.5
-		period 30.63973
-	object
-		sprite star/g5-old
-		distance 117.5
-		period 30.63973
-		offset 180
-	object
-		sprite planet/rock6-b
-		distance 737
-		period 0.026041667
-		object
-			sprite planet/dust4
-			distance 151
-			period 1033.815
-	object
-		sprite planet/ocean2-b
-		distance 1208
-		period 0.026041667
-		object
-			sprite "planet/asteroid base"
-			distance 174
-			period 1460.04
 ### N
 
 ### O
@@ -1229,20 +1122,7 @@ system Orbona
 	add fleet "Small Southern Merchants" 550
 
 ### P
-system Pekora
-	pos -905.80556 -439.05556
-	link Litiedei
-	link Merulie
-	link Sundum
-
 ### R
-system Ronsulka
-	pos -800.91667 -357.72222
-	link Litiedei
-	link Macali
-	link Zaxlai
-
-
 system Radonei
 	pos -966.25 -478.61111
 	government Pirate
@@ -1595,11 +1475,6 @@ system Zikut
 	pos -987.69444 -343.02778
 	link Iloke
 	link Sundum
-
-system Zaxlai
-	pos -772.02778 -387.27778
-	link Akkolie
-	link Ronsulka
 
 ##################################################################################################
 # PLANETS #
