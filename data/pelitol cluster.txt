@@ -250,6 +250,7 @@ system Sarut
 	pos -8494.2013 -254.20034
 	link Repolitea
 	link Oratelis
+	link Vourgat
 	fleet spa.small 500
 	fleet spa.medium 1200
 	fleet spa.large 1800
@@ -460,6 +461,7 @@ system Vensur
 	government "Sayari Plushie"
 	pos -8488.108 -120.618
 	link Arket
+	link Sprad
 	link Starish
 
 system Starish
@@ -721,6 +723,229 @@ system Erited
 		distance 5503
 		period 798
 
+system Ourais
+	pos -8741.6111 -214.88889
+	habitable 441.8
+	belt 1344
+	link Daxter
+	link Erou
+	fleet "Small Northern Pirates" 1300
+	asteroids "medium rock" 4 5.4054
+	asteroids "large rock" 1 4.9842
+	asteroids "small metal" 90 4.9842
+	asteroids "medium metal" 64 3.5802
+	asteroids "large metal" 31 4.563
+	minables titanium 11 6.8329281
+	minables tungsten 36 5.4707939
+	object
+		sprite "star/f0"
+		distance 0
+		period 0
+	object 
+		sprite "planet/lava2"
+		distance 451
+		period 211
+	object
+		sprite "planet/rock8"
+		distance 788
+		period 343
+	object
+		sprite "planet/forest3"
+		distance 1503
+		period 632
+	object
+		sprite "planet/gas2"
+		distance 3345
+		period 1023
+	object
+		sprite "planet/gas7"
+		distance 7741
+		period 1744
+		object
+			sprite "planet/rock1"
+			distance 820
+			period 344
+
+system Vourgat
+	pos -8546.5 -222.44444
+	link Presad
+	link Sarut
+	link Sprad
+	fleet "Small Northern Pirates" 1300
+	object
+		sprite "star/a3"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock3"
+		distance 554
+		period 311
+	object
+		sprite "planet/rock9"
+		distance 1033
+		period 604
+	object
+		sprite "planet/rock7"
+		distance 1324
+		period 885
+	object
+		sprite "planet/ice3"
+		distance 1805
+		period 1102
+	object
+		sprite "planet/gas5"
+		distance 4055
+		period 1766
+
+system Erou
+	pos -8716.7222 -275.33333
+	link Ourais
+	link Presad
+	fleet "Small Northern Pirates" 1300
+	object
+		sprite "star/g-supergiant"
+		distance 0
+		period 0
+	object Aylar
+		sprite "planet/earth"
+		distance 888
+		period 440
+	object
+		sprite "planet/rock4"
+		distance 3221
+		period 803
+	object
+		sprite "planet/ice5"
+		distance 5401
+		period 1344
+	object
+		sprite "planet/ice2"
+		distance 8842
+		period 1650
+	object
+		sprite "planet/gas2"
+		distance 14033
+		period 2432
+
+system Sprad
+	pos -8510.0556 -141.55556
+	link Varisa
+	link Vensur
+	link Vourgat
+	fleet "Small Northern Pirates" 1300
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock5"
+		distance 565
+		period 233
+	object
+		sprite "planet/rock12"
+		distance 1334
+		period 507
+	object
+		sprite "planet/ice3"
+		distance 2405
+		period 885
+
+system Presad
+	pos -8639.3889 -269.55556
+	link Erou
+	link Vourgat
+	fleet "Small Northern Pirates" 1300
+	object
+		sprite "star/f0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock9"
+		distance 450
+		period 211
+	object
+		sprite "planet/forest3"
+		distance 884
+		period 402
+	object
+		sprite "planet/ice4"
+		distance 1560
+		period 774
+	object
+		sprite "planet/gas9"
+		distance 4055
+		period 1342
+		object
+			sprite "planet/rock3"
+			distance 604
+			period 211
+
+system Sprooe
+	pos -8730.8056 -99.694444
+	link Daxter
+	fleet "Small Northern Pirates" 1300
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object
+		sprite "planet/earth"
+		distance 1002
+		period 364.23
+	object
+		sprite "planet/rock2"
+		distance 1772
+		period 650.11
+
+system Daxter
+	pos -8702.0556 -172.22222
+	link Ourais
+	link Sprooe
+	link Varisa
+	fleet "Small Northern Pirates" 1300
+	object
+		sprite "star/f0"
+		distance 0
+		period 0
+	object
+		sprite "planet/forest2"
+		distance 804
+		period 453
+	object
+		sprite "planet/desert3"
+		distance 1445
+		period 780
+	object
+		sprite "planet/rock1"
+		distance 1803
+		period 1104
+
+system Varisa
+	pos -8612.7222 -179.33333
+	link Daxter
+	link Sprad
+	fleet "Small Northern Pirates" 1300
+	object
+		sprite "star/m0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 543
+		period 334
+	object
+		sprite "planet/rock2"
+		distance 880
+		period 577
+	object
+		sprite "planet/rock11"
+		distance 1356
+		period 805
+	object
+		sprite "planet/ice4"
+		distance 1804
+		period 1211
+
 planet "Eteristra"
 	landscape "land/eteristra"
 	government "Sayari Plushie"
@@ -772,3 +997,9 @@ planet "Pondar"
 	landscape "land/pondar"
 	description "Pondar is a very remote part of human space located at the southernmost part of the Pelitol Cluster. Settled in roughly 26-27th century CE with 300 colonists, Pondar is now home to 9,210 people and serves as a hotspot for pirate and CSSF activity. The CSSF and pirate warlords operate their own bases on Pondar."
 	spaceport "Pondar's spaceport is one of three ports on this planet. The other ports belong to the CSSF and pirate warlords respectively."
+
+planet "Aylar"
+	government "Sayari Plushie"
+	landscape "land/aylar"
+	description "Aylar is a small SPA-owned rest stop with less than 500 people."
+	spaceport "Your ship is refueled by the workers. Food is available at the spaceport for cheap."

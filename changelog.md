@@ -19,6 +19,14 @@
       - Kolicasa
       - Varfeticasa
       - Lesokicasa
+      - Ourais
+      - Vourgat
+      - Erou
+      - Sprad
+      - Presad
+      - Sprooe
+      - Daxter
+      - Varisa
    - Removed:
       - Leideete
       - Neistat
