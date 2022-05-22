@@ -675,3 +675,290 @@ mission "SPA Export Small [5]"
 				"Falcon" 2
 			variant
 				"Leviathan" 1
+mission "SPA Export Medium [1]"
+	name "SPA exports to <system>"
+	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>. Be advised, the CSSF may attempt to sabotage your delivery."
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		not government "Sayari Plushie"
+		not government "Pirate"
+		distance 4 13
+	to offer
+		"cargo space" > 180
+		"random" > 60
+	cargo "SPA exports" 180 500
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		dialog phrase spa.tr.complete
+		payment 130000 320
+	npc
+		government "Yuyuko Saigyouji (Hostile)"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 2
+				"Fury"
+			variant
+				"Fury" 3
+				"Firebird" 2
+			variant
+				"Berserker" 4
+				"Splinter"
+				"Headhunter" 2
+			variant
+				"Falcon" 2
+			variant
+				"Leviathan" 1
+mission "SPA Export Medium [2]"
+	name "SPA exports to <system>"
+	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>. Be advised, the CSSF may attempt to sabotage your delivery."
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		not government "Sayari Plushie"
+		not government "Pirate"
+		distance 4 13
+	to offer
+		"cargo space" > 180
+		"random" > 60
+	cargo "SPA exports" 180 500
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		dialog phrase spa.tr.complete
+		payment 130000 320
+	npc
+		government "Yuyuko Saigyouji (Hostile)"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 2
+				"Fury"
+			variant
+				"Fury" 3
+				"Firebird" 2
+			variant
+				"Berserker" 4
+				"Splinter"
+				"Headhunter" 2
+			variant
+				"Falcon" 2
+			variant
+				"Leviathan" 1
+mission "SPA Export Medium [3]"
+	name "SPA exports to <system>"
+	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>. Be advised, the CSSF may attempt to sabotage your delivery."
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		not government "Sayari Plushie"
+		not government "Pirate"
+		distance 4 13
+	to offer
+		"cargo space" > 180
+		"random" > 60
+	cargo "SPA exports" 180 500
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		dialog phrase spa.tr.complete
+		payment 130000 320
+	npc
+		government "Yuyuko Saigyouji (Hostile)"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 2
+				"Fury"
+			variant
+				"Fury" 3
+				"Firebird" 2
+			variant
+				"Berserker" 4
+				"Splinter"
+				"Headhunter" 2
+			variant
+				"Falcon" 2
+			variant
+				"Leviathan" 1
+mission "SPA Export Medium [4]"
+	name "SPA exports to <system>"
+	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>. Be advised, the CSSF may attempt to sabotage your delivery."
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		not government "Sayari Plushie"
+		not government "Pirate"
+		distance 4 13
+	to offer
+		"cargo space" > 180
+		"random" > 60
+	cargo "SPA exports" 180 500
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		dialog phrase spa.tr.complete
+		payment 130000 320
+	npc
+		government "Yuyuko Saigyouji (Hostile)"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 2
+				"Fury"
+			variant
+				"Fury" 3
+				"Firebird" 2
+			variant
+				"Berserker" 4
+				"Splinter"
+				"Headhunter" 2
+			variant
+				"Falcon" 2
+			variant
+				"Leviathan" 1
+mission "SPA Export Large [1]"
+	name "SPA exports to <system>"
+	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>. Be advised, the CSSF may attempt to sabotage your delivery."
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		not government "Sayari Plushie"
+		not government "Pirate"
+		distance 4 13
+	to offer
+		"cargo space" > 500
+		"random" > 60
+	cargo "SPA exports" 500 1200
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		dialog phrase spa.tr.complete
+		payment 130000 480
+	npc
+		government "Yuyuko Saigyouji (Hostile)"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 2
+				"Fury"
+			variant
+				"Fury" 3
+				"Firebird" 2
+			variant
+				"Berserker" 4
+				"Splinter"
+				"Headhunter" 2
+			variant
+				"Falcon" 2
+			variant
+				"Leviathan" 1
+mission "SPA Export Large [2]"
+	name "SPA exports to <system>"
+	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>. Be advised, the CSSF may attempt to sabotage your delivery."
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		not government "Sayari Plushie"
+		not government "Pirate"
+		distance 4 13
+	to offer
+		"cargo space" > 500
+		"random" > 60
+	cargo "SPA exports" 500 1200
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		dialog phrase spa.tr.complete
+		payment 130000 480
+	npc
+		government "Yuyuko Saigyouji (Hostile)"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 2
+				"Fury"
+			variant
+				"Fury" 3
+				"Firebird" 2
+			variant
+				"Berserker" 4
+				"Splinter"
+				"Headhunter" 2
+			variant
+				"Falcon" 2
+			variant
+				"Leviathan" 1
+mission "SPA Export Large [3]"
+	name "SPA exports to <system>"
+	description "The Sayari Plushie Authority will pay you <payment> to transport <cargo> to <planet>, <system>. Be advised, the CSSF may attempt to sabotage your delivery."
+	job
+	repeat
+	source
+		government "Sayari Plushie"
+	destination
+		not government "Sayari Plushie"
+		not government "Pirate"
+		distance 4 13
+	to offer
+		"cargo space" > 500
+		"random" > 60
+	cargo "SPA exports" 500 1200
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		dialog phrase spa.tr.complete
+		payment 130000 480
+	npc
+		government "Yuyuko Saigyouji (Hostile)"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 2
+				"Fury"
+			variant
+				"Fury" 3
+				"Firebird" 2
+			variant
+				"Berserker" 4
+				"Splinter"
+				"Headhunter" 2
+			variant
+				"Falcon" 2
+			variant
+				"Leviathan" 1
