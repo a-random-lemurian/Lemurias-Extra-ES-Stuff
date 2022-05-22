@@ -75,6 +75,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Eteristra                 | David Iliff          | CC BY-SA 3.0            | ([orig](https://en.wikipedia.org/wiki/File:Half_Dome_from_Glacier_Point,_Yosemite_NP_-_Diliff.jpg))
 | Delistra                  | David Iliff          | CC BY-SA 3.0            | ([orig](https://en.wikipedia.org/wiki/File:Tunnel_View,_Yosemite_Valley,_Yosemite_NP_-_Diliff.jpg))
 | Pondar                    | PiccoloNamek         | CC BY-SA 3.0            | ([orig](https://en.wikipedia.org/wiki/File:CirrusField-color.jpg))
+| Aylar                     | Jarvin               | CC BY-SA 3.0            | ([orig](https://commons.wikimedia.org/wiki/File:Gamle_Stavanger.jpg))
 
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
 
