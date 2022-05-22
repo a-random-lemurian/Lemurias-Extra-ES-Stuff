@@ -577,6 +577,8 @@ system Varfeticasa
 	pos -8403.0488 -33.240
 	link Darceas
 	link Kolicasa
+	fleet "Small Northern Merchants" 1300
+	fleet "Small Northern Pirates" 1500
 	object
 		sprite "star/g-giant"
 		distance 0
