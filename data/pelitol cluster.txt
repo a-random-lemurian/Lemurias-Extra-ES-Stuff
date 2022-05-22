@@ -537,6 +537,26 @@ system Varfeticasa
 	pos -8403.0488 -33.240
 	link Darceas
 	link Kolicasa
+	object
+		sprite "star/g-giant"
+		distance 0
+		period 0
+	object
+		sprite "planet/earth"
+		distance 809
+		period 112
+	object
+		sprite "planet/rock7"
+		distance 1665
+		period 240
+	object
+		sprite "planet/forest0"
+		distance 2301
+		period 405
+	object
+		sprite "planet/gas3"
+		distance 3448
+		period 776
 
 system Lesokicasa
 	government "Independent"
