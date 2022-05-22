@@ -4,6 +4,7 @@
 - Rebalanced Orbona fleets
 - Moved Zarkxaa out of jump drive range of Gamma Corvi
 - Added Liz Cheney
+- Changed SPA government swizzle to 24 (pink). More similar to the Hai's color on the map.
 - Rebalanced government attitudes towards each other
 - Star system changes
    - Added:
