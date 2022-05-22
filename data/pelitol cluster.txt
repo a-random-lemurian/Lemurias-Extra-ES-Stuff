@@ -531,6 +531,30 @@ system Kolicasa
 	fleet "Small Northern Merchants" 700
 	fleet "Small Northern Pirates" 900
 	fleet "Large Northern Pirates" 1300
+	object
+		sprite "star/m0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 566
+		period 211
+	object
+		sprite "planet/rock13"
+		distance 904
+		period 344
+	object
+		sprite "planet/ocean0"
+		distance 1440
+		period 564
+	object
+		sprite "planet/gas4"
+		distance 3404
+		period 1021
+	object
+		sprite "planet/gas2"
+		distance 5542
+		period 1644
 
 system Varfeticasa
 	government "Sayari Plushie"
