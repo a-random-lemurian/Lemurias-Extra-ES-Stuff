@@ -530,6 +530,26 @@ system Darceas
 	pos -8461.199 -33.3076
 	link Starish
 	link Orchao
+	object
+		sprite "star/m4"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 804
+		period 332
+	object
+		sprite "planet/rock2"
+		distance 1753
+		period 553
+	object
+		sprite "planet/cloud3"
+		distance 2440
+		period 899
+	object
+		sprite "planet/gas2"
+		distance 5044
+		period 1334
 
 system Orchao
 	government "Sayari Plushie"
