@@ -30,6 +30,9 @@ fleet spa.small
 		"SPA Cruiser" 1
 	variant 50
 		"SPA Kestrel" 1
+	variant 35
+		"SPA Cruiser (Electron)" 1
+		"SPA Gunboat" 2
 
 	# Smugglers
 	variant 30
@@ -91,6 +94,8 @@ fleet spa.medium
 	variant 30
 		"SPA Shield Beetle (Proton)" 2
 		"SPA Cruiser" 1
+	variant 50
+		"SPA Cruiser (Electron)" 2
 
 	# Smugglers
 	variant 9
@@ -140,6 +145,10 @@ fleet spa.large
 		"Leviathan" 5
 	variant 20
 		"Emerald Sword" 2
+	variant 35
+		"SPA Cruiser (Electron)" 2
+	variant 25
+		"SPA Cruiser (Electron)" 4
 
 	# Smugglers
 	variant 3
