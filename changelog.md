@@ -8,6 +8,7 @@
 - Added SPA missions to retrieve CSSF intel
 - Added missions to transport SPA salespeople to various parts of human space
 - Rebalanced government attitudes towards each other
+- Added missions to transport anime for the Anime Organization. Some missions may be illegal....
 - Star system changes
    - Added:
       - Vensur
