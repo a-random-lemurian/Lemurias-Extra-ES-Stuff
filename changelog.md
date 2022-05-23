@@ -7,10 +7,14 @@
 - Changed SPA government swizzle to 24 (pink). More similar to the Hai's color on the map.
 - Added SPA missions to retrieve CSSF intel
 - Added missions to transport SPA salespeople to various parts of human space
+- Added missions to transport SPA exports
 - Rebalanced government attitudes towards each other
 - Added new planets:
    - Voreo
+   - Aylar
+   - Pondar
 - Star system changes
+   - Removed many star systems to the west of the Deep, so there's nothing within jump drive range of them.
    - Added:
       - Vensur
       - Darceas
