@@ -487,7 +487,7 @@ system Vensur
 		period 1103
 
 system Starish
-	government "Sayari Plushie"
+	government "Republic"
 	pos -8472.1898 -87.287
 	link Vensur
 	link Darceas
@@ -500,7 +500,7 @@ system Starish
 		sprite "planet/rock1"
 		distance 404
 		period 233
-	object
+	object Voreo
 		sprite "planet/earth"
 		distance 877
 		period 344
@@ -890,3 +890,9 @@ planet "Pondar"
 	landscape "land/pondar"
 	description "Pondar is a very remote part of human space located at the southernmost part of the Pelitol Cluster. Settled in roughly 26-27th century CE with 300 colonists, Pondar is now home to 9,210 people and serves as a hotspot for pirate and CSSF activity. The CSSF and pirate warlords operate their own bases on Pondar."
 	spaceport "Pondar's spaceport is one of three ports on this planet. The other ports belong to the CSSF and pirate warlords respectively."
+
+planet "Voreo"
+	government "Republic"
+	landscape "land/voreo"
+	description "Voreo is a Republic outpost, presumably to keep an eye on the activities of the Sayari Plushie Authority in the Pelitol Cluster. It's unclear how they are able to circumvent the patrols of the Sayari Plushie Authority, though."
+	spaceport "Voreo's spaceport is designed more for large ships. Soldiers and officers in Republic uniforms dominate the landscape, but thankfully are nice enough to refuel and repair your ship at no cost."
