@@ -461,6 +461,30 @@ system Vensur
 	pos -8488.108 -120.618
 	link Arket
 	link Starish
+	object
+		sprite "star/f5"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock3"
+		distance 455
+		period 144
+	object
+		sprite "planet/ocean0-b"
+		distance 835
+		period 344
+	object
+		sprite "planet/rock9"
+		distance 1604
+		period 500
+	object
+		sprite "planet/ice2"
+		distance 2335
+		period 671
+	object
+		sprite "planet/gas7"
+		distance 5662
+		period 1103
 
 system Starish
 	government "Sayari Plushie"
