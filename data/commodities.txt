@@ -63,3 +63,14 @@ trade
         "Debian hats"
         # "Katya Reynolds plushies"
         # "top-secret orders"
+
+    commodity "Anime Org. exports, legal"
+        "isekai anime"
+        "anime"
+        "children's anime"
+        "English-translated anime"
+
+    commodity "Anime Org. exports, illegal"
+        "copyright-infringing anime"
+        "sensitive anime"
+        "pirated anime"
