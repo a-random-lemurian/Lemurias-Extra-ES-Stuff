@@ -492,6 +492,38 @@ system Starish
 	link Vensur
 	link Darceas
 	link Orchao
+	object
+		sprite "star/k5"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock1"
+		distance 404
+		period 233
+	object
+		sprite "planet/earth"
+		distance 877
+		period 344
+	object
+		sprite "planet/ice8"
+		distance 1455
+		period 503
+	object
+		sprite "planet/gas4"
+		distance 3445
+		period 1440
+	object
+		sprite "planet/gas8"
+		distance 5732
+		period 3024
+	object
+		sprite "planet/gas6"
+		distance 9075
+		period 6643
+		object
+			sprite "planet/rock8"
+			distance 744
+			period 302
 
 system Darceas
 	government "Sayari Plushie"
