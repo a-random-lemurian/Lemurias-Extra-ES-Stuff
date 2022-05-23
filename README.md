@@ -76,6 +76,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Delistra                  | David Iliff          | CC BY-SA 3.0            | ([orig](https://en.wikipedia.org/wiki/File:Tunnel_View,_Yosemite_Valley,_Yosemite_NP_-_Diliff.jpg))
 | Pondar                    | PiccoloNamek         | CC BY-SA 3.0            | ([orig](https://en.wikipedia.org/wiki/File:CirrusField-color.jpg))
 | Aylar                     | Jarvin               | CC BY-SA 3.0            | ([orig](https://commons.wikimedia.org/wiki/File:Gamle_Stavanger.jpg))
+| Voreo                     | Daniel Delille        | CC BY-SA 3.0            | ([orig](https://commons.wikimedia.org/wiki/File:Port_aux_Fran%C3%A7ais.JPG))
 
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
 

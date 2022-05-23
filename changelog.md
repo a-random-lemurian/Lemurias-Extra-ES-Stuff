@@ -8,6 +8,8 @@
 - Added SPA missions to retrieve CSSF intel
 - Added missions to transport SPA salespeople to various parts of human space
 - Rebalanced government attitudes towards each other
+- Added new planets:
+   - Voreo
 - Star system changes
    - Added:
       - Vensur

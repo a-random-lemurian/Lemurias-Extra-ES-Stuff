@@ -463,25 +463,113 @@ system Vensur
 	link Arket
 	link Sprad
 	link Starish
+	object
+		sprite "star/f5"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock3"
+		distance 455
+		period 144
+	object
+		sprite "planet/ocean0-b"
+		distance 835
+		period 344
+	object
+		sprite "planet/rock9"
+		distance 1604
+		period 500
+	object
+		sprite "planet/ice2"
+		distance 2335
+		period 671
+	object
+		sprite "planet/gas7"
+		distance 5662
+		period 1103
 
 system Starish
-	government "Sayari Plushie"
+	government "Republic"
 	pos -8472.1898 -87.287
 	link Vensur
 	link Darceas
 	link Orchao
+	object
+		sprite "star/k5"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock1"
+		distance 404
+		period 233
+	object Voreo
+		sprite "planet/earth"
+		distance 877
+		period 344
+	object
+		sprite "planet/ice8"
+		distance 1455
+		period 503
+	object
+		sprite "planet/gas4"
+		distance 3445
+		period 1440
+	object
+		sprite "planet/gas8"
+		distance 5732
+		period 3024
+	object
+		sprite "planet/gas6"
+		distance 9075
+		period 6643
+		object
+			sprite "planet/rock8"
+			distance 744
+			period 302
 
 system Darceas
 	government "Sayari Plushie"
 	pos -8461.199 -33.3076
 	link Starish
 	link Orchao
+	object
+		sprite "star/m4"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 804
+		period 332
+	object
+		sprite "planet/rock2"
+		distance 1753
+		period 553
+	object
+		sprite "planet/cloud3"
+		distance 2440
+		period 899
+	object
+		sprite "planet/gas2"
+		distance 5044
+		period 1334
 
 system Orchao
 	government "Sayari Plushie"
 	pos -8544.02 -55.332
 	link Darceas
 	link Starish
+	object
+		sprite "star/m8"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock1"
+		distance 664
+		period 288
+	object
+		sprite "planet/rock8"
+		distance 1445
+		period 409
 
 system Paricasa
 	government "Sayari Plushie"
@@ -499,6 +587,10 @@ system Paricasa
 	fleet "Small Northern Merchants" 700
 	fleet "Small Northern Pirates" 900
 	fleet "Large Northern Pirates" 1300
+	object
+		sprite "star/m3"
+		distance 0
+		period 0
 
 system Telicasa
 	government "Sayari Plushie"
@@ -515,6 +607,18 @@ system Telicasa
 	fleet "Small Northern Merchants" 700
 	fleet "Small Northern Pirates" 900
 	fleet "Large Northern Pirates" 1300
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock5"
+		distance 506
+		period 322
+	object
+		sprite "planet/rock2"
+		distance 1433
+		period 655
 
 system Kolicasa
 	government "Sayari Plushie"
@@ -533,12 +637,58 @@ system Kolicasa
 	fleet "Small Northern Merchants" 700
 	fleet "Small Northern Pirates" 900
 	fleet "Large Northern Pirates" 1300
+	object
+		sprite "star/m0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 566
+		period 211
+	object
+		sprite "planet/earth"
+		distance 904
+		period 344
+	object
+		sprite "planet/ocean0"
+		distance 1440
+		period 564
+	object
+		sprite "planet/gas4"
+		distance 3404
+		period 1021
+	object
+		sprite "planet/gas2"
+		distance 5542
+		period 1644
 
 system Varfeticasa
 	government "Sayari Plushie"
 	pos -8403.0488 -33.240
 	link Darceas
 	link Kolicasa
+	fleet "Small Northern Merchants" 1300
+	fleet "Small Northern Pirates" 1500
+	object
+		sprite "star/g-giant"
+		distance 0
+		period 0
+	object
+		sprite "planet/earth"
+		distance 809
+		period 112
+	object
+		sprite "planet/rock7"
+		distance 1665
+		period 240
+	object
+		sprite "planet/forest0"
+		distance 2301
+		period 405
+	object
+		sprite "planet/gas3"
+		distance 3448
+		period 776
 
 system Lesokicasa
 	government "Independent"
@@ -1003,3 +1153,9 @@ planet "Aylar"
 	landscape "land/aylar"
 	description "Aylar is a small SPA-owned rest stop with less than 500 people."
 	spaceport "Your ship is refueled by the workers. Food is available at the spaceport for cheap."
+
+planet "Voreo"
+	government "Republic"
+	landscape "land/voreo"
+	description "Voreo is a Republic outpost, presumably to keep an eye on the activities of the Sayari Plushie Authority in the Pelitol Cluster. It's unclear how they are able to circumvent the patrols of the Sayari Plushie Authority, though."
+	spaceport "Voreo's spaceport is designed more for large ships. Soldiers and officers in Republic uniforms dominate the landscape, but thankfully are nice enough to refuel and repair your ship at no cost."
