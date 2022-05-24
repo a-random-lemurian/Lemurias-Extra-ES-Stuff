@@ -549,6 +549,7 @@ system Illumina
 	link Illuria
 	link Jarkiiens
 	link Serfeiia
+	arrival 900
 	asteroids "large metal" 19 0
 	fleet spa.small 1200
 	fleet spa.medium 1800
@@ -596,6 +597,7 @@ system Illumina
 system Illuria
 	pos -836.33333 -187.91667
 	government Republic
+	arrival 1300
 	link Duffeni
 	link Illumina
 	link Suerolii
@@ -679,6 +681,7 @@ system Jarkiiens
 	link Deriie
 	link Hiljaak
 	link Illumina
+	arrival 700
 	fleet "Large Northern Merchants" 300
 	fleet spa.war.illuminaReg.large.1 550
 	fleet cssf.small 2400
@@ -724,6 +727,7 @@ system Jarkiiens
 system Jalak
 	government "Sayari Plushie"
 	pos -995.69444 -241.25
+	arrival 850
 	link Alkxaai
 	link Sedlai
 	# Jalak is the entry-point to the Pelitol Cluster,
@@ -1155,6 +1159,8 @@ system Raidei
 ### S
 system Suerolii
 	pos -850.33333 -238.58333
+	arrival 750
+	jump 200
 	government Republic
 	link Illuria
 	link Ladosak
