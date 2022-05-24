@@ -58,10 +58,14 @@ system Pelitol
 	trade Medical 855
 	trade Plastic 509
 	trade Metal 399
-	fleet spa.small 700
-	fleet spa.medium 2000
-	fleet spa.large 4000
-	fleet cssf.war.pelitolClusterRaid.small.1 1500
+	fleet spa.small 500
+	fleet spa.medium 1000
+	fleet spa.large 1200
+	fleet "Small Republic" 1400
+	fleet "Small Northern Merchants" 700
+	fleet "Large Northern Merchants" 1300
+	fleet "Small Northern Pirates" 2100
+	fleet "Large Northern Pirates" 3500
 	object
 		sprite "star/k0"
 		period 0

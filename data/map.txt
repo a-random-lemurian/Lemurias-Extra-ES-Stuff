@@ -1312,6 +1312,14 @@ system Sedlai
 	link Jalak
 	link Pelitol
 	link Minjuuk
+	fleet spa.small 500
+	fleet spa.medium 1000
+	fleet spa.large 1200
+	fleet "Small Republic" 1400
+	fleet "Small Northern Merchants" 700
+	fleet "Large Northern Merchants" 1300
+	fleet "Small Northern Pirates" 2100
+	fleet "Large Northern Pirates" 3500
 	object
 		sprite star/k0
 		distance 0
