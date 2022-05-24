@@ -429,6 +429,8 @@ ship "Cruiser" "SPA Cruiser (Ion)"
 		"Ion Cannon" 6
 		"Heavy Anti-Missile Turret" 6
 		
+		"Outfit Expansion" 1
+
 		"Blue Sun Reactor" 1
 		"LP576a Battery Pack" 2
 		"Hai Diamond Regenerator"
