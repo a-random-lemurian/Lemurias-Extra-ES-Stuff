@@ -402,7 +402,7 @@ system Arket
 	pos -8454.1998 -161.30113
 	link Oratelis
 	link Vensur
-	link Paristra
+	link Paricasa
 	fleet spa.small 700
 	fleet spa.medium 1800
 	fleet spa.large 3400
@@ -537,6 +537,7 @@ system Darceas
 	pos -8461.199 -33.3076
 	link Starish
 	link Orchao
+	link Varfeticasa
 	object
 		sprite "star/m4"
 		distance 0
