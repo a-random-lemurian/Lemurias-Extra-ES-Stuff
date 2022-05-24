@@ -16,6 +16,16 @@
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
 trade 
+	commodity "Illegal data"
+		"stolen usernames and passwords"
+		"stolen data"
+		"stolen customer data"
+		"leaked company data"
+		"leaked confidential data"
+		"leaked government documents"
+		"sensitive images"
+		"sensitive fan fiction"
+
 	commodity "Data drives" 2309 13445
 		"movies"
 		"browser history"
