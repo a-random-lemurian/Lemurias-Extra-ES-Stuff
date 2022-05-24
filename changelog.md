@@ -19,6 +19,7 @@
    - Aylar
    - Pondar
 - Star system changes
+   - Removed the entire Northwest Illumina Regions (there was nothing in there anyway)
    - Moved Zarkxaa out of jump drive range of Gamma Corvi
    - Removed many star systems to the west of the Deep, so there's nothing within jump drive range of them.
    - Added:
@@ -52,7 +53,61 @@
       - Pekora
       - Ronsulka
       - Zaxlai
-
+      - Arxal
+      - Acharop
+      - Amisali
+      - Aitsec
+      - Archil
+      - Burond
+      - Confop
+      - Domeri
+      - Daefel
+      - Doru
+      - Destri
+      - Erod
+      - Erysal
+      - Eltsik
+      - Erytol
+      - Epris
+      - Elsix
+      - Epstrel
+      - Eruf
+      - Fratap
+      - Fortur
+      - Felgah
+      - Forel
+      - Itycha
+      - Ilutep
+      - Jukil
+      - Karut
+      - Kestri
+      - Korilu
+      - Korutal
+      - Korusepti
+      - Merikali
+      - Orut
+      - Ordali
+      - Pelut
+      - Pyrau
+      - Qartalp
+      - Rutoli
+      - Saltyan
+      - Seriesh
+      - Satesai
+      - Sapeli
+      - Seliku
+      - Sennerik
+      - Selseik
+      - Soles
+      - Serut
+      - Slorsan
+      - Serfop
+      - Selaika a
+      - Selaika b
+      - Selaika c
+      - Terisch
+      - Vaughari
+      - Varug
 ### v0.10.12
 - Completely overhauled SPA fleets. Before this version, SPA fleets were distributed amongst many different fleet objects (specialized for a certain role). The old specialized SPA fleets will remain, for backwards compatibility, and for situations where they are needed (such as system-specific fleets.)
 - Overhauled CSSF fleets, similar to how the SPA fleets were overhauled.
