@@ -11,6 +11,8 @@
 - Added missions to transport SPA exports
 - Fixed payments for some missions being too low (really, 400 tons for only 64,000?)
 - Added Ship Sniper
+- Added new types of data to transport
+- Added stolen data transport missions (illegal), that you can get from pirate worlds
 - Replaced wormhole from Pelitol to Sedlai with a hyperlane, since wormholes currently break mission payment and deadline calculations.
 - Added missions to transport anime for the Anime Organization. Some missions may be illegal....
 - Rebalanced government attitudes towards each other
