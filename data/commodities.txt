@@ -39,6 +39,15 @@ trade
 		"ancestral simulation data"
 		"Endless Sky game files"
 		"Endless Sky game saves"
+		"archived websites"
+		"parliamentary proceedings"
+		"SQL databases"
+		"training videos"
+		"torrent files" # Torrenting is legal, what you torrent is either legal or illegal.
+		"magnet links"
+		"social media posts"
+		"data backups"
+		"operating system ISO images"
 
 		"C source code files"
 		"C++ source code files"
