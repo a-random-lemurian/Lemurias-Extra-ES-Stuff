@@ -1,4 +1,5 @@
 ### v0.10.13
+- Didn't remove Orbona system (I made an error in commit 94a59c875f889cf36d13c94e6fb8253bca34269d, blame me for it.)
 - Removed Neistat system
 - Removed Leideete system
 - Rebalanced Orbona fleets
@@ -8,13 +9,17 @@
 - Added SPA missions to retrieve CSSF intel
 - Added missions to transport SPA salespeople to various parts of human space
 - Added missions to transport SPA exports
+- Fixed payments for some missions being too low (really, 400 tons for only 64,000?)
+- Added Ship Sniper
 - Added missions to transport anime for the Anime Organization. Some missions may be illegal....
 - Rebalanced government attitudes towards each other
+- Added new SPA variants of the Navy Cruiser equipped with Electron Beams and Ion Cannons
 - Added new planets:
    - Voreo
    - Aylar
    - Pondar
 - Star system changes
+   - Moved Zarkxaa out of jump drive range of Gamma Corvi
    - Removed many star systems to the west of the Deep, so there's nothing within jump drive range of them.
    - Added:
       - Vensur
