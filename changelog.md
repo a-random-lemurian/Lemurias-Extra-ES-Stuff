@@ -11,6 +11,7 @@
 - Added missions to transport SPA exports
 - Fixed payments for some missions being too low (really, 400 tons for only 64,000?)
 - Added Ship Sniper
+- Replaced wormhole from Pelitol to Sedlai with a hyperlane, since wormholes currently break mission payment and deadline calculations.
 - Added missions to transport anime for the Anime Organization. Some missions may be illegal....
 - Rebalanced government attitudes towards each other
 - Added new SPA variants of the Navy Cruiser equipped with Electron Beams and Ion Cannons

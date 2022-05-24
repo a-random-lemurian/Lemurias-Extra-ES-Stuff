@@ -46,6 +46,7 @@ system Pelitol
 	pos -8357.2079 -286.53422
 	link Defal
 	link Ikopp
+	link Sedlai
 	link Frechisa
 	trade Clothing 344
 	trade Electronics 713
@@ -93,10 +94,10 @@ system Pelitol
 		sprite "planet/gas3-hot"
 		period 1332
 		distance 3902
-	object "Pelitol-Sedlai Wormhole"
-		sprite "planet/wormhole"
-		period 2445
-		distance 6550
+	# object "Pelitol-Sedlai Wormhole"
+	# 	sprite "planet/wormhole"
+	# 	period 2445
+	# 	distance 6550
 
 system Defal
 	pos -8356.319 -246.08978

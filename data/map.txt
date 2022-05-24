@@ -1310,6 +1310,7 @@ system Sedlai
 	pos -1039.0278 -284.58333
 	link Fevbaa
 	link Jalak
+	link Pelitol
 	link Minjuuk
 	object
 		sprite star/k0
@@ -1319,10 +1320,10 @@ system Sedlai
 		sprite planet/lava4
 		distance 388
 		period 123
-	object "Pelitol-Sedlai Wormhole"
-		sprite "planet/wormhole"
-		distance 2345
-		period 554
+	# object "Pelitol-Sedlai Wormhole"
+	# 	sprite "planet/wormhole"
+	# 	distance 2345
+	# 	period 554
 
 system Sundum
 	pos -975.13889 -411.94444
@@ -1713,5 +1714,5 @@ planet Eisei
 
 ###############################################################################
 #===< Wormholes >===#
-planet "Pelitol-Sedlai Wormhole"
-	description ""
+# planet "Pelitol-Sedlai Wormhole"
+# 	description ""
