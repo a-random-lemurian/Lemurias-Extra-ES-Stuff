@@ -1,5 +1,5 @@
 
-phrase leest.presidents.usa
+phrase "us presidents"
 	word
 		"George Washington"
 		"John Adams"

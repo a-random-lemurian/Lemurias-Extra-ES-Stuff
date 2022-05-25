@@ -34,7 +34,7 @@ phrase spa.allNames.noPrefix
 		linuxRelated 50
 		technames 41
 		standaloneNames 32
-		leest.presidents.us 46
+		"us presidents" 46
 phrase spa.multiword
 	phrase
 		spa.multiword.1 10
