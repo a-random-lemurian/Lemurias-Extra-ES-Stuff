@@ -280,7 +280,63 @@ mission dataTransport.huge.2
 	on complete
 		payment 76000 340
 		dialog phrase datacomp2
-
+mission dataTransport.huge.3
+	name "Huge - Data delivery to <system>"
+	description "<tons> of data drives containing <commodity> too sensitive to be transferred via the Worlds Wide Web require physical transport to a datacenter in <planet>, <system> for a reward of <payment>."
+	job
+	repeat
+	cargo "Data drives" 2700 5400
+	to offer
+		"cargo space" > 2780
+		random > 2
+	source
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	destination
+		distance 10 21
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	on visit
+		dialog phrase datavisit1
+	on complete
+		payment 76000 340
+		dialog phrase datacomp2
+mission dataTransport.huge.4
+	name "Huge - Data delivery to <system>"
+	description "<tons> of data drives containing <commodity> too sensitive to be transferred via the Worlds Wide Web require physical transport to a datacenter in <planet>, <system> for a reward of <payment>."
+	job
+	repeat
+	cargo "Data drives" 2700 5400
+	to offer
+		"cargo space" > 2780
+		random > 2
+	source
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	destination
+		distance 10 21
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	on visit
+		dialog phrase datavisit1
+	on complete
+		payment 76000 340
+		dialog phrase datacomp2
+mission dataTransport.huge.5
+	name "Huge - Data delivery to <system>"
+	description "<tons> of data drives containing <commodity> too sensitive to be transferred via the Worlds Wide Web require physical transport to a datacenter in <planet>, <system> for a reward of <payment>."
+	job
+	repeat
+	cargo "Data drives" 2700 5400
+	to offer
+		"cargo space" > 2780
+		random > 2
+	source
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	destination
+		distance 10 21
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	on visit
+		dialog phrase datavisit1
+	on complete
+		payment 76000 340
+		dialog phrase datacomp2
 
 mission SpoiledKid.transport.1
 	name "Parent and child to <system>"
