@@ -838,6 +838,7 @@ ship "Skein" "SPA Skein"
 	description `The Sayari Plushie Authority is willing to sell this ship to anyone with enough money, without the need for a militia license from the Free Worlds.`
 ship "Bactrian" "Old Bactrian"
 	sprite "ship/old_bactrian"
+	thumbnail "thumbnail/old_bactrian"
 ship "Kestrel" "SPA Kestrel"
 	sprite "ship/kestrelw"
 	thumbnail "thumbnail/kestrelw"
