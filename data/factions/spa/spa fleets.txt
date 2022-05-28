@@ -37,6 +37,12 @@ fleet spa.small
 		"SPA Cruiser (Ion)" 2
 	variant 10
 		"SPA Cruiser (Ion)" 4
+	variant 5
+		"Model 256" 1
+		"Model 128" 4
+	variant 1
+		"Model 512" 1
+		"Model 128" 4
 
 	# Smugglers
 	variant 30
@@ -105,7 +111,9 @@ fleet spa.medium
 		"SPA Cruiser (Ion)" 1
 	variant 50
 		"SPA Cruiser (Electron)" 2
-
+	variant 2
+		"Model 512" 4
+		"Model 256" 9
 
 	# Smugglers
 	variant 9
@@ -162,9 +170,14 @@ fleet spa.large
 	variant 15
 		"SPA Cruiser (Ion)" 6
 		"SPA Gunboat" 4
+	variant 3
+		"Model 512" 4
+		"Model 256" 3
+	variant 1
+		"Model 256" 5
+		"Model 128" 3
 
 	# Smugglers
 	variant 3
 		"Auxiliary (Cargo)" 9
 		"SPA Gunboat" 5	
-	
