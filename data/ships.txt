@@ -873,7 +873,7 @@ ship "Kestrel" "SPA Kestrel"
 		"LP144a Battery Pack"
 		"Liquid Nitrogen Cooler"
 		"Outfits Expansion" 2
-		"Scanning Module" 4
+
 	crew 68
 	fuel 600
 	shields 19400
