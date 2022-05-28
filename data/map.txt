@@ -227,6 +227,7 @@ system Deriie
 		period 780
 	object
 		sprite planet/ice1
+		distance 2440
 		period 1090
 	object
 		sprite planet/ice3
