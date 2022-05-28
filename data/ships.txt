@@ -46,6 +46,7 @@ ship "Hauler III" "SPA Hauler III"
 		"LP072a Battery Pack" 4
 		"D23-QP Shield Generator"
 		"Large Heat Shunt" 2
+		"SPA Scan Blocker" 5
 		
 		"A250 Atomic Thruster"
 		"A255 Atomic Steering"
@@ -175,7 +176,7 @@ ship "Gunboat" "SPA Gunboat"
 		`"Biroo" Atomic Steering` 1
 		"Hyperdrive" 1
 		"Jump Drive" 1
-		"Interference Plating" 17
+		"SPA Scan Blocker" 5
 
 		"Large Hybrid Cooling" 1
 		
@@ -229,7 +230,8 @@ ship "Gunboat" "SPA Gunboat (Proton Gun)"
 		`"Biroo" Atomic Steering` 1
 		"Hyperdrive" 1
 		"Jump Drive" 1
-		"Interference Plating" 17
+		"SPA Scan Blocker" 4
+		"Interference Plating" 2
 
 		"Large Hybrid Cooling" 1
 		
@@ -278,6 +280,7 @@ ship "Cruiser" "SPA Cruiser"
 		"LP576a Battery Pack" 2
 		"Hai Diamond Regenerator"
 		"Large Hybrid Cooling"
+		"SPA Scan Blocker" 6
 
 		`"Bufaer" Atomic Thruster`
 		`"Bufaer" Atomic Steering`

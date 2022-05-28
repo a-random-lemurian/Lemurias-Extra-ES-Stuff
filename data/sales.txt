@@ -65,6 +65,7 @@ outfitter "Sayari Outfits"
 	"Sidewinder Missile Launcher"
 	"Sidewinder Missile Pod"
 	"Sidewinder Missile Rack"
+	"SPA Scan Blocker"
 
 outfitter "Ship Sniper Available"
 	"Ship Sniper"
