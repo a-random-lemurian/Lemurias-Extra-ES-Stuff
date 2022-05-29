@@ -244,6 +244,23 @@ system Arau
 	pos -8321.7912 -224.14533
 	link Airuka
 	link Defal
+	fleet spa.small 700
+	fleet spa.medium 1500
+	fleet "Small Republic" 900
+	fleet "Large Northern Merchants" 800
+	government "Republic"
+	object
+		sprite "star/b-supergiant"
+		distance 0
+		period 0
+	object Mirdenheim
+		sprite "planet/forest2"
+		distance 833
+		period 411
+	object
+		sprite "planet/rock2"
+		distance 1533
+		period 705
 
 system Melursa
 	pos -8095.0968 -316.95089
@@ -448,6 +465,10 @@ system Meursa
 	link Melursa
 
 planet Sparley
+	description "."
+	spaceport "."
+
+planet Mirdenheim
 	description "."
 	spaceport "."
 
