@@ -1,0 +1,344 @@
+system Poreu
+	pos -8370.5968 -154.58978
+	link Airuka
+	link Paricasa
+
+system Chasikara
+	pos -8365.5968 66.96578
+	link "42 Merisai"
+	link Orunat
+	link Pechara
+
+system Karita
+	pos -8157.819 -86.117553
+	link Caretta
+	link Onuka
+	link Vefrua
+
+system Airuka
+	pos -8261.6523 -191.45089
+	link Arau
+	link Mersat
+	link Poreu
+
+system Upalsa
+	pos -8128.7635 -163.562
+	link Caretta
+
+system Ouchar
+	pos -8555.069 -362.312
+	link Deriato
+	link Doler
+	link Gensar
+
+system Corua
+	pos -8195.0968 -358.28422
+	link Daryn-qular
+	link Ertusca
+	link Pourat
+
+system Aradi
+	pos -8510.2079 -461.89533
+	link Isalor
+	link Mariuta
+	link Vastary
+
+system Eputel
+	pos -8572.7635 -99.561998
+	link Casfik
+
+system Venisur
+	pos -8630.9857 -126.67311
+	link Casfik
+
+system Opfrau
+	pos -8108.0412 -236.562
+	link "Alpha Tudalip"
+	link Melursa
+	link Porsuei
+
+system Posteli
+	pos -8186.0968 -267.00644
+	link Freula
+	link Nestia
+	link Porsuei
+
+system Pentarok
+	pos -8371.5135 -359.20089
+	link Maryn-qarou
+	link Olerak
+
+system Casfik
+	pos -8675.4301 -84.006442
+	link Eputel
+	link Sprooe
+	link Venisur
+	link Zerted
+
+system Maryn-qarou
+	pos -8444.4023 -378.312
+	link Doler
+	link Isalor
+	link Pentarok
+
+system Daryn-qular
+	pos -8143.0968 -401.39533
+	link Chasitum
+	link Chrusa
+	link Corua
+
+system Isalor
+	pos -8510.1801 -409.42311
+	link Aradi
+	link Gensar
+	link Maryn-qarou
+
+system Vefrua
+	pos -8116.4857 -57.673109
+	link "94 Merisai"
+	link Karita
+
+system Caretta
+	pos -8109.3746 -115.22866
+	link "Alpha Tudalip"
+	link Karita
+	link Upalsa
+
+system Mersat
+	pos -8219.3746 -152.562
+	link Airuka
+	link Nardacus
+	link Vachrau
+
+system Vachrau
+	pos -8171.5968 -140.78422
+	link Mersat
+	link Onuka
+	link Porsuei
+
+system Nardacus
+	pos -8294.5968 -131.92311
+	link Mersat
+
+system Porsuei
+	pos -8192.0412 -203.00644
+	link Opfrau
+	link Posteli
+	link Vachrau
+
+system Peroni
+	pos -8379.0968 -410.33978
+	link Vastary
+
+system Nestia
+	pos -8217.3468 -301.92311
+	link Ertusca
+	link Posteli
+
+system Arau
+	pos -8321.7912 -224.14533
+	link Airuka
+	link Defal
+
+system Melursa
+	pos -8095.0968 -316.95089
+	link Meursa
+	link Opfrau
+	link Pourat
+
+system Vifura
+	pos -8682.1801 -335.20089
+	link Erou
+
+system Deriato
+	pos -8611.069 -338.312
+	link Cafrai
+	link Ouchar
+	link Presad
+	link Purai
+
+system Purai
+	pos -8552.8468 -281.42311
+	link Deriato
+
+system "42 Merisai"
+	pos -8268.2635 75.632447
+	link "43 Merisai"
+	link Chasikara
+
+system Vabchra
+	pos -8423.0968 -525.14533
+	link Mariuta
+	link Petun
+
+system Paruna
+	pos -7985.3468 -211.72866
+	link "Alpha Tudalip"
+	link "Vator Comparum"
+
+system Mirus
+	pos -8298.4301 -535.812
+	link Finuera
+	link Gestaru
+	link Petun
+
+system Carfue
+	pos -8038.069 -287.062
+	link Meursa
+	link "Vator Comparum"
+
+system Chrusa
+	pos -8212.4301 -447.812
+	link Daryn-qular
+	link Gestaru
+
+system Gestaru
+	pos -8215.0968 -491.14533
+	link Aidux
+	link Chrusa
+	link Mirus
+
+system Mariuta
+	pos -8546.4301 -533.812
+	link Aradi
+	link Vabchra
+
+system Zoruna
+	pos -8570.7079 -12.811998
+	link Orchao
+
+system Petun
+	pos -8365.7635 -525.14533
+	link Mirus
+	link Vabchra
+
+system Vaitul
+	pos -8236.7635 -41.78422
+	link "43 Merisai"
+	link Nursuta
+
+system Freula
+	pos -8247.8746 -241.33978
+	link Posteli
+
+system Pourat
+	pos -8135.5412 -342.72866
+	link Corua
+	link Melursa
+
+system Finuera
+	pos -8336.2079 -470.562
+	link Mirus
+	link Vaidanu
+	link Vastary
+
+system Vastary
+	pos -8431.5412 -443.22866
+	link Aradi
+	link Finuera
+	link Peroni
+
+system Imural
+	pos -8601.319 -460.562
+	link Cafrai
+
+system Gensar
+	pos -8584.2079 -408.562
+	link Isalor
+	link Ouchar
+
+system "94 Merisai"
+	pos -8055.5968 14.96578
+	link "43 Merisai"
+	link Miruver
+	link Vefrua
+
+system Cafrai
+	pos -8648.4301 -391.22866
+	link Deriato
+	link Imural
+
+system Onuka
+	pos -8230.7079 -98.561998
+	link Karita
+	link Nursuta
+	link Vachrau
+
+system "Alpha Tudalip"
+	pos -8043.819 -179.89533
+	link Caretta
+	link Opfrau
+	link Paruna
+
+system Nursuta
+	pos -8279.5968 -75.450887
+	link Onuka
+	link Telicasa
+	link Vaitul
+
+system Mosiato
+	pos -8596.0412 37.854669
+	link Deramii
+	link Orunat
+	link Zerted
+
+system Vaidanu
+	pos -8293.4301 -423.20089
+	link Finuera
+
+system Zerted
+	pos -8658.7079 -13.923109
+	link Casfik
+	link Mosiato
+
+system Orunat
+	pos -8479.5968 25.410224
+	link Chasikara
+	link Darceas
+	link Mosiato
+
+system Deramii
+	pos -8545.3746 80.743558
+	link Mosiato
+	link Pechara
+
+system "43 Merisai"
+	pos -8177.3746 22.076891
+	link "42 Merisai"
+	link "94 Merisai"
+	link Vaitul
+
+system Pechara
+	pos -8450.7079 103.85467
+	link Chasikara
+	link Deramii
+
+system Miruver
+	pos -8018.0135 -78.395331
+	link "94 Merisai"
+
+system Porae
+	pos -7972.0135 -367.062
+	link Chasitum
+	link "Vator Comparum"
+
+system Aidux
+	pos -8130.6801 -460.39533
+	link Gestaru
+
+system Chasitum
+	pos -8040.0135 -418.39533
+	link Daryn-qular
+	link Porae
+
+system "Vator Comparum"
+	pos -7985.3468 -301.72866
+	link Carfue
+	link Paruna
+	link Porae
+
+system Meursa
+	pos -8042.5135 -353.28422
+	link Carfue
+	link Melursa
+
