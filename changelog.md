@@ -2,6 +2,10 @@
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
 - Removed Heliarch Scanning Modules from the SPA Kestrel to prevent them scanning you.
 - Fixed a planet in Deriie that had no distance specified, placing it at the center of the system.
+- Removed Renpaya's shipyard.
+- Added attributes to some Illumina Regions worlds.
+- Rebalanced payments for data transport missions (again)
+- Added Kor Mereti ships to SPA fleets (spawns very rarely)
 
 ### v0.10.13
 - Didn't remove Orbona system (I made an error in commit 94a59c875f889cf36d13c94e6fb8253bca34269d, blame me for it.)
