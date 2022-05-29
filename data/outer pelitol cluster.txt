@@ -195,6 +195,35 @@ system Vachrau
 system Nardacus
 	pos -8294.5968 -131.92311
 	link Mersat
+	fleet spa.small 700
+	fleet spa.medium 1500
+	fleet "Small Republic" 900
+	fleet "Large Northern Merchants" 800
+	government "Republic"
+	object
+		sprite "star/g8"
+		distance 0
+		period 0
+	object
+		sprite "planet/lava1"
+		distance 521
+		period 321
+	object Kabegan
+		sprite "planet/earth"
+		distance 934
+		period 609
+	object
+		sprite "planet/gas7"
+		distance 3551
+		period 1331
+		object
+			sprite "planet/lava1"
+			distance 322
+			period 48
+		object
+			sprite "planet/rock3"
+			distance 903
+			period 155
 
 system Porsuei
 	pos -8192.0412 -203.00644
@@ -426,3 +455,6 @@ planet Martieu
 	description "."
 	spaceport "."
 
+planet Kabegan
+	description "."
+	spaceport "."
