@@ -470,8 +470,8 @@ planet Sparley
 
 planet Mirdenheim
 	landscape "land/mirdenheim"
-	description "."
-	spaceport "."
+	description "Mirdenheim is a heavily urbanized colony bordering the SPA colony of Defal, with a population of roughly 898 million. Mirdenheim is one of the major colonies in the Pelitol Cluster and is home to a major Navy base and a forward operating base for conducting surveillance on the nearby Sayari Plushie Authority colonies."
+	spaceport "Mirdenheim's spaceport is at the outskirts of the largest city on Mirdenheim, and is right next to the shipyard. Large turrets are placed on the shipyard and spaceport buildings to guard against pirate attacks."
 
 planet Martieu
 	description "."
