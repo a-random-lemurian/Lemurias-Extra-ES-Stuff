@@ -45,6 +45,31 @@ system Airuka
 	link Arau
 	link Mersat
 	link Poreu
+	fleet spa.small 700
+	fleet spa.medium 1500
+	fleet "Small Republic" 900
+	fleet "Large Northern Merchants" 800
+	government "Republic"
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock2"
+		distance 604
+		period 211
+	object "Sparley"
+		sprite "planet/earth"
+		distance 1355
+		period 405
+	object
+		sprite "planet/rock8"
+		distance 1903
+		period 743
+	object
+		sprite "planet/ice4"
+		distance 3011
+		period 1302
 
 system Upalsa
 	pos -8128.7635 -163.562
@@ -366,6 +391,10 @@ system Meursa
 	pos -8042.5135 -353.28422
 	link Carfue
 	link Melursa
+
+planet Sparley
+	description "."
+	spaceport "."
 
 planet Martieu
 	description "."
