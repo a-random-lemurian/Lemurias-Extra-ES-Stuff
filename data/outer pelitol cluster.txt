@@ -480,6 +480,7 @@ system Meursa
 	link Melursa
 
 planet Sparley
+	landscape "land/sparley"
 	description "."
 	spaceport "."
 
@@ -489,9 +490,11 @@ planet Mirdenheim
 	spaceport "Mirdenheim's spaceport is at the outskirts of the largest city on Mirdenheim, and is right next to the shipyard. Large turrets are placed on the shipyard and spaceport buildings to guard against pirate attacks."
 
 planet Martieu
+	landscape "land/martieu"
 	description "."
 	spaceport "."
 
 planet Kabegan
+	landscape "land/kabegan"
 	description "."
 	spaceport "."
