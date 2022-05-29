@@ -159,6 +159,32 @@ system Mersat
 	link Airuka
 	link Nardacus
 	link Vachrau
+	fleet spa.small 700
+	fleet spa.medium 1500
+	fleet "Small Republic" 900
+	fleet "Large Northern Merchants" 800
+	arrival 1200
+	government "Republic"
+	object
+		sprite "star/m-supergiant"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 566
+		period 201
+	object
+		sprite "planet/forest8"
+		distance 1433
+		period 521
+	object
+		sprite "planet/ice5"
+		distance 1832
+		period 903
+	object
+		sprite "planet/cloud2"
+		distance 3111
+		period 1509
 
 system Vachrau
 	pos -8171.5968 -140.78422
