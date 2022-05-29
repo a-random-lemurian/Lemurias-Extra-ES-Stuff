@@ -1672,7 +1672,6 @@ planet Ekarai
 
 planet Renpaya
 	landscape land/renpaya
-	shipyard "Basic Ships"
 	government "Sayari Plushie"
 	description "Renpaya is a relatively boring savannah world. This world is held by the Sayari Plushie Authority mainly to prevent it from falling into the hands of the CSSF."
 	spaceport "The spaceport is primitive, containing only the basic essentials. There are a few food shops offering food and water, and tourists who wish to explore the planet's relatively pristine nature."
