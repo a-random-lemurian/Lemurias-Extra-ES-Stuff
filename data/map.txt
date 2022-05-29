@@ -683,16 +683,16 @@ system Jarkiiens
 	link Hiljaak
 	link Illumina
 	arrival 700
-	fleet "Large Northern Merchants" 300
-	fleet spa.war.illuminaReg.large.1 550
+	fleet "Large Northern Merchants" 1000
+	fleet "Small Northern Merchants" 500
+	fleet spa.small 700
+	fleet spa.medium 1300
+	fleet spa.large 1500
+	fleet "Small Republic" 800
+	fleet "Large Republic" 1800
 	fleet cssf.small 2400
 	fleet cssf.medium 4700
 	fleet cssf.large 6700
-	fleet cssf.small 2400
-	fleet cssf.medium 4700
-	fleet cssf.large 6700
-	fleet spa.trade.HumanSpace.large.1 1200
-	fleet "Small Northern Merchants" 300
 	trade Clothing 343
 	trade "Data drives" 13201
 	trade Electronics 678
