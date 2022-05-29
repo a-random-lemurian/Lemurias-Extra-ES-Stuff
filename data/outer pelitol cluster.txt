@@ -2,6 +2,31 @@ system Poreu
 	pos -8370.5968 -154.58978
 	link Airuka
 	link Paricasa
+	fleet spa.small 700
+	fleet spa.medium 1500
+	fleet "Small Republic" 900
+	fleet "Large Northern Merchants" 800
+	government "Republic"
+	object
+		sprite "star/m0"
+		distance 0
+		period 0
+	object Martieu
+		sprite "planet/earth"
+		distance 895
+		period 334
+	object
+		sprite "planet/rock9"
+		distance 1703
+		period 653
+	object
+		sprite "planet/gas3"
+		distance 5033
+		period 1327
+		object
+			sprite "planet/rock3"
+			distance 704
+			period 100
 
 system Chasikara
 	pos -8365.5968 66.96578
@@ -341,4 +366,8 @@ system Meursa
 	pos -8042.5135 -353.28422
 	link Carfue
 	link Melursa
+
+planet Martieu
+	description "."
+	spaceport "."
 
