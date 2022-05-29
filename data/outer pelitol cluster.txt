@@ -5,6 +5,9 @@ system Poreu
 	fleet spa.small 700
 	fleet spa.medium 1500
 	fleet "Small Republic" 900
+	fleet "Large Republic" 1300
+	fleet "Large Northern Pirates" 3200
+	fleet "Small Northern Pirates" 2500
 	fleet "Large Northern Merchants" 800
 	government "Republic"
 	object
@@ -48,6 +51,9 @@ system Airuka
 	fleet spa.small 700
 	fleet spa.medium 1500
 	fleet "Small Republic" 900
+	fleet "Large Republic" 1300
+	fleet "Large Northern Pirates" 3200
+	fleet "Small Northern Pirates" 2500
 	fleet "Large Northern Merchants" 800
 	government "Republic"
 	object
@@ -162,6 +168,9 @@ system Mersat
 	fleet spa.small 700
 	fleet spa.medium 1500
 	fleet "Small Republic" 900
+	fleet "Large Republic" 1300
+	fleet "Large Northern Pirates" 3200
+	fleet "Small Northern Pirates" 2500
 	fleet "Large Northern Merchants" 800
 	arrival 1200
 	government "Republic"
@@ -198,6 +207,9 @@ system Nardacus
 	fleet spa.small 700
 	fleet spa.medium 1500
 	fleet "Small Republic" 900
+	fleet "Large Republic" 1300
+	fleet "Large Northern Pirates" 3200
+	fleet "Small Northern Pirates" 2500
 	fleet "Large Northern Merchants" 800
 	government "Republic"
 	object
@@ -247,6 +259,9 @@ system Arau
 	fleet spa.small 700
 	fleet spa.medium 1500
 	fleet "Small Republic" 900
+	fleet "Large Republic" 1300
+	fleet "Large Northern Pirates" 3200
+	fleet "Small Northern Pirates" 2500
 	fleet "Large Northern Merchants" 800
 	government "Republic"
 	object
