@@ -469,6 +469,7 @@ planet Sparley
 	spaceport "."
 
 planet Mirdenheim
+	landscape "land/mirdenheim"
 	description "."
 	spaceport "."
 
