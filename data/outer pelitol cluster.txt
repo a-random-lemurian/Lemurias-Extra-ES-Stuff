@@ -529,8 +529,8 @@ system Meursa
 
 planet Sparley
 	landscape "land/sparley"
-	description "."
-	spaceport "."
+	description `Sparley is another Republic colony. Large settlements referred to as "favelas" (plural) dominate the vast majority of the landscape, except for the land near the spaceport, a few nature reserves, and the planet's large mountain ranges.`
+	spaceport `The spaceport city is the only non-favela part of Sparley. The spaceport building is roughly octopus-shaped, with several landing pads for many different variants of ships near the spaceport's tentacle-like appendages.`
 
 planet Mirdenheim
 	landscape "land/mirdenheim"
