@@ -78,6 +78,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Aylar                     | Jarvin               | CC BY-SA 3.0            | ([orig](https://commons.wikimedia.org/wiki/File:Gamle_Stavanger.jpg))
 | Voreo                     | Daniel Delille        | CC BY-SA 3.0            | ([orig](https://commons.wikimedia.org/wiki/File:Port_aux_Fran%C3%A7ais.JPG))
 | Mirdenheim                | Jean-Pierre Dalbéra  | CC BY 2.0               | ([orig](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Le_KUMU%2C_mus%C3%A9e_dart_estonien_%28Tallinn%29_%287637597178%29.jpg/1024px-Le_KUMU%2C_mus%C3%A9e_dart_estonien_%28Tallinn%29_%287637597178%29.jpg))
+| Sparley                   | Chensiyuan           | CC BY-SA 3.0            | ([orig](https://commons.wikimedia.org/wiki/File:1_rocinha_night_2014_panorama.jpg))
 
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
 
