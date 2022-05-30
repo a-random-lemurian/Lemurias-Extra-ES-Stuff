@@ -1,0 +1,626 @@
+system Poreu
+	pos -8370.5968 -154.58978
+	link Airuka
+	link Paricasa
+	fleet spa.small 700
+	fleet spa.medium 1500
+	fleet "Small Republic" 900
+	fleet "Large Republic" 1300
+	fleet "Large Northern Pirates" 3200
+	fleet "Small Northern Pirates" 2500
+	fleet "Large Northern Merchants" 800
+	trade Clothing 214
+	trade Electronics 513
+	trade Equipment 715
+	trade Food 463
+	trade "Heavy Metals" 1186
+	trade Industrial 442
+	trade "Luxury Goods" 987
+	trade Medical 305
+	trade Metal 432
+	trade Plastic 178
+	government "Republic"
+	object
+		sprite "star/m0"
+		distance 0
+		period 0
+	object Martieu
+		sprite "planet/earth"
+		distance 895
+		period 334
+	object
+		sprite "planet/rock9"
+		distance 1703
+		period 653
+	object
+		sprite "planet/gas3"
+		distance 5033
+		period 1327
+		object
+			sprite "planet/rock3"
+			distance 704
+			period 100
+
+system Chasikara
+	pos -8365.5968 66.96578
+	link "42 Merisai"
+	link Orunat
+	link Pechara
+
+system Karita
+	pos -8157.819 -86.117553
+	link Caretta
+	link Onuka
+	link Vefrua
+
+system Airuka
+	pos -8261.6523 -191.45089
+	link Arau
+	link Mersat
+	link Poreu
+	fleet spa.small 700
+	fleet spa.medium 1500
+	fleet "Small Republic" 900
+	fleet "Large Republic" 1300
+	fleet "Large Northern Pirates" 3200
+	fleet "Small Northern Pirates" 2500
+	fleet "Large Northern Merchants" 800
+	trade Clothing 377
+	trade Electronics 483
+	trade Equipment 672
+	trade Food 445
+	trade "Heavy Metals" 1013
+	trade Industrial 490
+	trade "Luxury Goods" 943
+	trade Medical 321
+	trade Metal 411 
+	trade Plastic 438
+	government "Republic"
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock2"
+		distance 604
+		period 211
+	object "Sparley"
+		sprite "planet/earth"
+		distance 1355
+		period 405
+	object
+		sprite "planet/rock8"
+		distance 1903
+		period 743
+	object
+		sprite "planet/ice4"
+		distance 3011
+		period 1302
+
+system Upalsa
+	pos -8128.7635 -163.562
+	link Caretta
+
+system Ouchar
+	pos -8555.069 -362.312
+	link Deriato
+	link Doler
+	link Gensar
+
+system Corua
+	pos -8195.0968 -358.28422
+	link Daryn-qular
+	link Ertusca
+	link Pourat
+
+system Aradi
+	pos -8510.2079 -461.89533
+	link Isalor
+	link Mariuta
+	link Vastary
+
+system Eputel
+	pos -8572.7635 -99.561998
+	link Casfik
+
+system Venisur
+	pos -8630.9857 -126.67311
+	link Casfik
+
+system Opfrau
+	pos -8108.0412 -236.562
+	link "Alpha Tudalip"
+	link Melursa
+	link Porsuei
+
+system Posteli
+	pos -8186.0968 -267.00644
+	link Freula
+	link Nestia
+	link Porsuei
+
+system Pentarok
+	pos -8371.5135 -359.20089
+	link Maryn-qarou
+	link Olerak
+
+system Casfik
+	pos -8675.4301 -84.006442
+	link Eputel
+	link Sprooe
+	link Venisur
+	link Zerted
+
+system Maryn-qarou
+	pos -8444.4023 -378.312
+	link Doler
+	link Isalor
+	link Pentarok
+
+system Daryn-qular
+	pos -8143.0968 -401.39533
+	link Chasitum
+	link Chrusa
+	link Corua
+
+system Isalor
+	pos -8510.1801 -409.42311
+	link Aradi
+	link Gensar
+	link Maryn-qarou
+
+system Vefrua
+	pos -8116.4857 -57.673109
+	link "94 Merisai"
+	link Karita
+
+system Caretta
+	pos -8109.3746 -115.22866
+	link "Alpha Tudalip"
+	link Karita
+	link Upalsa
+
+system Mersat
+	pos -8219.3746 -152.562
+	link Airuka
+	link Nardacus
+	link Vachrau
+	trade Clothing 407
+	trade Electronics 544
+	trade Equipment 721
+	trade Food 455
+	trade "Heavy Metals" 1109
+	trade Industrial 364
+	trade "Luxury Goods" 931
+	trade Medical 334
+	trade Metal 410
+	trade Plastic 245
+	fleet spa.small 700
+	fleet spa.medium 1500
+	fleet "Small Republic" 900
+	fleet "Large Republic" 1300
+	fleet "Large Northern Pirates" 3200
+	fleet "Small Northern Pirates" 2500
+	fleet "Large Northern Merchants" 800
+	arrival 1200
+	government "Republic"
+	object
+		sprite "star/m-supergiant"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 566
+		period 201
+	object
+		sprite "planet/forest8"
+		distance 1433
+		period 521
+	object
+		sprite "planet/ice5"
+		distance 1832
+		period 903
+	object
+		sprite "planet/cloud2"
+		distance 3111
+		period 1509
+
+system Vachrau
+	pos -8171.5968 -140.78422
+	link Mersat
+	link Onuka
+	link Porsuei
+	trade Clothing 334
+	trade Electronics 463
+	trade Equipment 554
+	trade Food 460
+	trade "Heavy Metals" 486
+	trade Industrial 663
+	trade "Luxury Goods" 1087
+	trade Medical 355
+	trade Metal 411
+	trade Plastic 198
+	fleet spa.small 1200
+	fleet spa.medium 1500
+	fleet "Small Republic" 1200
+	fleet "Large Republic" 1800
+	fleet "Large Northern Pirates" 3200
+	fleet "Small Northern Pirates" 2500
+	fleet "Large Northern Merchants" 1600
+	government "Republic"
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock9"
+		distance 281
+		period 204.38
+	object Tarsia
+		sprite "planet/forest4"
+		distance 940
+		period 351.23
+	object
+		sprite "planet/rock5"
+		distance 1503
+		period 311.48
+	object
+		sprite "planet/rock14"
+		distance 1843
+		period 501.34
+	object
+		sprite "planet/rock12"
+		distance 2644
+		period 704.33
+	object
+		sprite "planet/gas3"
+		distance 5055
+		period 881.31
+		object
+			sprite "planet/rock4"
+			distance 566
+			period 32.104
+		object
+			sprite "planet/rock8"
+			distance 901
+			period 89.340
+	object
+		sprite "planet/gas7"
+		distance 9034
+		period 1340.211
+
+system Nardacus
+	pos -8294.5968 -131.92311
+	link Mersat
+	trade Clothing 214
+	trade Electronics 513
+	trade Equipment 715
+	trade Food 463
+	trade "Heavy Metals" 1186
+	trade Industrial 442
+	trade "Luxury Goods" 987
+	trade Medical 305
+	trade Metal 432
+	trade Plastic 178
+	fleet spa.small 700
+	fleet spa.medium 1500
+	fleet "Small Republic" 900
+	fleet "Large Republic" 1300
+	fleet "Large Northern Pirates" 3200
+	fleet "Small Northern Pirates" 2500
+	fleet "Large Northern Merchants" 800
+	government "Republic"
+	object
+		sprite "star/g8"
+		distance 0
+		period 0
+	object
+		sprite "planet/lava1"
+		distance 521
+		period 321
+	object Kabegan
+		sprite "planet/earth"
+		distance 934
+		period 609
+	object
+		sprite "planet/gas7"
+		distance 3551
+		period 1331
+		object
+			sprite "planet/lava1"
+			distance 322
+			period 48
+		object
+			sprite "planet/rock3"
+			distance 903
+			period 155
+
+system Porsuei
+	pos -8192.0412 -203.00644
+	link Opfrau
+	link Posteli
+	link Vachrau
+
+system Peroni
+	pos -8379.0968 -410.33978
+	link Vastary
+
+system Nestia
+	pos -8217.3468 -301.92311
+	link Ertusca
+	link Posteli
+
+system Arau
+	pos -8321.7912 -224.14533
+	link Airuka
+	link Defal
+	trade Clothing 314
+	trade Electronics 313
+	trade Equipment 415
+	trade Food 488
+	trade "Heavy Metals" 1186
+	trade Industrial 656
+	trade "Luxury Goods" 1087
+	trade Medical 809
+	trade Metal 977
+	trade Plastic 452
+	fleet spa.small 700
+	fleet spa.medium 1500
+	fleet "Small Republic" 900
+	fleet "Large Republic" 1300
+	fleet "Large Northern Pirates" 3200
+	fleet "Small Northern Pirates" 2500
+	fleet "Large Northern Merchants" 800
+	government "Republic"
+	object
+		sprite "star/b-supergiant"
+		distance 0
+		period 0
+	object Mirdenheim
+		sprite "planet/forest2"
+		distance 833
+		period 411
+	object
+		sprite "planet/rock2"
+		distance 1533
+		period 705
+
+system Melursa
+	pos -8095.0968 -316.95089
+	link Meursa
+	link Opfrau
+	link Pourat
+
+system Vifura
+	pos -8682.1801 -335.20089
+	link Erou
+
+system Deriato
+	pos -8611.069 -338.312
+	link Cafrai
+	link Ouchar
+	link Presad
+	link Purai
+
+system Purai
+	pos -8552.8468 -281.42311
+	link Deriato
+
+system "42 Merisai"
+	pos -8268.2635 75.632447
+	link "43 Merisai"
+	link Chasikara
+
+system Vabchra
+	pos -8423.0968 -525.14533
+	link Mariuta
+	link Petun
+
+system Paruna
+	pos -7985.3468 -211.72866
+	link "Alpha Tudalip"
+	link "Vator Comparum"
+
+system Mirus
+	pos -8298.4301 -535.812
+	link Finuera
+	link Gestaru
+	link Petun
+
+system Carfue
+	pos -8038.069 -287.062
+	link Meursa
+	link "Vator Comparum"
+
+system Chrusa
+	pos -8212.4301 -447.812
+	link Daryn-qular
+	link Gestaru
+
+system Gestaru
+	pos -8215.0968 -491.14533
+	link Aidux
+	link Chrusa
+	link Mirus
+
+system Mariuta
+	pos -8546.4301 -533.812
+	link Aradi
+	link Vabchra
+
+system Zoruna
+	pos -8570.7079 -12.811998
+	link Orchao
+
+system Petun
+	pos -8365.7635 -525.14533
+	link Mirus
+	link Vabchra
+
+system Vaitul
+	pos -8236.7635 -41.78422
+	link "43 Merisai"
+	link Nursuta
+
+system Freula
+	pos -8247.8746 -241.33978
+	link Posteli
+
+system Pourat
+	pos -8135.5412 -342.72866
+	link Corua
+	link Melursa
+
+system Finuera
+	pos -8336.2079 -470.562
+	link Mirus
+	link Vaidanu
+	link Vastary
+
+system Vastary
+	pos -8431.5412 -443.22866
+	link Aradi
+	link Finuera
+	link Peroni
+
+system Imural
+	pos -8601.319 -460.562
+	link Cafrai
+
+system Gensar
+	pos -8584.2079 -408.562
+	link Isalor
+	link Ouchar
+
+system "94 Merisai"
+	pos -8055.5968 14.96578
+	link "43 Merisai"
+	link Miruver
+	link Vefrua
+
+system Cafrai
+	pos -8648.4301 -391.22866
+	link Deriato
+	link Imural
+
+system Onuka
+	pos -8230.7079 -98.561998
+	link Karita
+	link Nursuta
+	link Vachrau
+
+system "Alpha Tudalip"
+	pos -8043.819 -179.89533
+	link Caretta
+	link Opfrau
+	link Paruna
+
+system Nursuta
+	pos -8279.5968 -75.450887
+	link Onuka
+	link Telicasa
+	link Vaitul
+
+system Mosiato
+	pos -8596.0412 37.854669
+	link Deramii
+	link Orunat
+	link Zerted
+
+system Vaidanu
+	pos -8293.4301 -423.20089
+	link Finuera
+
+system Zerted
+	pos -8658.7079 -13.923109
+	link Casfik
+	link Mosiato
+
+system Orunat
+	pos -8479.5968 25.410224
+	link Chasikara
+	link Darceas
+	link Mosiato
+
+system Deramii
+	pos -8545.3746 80.743558
+	link Mosiato
+	link Pechara
+
+system "43 Merisai"
+	pos -8177.3746 22.076891
+	link "42 Merisai"
+	link "94 Merisai"
+	link Vaitul
+
+system Pechara
+	pos -8450.7079 103.85467
+	link Chasikara
+	link Deramii
+
+system Miruver
+	pos -8018.0135 -78.395331
+	link "94 Merisai"
+
+system Porae
+	pos -7972.0135 -367.062
+	link Chasitum
+	link "Vator Comparum"
+
+system Aidux
+	pos -8130.6801 -460.39533
+	link Gestaru
+
+system Chasitum
+	pos -8040.0135 -418.39533
+	link Daryn-qular
+	link Porae
+
+system "Vator Comparum"
+	pos -7985.3468 -301.72866
+	link Carfue
+	link Paruna
+	link Porae
+
+system Meursa
+	pos -8042.5135 -353.28422
+	link Carfue
+	link Melursa
+
+planet Sparley
+	landscape "land/sparley"
+	government "Republic"
+	description `Sparley is another Republic colony. Large settlements referred to as "favelas" (plural) dominate the vast majority of the landscape, except for the land near the spaceport, a few nature reserves, and the planet's large mountain ranges.`
+	spaceport `The spaceport city is the only non-favela part of Sparley. The spaceport building is roughly octopus-shaped, with several landing pads for many different variants of ships near the spaceport's tentacle-like appendages.`
+
+planet Mirdenheim
+	landscape "land/mirdenheim"
+	government "Republic"
+	shipyard "Navy Basics"
+	shipyard "Tarazed Basics"
+	shipyard "Tarazed Advanced"
+	outfitter "Basic Outfits"
+	outfitter "Ammo North"
+	outfitter "Ammo South"
+	outfitter "Deep Sky Basics"
+	outfitter "Deep Sky Advanced"
+	description "Mirdenheim is a heavily urbanized colony bordering the SPA colony of Defal, with a population of roughly 898 million. Mirdenheim is one of the major colonies in the Pelitol Cluster and is home to a major Navy base and a forward operating base for conducting surveillance on the nearby Sayari Plushie Authority colonies."
+	spaceport "Mirdenheim's spaceport is at the outskirts of the largest city on Mirdenheim, and is right next to the shipyard. Large turrets are placed on the shipyard and spaceport buildings to guard against pirate attacks."
+
+planet Martieu
+	landscape "land/martieu"
+	government "Republic"
+	description "."
+	spaceport "."
+
+planet Kabegan
+	landscape "land/kabegan"
+	government "Republic"
+	description "."
+	spaceport "."
+
+planet Tarsia
+	landscape "land/tarsia"
+	government "Republic"
+	description "."
+	spaceport "."
