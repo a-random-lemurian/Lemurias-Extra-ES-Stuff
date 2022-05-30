@@ -200,6 +200,54 @@ system Vachrau
 	link Mersat
 	link Onuka
 	link Porsuei
+	fleet spa.small 1200
+	fleet spa.medium 1500
+	fleet "Small Republic" 1200
+	fleet "Large Republic" 1800
+	fleet "Large Northern Pirates" 3200
+	fleet "Small Northern Pirates" 2500
+	fleet "Large Northern Merchants" 1600
+	government "Republic"
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock9"
+		distance 281
+		period 204.38
+	object Tarsia
+		sprite "planet/forest4"
+		distance 940
+		period 351.23
+	object
+		sprite "planet/rock5"
+		distance 1503
+		period 311.48
+	object
+		sprite "planet/rock14"
+		distance 1843
+		period 501.34
+	object
+		sprite "planet/rock12"
+		distance 2644
+		period 704.33
+	object
+		sprite "planet/gas3"
+		distance 5055
+		period 881.31
+		object
+			sprite "planet/rock4"
+			distance 566
+			period 32.104
+		object
+			sprite "planet/rock8"
+			distance 901
+			period 89.340
+	object
+		sprite "planet/gas7"
+		distance 9034
+		period 1340.211
 
 system Nardacus
 	pos -8294.5968 -131.92311
@@ -504,5 +552,11 @@ planet Martieu
 
 planet Kabegan
 	landscape "land/kabegan"
+	description "."
+	spaceport "."
+
+planet Tarsia
+	landscape "land/tarsia"
+	government "Republic"
 	description "."
 	spaceport "."
