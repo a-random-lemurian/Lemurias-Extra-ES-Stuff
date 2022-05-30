@@ -1,0 +1,25 @@
+system Akore
+	pos -1084.25 -372.38889
+	link Fevbaa
+	link Laixadd
+	link Zusul
+
+system Derusa
+	pos -893.26811 -590.62189
+	link Kilooew
+	link Sparikau
+
+system Sparikau
+	pos -856.82367 -656.84411
+	link Derusa
+	link Vamiru
+
+system Vamiru
+	pos -795.04589 -705.733
+	link Luduras
+	link Sparikau
+
+system Poruch
+	pos -1115.8055 -256.27777
+	link Lesarkei
+
