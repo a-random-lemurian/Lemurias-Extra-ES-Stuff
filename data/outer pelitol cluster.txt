@@ -9,6 +9,16 @@ system Poreu
 	fleet "Large Northern Pirates" 3200
 	fleet "Small Northern Pirates" 2500
 	fleet "Large Northern Merchants" 800
+	trade Clothing 214
+	trade Electronics 513
+	trade Equipment 715
+	trade Food 463
+	trade "Heavy Metals" 1186
+	trade Industrial 442
+	trade "Luxury Goods" 987
+	trade Medical 305
+	trade Metal 432
+	trade Plastic 178
 	government "Republic"
 	object
 		sprite "star/m0"
@@ -55,6 +65,16 @@ system Airuka
 	fleet "Large Northern Pirates" 3200
 	fleet "Small Northern Pirates" 2500
 	fleet "Large Northern Merchants" 800
+	trade Clothing 377
+	trade Electronics 483
+	trade Equipment 672
+	trade Food 445
+	trade "Heavy Metals" 1013
+	trade Industrial 490
+	trade "Luxury Goods" 943
+	trade Medical 321
+	trade Metal 411 
+	trade Plastic 438
 	government "Republic"
 	object
 		sprite "star/g0"
@@ -165,6 +185,16 @@ system Mersat
 	link Airuka
 	link Nardacus
 	link Vachrau
+	trade Clothing 407
+	trade Electronics 544
+	trade Equipment 721
+	trade Food 455
+	trade "Heavy Metals" 1109
+	trade Industrial 364
+	trade "Luxury Goods" 931
+	trade Medical 334
+	trade Metal 410
+	trade Plastic 245
 	fleet spa.small 700
 	fleet spa.medium 1500
 	fleet "Small Republic" 900
@@ -200,6 +230,16 @@ system Vachrau
 	link Mersat
 	link Onuka
 	link Porsuei
+	trade Clothing 334
+	trade Electronics 463
+	trade Equipment 554
+	trade Food 460
+	trade "Heavy Metals" 486
+	trade Industrial 663
+	trade "Luxury Goods" 1087
+	trade Medical 355
+	trade Metal 411
+	trade Plastic 198
 	fleet spa.small 1200
 	fleet spa.medium 1500
 	fleet "Small Republic" 1200
@@ -252,6 +292,16 @@ system Vachrau
 system Nardacus
 	pos -8294.5968 -131.92311
 	link Mersat
+	trade Clothing 214
+	trade Electronics 513
+	trade Equipment 715
+	trade Food 463
+	trade "Heavy Metals" 1186
+	trade Industrial 442
+	trade "Luxury Goods" 987
+	trade Medical 305
+	trade Metal 432
+	trade Plastic 178
 	fleet spa.small 700
 	fleet spa.medium 1500
 	fleet "Small Republic" 900
@@ -304,6 +354,16 @@ system Arau
 	pos -8321.7912 -224.14533
 	link Airuka
 	link Defal
+	trade Clothing 314
+	trade Electronics 313
+	trade Equipment 415
+	trade Food 488
+	trade "Heavy Metals" 1186
+	trade Industrial 656
+	trade "Luxury Goods" 1087
+	trade Medical 809
+	trade Metal 977
+	trade Plastic 452
 	fleet spa.small 700
 	fleet spa.medium 1500
 	fleet "Small Republic" 900
