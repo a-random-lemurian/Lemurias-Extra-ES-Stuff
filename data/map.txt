@@ -1061,12 +1061,10 @@ system Oldothe
 	fleet spa.small 700
 	fleet spa.medium 1400
 	fleet spa.large 3800
-	fleet "Large Northern Merchants" 300
-	fleet "Large Northern Merchants" 300
-	fleet "Large Northern Merchants" 300
-	fleet "Large Northern Merchants" 300
-	fleet "Large Northern Merchants" 300
-	fleet "Large Northern Merchants" 300
+	fleet "Large Northern Merchants" 1200
+	fleet "Small Northern Merchants" 700
+	fleet "Small Northern Pirates" 2400
+	fleet "Large Northern Pirates" 5800
 	trade Clothing 431
 	trade Electronics 652
 	trade Equipment 594
