@@ -24,8 +24,8 @@ phrase spa.allNames
 phrase "spa, no prefix"
 	phrase
 		"ingame characters" 3
-		"politicians"
-		"chemical elements"
+		"politicians" 63
+		"chemical elements" 118
 
 phrase "ingame characters"
 	word
