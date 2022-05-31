@@ -23,97 +23,14 @@ phrase spa.allNames
 ###
 phrase spa.allNames.noPrefix
 	phrase
-		spa.sub.Sayari.sp1 4
-		spa.sayariOfLocation.comp 18
-		spa.oneWordNames 2063
-		spa.multiWordNames 11
-		spa.color-item 204
-		spa.royalNavy 1290
-		psuedonames 2294
-		spa.miscCharacternames 5
-		linuxRelated 50
-		technames 41
-		standaloneNames 32
+		spa.miscCharacternames 3
 		"us presidents" 46
-phrase spa.multiword
-	phrase
-		spa.multiword.1 10
-phrase spa.multiword.1
-	word
-		"Azure Town"
-		"Norvek Town"
-		"Jalitra Town"
-		"While True"
-		"While False"
-		"Hello World"
-		"Plushie Protector"
-		"Plushie Transporter"
-		"Plushie Safekeeper"
-		"Glorious Turret"
+
 phrase spa.miscCharacternames
 	word
-		"Freya"
-		"Winters"
-		"Katya"
 		"Freya Winters"
 		"Katya Reynolds"
 		"Emeka'a Isai"
-phrase spa.multiWordNames
-	word
-		"New Moon"
-		"Old Moon"
-		"Discord Moderator"
-		"Discord Administrator"
-		"Discord User"
-		"Discord Nitro"
-		"Free Nitroglycerin"
-		"Berserker Bear"
-		"Sayari's Reign"
-		"Elder Stars"
-		"Elder Moons"
-phrase spa.color-item
-	word
-		"Black"
-		"Blue"
-		"Brown"
-		"Indigo"
-		"White"
-		"Red"
-		"Blue"
-		"Pink"
-		"Purple"
-		"Magenta"
-		"Violet"
-		"Yellow"
-	word
-		" "
-	word
-		"Ramen"
-		"Cat"
-		"Bread"
-		"Plate"
-		"Table"
-		"Chair"
-		"Ship"
-		"Planet"
-		"Moon"
-		"Doorway"
-		"Door"
-		"Stove"
-		"Missile"
-		"Crest"
-		"Crescent"
-		"Flower"
-		"Plant"
-phrase spa.oneword.ficPlaces
-	word
-		"Mardiat"
-		"Distarai"
-		"Ikkelipa"
-		"Cheria"
-		"Aparia"
-		"Lorkrutta"
-
 
 phrase sparl.names.leest
 	word
@@ -133,25 +50,6 @@ phrase sparl.names.leest
 	phrase
 		spa.allNames.noPrefix
 
-
-phrase spa.oneword.Food
-	word
-		"Pretzel"
-		"Ramen"
-		"Sushi"
-		"Orange"
-		"Apple"
-		"Breadcrumb"
-		"Bread"
-		"Corn"
-phrase spa.sub.Sayari.sp1
-	word
-		"Goddess "
-		"Queen "
-		"Ambassador "
-		"Great "
-	word
-		"Sayari"
 phrase spa.sub.HaiLocations
 	word
 		"Hevru Hai"
@@ -172,15 +70,3 @@ phrase spa.sub.HaiLocations
 		"Da Ent"
 		"Uwa Fahn"
 		"Ya Hai"
-
-phrase spa.sayariOfLocation.comp
-	word
-		"Sayari of "
-	phrase 
-		spa.sub.HaiLocations
-
-phrase spa.oneWordNames
-	phrase
-		spa.oneword.ficPlaces 6
-		spa.oneword.Food 8
-		all.irlPlaces 2049
