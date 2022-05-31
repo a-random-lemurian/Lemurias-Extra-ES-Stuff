@@ -18,21 +18,21 @@ phrase spa.allNames
 	word
 		"S.P.S "
 	phrase
-		spa.allNames.noPrefix
+		"spa, no prefix"
 ###
 ###
-phrase spa.allNames.noPrefix
+phrase "spa, no prefix"
 	phrase
-		spa.miscCharacternames 3
+		"ingame characters" 3
 		"us presidents" 46
 
-phrase spa.miscCharacternames
+phrase "ingame characters"
 	word
 		"Freya Winters"
 		"Katya Reynolds"
 		"Emeka'a Isai"
 
-phrase sparl.names.leest
+phrase "SPA Republic Livery names"
 	word
 		"R.N.S"
 
@@ -48,9 +48,13 @@ phrase sparl.names.leest
 	word
 		" "
 	phrase
-		spa.allNames.noPrefix
+		"spa, no prefix"
 
-phrase spa.sub.HaiLocations
+phrase "locations"
+	phrase
+		"Hai systems"
+
+phrase "Hai systems"
 	word
 		"Hevru Hai"
 		"Fah Soom"
