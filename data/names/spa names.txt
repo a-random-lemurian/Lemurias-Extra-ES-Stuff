@@ -24,7 +24,7 @@ phrase spa.allNames
 phrase "spa, no prefix"
 	phrase
 		"ingame characters" 3
-		"us presidents" 46
+		"politicians"
 
 phrase "ingame characters"
 	word
@@ -75,8 +75,45 @@ phrase "Hai systems"
 		"Uwa Fahn"
 		"Ya Hai"
 
-phrase "us presidents"
+phrase "politicians"
+	phrase
+		"male politicians"
+		"female politicians"
+		# "non-binary politicians"
+
+phrase "female politicians"
 	word
+		# United States
+		"Cynthia Lummis"
+		"Liz Cheney"
+
+		# Asia
+		"Leni Robredo"
+		"Sara Duterte"
+		"Tsai Ing-wen"
+		"Halimah Yacob"
+
+		# Europe
+		"Angela Merkel"
+		"Theresa May"
+		"Marine Le Pen"
+		"Anne Hidalgo"
+		"Margaret Thatcher"
+
+phrase "male politicians"
+	word
+		# Asia
+		"Lee Hsien Loong"
+		"Shinzo Abe"
+		"Bongbong Marcos"
+		"Kiko Pangilinan"
+		"Isko Moreno"
+
+		# Europeans
+		"Boris Johnson"
+		"Winston Churchill"
+
+		# US presidents
 		"George Washington"
 		"John Adams"
 		"Thomas Jefferson"
