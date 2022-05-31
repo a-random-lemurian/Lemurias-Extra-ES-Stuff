@@ -6,6 +6,7 @@
 - Added attributes to some Illumina Regions worlds.
 - Rebalanced payments for data transport missions (again)
 - Added Kor Mereti ships to SPA fleets (spawns very rarely)
+- Reworked SPA missions for CSSF patrol bounties.
 
 ### v0.10.13
 - Didn't remove Orbona system (I made an error in commit 94a59c875f889cf36d13c94e6fb8253bca34269d, blame me for it.)
