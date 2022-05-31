@@ -26,7 +26,7 @@ mission "Destroy CSSF Patrol, Small [1]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -49,7 +49,7 @@ mission "Destroy CSSF Patrol, Small [2]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -72,7 +72,7 @@ mission "Destroy CSSF Patrol, Small [3]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -95,7 +95,7 @@ mission "Destroy CSSF Patrol, Small [4]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -118,7 +118,7 @@ mission "Destroy CSSF Patrol, Small [5]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -141,7 +141,7 @@ mission "Destroy CSSF Patrol, Small [6]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -164,7 +164,7 @@ mission "Destroy CSSF Patrol, Small [7]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -187,7 +187,7 @@ mission "Destroy CSSF Patrol, Small [8]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -212,7 +212,7 @@ mission "Destroy CSSF Patrol, Medium [1]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -235,7 +235,7 @@ mission "Destroy CSSF Patrol, Medium [2]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -258,7 +258,7 @@ mission "Destroy CSSF Patrol, Medium [3]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -281,7 +281,7 @@ mission "Destroy CSSF Patrol, Medium [4]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -304,7 +304,7 @@ mission "Destroy CSSF Patrol, Medium [5]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -327,7 +327,7 @@ mission "Destroy CSSF Patrol, Medium [6]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -350,7 +350,7 @@ mission "Destroy CSSF Patrol, Medium [7]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -373,7 +373,7 @@ mission "Destroy CSSF Patrol, Medium [8]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -398,7 +398,7 @@ mission "Destroy CSSF Patrol, Large [1]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -421,7 +421,7 @@ mission "Destroy CSSF Patrol, Large [2]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -444,7 +444,7 @@ mission "Destroy CSSF Patrol, Large [3]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -467,7 +467,7 @@ mission "Destroy CSSF Patrol, Large [4]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -490,7 +490,7 @@ mission "Destroy CSSF Patrol, Large [5]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -513,7 +513,7 @@ mission "Destroy CSSF Patrol, Large [6]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -536,7 +536,7 @@ mission "Destroy CSSF Patrol, Large [7]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
@@ -559,7 +559,7 @@ mission "Destroy CSSF Patrol, Large [8]"
 	source
 		government "Sayari Plushie"
 	on complete
-		dialog phrase spa.missionComp.general
+		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
 	on fail
 		dialog phrase spa.missionFail.general
