@@ -26,6 +26,7 @@ phrase "spa, no prefix"
 		"ingame characters" 3
 		"politicians" 63
 		"chemical elements" 118
+		"locations" 51
 
 phrase "ingame characters"
 	word
@@ -53,7 +54,8 @@ phrase "SPA Republic Livery names"
 
 phrase "locations"
 	phrase
-		"Hai systems"
+		"Hai systems" 18
+		"cities" 33
 
 phrase "Hai systems"
 	word
@@ -281,3 +283,43 @@ phrase "chemical elements"
 		"Yttrium"
 		"Zinc"
 		"Zirconium"
+
+phrase "cities"
+	phrase
+		"philippine cities" 33
+
+phrase "philippine cities"
+	word
+		"Manila"
+		"Davao"
+		"Cebu"
+		"Vigan"
+		"Dagupan"
+		"Tarlac"
+		"Batangas"
+		"Lipa"
+		"Calamba"
+		"Legazpi"
+		"Naga"
+		"Daet"
+		"Atimonan"
+		"Calauag"
+		"Lucena"
+		"Sorsogon"
+		"Tacloban"
+		"Ormoc"
+		"Iriga"
+		"Pateros"
+		"San Juan"
+		"Pasig"
+		"Pasay"
+		"Taguig"
+		"Valenzuela"
+		"Caloocan"
+		"Navotas"
+		"Marikina"
+		"Muntinlupa"
+		"Las Pinas" # Intentionally unaccented to retain ASCII support
+		"Makati"
+		"Paranaque" # Intentionally unaccented to retain ASCII support
+		"Quezon City" # Included for consistency's sake
