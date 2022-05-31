@@ -28,8 +28,7 @@ mission "Destroy CSSF Patrol, Small [1]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -51,8 +50,7 @@ mission "Destroy CSSF Patrol, Small [2]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -74,8 +72,7 @@ mission "Destroy CSSF Patrol, Small [3]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -97,8 +94,7 @@ mission "Destroy CSSF Patrol, Small [4]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -120,8 +116,7 @@ mission "Destroy CSSF Patrol, Small [5]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -143,8 +138,7 @@ mission "Destroy CSSF Patrol, Small [6]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -166,8 +160,7 @@ mission "Destroy CSSF Patrol, Small [7]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -189,8 +182,7 @@ mission "Destroy CSSF Patrol, Small [8]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -214,8 +206,7 @@ mission "Destroy CSSF Patrol, Medium [1]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -237,8 +228,7 @@ mission "Destroy CSSF Patrol, Medium [2]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -260,8 +250,7 @@ mission "Destroy CSSF Patrol, Medium [3]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -283,8 +272,7 @@ mission "Destroy CSSF Patrol, Medium [4]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -306,8 +294,7 @@ mission "Destroy CSSF Patrol, Medium [5]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -329,8 +316,7 @@ mission "Destroy CSSF Patrol, Medium [6]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -352,8 +338,7 @@ mission "Destroy CSSF Patrol, Medium [7]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -375,8 +360,7 @@ mission "Destroy CSSF Patrol, Medium [8]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -400,8 +384,7 @@ mission "Destroy CSSF Patrol, Large [1]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -423,8 +406,7 @@ mission "Destroy CSSF Patrol, Large [2]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -446,8 +428,7 @@ mission "Destroy CSSF Patrol, Large [3]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -469,8 +450,7 @@ mission "Destroy CSSF Patrol, Large [4]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -492,8 +472,7 @@ mission "Destroy CSSF Patrol, Large [5]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -515,8 +494,7 @@ mission "Destroy CSSF Patrol, Large [6]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -538,8 +516,7 @@ mission "Destroy CSSF Patrol, Large [7]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
@@ -561,8 +538,7 @@ mission "Destroy CSSF Patrol, Large [8]"
 	on complete
 		dialog phrase "generic fleet bounty hunting payment dialog"
 		payment 800000
-	on fail
-		dialog phrase spa.missionFail.general
+
 	npc kill
 		government "Yuyuko Saigyouji (Hostile)"
 		system
