@@ -471,6 +471,17 @@ system Vensur
 	link Arket
 	link Sprad
 	link Starish
+	arrival 500
+	fleet spa.small 500
+	fleet spa.medium 800
+	fleet spa.large 1200
+	fleet cssf.small 1900
+	fleet cssf.medium 2300
+	fleet cssf.large 4000
+	fleet "Large Republic" 2000
+	fleet "Small Republic" 1400
+	fleet "Small Northern Merchants" 300
+	fleet "Large Northern Merchants" 600
 	object
 		sprite "star/f5"
 		distance 0
@@ -479,7 +490,7 @@ system Vensur
 		sprite "planet/rock3"
 		distance 455
 		period 144
-	object
+	object Barachen
 		sprite "planet/ocean0-b"
 		distance 835
 		period 344
@@ -1177,3 +1188,14 @@ planet "Voreo"
 	landscape "land/voreo"
 	description "Voreo is a Republic outpost, presumably to keep an eye on the activities of the Sayari Plushie Authority in the Pelitol Cluster. It's unclear how they are able to circumvent the patrols of the Sayari Plushie Authority, though."
 	spaceport "Voreo's spaceport is designed more for large ships. Soldiers and officers in Republic uniforms dominate the landscape, but thankfully are nice enough to refuel and repair your ship at no cost."
+
+planet Barachen
+	government "Sayari Plushie"
+	landscape "land/barachen"
+	shipyard "Sayari Advanced"
+	outfitter "Sayari Outfits"
+	description "Barachen is an ocean world where roughly 85% of the surface is an ocean. Small settlements are present on most of Barachen's islands, home to a few plushie stashes and factories, most of which are well-hidden."
+	description "One of the larger island chains is home to a massive SPA naval base, the spaceport, and shipyard, presumably to intimidate the Republic outpost on Voreo."
+	description "Barachen's factories rival the factories of Zarkxaa in the production of Sayari plushies and merchandise. If Zarkxaa was to be occupied, Barachen would only need to increase it's production to make up for the lost supply."
+	spaceport "The spaceport is located in the civilian area of the SPA naval base. The surrounding settlement is roughly 300,000 strong. As usual, large turrets have been placed on the naval base for protection against CSSF attacks. The shipyard is closely integrated with the naval base."
+	spaceport "Meanwhile, the spaceport village offers several services such as food, drinks, ship repairs, and most importantly, plushies of either Freya Winters or Sayari. The traffic at the spaceport is fairly light with a ship entering roughly every 4 minutes."
