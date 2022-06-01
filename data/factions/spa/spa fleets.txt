@@ -19,6 +19,7 @@
 fleet spa.small
 	government "Sayari Plushie"
 	names spa.allNames
+	cargo 5
 	variant 30
 		"Amidala" 1
 	variant 20
@@ -83,6 +84,7 @@ fleet spa.small
 fleet spa.medium
 	government "Sayari Plushie"
 	names spa.allNames
+	cargo 5
 	variant 30
 		"SPA Kestrel" 2
 		"SPA Cruiser" 3
@@ -138,6 +140,7 @@ fleet spa.medium
 fleet spa.large
 	government "Sayari Plushie"
 	names spa.allNames
+	cargo 5
 	variant 15
 		"SPA Kestrel" 3
 	variant 30
