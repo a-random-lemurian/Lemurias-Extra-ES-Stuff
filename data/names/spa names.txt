@@ -53,6 +53,7 @@ phrase "spa, no prefix"
 		"politicians" 63
 		"chemical elements" 118
 		"locations" 51
+		"mountains" 170
 
 phrase "ingame characters"
 	word
