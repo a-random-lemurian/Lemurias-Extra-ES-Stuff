@@ -52,7 +52,7 @@ phrase "spa, no prefix"
 		"ingame characters" 3
 		"politicians" 63
 		"chemical elements" 118
-		"locations" 51
+		"locations" 90
 		"mountains" 170
 
 phrase "ingame characters"
@@ -82,7 +82,7 @@ phrase "SPA Republic Livery names"
 phrase "locations"
 	phrase
 		"Hai systems" 18
-		"cities" 33
+		"cities" 72
 
 phrase "Hai systems"
 	word
@@ -314,6 +314,7 @@ phrase "chemical elements"
 phrase "cities"
 	phrase
 		"philippine cities" 33
+		"american cities" 39
 
 phrase "philippine cities"
 	word
@@ -350,3 +351,45 @@ phrase "philippine cities"
 		"Makati"
 		"Paranaque" # Intentionally unaccented to retain ASCII support
 		"Quezon City" # Included for consistency's sake
+
+phrase "american cities"
+	word
+		"Boston"
+		"New York"
+		"Miami"
+		"Los Angeles"
+		"Merced"
+		"Modesto"
+		"San Francisco"
+		"Cheyenne"
+		"Chicago"
+		"Austin"
+		"Fort Worth"
+		"Dallas"
+		"Bakersfield"
+		"Philadelphia"
+		"Detroit"
+		"Denver"
+		"Boise"
+		"Seattle"
+		"Tacoma"
+		"Spokane"
+		"Sacramento"
+		"Fresno"
+		"Las Vegas"
+		"Phoenix"
+		"Tucson"
+		"Albuquerque"
+		"San Diego"
+		"Houston"
+		"San Antonio"
+		"New Orleans"
+		"Baton Rouge"
+		"Tampa"
+		"Orlando"
+		"Cincinnati"
+		"Louisville"
+		"Albany"
+		"Rochester"
+		"Syracuse"
+		"Buffalo"
