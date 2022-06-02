@@ -26,7 +26,7 @@ trade
 		"sensitive images"
 		"sensitive fan fiction"
 
-	commodity "Data drives" 2309 13445
+	commodity "Data drives"
 		"movies"
 		"browser history"
 		"sensitive browser history"

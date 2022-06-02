@@ -99,7 +99,7 @@ system Aljuik
 	fleet cssf.medium 4700
 	fleet cssf.large 6700
 	trade Clothing 432
-	trade "Data drives" 9800
+
 	trade Electronics 639
 	trade Equipment 681
 	trade Food 108
@@ -501,7 +501,7 @@ system Hiljaak
 	habitable 1574
 	belt 1181
 	trade Clothing 453
-	trade "Data drives" 7097
+
 	trade Electronics 987
 	trade Equipment 509
 	trade Food 664
@@ -617,7 +617,7 @@ system Illumina
 	habitable 890
 	belt 1362
 	trade Clothing 231
-	trade "Data drives" 8098
+
 	trade Electronics 499
 	trade Equipment 450
 	trade Food 705
@@ -680,7 +680,7 @@ system Illuria
 	habitable 889.35
 	belt 853
 	trade Clothing 308
-	trade "Data drives" 10988
+
 	trade Electronics 733
 	trade Equipment 388
 	trade Food 765
@@ -744,7 +744,7 @@ system Jarkiiens
 	fleet cssf.medium 4700
 	fleet cssf.large 6700
 	trade Clothing 343
-	trade "Data drives" 13201
+
 	trade Electronics 678
 	trade Equipment 732
 	trade Food 309
@@ -1149,7 +1149,7 @@ system Minjuuk
 	link Lesarkei
 	link Littike
 	trade Clothing 349
-	trade "Data drives" 9842
+
 	trade Electronics 588
 	trade Equipment 643
 	trade Food 145
@@ -1339,7 +1339,7 @@ system Suerolii
 	fleet "Paradise Merchants" 1400
 	fleet "Large Northern Pirates" 4000
 	trade Clothing 448
-	trade "Data drives" 8948
+
 	trade Electronics 998
 	trade Equipment 612
 	trade Food 509
@@ -1576,7 +1576,7 @@ system Suerolii
 	fleet "Large Northern Pirates" 4000
 	fleet spa.general.emptyCarriers.small.1 2800
 	trade Clothing 448
-	trade "Data drives" 8948
+
 	trade Electronics 998
 	trade Equipment 612
 	trade Food 509
