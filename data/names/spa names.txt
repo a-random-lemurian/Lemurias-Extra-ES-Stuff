@@ -54,6 +54,7 @@ phrase "spa, no prefix"
 		"chemical elements" 118
 		"locations" 90
 		"mountains" 170
+		"leest standalone names" 2
 
 phrase "ingame characters"
 	word
@@ -104,6 +105,11 @@ phrase "Hai systems"
 		"Da Ent"
 		"Uwa Fahn"
 		"Ya Hai"
+
+phrase "leest standalone names"
+	word
+		"Radical Dreamland"
+		"Nautilus"
 
 phrase "politicians"
 	phrase
