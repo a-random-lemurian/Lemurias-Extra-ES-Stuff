@@ -89,6 +89,10 @@ fleet spa.medium
 		"SPA Kestrel" 2
 		"SPA Cruiser" 3
 		"SPA Gunboat" 1
+	variant 25
+		"SPA Rosas" 1
+	variant 10
+		"SPA Rosas" 3
 	variant 15
 		"Amidala" 2
 	variant 40
@@ -148,6 +152,14 @@ fleet spa.large
 	government "Sayari Plushie"
 	names spa.allNames
 	cargo 5
+	variant 40
+		"SPA Rosas" 2
+	variant 30
+		"SPA Rosas" 4
+	variant 50
+		"SPA Rosas" 3
+	variant 10
+		"SPA Rosas" 8
 	variant 15
 		"SPA Kestrel" 3
 	variant 30

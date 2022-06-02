@@ -947,3 +947,58 @@ ship "Kestrel" "SPA Kestrel (Proton)"
 	gun 29.5 52    "Proton Gun"
 	gun 33 55      "Proton Gun"
 	description "The SPA Kestrel is a refitted Kestrel, built to fit the needs of the Sayari Plushie Authority."
+
+ship "SPA Rosas"
+	sprite "ship/arach spindle"
+	thumbnail "thumbnail/arach spindle"
+	attributes
+		category "Medium Warship"
+		"cost" 12652000
+		"shields" 20000
+		"hull" 42000
+		"required crew" 4
+		"bunks" 14
+		"mass" 340
+		"drag" 10.8
+		"heat dissipation" .55
+		"fuel capacity" 500
+		"cargo space" 300
+		"outfit space" 586
+		"weapon capacity" 288
+		"engine capacity" 198
+		weapon
+			"blast radius" 100
+			"shield damage" 1000
+			"hull damage" 500
+			"hit force" 1500
+	outfits
+		"Heavy Laser" 2
+		"Heavy Laser Turret" 4
+
+		"White Sun Reactor"
+		"Nanotech Battery"
+
+		"Large Heat Shunt"
+		
+		"Smelter-Class Thruster"
+		"Smelter-Class Steering"
+
+		"SPA Scan Blocker" 10
+
+		"Hyperdrive"
+		
+	engine -13 198 .7
+	engine 0 199 1
+	engine 13 198 .7
+	gun -27 -88 "Heavy Laser"
+	gun 27 -88 "Heavy Laser"
+	turret 0 -65 "Heavy Laser Turret"
+	turret -30 -45 "Heavy Laser Turret"
+	turret 30 -45 "Heavy Laser Turret"
+	turret 0 189 "Heavy Laser Turret"
+	explode "small explosion" 10
+	explode "medium explosion" 20
+	explode "large explosion" 20
+	"final explode" "final explosion large"
+	description `The Rosas-class freighter ("Rosas" meaning "pink" in Tagalog) is a large-scale plushie smuggling ship, meant as a replacement for the Syndicate Bulk Freighter. It may be a freighter but it is classified as a Medium Warship due to it's armanent. `
+
