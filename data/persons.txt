@@ -84,5 +84,6 @@ person "Liz Cheney"
 		"final explode" "final explosion medium"
 		description "The Star Queen is a relic of a more peaceful period of galactic history: a luxury liner for high-end tourists. Every cabin has its own mini-bar, and the bathrooms have marble tile and showers that use actual hot water instead of chemicals or sonic vibrations."
 		description "	In support of environmental movements across the galaxy, all Star Queens come standard with an array of solar panels as their only source of energy as opposed to more popular power generators such as fuel cells or nuclear reactors that produce some amount of waste. Although some argue that this is a pointless move given the prevalence of clean fusion reactors, others have applauded it and cited the prohibitive costs of fusion reactors as a reason for using solar panels."
+		description "	This particular Star Queen belongs to Liz Cheney, who resided on a region of Earth known as the United States during the pre-hyperdrive era."
 
 
