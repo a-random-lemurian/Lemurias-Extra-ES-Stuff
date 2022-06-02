@@ -113,6 +113,13 @@ fleet spa.medium
 		"SPA Cruiser (Ion)" 1
 	variant 50
 		"SPA Cruiser (Electron)" 2
+	variant 35
+		"SPA Kestrel (Proton)" 4
+		"SPA Kestrel" 2
+	variant 30
+		"SPA Kestrel (Proton)" 2
+	variant 45
+		"SPA Cruiser (Ion)" 8
 	variant 2
 		"Model 512" 4
 		"Model 256" 9
@@ -173,6 +180,9 @@ fleet spa.large
 	variant 15
 		"SPA Cruiser (Ion)" 6
 		"SPA Gunboat" 4
+	variant 30
+		"SPA Kestrel (Proton)" 4
+		"SPA Kestrel"
 	variant 3
 		"Model 512" 4
 		"Model 256" 3

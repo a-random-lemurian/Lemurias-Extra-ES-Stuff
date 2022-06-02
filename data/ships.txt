@@ -902,3 +902,48 @@ ship "Kestrel" "SPA Kestrel"
 	explode "small explosion" 25
 	"final explode" "final explosion large" 1
 	description "The SPA Kestrel is a refitted Kestrel, built to fit the needs of the Sayari Plushie Authority."
+
+ship "Kestrel" "SPA Kestrel (Proton)"
+	sprite "ship/kestrelw"
+	thumbnail "thumbnail/kestrelw"
+	attributes
+		category "Heavy Warship"
+		cost 14700000
+		mass 740
+		bunks 128
+		"cargo space" 120
+		drag 11
+		"engine capacity" 210
+		"fuel capacity" 500
+		"gun ports" 12
+		"heat dissipation" 0.6
+		hull 7200
+		"outfit space" 810
+		"required crew" 64
+		shields 19400
+		"turret mounts" 4
+		"weapon capacity" 430
+	outfits
+		"A520 Atomic Thruster"
+		"A525 Atomic Steering"
+		"Antimatter Core"
+		"Dark Storm Shielding"
+		"Hyperdrive"
+		"Proton Gun" 12
+		"LP144a Battery Pack"
+		"Liquid Nitrogen Cooler"
+		"Outfits Expansion" 2
+	
+	gun -73.5 46   "Proton Gun"
+	gun -76.5 49   "Proton Gun"
+	gun 73.5 46    "Proton Gun"
+	gun 76.5 49    "Proton Gun"
+	gun -51 49.5   "Proton Gun"
+	gun -55.5 52.5 "Proton Gun"
+	gun 51 49.5    "Proton Gun"
+	gun 55.5 52.5  "Proton Gun"
+	gun -29.5 52   "Proton Gun"
+	gun -33 55     "Proton Gun"
+	gun 29.5 52    "Proton Gun"
+	gun 33 55      "Proton Gun"
+	description "The SPA Kestrel is a refitted Kestrel, built to fit the needs of the Sayari Plushie Authority."
