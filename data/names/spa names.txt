@@ -55,6 +55,7 @@ phrase "spa, no prefix"
 		"locations" 90
 		"mountains" 170
 		"leest standalone names" 2
+		"people worthy of being ship names" 7
 
 phrase "ingame characters"
 	word
@@ -96,6 +97,22 @@ phrase "locations"
 	phrase
 		"Hai systems" 18
 		"cities" 72
+
+# General category for people who:
+# - aren't politicians, and who
+# - the SPA names it's ships after.
+phrase "people worthy of being ship names"
+	word
+		# Depp v. Heard, 2022 trial case
+		"Johnny Depp"
+		"Amber Heard"
+		"Camille Vasquez"
+
+		"Linus Torvalds"          # Linux kernel creator
+		"Richard Stallman"        # GNU Project creator
+
+		"Rainych Ran"             # Indonesian singer
+		"Lizz Robinett"           # American singer
 
 phrase "Hai systems"
 	word
