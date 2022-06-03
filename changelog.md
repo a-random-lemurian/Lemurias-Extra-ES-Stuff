@@ -7,6 +7,12 @@
 - Rebalanced payments for data transport missions (again)
 - Added Kor Mereti ships to SPA fleets (spawns very rarely)
 - Reworked SPA missions for CSSF patrol bounties.
+- Added variant of the SPA Kestrel with Proton Guns.
+- Added the Rosas-class ship (which is just a rebranded Arach Spindle)
+- Added illegal data transport
+- Stopped displaying failure dialog when rejecting a SPA mission.
+- Populated the rest of the Illumina Regions.
+- Significantly expanded the Pelitol Cluster.
 
 ### v0.10.13
 - Didn't remove Orbona system (I made an error in commit 94a59c875f889cf36d13c94e6fb8253bca34269d, blame me for it.)
