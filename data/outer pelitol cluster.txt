@@ -886,12 +886,28 @@ system Porsuei
 	link Opfrau
 	link Posteli
 	link Vachrau
+	trade Clothing 141
+	trade Electronics 641
+	trade Equipment 411
+	trade Food 301
+	trade "Heavy Metals" 837
+	trade Industrial 512
+	trade "Luxury Goods" 708
+	trade Medical 431
+	trade Metal 655
+	trade Plastic 513
+	government Republic
+	fleet "Small Republic" 900
+	fleet "Large Republic" 1400
+	fleet "Small Northern Merchants" 600
+	fleet "Large Northern Merchants" 1100
+	fleet spa.small 1500
 	habitable 508
 	object
 		sprite "star/m5"
 		distance 0
 		period 3.13
-	object
+	object Gura
 		sprite "planet/earth"
 		distance 511
 		period 288.41
@@ -1544,3 +1560,9 @@ planet "Taraz"
 	description `Taraz is a forest world. The vast majority of the population of Taraz reside in a single metropolitan area. Over 75% of the land on Taraz has been designated as a nature reserve, and only biologists, scientists reside on that part of the planet. Not to be confused with Tarsia in the neighboring Vachrau system or Tarazed.`
 	description `The forest surrounding the city is home to several native species of trees. It is for this reason that ships are inspected closely for the presence of any invasive species.`
 	spaceport `The spaceport on Taraz is located in a small exclave surrounded by the nature reserve. From space, a line of deforested land can be seen running between the spaceport and the Taraz metropolitan area. This strip of land is the only major route and is high traffic with a large team of air traffic controllers coordinating spaceship traffic along the route.`
+
+planet Gura
+	landscape "land/gura"
+	government "Republic"
+	description `.`
+	spaceport `.`
