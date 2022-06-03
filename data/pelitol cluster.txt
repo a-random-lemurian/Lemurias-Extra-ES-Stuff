@@ -1081,12 +1081,31 @@ system Daxter
 	link Ourais
 	link Sprooe
 	link Varisa
+	trade Clothing 304
+	trade Electronics 523
+	trade Equipment 489
+	trade Food 401
+	trade "Heavy Metals" 771
+	trade Industrial 538
+	trade "Luxury Goods" 1233
+	trade Medical 643
+	trade Metal 801
+	trade Plastic 876
+	government "Sayari Plushie"
+	fleet spa.small 900
+	fleet spa.medium 1700
+	fleet spa.large 2500
+	fleet cssf.small 2000
+	fleet cssf.medium 2900
+	fleet cssf.large 6100
+	fleet "Small Northern Merchants" 400
+	fleet "Large Northern Merchants" 530
 	fleet "Small Northern Pirates" 1300
 	object
 		sprite "star/f0"
 		distance 0
 		period 0
-	object
+	object Ancherum
 		sprite "planet/forest2"
 		distance 804
 		period 453
@@ -1221,6 +1240,12 @@ planet Barachen
 
 planet Naprai
 	landscape "land/naprai"
+	government "Sayari Plushie"
+	description `.`
+	spaceport `.`
+
+planet Ancherum
+	landscape "land/ancherum"
 	government "Sayari Plushie"
 	description `.`
 	spaceport `.`
