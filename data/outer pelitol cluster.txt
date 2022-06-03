@@ -401,12 +401,23 @@ system Posteli
 	link Freula
 	link Nestia
 	link Porsuei
+	government "Republic"
+	trade Clothing 180
+	trade Electronics 713
+	trade Equipment 511
+	trade Food 271
+	trade "Heavy Metals" 637
+	trade Industrial 741
+	trade "Luxury Goods" 1408
+	trade Medical 431
+	trade Metal 631
+	trade Plastic 513
 	habitable 431
 	object
 		sprite "star/m3"
 		distance 0
 		period 3.40
-	object
+	object Pareia
 		sprite "planet/earth"
 		distance 451
 		period 89.403
@@ -1564,5 +1575,11 @@ planet "Taraz"
 planet Gura
 	landscape "land/gura"
 	government "Republic"
+	description `.`
+	spaceport `.`
+
+planet "Pareia"
+	landscape "land/pareia"
+	government Republic
 	description `.`
 	spaceport `.`
