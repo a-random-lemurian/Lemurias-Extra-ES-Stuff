@@ -1103,6 +1103,25 @@ system Varisa
 	pos -8612.7222 -179.33333
 	link Daxter
 	link Sprad
+	government "Sayari Plushie"
+	trade Clothing 384
+	trade Electronics 701
+	trade Equipment 553
+	trade Food 450
+	trade "Heavy Metals" 1107
+	trade Industrial 498
+	trade "Luxury Goods" 633
+	trade Medical 344
+	trade Metal 461
+	trade Plastic 503
+	fleet spa.small 900
+	fleet spa.medium 1700
+	fleet spa.large 2500
+	fleet cssf.small 2000
+	fleet cssf.medium 2900
+	fleet cssf.large 6100
+	fleet "Small Northern Merchants" 400
+	fleet "Large Northern Merchants" 530
 	fleet "Small Northern Pirates" 1300
 	object
 		sprite "star/m0"
@@ -1112,7 +1131,7 @@ system Varisa
 		sprite "planet/rock4"
 		distance 543
 		period 334
-	object
+	object Naprai
 		sprite "planet/rock2"
 		distance 880
 		period 577
@@ -1199,3 +1218,9 @@ planet Barachen
 	description "Barachen's factories rival the factories of Zarkxaa in the production of Sayari plushies and merchandise. If Zarkxaa was to be occupied, Barachen would only need to increase it's production to make up for the lost supply."
 	spaceport "The spaceport is located in the civilian area of the SPA naval base. The surrounding settlement is roughly 300,000 strong. As usual, large turrets have been placed on the naval base for protection against CSSF attacks. The shipyard is closely integrated with the naval base."
 	spaceport "Meanwhile, the spaceport village offers several services such as food, drinks, ship repairs, and most importantly, plushies of either Freya Winters or Sayari. The traffic at the spaceport is fairly light with a ship entering roughly every 4 minutes."
+
+planet Naprai
+	landscape "land/naprai"
+	government "Sayari Plushie"
+	description `.`
+	spaceport `.`
