@@ -23,6 +23,7 @@ shipyard "Sayari Advanced"
 	"SPA Carrier (Combat)"
 	"SPA Hauler III"
 	"SPA Kestrel"
+	"SPA Rosas"
 
 shipyard "Sayari Heliarch Ships"
 	"SPA Heliarch Punisher"
