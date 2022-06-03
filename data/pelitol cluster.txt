@@ -978,6 +978,7 @@ system Erou
 	link Ourais
 	link Presad
 	link Vifura
+	government "Sayari Plushie"
 	fleet "Small Northern Pirates" 1300
 	object
 		sprite "star/g-supergiant"
