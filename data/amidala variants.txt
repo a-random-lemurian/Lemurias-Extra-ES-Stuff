@@ -109,16 +109,12 @@ ship "Amidala" "Amidala Miner"
 	outfits
 		"Korath Slicer" 4
 		"Korath Warder" 2
-		"Korath Slicer Turret" 6
-		"Heavy Laser Turret" 1
-
-		"Triple Plasma Core"
-		"Plasma Core"
-		"Systems Core (Large)"
-		"Large Heat Shunt" 4
-		"Small Heat Shunt" 2
-		"Control Transceiver"
 		
+		"Antimatter Core" 2
+		"Nanotech Battery" 4
+
+		"Large Heat Shunt" 2
+
 		`"Bufaer" Atomic Thruster`
 		`"Bufaer" Atomic Steering`
 		Hyperdrive
@@ -177,20 +173,15 @@ ship "Amidala" "Skylance Amidala"
 		"Korath Warder" 2
 		"Quarg Skylance" 6
 
-		"Triple Plasma Core"
-		"Plasma Core"
-		"Systems Core (Large)"
-		"Large Heat Shunt" 4
-		"Small Heat Shunt" 2
-		"Control Transceiver"
-		
+		"Antimatter Core" 2
+		"Nanotech Battery" 4
+
+		"Large Heat Shunt" 2
+
 		`"Bufaer" Atomic Thruster`
 		`"Bufaer" Atomic Steering`
 		"Jump Drive"
 
-	engine -24 237
-	engine 24 237
-	engine 0 237
 	gun -8 -212 "Korath Slicer"
 	gun 8 -212 "Korath Slicer"
 	gun -16 -158 "Korath Slicer"
