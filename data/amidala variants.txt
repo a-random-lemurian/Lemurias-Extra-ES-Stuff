@@ -19,7 +19,7 @@
 # of Eisei.
 
 ship "Amidala"
-	sprite "ship/kar ik vot 349"
+	sprite "ship/amidala"
 	thumbnail "thumbnail/kar ik vot 349"
 	attributes
 		category "Heavy Warship"
@@ -83,7 +83,7 @@ ship "Amidala"
 
 
 ship "Amidala" "Amidala Miner"
-	sprite "ship/kar ik vot 349"
+	sprite "ship/amidala"
 	thumbnail "thumbnail/kar ik vot 349"
 	attributes
 		category "Heavy Warship"
@@ -148,7 +148,7 @@ ship "Amidala" "Amidala Miner"
 
 
 ship "Amidala" "Skylance Amidala"
-	sprite "ship/kar ik vot 349"
+	sprite "ship/amidala"
 	thumbnail "thumbnail/kar ik vot 349"
 	attributes
 		category "Heavy Warship"
