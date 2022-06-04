@@ -191,6 +191,18 @@ system Ouchar
 	link Deriato
 	link Doler
 	link Gensar
+	trade Clothing 354
+	trade Electronics 471
+	trade Equipment 443
+	trade Food 401
+	trade "Heavy Metals" 771
+	trade Industrial 538
+	trade "Luxury Goods" 733
+	trade Medical 455
+	trade Metal 614
+	trade Plastic 631
+	government "Sayari Plushie"
+	arrival 3440
 	habitable 503
 	object
 		sprite "star/m0"
@@ -200,7 +212,7 @@ system Ouchar
 		sprite "planet/lava3"
 		distance 188.405
 		period 103.20
-	object
+	object Ponarai
 		sprite "planet/cloud5-b"
 		distance 506.330
 		period 308.31
@@ -531,6 +543,7 @@ system Maryn-qarou
 	link Doler
 	link Isalor
 	link Pentarok
+	government "Sayari Plushie"
 	habitable 4331
 	object
 		sprite "star/a-supergiant"
@@ -560,7 +573,7 @@ system Maryn-qarou
 		sprite "planet/rock9"
 		distance 3133.47
 		period 1207.554
-	object
+	object Lattice
 		sprite "planet/forest5-b"
 		distance 4380.45
 		period 1404.50
@@ -1133,6 +1146,17 @@ system Deriato
 	link Ouchar
 	link Presad
 	link Purai
+	trade Clothing 260
+	trade Electronics 471
+	trade Equipment 419
+	trade Food 198
+	trade "Heavy Metals" 735
+	trade Industrial 611
+	trade "Luxury Goods" 1433
+	trade Medical 543
+	trade Metal 711
+	trade Plastic 696
+	government "Sayari Plushie"
 	object
 		sprite "star/m0"
 		distance 0
@@ -1145,7 +1169,7 @@ system Deriato
 		sprite "planet/rock13-b"
 		distance 734.15
 		period 183.21
-	object
+	object Steirek
 		sprite "planet/rock8-b"
 		distance 1133
 		period 205.47
@@ -1161,6 +1185,17 @@ system Deriato
 system Purai
 	pos -8552.8468 -281.42311
 	link Deriato
+	trade Clothing 260
+	trade Electronics 471
+	trade Equipment 419
+	trade Food 198
+	trade "Heavy Metals" 735
+	trade Industrial 611
+	trade "Luxury Goods" 1433
+	trade Medical 543
+	trade Metal 711
+	trade Plastic 696
+	government "Sayari Plushie"
 	object
 		sprite "star/o5"
 		distance 0
@@ -1173,7 +1208,7 @@ system Purai
 		sprite "planet/rock9-b"
 		distance 743.14
 		period 170.45
-	object
+	object Narchrai
 		sprite "planet/rock1"
 		distance 1047.42
 		period 288.41
@@ -1337,6 +1372,17 @@ system "94 Merisai"
 	link "43 Merisai"
 	link Miruver
 	link Vefrua
+	trade Clothing 209
+	trade Electronics 711
+	trade Equipment 604
+	trade Food 344
+	trade "Heavy Metals" 715
+	trade Industrial 544
+	trade "Luxury Goods" 1633
+	trade Medical 511
+	trade Metal 745
+	trade Plastic 610
+	government "Republic"
 	object
 		sprite "star/m3"
 		distance 0
@@ -1345,7 +1391,7 @@ system "94 Merisai"
 		sprite "planet/rock6"
 		distance 440
 		period 89.123
-	object
+	object Brigantium
 		sprite "planet/earth-b"
 		distance 913.4
 		period 201.458
@@ -1581,5 +1627,35 @@ planet Gura
 planet "Pareia"
 	landscape "land/pareia"
 	government Republic
+	description `.`
+	spaceport `.`
+
+planet "Steirek"
+	landscape "land/steirek"
+	government "Sayari Plushie"
+	description `.`
+	spaceport `.`
+
+planet Ponarai
+	landscape "land/ponarai"
+	government "Sayari Plushie"
+	description `.`
+	spaceport `.`
+
+planet Narchrai
+	landscape "land/narchrai"
+	government "Sayari Plushie"
+	description `.`
+	spaceport `.`
+
+planet Brigantium
+	landscape "land/brigantium"
+	government "Republic"
+	description `.`
+	spaceport `.`
+
+planet Lattice
+	landscape "land/lattice"
+	government "Republic"
 	description `.`
 	spaceport `.`
