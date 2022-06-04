@@ -239,3 +239,46 @@ phrase leest.foss.sp.proprietaryInsults.3
 		"you should have been blown up by pirates a long time ago"
 	word
 		"!"
+
+phrase "friendly civilian"
+	phrase
+		"Amber Heard insults"
+
+phrase "Amber Heard insults"
+	phrase
+		"Amber Heard insults 1"
+		"Amber Heard insults 2"
+
+phrase "Amber Heard insults 1"
+	word
+		"We carved "
+	word
+		"Elaine Bredehoft"
+		"Amber Heard"
+	word
+		" into an asteroid, and watched"
+	word
+		" "
+	word
+		"a miner"
+		"some miners"
+		"a merchant"
+	word
+		" "
+	word
+		"absolutely destroy it"
+		"shoot it until it was nothing"
+		"take that asteroid into their cargo hold to egg it"
+		"take that asteroid into their cargo hold to desecrate it"
+	word
+		"."
+	word
+		" "
+	word
+		"It was fun."
+
+phrase "Amber Heard insults 2"
+	word
+		"Amber Heard, actress born on Earth c. 1985-1990, lost a major court case against Johnny Depp in 2022. She retreated to a secluded settlement in the desert regions of Earth. To this day, effigies of Amber Heard are regularly burned across human space."
+		"The court case between Amber Heard and Johnny Depp in 2022 is still used as a case study for law schools well into the 3000s."
+		"Elaine Bredehoft was a lawyer born on Earth, who represented pre-spaceflight era Earth-born actress Amber Heard in a court case in 2022. Effigies of her are burnt alongside Amber Heard effigies in human space regularly."
