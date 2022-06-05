@@ -1596,8 +1596,11 @@ planet Mirdenheim
 planet Martieu
 	landscape "land/martieu"
 	government "Republic"
-	description "."
-	spaceport "."
+	description `Martieu is an unusually religious and conservative planet. Data chips on Martieu are frequently inspected and any chip containing "objectionable" material is destroyed. Aside from censorship of the galactic internet, the government of Martieu has implemented conservative policies.`
+	description `60% of the surface of Martieu is an ocean. The remaining 40% has been subject to urbanization and deforestation.`
+	spaceport `Martieu's spaceport is located at the largest city. Security guards can be seen inspecting people's data chips for so-called "objectionable" material. The spaceport has several different types of bays, optimized for loading and unloading either passengers or several types of cargo.`
+	spaceport `The spaceport is connected to a large shopping center, where most of the commerce occurs.`
+	security 0.73
 
 planet Kabegan
 	landscape "land/kabegan"
