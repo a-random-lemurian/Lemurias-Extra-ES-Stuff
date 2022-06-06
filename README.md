@@ -82,6 +82,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Barachen                  | Jjm596               | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Mizen_Head_2695.jpg))
 | Taraz                     | Benh LIEU SONG       | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg))
 | Martieu                   | David Schwab         | Public domain           | ([orig](https://commons.wikimedia.org/wiki/File:Allegheny_Monongahela_Ohio.jpg))
+| Tarsia                    | Qbolewicz            | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Panorama_siekierkowski.jpg))
 
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
 

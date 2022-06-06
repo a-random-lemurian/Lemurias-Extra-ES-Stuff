@@ -1610,9 +1610,13 @@ planet Kabegan
 
 planet Tarsia
 	landscape "land/tarsia"
+	shipyard "Tarazed Basics"
+	shipyard "Tarazed Advanced"
+	shipyard "Sayari Advanced"
+	outfitter "Sayari Outfits"
 	government "Republic"
-	description "."
-	spaceport "."
+	description "Tarsia is another of the developed and heavily urbanized planets of the southeast parts of the Pelitol Cluster. Tarsia is home to a significant SPA presence, though not enough for this planet to be governed outright by them. Tarsia is home to a large SPA distribution center, which is responsible for the sale and distribution of all plushies in the southeast Pelitol Cluster."
+	spaceport "Tarsia's spaceport is in a way, similar to Earth's spaceport. Serving a city of roughly 75 million people, most parts of the spaceport are dilapidated except for the private terminal reserved for the rich and famous. Some slave shops are likely operating within the deeper, more hidden parts of the spaceport."
 
 planet "Taraz"
 	landscape "land/taraz"
