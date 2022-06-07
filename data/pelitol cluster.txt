@@ -547,17 +547,28 @@ system Starish
 			period 302
 
 system Darceas
-	government "Sayari Plushie"
+	government "Republic"
 	pos -8461.199 -33.3076
 	link Starish
 	link Orchao
 	link Varfeticasa
 	link Orunat
+	trade Clothing 319
+	trade Electronics 463
+	trade Equipment 578
+	trade Food 244
+	trade "Heavy Metals" 611
+	trade Industrial 703
+	trade "Luxury Goods" 1417
+	trade Medical 601
+	trade Metal 721
+	trade Plastic 816
+	trade Food 244
 	object
 		sprite "star/m4"
 		distance 0
 		period 0
-	object
+	object Heine
 		sprite "planet/rock4"
 		distance 804
 		period 332
@@ -905,6 +916,17 @@ system Ourais
 	belt 1344
 	link Daxter
 	link Erou
+	trade Clothing 359
+	trade Electronics 513
+	trade Equipment 629
+	trade Food 184
+	trade "Heavy Metals" 771
+	trade Industrial 438
+	trade "Luxury Goods" 1233
+	trade Medical 643
+	trade Metal 801
+	trade Plastic 876
+	government "Sayari Plushie"
 	fleet "Small Northern Pirates" 1300
 	asteroids "medium rock" 4 5.4054
 	asteroids "large rock" 1 4.9842
@@ -917,8 +939,8 @@ system Ourais
 		sprite "star/f0"
 		distance 0
 		period 0
-	object 
-		sprite "planet/lava2"
+	object Bardanistra
+		sprite "planet/forest1-b"
 		distance 451
 		period 211
 	object
@@ -1033,6 +1055,17 @@ system Presad
 	link Erou
 	link Vourgat
 	link Deriato
+	trade Clothing 194
+	trade Electronics 463
+	trade Equipment 619
+	trade Food 187
+	trade "Heavy Metals" 604
+	trade Industrial 517
+	trade "Luxury Goods" 1433
+	trade Medical 643
+	trade Metal 801
+	trade Plastic 132
+	government "Sayari Plushie"
 	fleet "Small Northern Pirates" 1300
 	object
 		sprite "star/f0"
@@ -1042,7 +1075,7 @@ system Presad
 		sprite "planet/rock9"
 		distance 450
 		period 211
-	object
+	object Ondoristra
 		sprite "planet/forest3"
 		distance 884
 		period 402
@@ -1063,12 +1096,21 @@ system Sprooe
 	pos -8730.8056 -99.694444
 	link Daxter
 	link Casfik
+	government "Sayari Plushie"
+	fleet spa.small 900
+	fleet spa.medium 1500
+	fleet spa.large 2000
+	fleet cssf.small 4500
+	fleet cssf.medium 5000
+	fleet cssf.large 5800
+	fleet "Small Northern Merchants" 700
+	fleet "Large Northern Merchants" 1900
 	fleet "Small Northern Pirates" 1300
 	object
 		sprite "star/g0"
 		distance 0
 		period 0
-	object
+	object Parton
 		sprite "planet/earth"
 		distance 1002
 		period 364.23
@@ -1194,6 +1236,18 @@ planet "Defal VI Station"
 	description "This is an outpost. With more migration to the Pelitol Cluster, the SPA is discussing plans to convert this into a fuel generation factory, leeching off Defal VI, the gas giant that this outpost orbits. The station, located in the rings of Defal VI, is equipped with cannons on all sides to protect the station from asteroid impacts."
 	spaceport "As standard procedure, there are fuel pumps. Not many people are here, and you feel like you're in a distant region of space. There is only one ship docked. The crew seem friendly and even let you view one of their plushies. Even in remote space, Freya Winters plushies run rampant."
 
+planet "Ondoristra"
+	landscape "land/ondoristra"
+	government "Sayari Plushie"
+	description `.`
+	spaceport `.`
+
+planet Bardanistra
+	landscape "land/bardanistra"
+	government "Sayari Plushie"
+	description `.`
+	spaceport `.`
+
 planet Perechra
 	landscape "land/perechra"
 	government "Sayari Plushie"
@@ -1248,5 +1302,17 @@ planet Naprai
 planet Ancherum
 	landscape "land/ancherum"
 	government "Sayari Plushie"
+	description `.`
+	spaceport `.`
+
+planet Parton
+	landscape "land/parton"
+	government "Sayari Plushie"
+	description `.`
+	spaceport `.`
+
+planet "Heine"
+	landscape "land/heine"
+	government "Republic"
 	description `.`
 	spaceport `.`
