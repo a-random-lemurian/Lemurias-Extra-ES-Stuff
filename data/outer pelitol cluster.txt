@@ -1605,8 +1605,10 @@ planet Martieu
 planet Kabegan
 	landscape "land/kabegan"
 	government "Republic"
-	description "."
-	spaceport "."
+	description "Unlike Martieu's notoriously high rates of religious adherence and strict data chip inspections and censorship laws, Kabegan is the opposite. Data chip inspections on Kabegan require search warrants, and over half of the planet's population is atheist. Several of Kabegan's settlements are located deep underground away from the planet's fault lines, some of which are barricaded by blast doors."
+	description "Kabegan is home to the highest concentration of datacenters in the Pelitol Cluster. Data storage devices are some of the cheapest in the Pelitol Cluster, and has some of the strongest privacy laws in the Republic. Media may be assigned an age-appropriateness rating and censored on other worlds, but not on Kabegan, which has no rating system in place for all forms of media."
+	spaceport "Kabegan's spaceport is located in one of the most mountainous parts of the planet, with several atmospheric routes extending out from the spaceport towards the most populated cities. Pastors and proselytizers roam the spaceport at times attempting to convert the planet's atheist population, but are simply ignored, treated as if they were never there."
+	spaceport "There are dorms at the spaceport and a small village nearby. However, most of the settlement surrounding the spaceport is connected physically to the spaceport building itself. The dorms within the spaceport are likely reserved for the spaceport workers."
 
 planet Tarsia
 	landscape "land/tarsia"
