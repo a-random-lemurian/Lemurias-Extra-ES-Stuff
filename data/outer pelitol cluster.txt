@@ -234,6 +234,15 @@ system Corua
 	link Daryn-qular
 	link Ertusca
 	link Pourat
+	fleet "Small Republic" 900
+	fleet "Large Republic" 1300
+	fleet "Small Northern Merchants" 300
+	fleet "Large Northern Merchants" 900
+	fleet "Small Northern Pirates" 2000
+	fleet spa.small 700
+	fleet spa.medium 1300
+	fleet spa.large 2000
+	fleet cssf.small 6000
 	government "Republic"
 	habitable 893
 	object
