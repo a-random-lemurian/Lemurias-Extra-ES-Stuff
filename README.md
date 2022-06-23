@@ -84,6 +84,9 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Martieu                   | David Schwab         | Public domain           | ([orig](https://commons.wikimedia.org/wiki/File:Allegheny_Monongahela_Ohio.jpg))
 | Tarsia                    | Qbolewicz            | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Panorama_siekierkowski.jpg))
 | Kabegan                   | cassi saari          | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Nachusa_Grasslands_Spring_2016.jpg))
+| Bredehoft                 | Dominic              | Public domain           | ([orig](https://commons.wikimedia.org/wiki/File:Scottsdale_cityscape4.jpg))
+
+Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
 

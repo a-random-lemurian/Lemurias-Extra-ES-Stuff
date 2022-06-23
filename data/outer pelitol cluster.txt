@@ -234,6 +234,7 @@ system Corua
 	link Daryn-qular
 	link Ertusca
 	link Pourat
+	government "Republic"
 	habitable 893
 	object
 		sprite "star/g0"
@@ -1668,3 +1669,11 @@ planet Lattice
 	government "Republic"
 	description `.`
 	spaceport `.`
+
+planet Bredehoft
+	landscape "land/bredehoft"
+	government "Republic"
+	description `The colony of Bredehoft, at the northeast of the Pelitol Cluster, is often nicknamed the law capital of the Cluster, due to its higher concentrations of lawyers compared to it's lawyers. It is sometimes said by the locals that a long bloodline of lawyers reside on this planet, going back to 21st century Earth.`
+	description `Bredehoft is an Earth-like planet with a roughly 1:1 ratio of land and water.`
+	spaceport `Law firms have built several large buildings near the main spaceport, acting as their headquarters. The main planetary court of Bredehoft resides at the very periphery of the spaceport, consisting of several buildings and courtrooms, with a direct link to the spaceport and even landing pads of its own for particularly troublesome defendants, criminals, or plaintiffs.`
+	spaceport `Aside from the court, the spaceport is closely integrated with the planet's largest city, home to roughly 30% of the population.`
