@@ -1305,77 +1305,507 @@ system Paruna
 	pos -7985.3468 -211.72866
 	link "Alpha Tudalip"
 	link "Vator Comparum"
+	object
+		sprite "star/g5"
+		distance 0
+		period 0.34
+	object
+		sprite "planet/rock8"
+		distance 441
+		period 73.468
+	object
+		sprite "planet/rock3"
+		distance 887
+		period 188.143
+	object
+		sprite "planet/dust4"
+		distance 1332
+		period 267.452
+	object
+		sprite "planet/dust1"
+		distance 1775
+		period 413.811
+	object
+		sprite "planet/gas6-b"
+		distance 3551
+		period 774.204
+	object
+		sprite "planet/gas2"
+		distance 5813
+		period 1104.375
 
 system Mirus
 	pos -8298.4301 -535.812
 	link Finuera
 	link Gestaru
 	link Petun
+	object
+		sprite "star/k3"
+		distance 0.766
+		period 1.5403
+	object
+		sprite "star/k0"
+		distance 133.20
+		period 8.441
+	object
+		sprite "planet/rock4"
+		distance 416.75
+		period 211.40
+	object 
+		sprite "planet/rock9"
+		distance 681.33
+		period 362.67611
+	object
+		sprite "planet/rock3-b"
+		distance 1136.40
+		period 551.30443
+	object
+		sprite "planet/gas9-b"
+		distance 3401.36
+		period 883.41006
+	object
+		sprite "planet/gas3"
+		distance 6314.38
+		period 1033.51130
 
 system Carfue
 	pos -8038.069 -287.062
 	link Meursa
 	link "Vator Comparum"
+	object
+		sprite "star/g8"
+		distance 0
+		period 10.45
+	object
+		sprite "planet/rock4-b"
+		distance 332.56
+		period 148.990
+	object
+		sprite "planet/rock9"
+		distance 784.31
+		period 361.405
+	object
+		sprite "planet/dust3"
+		distance 1168
+		period 507.63
+	object
+		sprite "planet/gas3"
+		distance 1784
+		period 980.134
 
 system Chrusa
 	pos -8212.4301 -447.812
 	link Daryn-qular
 	link Gestaru
+	object
+		sprite "star/g0"
+		distance 0
+		period 38.44
+	object
+		sprite "star/g3"
+		distance 134.21
+		period 90.34
+	object
+		sprite "planet/rock7"
+		distance 556.11
+		period 180.42
+	object
+		sprite "planet/rock3-b"
+		distance 880
+		period 275
+	object
+		sprite "planet/rock11"
+		distance 1335.60
+		period 405
+	object
+		sprite "planet/gas8"
+		distance 3044
+		period 1204
 
 system Gestaru
 	pos -8215.0968 -491.14533
 	link Aidux
 	link Chrusa
 	link Mirus
+	object
+		sprite "star/g8"
+		distance 0
+		period 3.10
+	object
+		sprite "planet/rock7"
+		distance 321.204
+		period 98.491
+	object
+		sprite "planet/rock2"
+		distance 557.107
+		period 187.440
+	object
+		sprite "planet/earth"
+		distance 932.601
+		period 340.205
+	object
+		sprite "planet/gas8-b"
+		distance 1337.50
+		period 488.103
+	object
+		sprite "planet/gas9"
+		distance 2803.14
+		period 804.536
 
 system Mariuta
 	pos -8546.4301 -533.812
 	link Aradi
 	link Vabchra
+	object
+		sprite "star/b3"
+		distance 1.45
+		period 40.8087
+	object
+		sprite "planet/rock3"
+		distance 501.103
+		period 113.469
+	object
+		sprite "planet/rock7"
+		distance 813.04
+		period 230.409
+	object
+		sprite "planet/rock9-b"
+		distance 1340.18
+		period 304.598
+	object
+		sprite "planet/dust1"
+		distance 1883.40
+		period 553.034
+	object
+		sprite "planet/rock14"
+		distance 2130.39
+		period 778.108
 
 system Zoruna
 	pos -8570.7079 -12.811998
 	link Orchao
+	object
+		sprite "star/f-giant"
+		distance 0
+		period 30.204
+	object
+		sprite "planet/rock4"
+		distance 143.40
+		period 80.4842
+	object
+		sprite "planet/rock1-b"
+		distance 468.37
+		period 203.509
+	object
+		sprite "planet/rock9"
+		distance 804.26
+		period 377.146
+	object
+		sprite "planet/dust2-b"
+		distance 1145.03
+		period 450.673
+	object
+		sprite "planet/gas8-b"
+		distance 2405.13
+		period 899.201
+	object
+		sprite "planet/gas12"
+		distance 4031.40
+		period 1784.20
 
 system Petun
 	pos -8365.7635 -525.14533
 	link Mirus
 	link Vabchra
+	object
+		sprite "star/k3"
+		distance 0
+		period 19.402
+	object
+		sprite "planet/rock9-b"
+		distance 344
+		period 75.104
+	object
+		sprite "planet/rock4"
+		distance 577
+		period 134.405
+	object
+		sprite "planet/earth-b"
+		distance 899.10
+		period 344.103
+	object
+		sprite "planet/gas2"
+		distance 1803
+		period 588.103
 
 system Vaitul
 	pos -8236.7635 -41.78422
 	link "43 Merisai"
 	link Nursuta
+	object
+		sprite "star/k8"
+		distance 0.344
+		period 34.98
+	object
+		sprite "planet/rock5-b"
+		distance 455.10
+		period 136.64
+	object
+		sprite "planet/forest6"
+		distance 944.67
+		period 344.07
+	object
+		sprite "planet/rock8"
+		distance 1409.15
+		period 557.82
+	object
+		sprite "planet/rock2-b"
+		distance 1774.25
+		period 913.73
+	object
+		sprite "planet/gas8"
+		distance 2509.14
+		period 1348.28
+	object
+		sprite "planet/gas4-b"
+		distance 5638.10
+		period 1905.87
+	object
+		sprite "planet/gas6"
+		distance 8771.62
+		period 2503.41
 
 system Freula
 	pos -8247.8746 -241.33978
 	link Posteli
+	object
+		sprite "star/g3"
+		distance 0.603
+		period 20.110
+	object
+		sprite "planet/rock9-b"
+		distance 170.387
+		period 78.401
+	object
+		sprite "planet/rock3"
+		distance 380.113
+		period 145.039
+	object
+		sprite "planet/rock15-b"
+		distance 651.034
+		period 240.753
+	object
+		sprite "planet/forest3"
+		distance 957.113
+		period 377.144
+	object
+		sprite "planet/rock2"
+		distance 1244.788
+		period 560.135
+	object
+		sprite "planet/rock3"
+		distance 1603.103
+		period 780.301
+	object
+		sprite "planet/gas3"
+		distance 3871.405
+		period 1305.771
+	object
+		sprite "planet/gas5"
+		distance 6710.133
+		period 1716.408
 
 system Pourat
 	pos -8135.5412 -342.72866
 	link Corua
 	link Melursa
+	object
+		sprite "star/a8"
+		distance 1.203
+		period 55.875
+	object
+		sprite "planet/rock7"
+		distance 450.186
+		period 244.18
+	object
+		sprite "planet/rock2-b"
+		distance 774.103
+		period 450.87
+	object
+		sprite "planet/forest4-b"
+		distance 940.655
+		period 761.334
+	object
+		sprite "planet/forest2"
+		distance 1405.171
+		period 1031.980
+	object
+		sprite "planet/gas3-b"
+		distance 3401.803
+		period 1402.377
+	object
+		sprite "planet/gas8"
+		distance 5601
+		period 1844.108
+	object
+		sprite "planet/gas7"
+		distance 9011
+		period 2457.543
+	object
+		sprite "planet/gas16-b"
+		distance 14551
+		period 3401.998
+		object
+			sprite "planet/rock6"
+			distance 701.34
+			period 90.40887
+		object
+			sprite "planet/rock2-b"
+			distance 1304.20
+			period 174.1980
 
 system Finuera
 	pos -8336.2079 -470.562
 	link Mirus
 	link Vaidanu
 	link Vastary
+	habitable 40000
+	arrival 3000
+	object
+		sprite "star/o3"
+		distance 4.091
+		period 32.103
+	object
+		sprite "planet/rock4-b"
+		distance 187.20
+		period 90.301
+	object
+		sprite "planet/rock9"
+		distance 441.76
+		period 140.87
+	object
+		sprite "planet/rock2-b"
+		distance 787.30
+		period 260.19
+	object
+		sprite "planet/forest6"
+		distance 935.44
+		period 306.40
+	object
+		sprite "planet/dust2"
+		distance 1240.58
+		period 511.74
+	object
+		sprite "planet/gas8-hot"
+		distance 4033.17
+		period 1306.54
+	object
+		sprite "planet/gas3-b"
+		distance 7810.65
+		period 1846.71
 
 system Vastary
 	pos -8431.5412 -443.22866
 	link Aradi
 	link Finuera
 	link Peroni
+	object
+		sprite "star/o5"
+		distance 9.103
+		period 75.201
+	object
+		sprite "planet/rock9"
+		distance 183.47
+		period 130.50
+	object
+		sprite "planet/rock3-b"
+		distance 446.15
+		period 217.84
+	object
+		sprite "planet/ocean5"
+		distance 701.36
+		period 311.57
+	object
+		sprite "planet/rock13"
+		distance 1136.84
+		period 390.73
+	object
+		sprite "planet/rock11"
+		distance 1604.33
+		period 441.825069
+	object
+		sprite "planet/gas3"
+		distance 5011.47
+		period 1531.20344
+	object
+		sprite "planet/gas7-b"
+		distance 7901.34
+		period 2138.11863
+	object
+		sprite "planet/gas15-hot"
+		distance 15033.51
+		period 3810.64853
 
 system Imural
 	pos -8601.319 -460.562
 	link Cafrai
+	object
+		sprite "star/a-giant"
+		distance 1.405
+		period 43.101
+	object
+		sprite "planet/rock3"
+		distance 308.411
+		period 117.503
+	object
+		sprite "planet/rock5-b"
+		distance 636.385
+		period 187.409
+	object
+		sprite "planet/ocean3-b"
+		distance 944.103
+		period 254.395
+	object
+		sprite "planet/rock15-b"
+		distance 1506.305
+		period 448.913
+	object
+		sprite "planet/ice1"
+		distance 3106.439
+		period 601.97
 
 system Gensar
 	pos -8584.2079 -408.562
 	link Isalor
 	link Ouchar
+	object
+		sprite "star/m3"
+		distance 1.804
+		period 13.760
+	object
+		sprite "planet/rock4-b"
+		distance 256.93
+		period 90.176
+	object
+		sprite "planet/rock1"
+		distance 551.405
+		period 153.984
+	object
+		sprite "planet/rock12-b"
+		distance 788.103
+		period 240.166
+	object
+		sprite "planet/ocean3-b"
+		distance 950.721
+		period 341.873
+	object
+		sprite "planet/rock10"
+		distance 1335.401
+		period 507.811
+	object
+		sprite "planet/rock7-b"
+		distance 1744.331
+		period 794.503
 
 system "94 Merisai"
 	pos -8055.5968 14.96578
@@ -1494,38 +1924,149 @@ system "Alpha Tudalip"
 	link Caretta
 	link Opfrau
 	link Paruna
+	object
+		sprite "star/m3"
+		distance 4.109
+		period 3.45
+	object
+		sprite "star/m0"
+		distance 80.1034
+		period 8.97
+	object
+		sprite "planet/rock4"
+		distance 344.871
+		period 90.304
+	object
+		sprite "planet/rock8-b"
+		distance 771.364
+		period 175.433
+	object
+		sprite "planet/forest2-b"
+		distance 944.501
+		period 309.873
+	object
+		sprite "planet/gas4-b"
+		distance 2803.49
+		period 1136.87
 
 system Nursuta
 	pos -8279.5968 -75.450887
 	link Onuka
 	link Telicasa
 	link Vaitul
+	object
+		sprite "star/g3"
+		distance 8.40
+		period 13.40
+	object
+		sprite "planet/rock6"
+		distance 433.401
+		period 89.766
+	object
+		sprite "planet/rock2-b"
+		distance 771.304
+		period 187.465
+	object
+		sprite "planet/rock1"
+		distance 1336.731
+		period 245.308
+	object
+		sprite "planet/gas4-b"
+		distance 3390.871
+		period 780.744
 
 system Mosiato
 	pos -8596.0412 37.854669
 	link Deramii
 	link Orunat
 	link Zerted
+	habitable 5308
+	arrival 800
+	object
+		sprite "star/m5"
+		distance 1.75
+		period 5.40
+	object
+		sprite "planet/rock3"
+		distance 504
+		period 188
+	object
+		sprite "planet/rock9"
+		distance 988
+		period 334
+	object
+		sprite "planet/rock1"
+		distance 1560
+		period 808
+	object
+		sprite "planet/forest4"
+		distance 2344
+		period 1335
+	object
+		sprite "planet/ice2"
+		distance 4881
+		period 2307
+	object
+		sprite "planet/gas8"
+		distance 5401
+		period 3427
+		object Sersya
+			sprite "planet/ocean3"
+			distance 440.294
+			period 113.49
 
 system Vaidanu
 	pos -8293.4301 -423.20089
 	link Finuera
+	object
+		sprite "star/m0"
+		distance 0 
+		period 9
+	object
+		sprite "planet/rock1"
+		distance 504.204
+		period 89.309
 
 system Zerted
 	pos -8658.7079 -13.923109
 	link Casfik
 	link Mosiato
+	object 
+		sprite "star/g3"
+		distance 0.304
+		period 9.08
+	object
+		sprite "planet/rock8-b"
+		distance 513.44
+		period 83.440
+	object
+		sprite "planet/forest0-b"
+		distance 930.48
+		period 264.309
+	object
+		sprite "planet/gas2-b"
+		distance 8013.38
+		period 133.407
 
 system Orunat
 	pos -8479.5968 25.410224
 	link Chasikara
 	link Darceas
 	link Mosiato
+	object
+		sprite "star/m5"
+		distance 1.304
+		period 1.04
 
 system Deramii
 	pos -8545.3746 80.743558
 	link Mosiato
 	link Pechara
+	object
+		sprite "star/k3"
+		distance 0.405
+		period 0.01
+
 
 system "43 Merisai"
 	pos -8177.3746 22.076891
@@ -1549,39 +2090,104 @@ system "43 Merisai"
 		distance 13004
 		period 1794
 
+# Pechara is a drifting gas giant, expelled from a planetary system
 system Pechara
 	pos -8450.7079 103.85467
 	link Chasikara
 	link Deramii
+	habitable 90000
+	object
+		sprite "planet/gas8"
+		distance 0
+		period 0
+		object
+			sprite "planet/rock2"
+			distance 402
+			period 198.75
+		object
+			sprite "planet/rock8"
+			distance 743
+			period 430.41
+		object "Pechara High"
+			sprite "planet/station8"
+			distance 2042.189
+			period 1304.408
 
 system Miruver
 	pos -8018.0135 -78.395331
 	link "94 Merisai"
+	object
+		sprite "star/a3"
+		distance 0
+		period 1.08
 
 system Porae
 	pos -7972.0135 -367.062
 	link Chasitum
 	link "Vator Comparum"
+	object
+		sprite "star/"
+		distance 0
+		period 0
 
 system Aidux
 	pos -8130.6801 -460.39533
 	link Gestaru
+	object
+		sprite "star/m8"
+		distance 0
+		period 0
 
 system Chasitum
 	pos -8040.0135 -418.39533
 	link Daryn-qular
 	link Porae
+	belt 4000
+	fleet "Human Miners" 200
+	fleet "Small Republic" 600
+	minables "aluminum" 433 3
+	minables "yottrite" 803 4
+	minables "iron" 321 7
+	minables "gold" 643 1
+	object
+		sprite "star/k3"
+		distance 0
+		period 0
 
 system "Vator Comparum"
 	pos -7985.3468 -301.72866
 	link Carfue
 	link Paruna
 	link Porae
+	object
+		sprite "star/g0"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock3-b"
+		distance 339.40
+		period 36.51
+	object
+		sprite "planet/rock7"
+		distance 771.304
+		period 146.74
+	object
+		sprite "planet/rock2"
+		distance 1180.95
+		period 433.50 
 
 system Meursa
 	pos -8042.5135 -353.28422
 	link Carfue
 	link Melursa
+	object
+		sprite "star/g5"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock4"
+		distance 441
+		period 45.90
 
 planet Sparley
 	landscape "land/sparley"
