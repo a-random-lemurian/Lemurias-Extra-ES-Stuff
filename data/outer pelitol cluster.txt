@@ -258,7 +258,7 @@ system Corua
 		sprite "planet/rock3"
 		distance 506.112
 		period 134.501
-	object 
+	object Bredehoft
 		sprite "planet/earth"
 		distance 901.394
 		period 188.760
