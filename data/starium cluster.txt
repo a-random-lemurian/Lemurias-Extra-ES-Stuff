@@ -1,0 +1,211 @@
+system Maisudium
+	pos -8238.1667 241.16667
+	link "320 Barduk"
+	link Eruni
+	object
+		sprite "star/g3"
+		distance 0
+		period 0.34
+	object
+		sprite "planet/rock2"
+		distance 310
+		period 90.49
+	object
+		sprite "planet/rock7"
+		distance 551
+		period 133.52
+	object
+		sprite "planet/earth"
+		distance 913.84
+		period 204.511
+	object
+		sprite "planet/gas5"
+		distance 1804.55
+		period 801.49
+
+system "94 Merisai"
+	add link Daithus
+	add link Orfue
+
+system "43 Merisai"
+	add link Areuth
+
+system Daetium
+	pos -8338.7778 388.11111
+	link Spariun
+
+system Paras
+	pos -8050.7778 195.66667
+	link Carux
+	link Darune
+	link Saerun
+
+system Orfue
+	pos -8087.6667 58.777778
+	link "94 Merisai"
+	link Areuth
+	link Daithus
+
+system Farius
+	pos -7915.8889 247.94444
+	link Erudainum
+	link Ondurius
+	link Skeptau
+
+system Darune
+	pos -8159.2222 268.11111
+	link "320 Barduk"
+	link Orinu
+	link Paras
+	link Skeptau
+
+system Daithus
+	pos -8058.2222 91.777778
+	link "94 Merisai"
+	link Orfue
+
+system Ondurius
+	pos -7845.2222 199.27778
+	link Dacurum
+	link Farius
+
+system Dacurum
+	pos -7867.2222 127.5
+	link Etyuruis
+	link Fatuis
+	link Ondurius
+
+system Etyuruis
+	pos -7844.5556 63.055556
+	link Dacurum
+	link "Neru Akureis"
+	link Sami'sen
+
+system Sami'sen
+	pos -7855.6667 -22.277778
+	link Acraum
+	link Duxa'setisen
+	link Etyuruis
+
+system Saerun
+	pos -8112.4444 164.66667
+	link Areuth
+	link Orinu
+	link Paras
+
+system "187 Barduk"
+	pos -8197.8889 353.88889
+	link "120 Barduk"
+	link "313 Barduk"
+	link "320 Barduk"
+	link Spariun
+
+system Eruni
+	pos -8253.2222 201.72222
+	link Maisudium
+	link Orinu
+
+system "313 Barduk"
+	pos -8083.1667 343.61111
+	link "120 Barduk"
+	link "187 Barduk"
+	link Skeptau
+
+system Kadorum
+	pos -8368.2222 277.5
+	link "320 Barduk"
+	link Saineu
+	link Spariun
+
+system Skeptau
+	pos -8024.2222 280.33333
+	link "313 Barduk"
+	link Carux
+	link Darune
+	link Farius
+	link Ierun
+	link Oruf
+
+system "Neru Akureis"
+	pos -7819.2222 15.944444
+	link Etyuruis
+
+system Ierun
+	pos -8000.6667 335.44444
+	link Skeptau
+
+system Saineu
+	pos -8342.9444 230.05556
+	link Kadorum
+
+system Spariun
+	pos -8289.8889 337
+	link "187 Barduk"
+	link "320 Barduk"
+	link Daetium
+	link Kadorum
+
+system "120 Barduk"
+	pos -8203.8333 422.27778
+	link "187 Barduk"
+	link "313 Barduk"
+
+system Erudainum
+	pos -7919.2222 179.27778
+	link Farius
+	link Fatuis
+	link Oruf
+
+system Fatuis
+	pos -7903.6667 82.611111
+	link Acraum
+	link Carux
+	link Dacurum
+	link Erudainum
+
+system Oruf
+	pos -7970.8889 227.88889
+	link Carux
+	link Erudainum
+	link Skeptau
+
+system Acraum
+	pos -7908.5556 9.7222222
+	link Fatuis
+	link Sami'sen
+	link Starium
+
+system Starium
+	pos -7948.1111 -22.277778
+	link Acraum
+
+system Carux
+	pos -7995.7778 179
+	link Fatuis
+	link Oruf
+	link Paras
+	link Skeptau
+
+system "320 Barduk"
+	pos -8215.6667 295.66667
+	link "187 Barduk"
+	link Darune
+	link Kadorum
+	link Maisudium
+	link Spariun
+
+system Areuth
+	pos -8116.2222 125.33333
+	link "43 Merisai"
+	link Orfue
+	link Saerun
+
+system Orinu
+	pos -8173.1111 195.55556
+	link Darune
+	link Eruni
+	link Saerun
+
+system Duxa'setisen
+	pos -7865 -81.166667
+	link Sami'sen
