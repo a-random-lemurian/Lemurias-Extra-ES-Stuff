@@ -2246,8 +2246,8 @@ planet "Taraz"
 planet Gura
 	landscape "land/gura"
 	government "Republic"
-	description `.`
-	spaceport `.`
+	description `The culture of Gura is mostly influenced by Japanese culture. Gura is a colony of hundreds of millions.`
+	spaceport `Gura has several spaceports scattered along the equator in place of a single large spaceport. Several industrial complexes on the surface have their own spaceport facilities.`
 
 planet "Pareia"
 	landscape "land/pareia"

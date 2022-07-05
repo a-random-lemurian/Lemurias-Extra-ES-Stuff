@@ -85,6 +85,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Tarsia                    | Qbolewicz            | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Panorama_siekierkowski.jpg))
 | Kabegan                   | cassi saari          | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Nachusa_Grasslands_Spring_2016.jpg))
 | Bredehoft                 | Dominic              | Public domain           | ([orig](https://commons.wikimedia.org/wiki/File:Scottsdale_cityscape4.jpg))
+| Gura                      | Alexd2010            | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Downtown_San_Antonio_2021.jpg))
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
