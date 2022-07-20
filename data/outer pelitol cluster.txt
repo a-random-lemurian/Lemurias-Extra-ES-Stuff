@@ -385,6 +385,12 @@ system Opfrau
 	link "Alpha Tudalip"
 	link Melursa
 	link Porsuei
+	fleet "Large Northern Pirates" 800
+	fleet "Small Northern Pirates" 500
+	fleet "Small Republic" 1200
+	fleet "Large Republic" 1700
+	fleet "Small Northern Merchants" 900
+	fleet "Small Sorthern Merchants" 900
 	object
 		sprite "star/g3"
 		distance 0
@@ -435,6 +441,7 @@ system Posteli
 	trade Metal 631
 	trade Plastic 513
 	habitable 431
+
 	object
 		sprite "star/m3"
 		distance 0
@@ -935,6 +942,10 @@ system Porsuei
 	fleet "Large Republic" 1400
 	fleet "Small Northern Merchants" 600
 	fleet "Large Northern Merchants" 1100
+	fleet "Large Northern Pirates" 800
+	fleet "Small Northern Pirates" 500
+	fleet "Small Northern Merchants" 900
+	fleet "Small Sorthern Merchants" 900
 	fleet spa.small 1500
 	habitable 508
 	object
@@ -1305,6 +1316,12 @@ system Paruna
 	pos -7985.3468 -211.72866
 	link "Alpha Tudalip"
 	link "Vator Comparum"
+	fleet "Large Northern Pirates" 800
+	fleet "Small Northern Pirates" 500
+	fleet "Small Republic" 1200
+	fleet "Large Republic" 1700
+	fleet "Small Northern Merchants" 900
+	fleet "Small Sorthern Merchants" 900
 	object
 		sprite "star/g5"
 		distance 0
@@ -1924,6 +1941,12 @@ system "Alpha Tudalip"
 	link Caretta
 	link Opfrau
 	link Paruna
+	fleet "Large Northern Pirates" 800
+	fleet "Small Northern Pirates" 500
+	fleet "Small Republic" 1200
+	fleet "Large Republic" 1700
+	fleet "Small Northern Merchants" 900
+	fleet "Small Sorthern Merchants" 900
 	object
 		sprite "star/m3"
 		distance 4.109
