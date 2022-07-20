@@ -1313,7 +1313,7 @@ system Paruna
 		sprite "planet/rock8"
 		distance 441
 		period 73.468
-	object
+	object Couric
 		sprite "planet/rock3"
 		distance 887
 		period 188.143
@@ -2292,3 +2292,9 @@ planet Bredehoft
 	description `Bredehoft is an Earth-like planet with a roughly 1:1 ratio of land and water.`
 	spaceport `Law firms have built several large buildings near the main spaceport, acting as their headquarters. The main planetary court of Bredehoft resides at the very periphery of the spaceport, consisting of several buildings and courtrooms, with a direct link to the spaceport and even landing pads of its own for particularly troublesome defendants, criminals, or plaintiffs.`
 	spaceport `Aside from the court, the spaceport is closely integrated with the planet's largest city, home to roughly 30% of the population.`
+
+planet "Couric"
+	landscape "land/couric"
+	government "Pirate"
+	description `Couric is a Pirate world, used as a rallying point for attacks against the Republic or the Sayari Plushie Authority to the west. The vast majority of Couric is controlled by a single syndicate. First settled `
+	spaceport `Couric has no single spaceport; spaceports are spread out across the planet for redundancy in the event of a hostile planetary attack.`
