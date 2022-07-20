@@ -49,6 +49,7 @@ phrase spa.allNames
 ###
 phrase "spa, no prefix"
 	phrase
+		"leest surnames" 4
 		"ingame characters" 3
 		"politicians" 63
 		"chemical elements" 118
@@ -139,6 +140,13 @@ phrase "leest standalone names"
 	word
 		"Radical Dreamland"
 		"Nautilus"
+
+phrase "leest surnames"
+	word
+		"Couric"
+		"Berenbaum"
+		"Kaufman"
+		"Luria"
 
 phrase "politicians"
 	phrase
