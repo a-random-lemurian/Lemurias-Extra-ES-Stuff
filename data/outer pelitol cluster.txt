@@ -1316,6 +1316,7 @@ system Paruna
 	pos -7985.3468 -211.72866
 	link "Alpha Tudalip"
 	link "Vator Comparum"
+	government "Pirate"
 	fleet "Large Northern Pirates" 800
 	fleet "Small Northern Pirates" 500
 	fleet "Small Republic" 1200
