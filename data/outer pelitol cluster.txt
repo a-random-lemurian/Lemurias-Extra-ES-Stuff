@@ -2296,5 +2296,5 @@ planet Bredehoft
 planet "Couric"
 	landscape "land/couric"
 	government "Pirate"
-	description `Couric is a Pirate world, used as a rallying point for attacks against the Republic or the Sayari Plushie Authority to the west. The vast majority of Couric is controlled by a single syndicate. First settled `
+	description `Couric is a Pirate world, used as a rallying point for attacks against the Republic or the Sayari Plushie Authority to the west. The vast majority of Couric is controlled by a single syndicate. First landed on by a local pirate warlord known as Raugan in 2994 in an attempt to evade pursuit.`
 	spaceport `Couric has no single spaceport; spaceports are spread out across the planet for redundancy in the event of a hostile planetary attack.`
