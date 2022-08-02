@@ -938,8 +938,8 @@ system Porsuei
 	trade Metal 655
 	trade Plastic 513
 	government Republic
-	fleet "Small Republic" 900
-	fleet "Large Republic" 1400
+	fleet "Small Republic" 490
+	fleet "Large Republic" 760
 	fleet "Small Northern Merchants" 600
 	fleet "Large Northern Merchants" 1100
 	fleet "Large Northern Pirates" 800
