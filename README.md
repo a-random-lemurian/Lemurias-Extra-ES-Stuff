@@ -87,6 +87,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Bredehoft                 | Dominic              | Public domain           | ([orig](https://commons.wikimedia.org/wiki/File:Scottsdale_cityscape4.jpg))
 | Gura                      | Alexd2010            | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Downtown_San_Antonio_2021.jpg))
 | Couric                    | Vyacheslav Argenberg | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Kali_Gandaki_Valley,_Canyon,_Nepal.jpg))
+| Pareia                    | Kai Lehmann          | CC BY-SA 2.0 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Taal_Volcano_crater_lake_8-8-2014.jpg))
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
