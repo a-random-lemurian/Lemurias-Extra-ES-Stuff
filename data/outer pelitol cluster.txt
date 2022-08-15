@@ -2306,8 +2306,8 @@ planet Brigantium
 planet Lattice
 	landscape "land/lattice"
 	government "Republic"
-	description `.`
-	spaceport `.`
+	description `Lattice is primarily an upscale colony, with the vast majority of the population being either rich or retired. Most of the planet's poorer population originate from the other parts of the Pelitol cluster; it is essentially an enclave of the Paradise Worlds.`
+	spaceport `The spaceport of Lattice contains many luxury stores, most of which are prohibitively expensive.`
 
 planet Bredehoft
 	landscape "land/bredehoft"
