@@ -115,6 +115,8 @@ phrase "people worthy of being ship names"
 		"Rainych Ran"             # Indonesian singer
 		"Lizz Robinett"           # American singer
 
+		"May Berenbaum"           # American entomologist
+
 phrase "Hai systems"
 	word
 		"Hevru Hai"
