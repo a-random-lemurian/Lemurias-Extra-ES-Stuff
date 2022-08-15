@@ -17,6 +17,8 @@
 - Added merchant hails that insult Amber Heard and her lawyer Elaine Bredehoft.
 - Added new Amidala sprite, courtesy of Zoura.
 - Removed the data drives commodity.
+- Fixed Erou system government (set to Sayari Plushies).
+- Grammar fixes: "ammount" -> "amount", alongside removal of British English words.
 
 ### v0.10.13
 - Didn't remove Orbona system (I made an error in commit 94a59c875f889cf36d13c94e6fb8253bca34269d, blame me for it.)
