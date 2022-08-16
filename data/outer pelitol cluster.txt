@@ -1840,6 +1840,17 @@ system "94 Merisai"
 	trade Medical 511
 	trade Metal 745
 	trade Plastic 610
+	fleet "Large Republic" 2620
+	fleet "Small Republic" 1730
+	fleet "Large Northern Merchants" 840
+	fleet "Large Southern Merchants" 590
+	fleet spa.small 1350
+	fleet spa.large 1710
+	fleet cssf.small 5560
+	fleet cssf.large 7170
+	fleet "Large Northern Pirates" 1850
+	fleet "Large Southern Pirates" 1650
+	fleet "Small Northern Pirates" 2740
 	government "Republic"
 	object
 		sprite "star/m3"
@@ -2300,8 +2311,10 @@ planet Narchrai
 planet Brigantium
 	landscape "land/brigantium"
 	government "Republic"
-	description `.`
-	spaceport `.`
+	description `Brigantium is home to the Brigantium Computing Array: a network of supercomputers across the surface, capable of running highly intensive simulations, using the water as a heatsink. The Array is powered by a partial Dyson sphere, the sole source of power in the Brigantium system.`
+	description `The Brigantium Computing Array, while primarily used for scientific research, has had a part of its computing power rented out for a variety of purposes such as rendering of extremely high-quality images and movies, simulation of galactic trade prices and combat simulations. Over 99.8% of Brigantium's permanent population consist of people who maintain the Array alongside their families and close relatives.`
+	spaceport `The spaceport on Brigantium is located on top of one of the array's largest nodes. There is a relatively high demand for electronics to replace some of the failing parts of the Array, and data-chips containing high quality images, rendered by the array at extremely high resolutions, so high that even at 500x zoom level the image was still 4K.`
+	spaceport `Many PC shops here sell parts taken from decommissioned Array servers, alongside prebuilt machines using the very same parts.`
 
 planet Lattice
 	landscape "land/lattice"
