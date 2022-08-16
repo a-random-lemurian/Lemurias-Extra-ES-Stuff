@@ -249,6 +249,59 @@ ship "Gunboat" "SPA Gunboat (Proton Gun)"
 	description "The Navy Gunboat is designed for engaging targets at short range, and also serves as the Navy's mobile sensor platform, scanning ships for illegal equipment or cargo."
 	description "This particular gunboat however, seems to be another one of the Sayari Plushie Authority's custom-built ships. In addition to that, the ship is covered with interference plating due to it's intended role in transporting plushies, which the CSSF have a particular distaste for."
 
+ship "Gunboat" "SPA Gunboat (Blaze-Pike)"
+	sprite "ship/gunboat"
+	thumbnail "thumbnail/gunboat"
+	attributes
+		category "Light Warship"
+		"cost" 3820000
+		"shields" 4600
+		"hull" 1300
+		"required crew" 10
+		"bunks" 16
+		"mass" 150
+		"drag" 3.1
+		"heat dissipation" .5
+		"fuel capacity" 700
+		"cargo space" 60
+		"outfit space" 420
+		"weapon capacity" 110
+		"engine capacity" 95
+		weapon
+			"blast radius" 72
+			"shield damage" 720
+			"hull damage" 360
+			"hit force" 1080
+	outfits
+		"Blaze-Pike Turret" 3
+		
+		"Red Sun Reactor"
+		"LP144a Battery Pack" 1
+		"Hai Corundum Regenerator" 1
+		
+		`"Biroo" Atomic Thruster` 1
+		`"Biroo" Atomic Steering` 1
+		"Hyperdrive" 1
+		"Jump Drive" 1
+		"SPA Scan Blocker" 4
+		"Interference Plating" 2
+
+		"Large Hybrid Cooling" 1
+		
+	engine -12 57.5 0.7
+	engine 12 57.5 0.7
+	turret -28.5 -27.5 "Blaze-Pike Turret"
+	turret 28.5 -27.5 "Blaze-Pike Turret"
+	turret 0 -1 "Blaze-Pike Turret"
+	leak "leak" 50 50
+	leak "flame" 80 80
+	explode "tiny explosion" 10
+	explode "small explosion" 20
+	explode "medium explosion" 15
+	"final explode" "final explosion small"
+	description "The Navy Gunboat is designed for engaging targets at short range, and also serves as the Navy's mobile sensor platform, scanning ships for illegal equipment or cargo."
+	description "This particular gunboat however, seems to be another one of the Sayari Plushie Authority's custom-built ships. In addition to that, the ship is covered with interference plating due to it's intended role in transporting plushies, which the CSSF have a particular distaste for."
+
 ship "Cruiser" "SPA Cruiser"
 	sprite "ship/cruiser"
 	thumbnail "thumbnail/cruiser"
