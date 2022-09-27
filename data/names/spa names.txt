@@ -175,6 +175,10 @@ phrase "female politicians"
 		"Anne Hidalgo"
 		"Margaret Thatcher"
 
+		# Should be "Ingrida Šimonytė" but Endless Sky doesn't
+		# support accented characters.
+		"Ingrida Simonyte"
+
 phrase "male politicians"
 	word
 		# Asia
