@@ -20,7 +20,7 @@ Additional effects include a cease and desist letter from anti-gaming groups (ra
 
 
 # Content Rating
-Dialogue and "strings" visible to players do not contain mild/major swear words, not even their substitutes. This add-on has not been assigned any official ratings by rating agencies such as the ESRB, PEGI, or your country's video game rating authority.
+Dialog and "strings" visible to players do not contain mild/major swear words, not even their substitutes. This add-on has not been assigned any official ratings by rating agencies such as the ESRB, PEGI, or your country's video game rating authority.
 
 Do note that this addon has references to slavery and organized crime (pirates).
 
