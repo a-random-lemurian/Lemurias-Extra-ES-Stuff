@@ -18,6 +18,8 @@
 - Added new Amidala sprite, courtesy of Zoura.
 - Removed the data drives commodity.
 - Fixed Erou system government (set to Sayari Plushies).
+- Fix Debian hat mission endless loop.
+- Remove `animeorg.landing.setFlag.landedOnEisei` "mission". It only sets a flag and is absolutely not needed.
 - Grammar fixes: "ammount" -> "amount", alongside removal of British English words.
 
 ### v0.10.13
