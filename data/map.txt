@@ -23,6 +23,7 @@ system Aixafer
 	link Oldothe
 	link Zarkxaa
 	government "Sayari Plushie"
+	arrival 860
 	fleet spa.small 1200
 	fleet spa.medium 3000
 	fleet spa.large 5600
@@ -91,6 +92,7 @@ system Aljuik
 	link Alkxaai
 	link Deriie
 	link Duffeni
+	arrival 5900
 	fleet spa.small 500
 	fleet spa.medium 1400
 	fleet spa.large 3400
@@ -99,7 +101,6 @@ system Aljuik
 	fleet cssf.medium 4700
 	fleet cssf.large 6700
 	trade Clothing 432
-
 	trade Electronics 639
 	trade Equipment 681
 	trade Food 108
@@ -140,6 +141,7 @@ system Alkxaai
 	link Aljuik
 	link Jalak
 	link Littike
+	arrival 2100
 	fleet spa.small 700
 	fleet spa.medium 1500
 	fleet spa.large 3000
@@ -183,6 +185,7 @@ system Deriie
 	link Aljuik
 	link Oldothe
 	link Jarkiiens
+	arrival 3700
 	fleet spa.small 700
 	fleet spa.medium 1800
 	fleet spa.large 3300
@@ -245,6 +248,7 @@ system Denleitt
 	fleet "Large Deep Merchants" 900
 	fleet "Large Republic" 3000
 	fleet "Small Republic" 2800
+	arrival 3800
 	pos -1087.9166 -69.638885
 	link Oldothe
 	link Littike
@@ -320,6 +324,7 @@ system Eileri
 	government Pirate
 	link Kilooew
 	link Radonei
+	arrival 2400
 	object
 		sprite "star/k5"
 		distance 43
@@ -355,6 +360,7 @@ system Finduue
 	link Lesarkei
 	link Luisark
 	link Lakodelfraddi
+	arrival 4000
 	object
 		sprite "star/k3"
 		distance 0
@@ -385,6 +391,7 @@ system Fevbaa
 	link Iloke
 	link Akore
 	link Zikut
+	arrival 3200
 	object
 		sprite star/g0
 		period 0
@@ -415,6 +422,7 @@ system Ghesie
 	link Iloke
 	link Ladosak
 	link Lorfreei
+	arrival 1970
 	fleet spa.war.ghesiePatrol.small.1 2000
 	fleet "Small Northern Pirates" 1200
 	fleet "Small Northern Pirates" 800
@@ -476,6 +484,7 @@ system Hiljaak
 	pos -807.36111 -69.555556
 	government Republic
 	link Jarkiiens
+	arrival 1870
 	fleet spa.trade.HumanSpace.large.1 600
 	fleet spa.war.illuminaReg.large.1 600
 	fleet spa.general.amidalaVariants.large.1 700
@@ -547,6 +556,7 @@ system Iloke
 	link Ghesie
 	link Kailoo-ereki
 	link Zikut
+	arrival 3000
 	fleet republicLargeDerelict 1000
 	object
 		sprite star/k-giant
@@ -817,6 +827,7 @@ system Jalak
 system Jurluo
 	pos -1217.9166 -46.08333
 	link Sayreopli
+	arrival 760
 	object
 		sprite "star/k5"
 		distance 0
@@ -838,6 +849,7 @@ system Jurluo
 system Kailoo-ereki
 	pos -939.66667 -234.91667
 	link Iloke
+	arrival 1200
 	object
 		sprite star/g0
 		period 0
@@ -872,6 +884,7 @@ system Kiselot
 	pos -622.83334 -654.49999
 	link Arneb
 	link Luduras
+	arrival 5000
 	object
 		sprite "star/b8"
 		distance 0
@@ -882,6 +895,7 @@ system Kilooew
 	government Pirate
 	link Eileri
 	link Derusa
+	arrival 2000
 	object
 		sprite "star/g3"
 		distance 0
@@ -902,6 +916,7 @@ system Lakodelfraddi
 	link Finduue
 	link Sayreopli
 	link Raidei
+	arrival 2300
 	object
 		sprite "star/m0"
 		distance 0
@@ -912,6 +927,7 @@ system Lesarkei
 	link Finduue
 	link Poruch
 	link Minjuuk
+	arrival 1700
 	object 
 		sprite star/g0
 		distance 0
@@ -950,6 +966,7 @@ system Ladosak
 	pos -860.61111 -276.5
 	link Ghesie
 	link Suerolii
+	arrival 1800
 	fleet republicLargeDerelict 1000
 	object
 		sprite "star/g0"
@@ -981,6 +998,7 @@ system Luduras
 	pos -725.38889 -713.83333
 	link Vamiru
 	link Kiselot
+	arrival 4100
 	object
 		sprite "star/m8"
 		distance 0
@@ -992,6 +1010,7 @@ system Lindookor
 	government Pirate
 	link Lenseiia
 	link Laixadd
+	arrival 3800
 	object
 		sprite "star/m5"
 		distance 0
@@ -1020,6 +1039,7 @@ system Littike
 	link Alkxaai
 	link Oldothe
 	link Minjuuk
+	arrival 900
 	trade Clothing 332
 	trade Electronics 710
 	trade Equipment 288
@@ -1053,6 +1073,7 @@ system Littike
 system Luisark
 	pos -1253.0278 -120.75
 	link Finduue
+	arrival 1800
 	object
 		sprite "star/g0"
 		distance 0
@@ -1072,6 +1093,7 @@ system Laixadd
 	link Radonei
 	link Akore
 	link Lindookor
+	arrival 2400
 	habitable 17403
 	object
 		sprite "star/f0"
@@ -1111,6 +1133,7 @@ system Lenseiia
 	government Pirate
 	link Lindookor
 	habitable 30000
+	arrival 1900
 	object
 		sprite "star/f0"
 		distance 0
@@ -1191,6 +1214,7 @@ system Oldothe
 	link Deriie
 	link Denleitt
 	link Littike
+	arrival 1860
 	asteroids "small rock" 32 4.95
 	asteroids "medium rock" 11 5.225
 	asteroids "large rock" 40 2.805
@@ -1266,6 +1290,7 @@ system Radonei
 	government Pirate
 	link Eileri
 	link Laixadd
+	arrival 2180
 	object
 		sprite "star/g3"
 		distance 0
@@ -1290,6 +1315,7 @@ system Radonei
 system Raidei
 	pos -1123.6944 -130.74999
 	link Lakodelfraddi
+	arrival 1720
 	object
 		sprite "star/a5"
 		distance 0
@@ -1316,8 +1342,9 @@ system Raidei
 ### S
 system Suerolii
 	pos -850.33333 -238.58333
-	arrival 750
-	jump 200
+	arrival
+		link 750
+		jump 200
 	government Republic
 	link Illuria
 	link Ladosak
@@ -1393,6 +1420,7 @@ system Serfeiia
 	trade "Luxury Goods" 1466
 	link Illumina
 	link Orbona
+	arrival 500
 	object
 		sprite star/k0
 		period 0
@@ -1467,6 +1495,7 @@ system Sedlai
 	link Fevbaa
 	link Jalak
 	link Pelitol
+	arrival 700
 	fleet spa.small 500
 	fleet spa.medium 1000
 	fleet spa.large 1200
@@ -1493,6 +1522,7 @@ system Sundum
 	link Julitius
 	link Pekora
 	link Zikut
+	arrival 1300
 	object
 		sprite "star/g3"
 		distance 0
@@ -1531,6 +1561,7 @@ system Sayreopli
 	link Denleitt
 	link Jurluo
 	link Lakodelfraddi
+	arrival 1800
 	object
 		sprite "star/g8"
 		distance 0
@@ -1557,6 +1588,7 @@ system Suerolii
 	government Republic
 	link Illuria
 	link Ladosak
+	arrival 1600
 	fleet "Large Northern Merchants" 600
 	fleet spa.war.illuminaReg.large.1 1300
 	fleet cssf.small 2400
@@ -1566,7 +1598,6 @@ system Suerolii
 	fleet "Large Northern Pirates" 4000
 	fleet spa.general.emptyCarriers.small.1 2800
 	trade Clothing 448
-
 	trade Electronics 998
 	trade Equipment 612
 	trade Food 509
@@ -1616,6 +1647,7 @@ system Zarkxaa
 	pos -1016.4722 -9.9480778
 	government "Sayari Plushie"
 	link Aixafer
+	arrival 900
 	object
 		sprite star/g0
 		distance 3
@@ -1653,6 +1685,7 @@ system Zarkxaa
 system Zusul
 	pos -1156.5833 -331.25
 	link Akore
+	arrival 700
 	object 
 		sprite star/g0
 		distance 539
@@ -1692,6 +1725,7 @@ system Zikut
 	link Iloke
 	link Sundum
 	link Fevbaa
+	arrival 1300
 	object
 		sprite "star/g8"
 		distance 0
