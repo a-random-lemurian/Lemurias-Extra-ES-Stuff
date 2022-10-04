@@ -234,24 +234,14 @@ system Deriie
 		distance 3118
 		period 1509
 
-
 system Denleitt
 	government "Anime Organization"
 	fleet animeorg.general.patrol.small.1 300
-	fleet animeorg.general.patrol.small.1 300
-	fleet animeorg.general.patrol.small.1 300
-	fleet spa.war.amidala.large 500
-	fleet spa.trade.HumanSpace.large 1700
+	fleet spa.small 900
+	fleet spa.medium 1800
 	fleet "Small Northern Merchants" 300
-	fleet "Small Northern Merchants" 300
-	fleet "Small Northern Merchants" 300
-	fleet "Small Northern Merchants" 300
-	fleet "Small Northern Merchants" 300
-	fleet "Small Northern Merchants" 300
-	fleet "Large Northern Merchants" 300
 	fleet "Large Northern Merchants" 300
 	fleet "Small Northern Pirates" 3700
-	fleet "Large Northern Pirates" 4000
 	fleet "Large Deep Merchants" 900
 	fleet "Large Republic" 3000
 	fleet "Small Republic" 2800
@@ -392,7 +382,7 @@ system Finduue
 
 system Fevbaa
 	pos -1033.0278 -323.25
-	link Iloke
+	link Sedlai
 	link Akore
 	link Zikut
 	object
@@ -424,7 +414,6 @@ system Ghesie
 	government Pirate
 	link Iloke
 	link Ladosak
-	link Lorfreei
 	fleet spa.war.ghesiePatrol.small.1 2000
 	fleet "Small Northern Pirates" 1200
 	fleet "Small Northern Pirates" 800
@@ -1893,7 +1882,7 @@ planet Lorok
 	landscape land/lorok
 	government "Sayari Plushie"
 	attributes factory
-	description "Lorok is an Earthlike planet home to a sizeable SPA presence. From what you see, it looks like this place is engaged in the manufacture of most of the SPA's products, like Sayari plushies."
+	description "Lorok is an Earthlike planet home to a sizable SPA presence. From what you see, it looks like this place is engaged in the manufacture of most of the SPA's products, like Sayari plushies."
 	spaceport "Contrary to the other SPA planets, this one is relatively tame, with the ship traffic mostly composed of freighters and smaller ships. The escorts here are comprised of mostly smaller ships."
 
 
@@ -1933,7 +1922,7 @@ planet Denchrao
 	outfitter "Ammo North"
 	government "Sayari Plushie"
 	description "Denchrao is a large and urbanized world with several cities scattered over the many continent. Rather strangely, 55% of the planet is land, whereas the average proportion of land to water on other planets was far lower, somewhere between 30 to 40%. Outside of the cities, the nature is surprisingly pristine and is well-preserved and catalogued."
-	spaceport "The spaceport is located in the largest city on Denchrao. Businessmen in suits can be seen conversing with SPA officers and carts full of plushies, either depicting Sayari, or Freya Winters"
+	spaceport "The spaceport is located in the largest city on Denchrao. Businesspeople in suits can be seen conversing with SPA officers and carts full of plushies, either depicting Sayari, or Freya Winters."
 #### Kestrix moons (in Ghesie) ####
 planet "Kestrix I"
 	attributes kestrix

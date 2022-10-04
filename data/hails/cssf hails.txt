@@ -141,7 +141,6 @@ phrase cssf.hails.hostile
 		" "
 	word
 		"offense"
-		"offence"
 	word
 		"!"
 

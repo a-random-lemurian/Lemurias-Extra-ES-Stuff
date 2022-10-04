@@ -67,7 +67,7 @@ mission debianHatRetrieval.conversation.begin
 
 			label doesNotUseLinux
 			`	"Well, I don't want you. I'll find another captain instead."`
-			decline
+				decline
 
 
 			label didNotDecline

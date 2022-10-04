@@ -385,6 +385,12 @@ system Opfrau
 	link "Alpha Tudalip"
 	link Melursa
 	link Porsuei
+	fleet "Large Northern Pirates" 800
+	fleet "Small Northern Pirates" 500
+	fleet "Small Republic" 1200
+	fleet "Large Republic" 1700
+	fleet "Small Northern Merchants" 900
+	fleet "Small Sorthern Merchants" 900
 	object
 		sprite "star/g3"
 		distance 0
@@ -435,6 +441,7 @@ system Posteli
 	trade Metal 631
 	trade Plastic 513
 	habitable 431
+
 	object
 		sprite "star/m3"
 		distance 0
@@ -931,10 +938,14 @@ system Porsuei
 	trade Metal 655
 	trade Plastic 513
 	government Republic
-	fleet "Small Republic" 900
-	fleet "Large Republic" 1400
+	fleet "Small Republic" 490
+	fleet "Large Republic" 760
 	fleet "Small Northern Merchants" 600
 	fleet "Large Northern Merchants" 1100
+	fleet "Large Northern Pirates" 800
+	fleet "Small Northern Pirates" 500
+	fleet "Small Northern Merchants" 900
+	fleet "Small Sorthern Merchants" 900
 	fleet spa.small 1500
 	habitable 508
 	object
@@ -1305,6 +1316,13 @@ system Paruna
 	pos -7985.3468 -211.72866
 	link "Alpha Tudalip"
 	link "Vator Comparum"
+	government "Pirate"
+	fleet "Large Northern Pirates" 800
+	fleet "Small Northern Pirates" 500
+	fleet "Small Republic" 1200
+	fleet "Large Republic" 1700
+	fleet "Small Northern Merchants" 900
+	fleet "Small Sorthern Merchants" 900
 	object
 		sprite "star/g5"
 		distance 0
@@ -1313,7 +1331,7 @@ system Paruna
 		sprite "planet/rock8"
 		distance 441
 		period 73.468
-	object
+	object Couric
 		sprite "planet/rock3"
 		distance 887
 		period 188.143
@@ -1822,6 +1840,17 @@ system "94 Merisai"
 	trade Medical 511
 	trade Metal 745
 	trade Plastic 610
+	fleet "Large Republic" 2620
+	fleet "Small Republic" 1730
+	fleet "Large Northern Merchants" 840
+	fleet "Large Southern Merchants" 590
+	fleet spa.small 1350
+	fleet spa.large 1710
+	fleet cssf.small 5560
+	fleet cssf.large 7170
+	fleet "Large Northern Pirates" 1850
+	fleet "Large Southern Pirates" 1650
+	fleet "Small Northern Pirates" 2740
 	government "Republic"
 	object
 		sprite "star/m3"
@@ -1924,6 +1953,12 @@ system "Alpha Tudalip"
 	link Caretta
 	link Opfrau
 	link Paruna
+	fleet "Large Northern Pirates" 800
+	fleet "Small Northern Pirates" 500
+	fleet "Small Republic" 1200
+	fleet "Large Republic" 1700
+	fleet "Small Northern Merchants" 900
+	fleet "Small Sorthern Merchants" 900
 	object
 		sprite "star/m3"
 		distance 4.109
@@ -2246,14 +2281,14 @@ planet "Taraz"
 planet Gura
 	landscape "land/gura"
 	government "Republic"
-	description `.`
-	spaceport `.`
+	description `The culture of Gura is mostly influenced by Japanese culture. Gura is a colony of hundreds of millions.`
+	spaceport `Gura has several spaceports scattered along the equator in place of a single large spaceport. Several industrial complexes on the surface have their own spaceport facilities.`
 
 planet "Pareia"
 	landscape "land/pareia"
 	government Republic
-	description `.`
-	spaceport `.`
+	description `Pareia is a large planetwide nature reserve. Most of the planet's species are imported from Earth. Small groups of Amish reside on this relatively undeveloped planet in the areas open to settlement.`
+	spaceport `Pareia's spaceport is primitive. Not many ships land here on the very few landing pads available, which even then are simple concrete pads, instead of more advanced high-tech landing pads used on other worlds.`
 
 planet "Steirek"
 	landscape "land/steirek"
@@ -2276,14 +2311,16 @@ planet Narchrai
 planet Brigantium
 	landscape "land/brigantium"
 	government "Republic"
-	description `.`
-	spaceport `.`
+	description `Brigantium is home to the Brigantium Computing Array: a network of supercomputers across the surface, capable of running highly intensive simulations, using the water as a heatsink. The Array is powered by a partial Dyson sphere, the sole source of power in the Brigantium system.`
+	description `The Brigantium Computing Array, while primarily used for scientific research, has had a part of its computing power rented out for a variety of purposes such as rendering of extremely high-quality images and movies, simulation of galactic trade prices and combat simulations. Over 99.8% of Brigantium's permanent population consist of people who maintain the Array alongside their families and close relatives.`
+	spaceport `The spaceport on Brigantium is located on top of one of the array's largest nodes. There is a relatively high demand for electronics to replace some of the failing parts of the Array, and data-chips containing high quality images, rendered by the array at extremely high resolutions, so high that even at 500x zoom level the image was still 4K.`
+	spaceport `Many PC shops here sell parts taken from decommissioned Array servers, alongside prebuilt machines using the very same parts.`
 
 planet Lattice
 	landscape "land/lattice"
 	government "Republic"
-	description `.`
-	spaceport `.`
+	description `Lattice is primarily an upscale colony, with the vast majority of the population being either rich or retired. Most of the planet's poorer population originate from the other parts of the Pelitol cluster; it is essentially an enclave of the Paradise Worlds.`
+	spaceport `The spaceport of Lattice contains many luxury stores, most of which are prohibitively expensive.`
 
 planet Bredehoft
 	landscape "land/bredehoft"
@@ -2292,3 +2329,9 @@ planet Bredehoft
 	description `Bredehoft is an Earth-like planet with a roughly 1:1 ratio of land and water.`
 	spaceport `Law firms have built several large buildings near the main spaceport, acting as their headquarters. The main planetary court of Bredehoft resides at the very periphery of the spaceport, consisting of several buildings and courtrooms, with a direct link to the spaceport and even landing pads of its own for particularly troublesome defendants, criminals, or plaintiffs.`
 	spaceport `Aside from the court, the spaceport is closely integrated with the planet's largest city, home to roughly 30% of the population.`
+
+planet "Couric"
+	landscape "land/couric"
+	government "Pirate"
+	description `Couric is a Pirate world, used as a rallying point for attacks against the Republic or the Sayari Plushie Authority to the west. The vast majority of Couric is controlled by a single syndicate. First landed on by a local pirate warlord known as Raugan in 2994 in an attempt to evade pursuit.`
+	spaceport `Couric has no single spaceport; spaceports are spread out across the planet for redundancy in the event of a hostile planetary attack.`

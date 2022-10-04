@@ -3,7 +3,7 @@ This is a plugin for Endless Sky, created by Lemuria. It adds so much new conten
 
 Disclaimer: May contain mild traces of the Hai ambassador "Sayari".
 
-Ingredients: VS Code, Endless Sky, Lemuria's brain cells, electricity, mac, sweat, hardwork, MSG, plugins, GitHub, copyrights, credits, coding experience, natural flavors, Sayari photos, Sayari, immersive simulations of Sayari, wizards, Kar Ik Vot 349s, Bactrians, Bactrains, Leviathans, Yuyuko, cheese, data drives, food, luxury goods, industrial, electronics, missions, failed missions, free worlds, actual Free Worlds, humans, Hai, Korath, Korath Raiders, Korath World Ships, Syndicate Bulk Freighters, Clippers, frogs, ants, terraformers, hyperdrives, jump drives, heat shunts, variables, Discord pings, @everyone pings, memes, Sayari plushie smugglers, Dreadnoughts, natural flavors, pexels.com images, GPL licenses, code, machine-readable code, binary, human-readable code, Debian, Ubuntu, Arch Linux, other Linux distros, Debian hats, and more.
+Ingredients: VS Code, Endless Sky, Lemuria's brain cells, electricity, mac, sweat, hardwork, MSG, plugins, GitHub, copyrights, credits, coding experience, natural flavors, Sayari photos, Sayari, immersive simulations of Sayari, wizards, Kar Ik Vot 349s, Bactrians, Bactrains, Leviathans, Yuyuko, cheese, data drives, food, luxury goods, industrial, electronics, missions, failed missions, free worlds, actual Free Worlds, humans, Hai, Korath, Korath Raiders, Korath World Ships, Syndicate Bulk Freighters, Clippers, frogs, ants, terraformers, hyperdrives, jump drives, heat shunts, variables, Discord pings, @everyone pings, memes, Sayari plushie smugglers, Dreadnoughts, natural flavors, pexels.com images, GPL licenses, code, machine-readable code, binary, human-readable code, Debian, Ubuntu, Arch Linux, other Linux distros, Debian hats, Freya Winters plushies, Taely plushies, female Remnant plushies, images of Freya Winters, Free Worlds mission ideas, rejected pull requests to add Freya plushies, and more.
 
 # Let's play! (Installation instructions)
 LEESt only supports the continuous build of Endless Sky due to it's use of bleeding-edge features.
@@ -20,7 +20,7 @@ Additional effects include a cease and desist letter from anti-gaming groups (ra
 
 
 # Content Rating
-Dialogue and "strings" visible to players do not contain mild/major swear words, not even their substitutes. This add-on has not been assigned any official ratings by rating agencies such as the ESRB, PEGI, or your country's video game rating authority.
+Dialog and "strings" visible to players do not contain mild/major swear words, not even their substitutes. This add-on has not been assigned any official ratings by rating agencies such as the ESRB, PEGI, or your country's video game rating authority.
 
 Do note that this addon has references to slavery and organized crime (pirates).
 
@@ -85,6 +85,11 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Tarsia                    | Qbolewicz            | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Panorama_siekierkowski.jpg))
 | Kabegan                   | cassi saari          | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Nachusa_Grasslands_Spring_2016.jpg))
 | Bredehoft                 | Dominic              | Public domain           | ([orig](https://commons.wikimedia.org/wiki/File:Scottsdale_cityscape4.jpg))
+| Gura                      | Alexd2010            | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Downtown_San_Antonio_2021.jpg))
+| Couric                    | Vyacheslav Argenberg | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Kali_Gandaki_Valley,_Canyon,_Nepal.jpg))
+| Pareia                    | Kai Lehmann          | CC BY-SA 2.0 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Taal_Volcano_crater_lake_8-8-2014.jpg))
+| Lattice                   | Jibi44               | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:Ile_de_Nantes.JPG))
+| Brigantium                | Tiago Foreze         | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:Clouds_over_the_Atlantic_Ocean.jpg))
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
