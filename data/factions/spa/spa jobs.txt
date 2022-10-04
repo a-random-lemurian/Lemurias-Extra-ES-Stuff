@@ -22,6 +22,10 @@
 # Possible fixes:
 # - Fix Endless Sky game engine
 # - Don't offer mission in Pelitol Cluster
+#
+# Current temporary fix (2022-09-27):
+# - Long hyperlane between Sedlai and Pelitol
+#
 
 
 mission tr.cargo.small.low.1.spa

@@ -3,7 +3,7 @@ This is a plugin for Endless Sky, created by Lemuria. It adds so much new conten
 
 Disclaimer: May contain mild traces of the Hai ambassador "Sayari".
 
-Ingredients: VS Code, Endless Sky, Lemuria's brain cells, electricity, mac, sweat, hardwork, MSG, plugins, GitHub, copyrights, credits, coding experience, natural flavors, Sayari photos, Sayari, immersive simulations of Sayari, wizards, Kar Ik Vot 349s, Bactrians, Bactrains, Leviathans, Yuyuko, cheese, data drives, food, luxury goods, industrial, electronics, missions, failed missions, free worlds, actual Free Worlds, humans, Hai, Korath, Korath Raiders, Korath World Ships, Syndicate Bulk Freighters, Clippers, frogs, ants, terraformers, hyperdrives, jump drives, heat shunts, variables, Discord pings, @everyone pings, memes, Sayari plushie smugglers, Dreadnoughts, natural flavors, pexels.com images, GPL licenses, code, machine-readable code, binary, human-readable code, Debian, Ubuntu, Arch Linux, other Linux distros, Debian hats, and more.
+Ingredients: VS Code, Endless Sky, Lemuria's brain cells, electricity, mac, sweat, hardwork, MSG, plugins, GitHub, copyrights, credits, coding experience, natural flavors, Sayari photos, Sayari, immersive simulations of Sayari, wizards, Kar Ik Vot 349s, Bactrians, Bactrains, Leviathans, Yuyuko, cheese, data drives, food, luxury goods, industrial, electronics, missions, failed missions, free worlds, actual Free Worlds, humans, Hai, Korath, Korath Raiders, Korath World Ships, Syndicate Bulk Freighters, Clippers, frogs, ants, terraformers, hyperdrives, jump drives, heat shunts, variables, Discord pings, @everyone pings, memes, Sayari plushie smugglers, Dreadnoughts, natural flavors, pexels.com images, GPL licenses, code, machine-readable code, binary, human-readable code, Debian, Ubuntu, Arch Linux, other Linux distros, Debian hats, Freya Winters plushies, Taely plushies, female Remnant plushies, images of Freya Winters, Free Worlds mission ideas, rejected pull requests to add Freya plushies, and more.
 
 # Let's play! (Installation instructions)
 LEESt only supports the continuous build of Endless Sky due to it's use of bleeding-edge features.
@@ -20,7 +20,7 @@ Additional effects include a cease and desist letter from anti-gaming groups (ra
 
 
 # Content Rating
-Dialogue and "strings" visible to players do not contain mild/major swear words, not even their substitutes. This add-on has not been assigned any official ratings by rating agencies such as the ESRB, PEGI, or your country's video game rating authority.
+Dialog and "strings" visible to players do not contain mild/major swear words, not even their substitutes. This add-on has not been assigned any official ratings by rating agencies such as the ESRB, PEGI, or your country's video game rating authority.
 
 Do note that this addon has references to slavery and organized crime (pirates).
 
