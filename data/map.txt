@@ -234,24 +234,14 @@ system Deriie
 		distance 3118
 		period 1509
 
-
 system Denleitt
 	government "Anime Organization"
 	fleet animeorg.general.patrol.small.1 300
-	fleet animeorg.general.patrol.small.1 300
-	fleet animeorg.general.patrol.small.1 300
-	fleet spa.war.amidala.large 500
-	fleet spa.trade.HumanSpace.large 1700
+	fleet spa.small 900
+	fleet spa.medium 1800
 	fleet "Small Northern Merchants" 300
-	fleet "Small Northern Merchants" 300
-	fleet "Small Northern Merchants" 300
-	fleet "Small Northern Merchants" 300
-	fleet "Small Northern Merchants" 300
-	fleet "Small Northern Merchants" 300
-	fleet "Large Northern Merchants" 300
 	fleet "Large Northern Merchants" 300
 	fleet "Small Northern Pirates" 3700
-	fleet "Large Northern Pirates" 4000
 	fleet "Large Deep Merchants" 900
 	fleet "Large Republic" 3000
 	fleet "Small Republic" 2800
