@@ -414,7 +414,6 @@ system Ghesie
 	government Pirate
 	link Iloke
 	link Ladosak
-	link Lorfreei
 	fleet spa.war.ghesiePatrol.small.1 2000
 	fleet "Small Northern Pirates" 1200
 	fleet "Small Northern Pirates" 800
