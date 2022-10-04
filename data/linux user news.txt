@@ -159,3 +159,14 @@ news linuxUser.spaceportNews.4
 		word
 			"."
 			"!"
+
+phrase linuxDistroNames
+	word
+		"Gentoo"
+		"Ubuntu"
+		"Fedora"
+		"Red Hat"
+		"Arch"
+		"Arch Linux"
+		"Pop! OS"
+		""
