@@ -382,7 +382,7 @@ system Finduue
 
 system Fevbaa
 	pos -1033.0278 -323.25
-	link Iloke
+	link Sedlai
 	link Akore
 	link Zikut
 	object
