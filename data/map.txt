@@ -824,7 +824,7 @@ system Jalak
 		period 840
 		distance 2655
 system Jurluo
-	pos -1217.9166 -46.08333
+	pos -1167.9166 0.638885
 	link Sayreopli
 	arrival 760
 	object
@@ -1070,8 +1070,8 @@ system Littike
 		distance 2332
 		period 721
 system Luisark
-	pos -1253.0278 -120.75
-	link Finduue
+	pos -1253.0278 -215.75
+	link Lesarkei
 	arrival 1800
 	object
 		sprite "star/g0"

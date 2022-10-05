@@ -21,6 +21,7 @@
 - Fix Debian hat mission endless loop.
 - Remove `animeorg.landing.setFlag.landedOnEisei` "mission". It only sets a flag and is absolutely not needed.
 - Grammar fixes: "ammount" -> "amount", "recieve" -> "receive", fixed misuse of possessive "it's", alongside removal of British English words.
+- Moved Luisark and Jurluo out of JD range of 14 Pole and 12 Autumn Above.
 
 
 ### v0.10.13
