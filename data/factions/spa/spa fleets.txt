@@ -33,9 +33,11 @@ fleet spa.small
 		"SPA Kestrel" 1
 	variant 35
 		"SPA Cruiser (Electron)" 1
+		"SPA Cruiser (Blaze-Pike)" 2
 		"SPA Gunboat" 2
 	variant 40
 		"SPA Cruiser (Ion)" 2
+		"SPA Cruiser (Blaze-Pike)" 1
 	variant 10
 		"SPA Cruiser (Ion)" 4
 	variant 5
@@ -128,7 +130,8 @@ fleet spa.medium
 	variant 30
 		"SPA Kestrel (Proton)" 2
 	variant 45
-		"SPA Cruiser (Ion)" 8
+		"SPA Cruiser (Ion)" 4
+		"SPA Cruiser (Blaze-Pike)" 4
 		"SPA Gunboat (Blaze-Pike)" 2
 	variant 2
 		"Model 512" 4
@@ -174,7 +177,8 @@ fleet spa.large
 	variant 35
 		"SPA Kestrel" 2
 	variant 30
-		"SPA Gunboat" 8
+		"SPA Gunboat" 6
+		"SPA Gunboat (Blaze-Pike)" 2
 		"SPA Cruiser" 4
 	variant 25
 		"SPA Gunboat" 4
