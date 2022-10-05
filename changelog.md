@@ -26,7 +26,7 @@
   - Fixed misuse of possessive "it's".
   - Removed British English spellings and words.
 - Moved Luisark and Jurluo out of JD range of 14 Pole and 12 Autumn Above.
-
+- Removed insults of Amber Heard and Elaine Bredehoft.
 
 ### v0.10.13
 - Didn't remove Orbona system (I made an error in commit 94a59c875f889cf36d13c94e6fb8253bca34269d, blame me for it.)
