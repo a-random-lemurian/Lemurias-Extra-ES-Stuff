@@ -453,7 +453,12 @@ system Posteli
 	trade Metal 631
 	trade Plastic 513
 	habitable 431
-
+	fleet "Small Republic" 1000
+	fleet spa.small 900
+	fleet spa.medium 2400
+	fleet "Small Northern Merchants" 1400
+	fleet "Large Northern Merchants" 4000
+	fleet "Small Northern Pirates" 9000
 	object
 		sprite "star/m3"
 		distance 0
