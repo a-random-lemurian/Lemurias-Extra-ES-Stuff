@@ -192,7 +192,7 @@ ship "Gunboat" "SPA Gunboat"
 	explode "medium explosion" 15
 	"final explode" "final explosion small"
 	description "The Navy Gunboat is designed for engaging targets at short range, and also serves as the Navy's mobile sensor platform, scanning ships for illegal equipment or cargo."
-	description "This particular gunboat however, seems to be another one of the Sayari Plushie Authority's custom-built ships. In addition to that, the ship is covered with interference plating due to it's intended role in transporting plushies, which the CSSF have a particular distaste for."
+	description "This particular gunboat however, seems to be another one of the Sayari Plushie Authority's custom-built ships. In addition to that, the ship is covered with interference plating due to its intended role in transporting plushies, which the CSSF have a particular distaste for."
 
 
 ship "Gunboat" "SPA Gunboat (Proton Gun)"
@@ -247,7 +247,7 @@ ship "Gunboat" "SPA Gunboat (Proton Gun)"
 	explode "medium explosion" 15
 	"final explode" "final explosion small"
 	description "The Navy Gunboat is designed for engaging targets at short range, and also serves as the Navy's mobile sensor platform, scanning ships for illegal equipment or cargo."
-	description "This particular gunboat however, seems to be another one of the Sayari Plushie Authority's custom-built ships. In addition to that, the ship is covered with interference plating due to it's intended role in transporting plushies, which the CSSF have a particular distaste for."
+	description "This particular gunboat however, seems to be another one of the Sayari Plushie Authority's custom-built ships. In addition to that, the ship is covered with interference plating due to its intended role in transporting plushies, which the CSSF have a particular distaste for."
 
 ship "Gunboat" "SPA Gunboat (Blaze-Pike)"
 	sprite "ship/gunboat"
@@ -300,7 +300,7 @@ ship "Gunboat" "SPA Gunboat (Blaze-Pike)"
 	explode "medium explosion" 15
 	"final explode" "final explosion small"
 	description "The Navy Gunboat is designed for engaging targets at short range, and also serves as the Navy's mobile sensor platform, scanning ships for illegal equipment or cargo."
-	description "This particular gunboat however, seems to be another one of the Sayari Plushie Authority's custom-built ships. In addition to that, the ship is covered with interference plating due to it's intended role in transporting plushies, which the CSSF have a particular distaste for."
+	description "This particular gunboat however, seems to be another one of the Sayari Plushie Authority's custom-built ships. In addition to that, the ship is covered with interference plating due to its intended role in transporting plushies, which the CSSF have a particular distaste for."
 
 ship "Cruiser" "SPA Cruiser"
 	sprite "ship/cruiser"
@@ -378,7 +378,7 @@ ship "Cruiser" "SPA Cruiser"
 
 	"final explode" "final explosion large"
 	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
-	description "This Cruiser is a custom-built SPA variant designed for combat. It's primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
 
 ship "Cruiser" "SPA Cruiser (Blaze-Pike)"
 	sprite "ship/cruiser"
@@ -456,7 +456,7 @@ ship "Cruiser" "SPA Cruiser (Blaze-Pike)"
 
 	"final explode" "final explosion large"
 	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
-	description "This Cruiser is a custom-built SPA variant designed for combat. It's primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
 
 ship "Cruiser" "SPA Cruiser (Electron)"
 	sprite "ship/cruiser"
@@ -534,7 +534,7 @@ ship "Cruiser" "SPA Cruiser (Electron)"
 
 	"final explode" "final explosion large"
 	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
-	description "This Cruiser is a custom-built SPA variant designed for combat. It's primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
 
 ship "Cruiser" "SPA Cruiser (Ion)"
 	sprite "ship/cruiser"
@@ -613,7 +613,7 @@ ship "Cruiser" "SPA Cruiser (Ion)"
 
 	"final explode" "final explosion large"
 	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
-	description "This Cruiser is a custom-built SPA variant designed for combat. It's primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
 
 
 ship "Cruiser" "SPA Cruiser (Korath Slicer)"
@@ -692,7 +692,7 @@ ship "Cruiser" "SPA Cruiser (Korath Slicer)"
 
 	"final explode" "final explosion large"
 	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
-	description "This Cruiser is a custom-built SPA variant designed for combat. It's primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
 
 
 ship "Cruiser" "SPA Cruiser (Particle Cannon)"
@@ -770,7 +770,7 @@ ship "Cruiser" "SPA Cruiser (Particle Cannon)"
 
 	"final explode" "final explosion large"
 	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
-	description "This Cruiser is a custom-built SPA variant designed for combat. It's primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
 
 
 ship "Carrier" "SPA Carrier (Combat)"
@@ -968,7 +968,7 @@ ship "Skein" "SPA Skein"
 	explode "huge explosion" 5
 	"final explode" "final explosion large"
 	description `This particular cockpit and engine set has found itself attached to three of Southbound Shipyards' new "Type F" Fighter-carrier pods. When the Free Worlds asked for a carrier, they did not expect one that would be able to carry more fighters than even the heaviest Navy warships. Given this fact, the Free Worlds have asked Southbound and Tarazed to restrict sale of the "Hauler III: Type F", "Skein" to its Militia only.`
-	description `This is a modified variant, built by the SPA for it's needs. Fleets that need to transport plushies in questionable situations (such as when the CSSF is patrolling a particular system), often use this particular variant of the Skein.`
+	description `This is a modified variant, built by the SPA for its needs. Fleets that need to transport plushies in questionable situations (such as when the CSSF is patrolling a particular system), often use this particular variant of the Skein.`
 	description `The Sayari Plushie Authority is willing to sell this ship to anyone with enough money, without the need for a militia license from the Free Worlds.`
 ship "Bactrian" "Old Bactrian"
 	sprite "ship/old_bactrian"
@@ -1131,5 +1131,5 @@ ship "SPA Rosas"
 	explode "medium explosion" 20
 	explode "large explosion" 20
 	"final explode" "final explosion large"
-	description `The Rosas-class freighter ("Rosas" meaning "pink" in Tagalog) is a large-scale plushie smuggling ship, meant as a replacement for the Syndicate Bulk Freighter. It may be a freighter but it is classified as a Medium Warship due to it's armanent. `
+	description `The Rosas-class freighter ("Rosas" meaning "pink" in Tagalog) is a large-scale plushie smuggling ship, meant as a replacement for the Syndicate Bulk Freighter. It may be a freighter but it is classified as a Medium Warship due to its armanent. `
 
