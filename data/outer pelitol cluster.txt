@@ -1211,6 +1211,14 @@ system Deriato
 	trade Medical 543
 	trade Metal 711
 	trade Plastic 696
+	fleet spa.small 500
+	fleet spa.medium 800
+	fleet spa.large 1100
+	fleet cssf.small 9000
+	fleet cssf.medium 11000
+	fleet cssf.large 14000
+	fleet "Small Northern Merchants" 3900
+	fleet "Large Northern Merchants" 5500
 	government "Sayari Plushie"
 	object
 		sprite "star/m0"
@@ -2361,8 +2369,10 @@ planet "Pareia"
 planet "Steirek"
 	landscape "land/steirek"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	shipyard "Sayari Advanced"
+	outfitter "Sayari Outfits"
+	description `Steirek is a militarized world. It is for the exclusive use of the Sayari Plushie Authority. Steirek consists of a large network of warehouses, datacenters, and supercomputers providing storage for plushies and data and computing power to help the SPA choose the best place to sell plushies based on its models of the galaxy, which rival that of the Syndicate.`
+	spaceport `The vast majority of the ships leaving and entering the spaceport are in the livery of the Sayari Plushie Authority and your ship sticks out amongst the crowd. Containers full of plushies can be seen being loaded onto the ships. The spaceport is defended by hundreds of turrets to protect against CSSF and pirate intrusions.`
 
 planet Ponarai
 	landscape "land/ponarai"

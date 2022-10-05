@@ -90,6 +90,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Pareia                    | Kai Lehmann          | CC BY-SA 2.0 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Taal_Volcano_crater_lake_8-8-2014.jpg))
 | Lattice                   | Jibi44               | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:Ile_de_Nantes.JPG))
 | Brigantium                | Tiago Foreze         | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:Clouds_over_the_Atlantic_Ocean.jpg))
+| Steirek                   | Bill Reckert         | Public domain           | ([orig](https://commons.wikimedia.org/wiki/File:FEMA_-_6050_-_Photograph_by_Bill_Reckert_in_Maryland.jpg))
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
