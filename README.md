@@ -1,7 +1,10 @@
 # About
 This is a plugin for Endless Sky, created by Lemuria. It adds so much new content to the game that it cannot be listed in this README. Please view [this document](./docs/NEWCONTENT.md) for more information.
 
-Disclaimer: May contain mild traces of the Hai ambassador "Sayari".
+Disclaimers:
+- This plugin is fictional. References to real life however are expected as ES takes place over 1000 years in the future (as of 2022).
+- Planet/ship/character/any names with innocent meanings in English but vulgar meanings in other languages are rare (the author has not gotten any complaints). Any such meanings are unintended. Please contact the author if you have a problem.
+- May contain mild traces of the Hai ambassador "Sayari".
 
 Ingredients: VS Code, Endless Sky, Lemuria's brain cells, electricity, mac, sweat, hardwork, MSG, plugins, GitHub, copyrights, credits, coding experience, natural flavors, Sayari photos, Sayari, immersive simulations of Sayari, wizards, Kar Ik Vot 349s, Bactrians, Bactrains, Leviathans, Yuyuko, cheese, data drives, food, luxury goods, industrial, electronics, missions, failed missions, free worlds, actual Free Worlds, humans, Hai, Korath, Korath Raiders, Korath World Ships, Syndicate Bulk Freighters, Clippers, frogs, ants, terraformers, hyperdrives, jump drives, heat shunts, variables, Discord pings, @everyone pings, memes, Sayari plushie smugglers, Dreadnoughts, natural flavors, pexels.com images, GPL licenses, code, machine-readable code, binary, human-readable code, Debian, Ubuntu, Arch Linux, other Linux distros, Debian hats, Freya Winters plushies, Taely plushies, female Remnant plushies, images of Freya Winters, Free Worlds mission ideas, rejected pull requests to add Freya plushies, and more.
 
