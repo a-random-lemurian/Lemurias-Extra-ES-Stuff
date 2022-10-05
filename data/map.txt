@@ -1770,7 +1770,7 @@ planet "Leroo Station"
 	outfitter "Basic Weapons"
 	outfitter "Pirate Outfits"
 	landscape land/stationLeroo
-	description "Leroo Station is a pirate station in the Illumina Regions. It serves as some kind of governing building for organized pirate activity. Due to it's size, pirate fleets often use this as a staging point to launch attacks on northwestern traders and occasionally the Deep. The Republic and the Deep remain baffled as to how pirates were able to obtain a large ammount of Bactrians."
+	description "Leroo Station is a pirate station in the Illumina Regions. It serves as some kind of governing building for organized pirate activity. Due to it's size, pirate fleets often use this as a staging point to launch attacks on northwestern traders and occasionally the Deep. The Republic and the Deep remain baffled as to how pirates were able to obtain a large amount of Bactrians."
 	spaceport "At the docking bays, people give you weird looks, most of them being pirates. It's also possible to buy whatever you want for the right price, but this station has no stores selling slaves."
 	government Pirate
 	"required reputation" 10
