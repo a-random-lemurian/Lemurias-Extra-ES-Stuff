@@ -2376,6 +2376,12 @@ planet Narchrai
 	description `.`
 	spaceport `.`
 
+planet "Pechara High"
+	landscape "land/stationPecharaHigh"
+	government "Independent"
+	description `Pechara High is sparsely populated. Only roughly 40 people live here to maintain the station and perform research. It orbits the gas giant Pechara, which was expelled from its star system likely hundreds of millions of years ago. An even bigger mystery is why the hyperlane network would lead to such an isolated and lonely gas giant.`
+	spaceport `The spaceport consists primarily of equipment for launching scientific probes alongside standard refuelling facilities.`
+
 planet Brigantium
 	landscape "land/brigantium"
 	government "Republic"
