@@ -20,7 +20,7 @@
 - Fixed Erou system government (set to Sayari Plushies).
 - Fix Debian hat mission endless loop.
 - Remove `animeorg.landing.setFlag.landedOnEisei` "mission". It only sets a flag and is absolutely not needed.
-- Grammar fixes: "ammount" -> "amount", fixed misuse of possessive "it's", alongside removal of British English words.
+- Grammar fixes: "ammount" -> "amount", "recieve" -> "receive", fixed misuse of possessive "it's", alongside removal of British English words.
 
 
 ### v0.10.13

@@ -9,7 +9,7 @@ phrase "Illegal Data Transport Completion"
 		10
 		80
 	word
-		" gigabytes per second. Once the data is uploaded, you recieve the payment."
+		" gigabytes per second. Once the data is uploaded, you receive the payment."
 
 phrase "Illegal Data Transport Visit"
 	word
