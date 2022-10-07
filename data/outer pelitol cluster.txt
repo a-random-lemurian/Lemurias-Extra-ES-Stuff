@@ -2220,6 +2220,7 @@ system Pechara
 	pos -8450.7079 103.85467
 	link Chasikara
 	link Deramii
+	government "Independent"
 	arrival 14000
 	fleet "Small Northern Merchants" 3000
 	fleet spa.small 900
