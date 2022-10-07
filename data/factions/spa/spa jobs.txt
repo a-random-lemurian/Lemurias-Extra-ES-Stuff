@@ -143,6 +143,14 @@ phrase "SPA salespeople complete"
 		"You see some mysterious people chase them." 30
 		"" 70
 
+# For the large missions (hundreds of people)
+phrase "SPA salespeople complete, always gender-neutral"
+	word
+		"The SPA salespeople leave your ship after paying you <payment>. "
+	word
+		"You see some mysterious people chase them." 30
+		"" 70
+	
 mission spa.salespeopleTransport.1
 	name "<bunks> SPA salespeople to <system>"
 	description "Transport <bunks> SPA salespeople to <planet>, <system> for <payment>."
@@ -982,7 +990,7 @@ mission "SPA salespeople going home, Large [1]"
 		dialog phrase spa.tr.visit
 	on complete
 		payment 70000 240
-		dialog phrase "SPA salespeople complete"
+		dialog phrase "SPA salespeople complete, always gender-neutral"
 		"reputation: Sayari Plushie" += 20
 	npc
 		government "Yuyuko Saigyouji"
@@ -1028,7 +1036,7 @@ mission "SPA salespeople going home, Large [2]"
 		dialog phrase spa.tr.visit
 	on complete
 		payment 70000 240
-		dialog phrase "SPA salespeople complete"
+		dialog phrase "SPA salespeople complete, always gender-neutral"
 		"reputation: Sayari Plushie" += 20
 	npc
 		government "Yuyuko Saigyouji"
@@ -1074,7 +1082,7 @@ mission "SPA salespeople going home, Large [3]"
 		dialog phrase spa.tr.visit
 	on complete
 		payment 70000 240
-		dialog phrase "SPA salespeople complete"
+		dialog phrase "SPA salespeople complete, always gender-neutral"
 		"reputation: Sayari Plushie" += 20
 	npc
 		government "Yuyuko Saigyouji"
@@ -1120,7 +1128,7 @@ mission "SPA salespeople going home, Large [4]"
 		dialog phrase spa.tr.visit
 	on complete
 		payment 70000 240
-		dialog phrase "SPA salespeople complete"
+		dialog phrase "SPA salespeople complete, always gender-neutral"
 		"reputation: Sayari Plushie" += 20
 	npc
 		government "Yuyuko Saigyouji"
