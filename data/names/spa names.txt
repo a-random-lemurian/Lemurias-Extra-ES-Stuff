@@ -101,7 +101,7 @@ phrase "locations"
 
 # General category for people who:
 # - aren't politicians, and who
-# - the SPA names it's ships after.
+# - the SPA names its ships after.
 phrase "people worthy of being ship names"
 	word
 		# Depp v. Heard, 2022 trial case

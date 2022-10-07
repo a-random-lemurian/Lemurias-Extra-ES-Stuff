@@ -28,7 +28,7 @@
 # 		month == 4
 # 		year == 3018
 # 	on offer
-# 		log Factions "Sayari Plushie Authority" `The Sayari Plushie Authority, primarily operating in the Illumina Regions, is a major quasi-national organization performing most of the functions of an actual country like the Republic. It is notorious for it's large trade caravans, transporting goods across the galaxy. However, it is even more well-known for producing life-size plushies of a character named "Sayari". You assume that Sayari is a fictional character of some sort.`
+# 		log Factions "Sayari Plushie Authority" `The Sayari Plushie Authority, primarily operating in the Illumina Regions, is a major quasi-national organization performing most of the functions of an actual country like the Republic. It is notorious for its large trade caravans, transporting goods across the galaxy. However, it is even more well-known for producing life-size plushies of a character named "Sayari". You assume that Sayari is a fictional character of some sort.`
 # 		conversation
 # 			"Once you step off your ship, a woman dressed in a blue uniform confronts you. She doesn't look like someone from the Navy or Parliament."
 # 			`	"Hello, I'm from the Sayari Plushie Authority. We're always looking for experienced pilots. We offer high rewards for missions. Want to join us?"`

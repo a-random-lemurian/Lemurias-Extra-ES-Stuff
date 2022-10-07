@@ -1,3 +1,19 @@
+# LEESt: The world's greatest Endless Sky plugin.
+# Copyright (C) 2021-2022 Lemuria
+
+# This program is free software: you can redistribute it and/or modify it under the terms of the GNU
+# General Public License as published by the Free Software Foundation, either version 3 of the
+# License, or (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
+# even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+# General Public License for more details.
+
+# You should have received a copy of the GNU General Public License along with this program.
+# If not,see <https://www.gnu.org/licenses/>.
+
+# Lemuria is contactable in the Endless Sky discord server
+# as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
 # galaxy pelitolNebula
 # 	pos -8057.2079 -0.53422
@@ -8,6 +24,7 @@ system Sorusep
 	government "Sayari Plushie"
 	link Ikopp
 	link Oratelis
+	arrival 1800
 	fleet spa.small 800
 	fleet spa.medium 3000
 	fleet spa.large 5000
@@ -48,6 +65,7 @@ system Pelitol
 	link Ikopp
 	link Sedlai
 	link Frechisa
+	arrival 1900
 	trade Clothing 344
 	trade Electronics 713
 	trade Equipment 584
@@ -110,6 +128,7 @@ system Defal
 	link Pelitol
 	link Dorkelt
 	link Arau
+	arrival 1380
 	trade Clothing 376
 	trade Electronics 733
 	trade Equipment 608
@@ -159,6 +178,7 @@ system Ikopp
 	link Pelitol
 	link Repolitea
 	link Sorusep
+	arrival 1780
 	fleet spa.small 900
 	fleet spa.medium 1700
 	fleet spa.large 3000
@@ -194,6 +214,7 @@ system Repolitea
 	link Ikopp
 	link Doler
 	link Sarut
+	arrival 1370
 	fleet spa.small 600
 	fleet spa.medium 1300
 	fleet spa.large 2300
@@ -257,6 +278,7 @@ system Sarut
 	link Repolitea
 	link Oratelis
 	link Vourgat
+	arrival 1180
 	fleet spa.small 500
 	fleet spa.medium 1200
 	fleet spa.large 1800
@@ -296,6 +318,7 @@ system Doler
 	link Repolitea
 	link Maryn-qarou
 	link Ouchar
+	arrival 1340
 	fleet spa.small 800
 	fleet spa.medium 1600
 	fleet spa.large 3400
@@ -337,6 +360,7 @@ system Oratelis
 	link Sarut
 	link Arket
 	link Dorkelt
+	arrival 1870
 	fleet spa.small 500
 	fleet spa.medium 900
 	fleet spa.large 3400
@@ -367,6 +391,7 @@ system Dorkelt
 	pos -8402.4995 -203.45588
 	link Oratelis
 	link Defal
+	arrival 1340
 	fleet spa.small 800
 	fleet spa.medium 2000
 	fleet spa.large 3700
@@ -406,6 +431,7 @@ system Arket
 	link Oratelis
 	link Vensur
 	link Paricasa
+	arrival 1140
 	fleet spa.small 700
 	fleet spa.medium 1800
 	fleet spa.large 3400
@@ -471,6 +497,7 @@ system Vensur
 	link Arket
 	link Sprad
 	link Starish
+	arrival 1680
 	arrival 500
 	fleet spa.small 500
 	fleet spa.medium 800
@@ -513,6 +540,7 @@ system Starish
 	link Vensur
 	link Darceas
 	link Orchao
+	arrival 1200
 	object
 		sprite "star/k5"
 		distance 0
@@ -553,6 +581,7 @@ system Darceas
 	link Orchao
 	link Varfeticasa
 	link Orunat
+	arrival 1470
 	trade Clothing 319
 	trade Electronics 463
 	trade Equipment 578
@@ -591,6 +620,7 @@ system Orchao
 	link Darceas
 	link Starish
 	link Zoruna
+	arrival 1270
 	object
 		sprite "star/m8"
 		distance 0
@@ -610,6 +640,7 @@ system Paricasa
 	link Arket
 	link Telicasa
 	link Poreu
+	arrival 1670
 	fleet spa.small 1900
 	fleet spa.medium 2300
 	fleet spa.large 3100
@@ -631,6 +662,7 @@ system Telicasa
 	link Paricasa
 	link Nursuta
 	link Kolicasa
+	arrival 1340
 	fleet spa.small 1900
 	fleet spa.medium 2300
 	fleet spa.large 3100
@@ -660,7 +692,7 @@ system Kolicasa
 	link Telicasa
 	link Varfeticasa
 	link Lesokicasa
-
+	arrival 2800
 	fleet spa.small 1900
 	fleet spa.medium 2300
 	fleet spa.large 3100
@@ -701,6 +733,7 @@ system Varfeticasa
 	pos -8403.0488 -33.240
 	link Darceas
 	link Kolicasa
+	arrival 2170
 	fleet "Small Northern Merchants" 1300
 	fleet "Small Northern Pirates" 1500
 	object
@@ -766,6 +799,7 @@ system Frechisa
 	link Pelitol
 	link Olerak
 	link Ertusca
+	arrival 1760
 	fleet spa.small 900
 	fleet spa.medium 1900
 	fleet spa.large 5600
@@ -813,6 +847,7 @@ system Ertusca
 	link Frechisa
 	link Corua
 	link Nestia
+	arrival 1430
 	fleet spa.small 900
 	fleet spa.medium 2400
 	fleet spa.large 5000
@@ -856,6 +891,7 @@ system Olerak
 	link Erited
 	link Frechisa
 	link Pentarok
+	arrival 1480
 	fleet spa.small 850
 	fleet spa.medium 1560
 	fleet spa.large 2800
@@ -885,6 +921,7 @@ system Erited
 	government "Sayari Plushie"
 	pos -8242.3493 -401.41104
 	link Olerak
+	arrival 1260
 	fleet spa.small 500
 	fleet spa.medium 900
 	fleet spa.large 3500
@@ -916,6 +953,7 @@ system Ourais
 	belt 1344
 	link Daxter
 	link Erou
+	arrival 2330
 	trade Clothing 359
 	trade Electronics 513
 	trade Equipment 629
@@ -969,6 +1007,7 @@ system Vourgat
 	link Presad
 	link Sarut
 	link Sprad
+	arrival 1460
 	fleet "Small Northern Pirates" 1300
 	object
 		sprite "star/a3"
@@ -1000,6 +1039,7 @@ system Erou
 	link Ourais
 	link Presad
 	link Vifura
+	arrival 1170
 	government "Sayari Plushie"
 	fleet "Small Northern Pirates" 1300
 	object
@@ -1032,6 +1072,7 @@ system Sprad
 	link Varisa
 	link Vensur
 	link Vourgat
+	arrival 2170
 	fleet "Small Northern Pirates" 1300
 	object
 		sprite "star/g0"
@@ -1055,6 +1096,7 @@ system Presad
 	link Erou
 	link Vourgat
 	link Deriato
+	arrival 1270
 	trade Clothing 194
 	trade Electronics 463
 	trade Equipment 619
@@ -1096,6 +1138,7 @@ system Sprooe
 	pos -8730.8056 -99.694444
 	link Daxter
 	link Casfik
+	arrival 1780
 	government "Sayari Plushie"
 	fleet spa.small 900
 	fleet spa.medium 1500
@@ -1124,6 +1167,7 @@ system Daxter
 	link Ourais
 	link Sprooe
 	link Varisa
+	arrival 2400
 	trade Clothing 304
 	trade Electronics 523
 	trade Equipment 489
@@ -1165,6 +1209,7 @@ system Varisa
 	pos -8612.7222 -179.33333
 	link Daxter
 	link Sprad
+	arrival 780
 	government "Sayari Plushie"
 	trade Clothing 384
 	trade Electronics 701
@@ -1289,7 +1334,7 @@ planet Barachen
 	outfitter "Sayari Outfits"
 	description "Barachen is an ocean world where roughly 85% of the surface is an ocean. Small settlements are present on most of Barachen's islands, home to a few plushie stashes and factories, most of which are well-hidden."
 	description "One of the larger island chains is home to a massive SPA naval base, the spaceport, and shipyard, presumably to intimidate the Republic outpost on Voreo."
-	description "Barachen's factories rival the factories of Zarkxaa in the production of Sayari plushies and merchandise. If Zarkxaa was to be occupied, Barachen would only need to increase it's production to make up for the lost supply."
+	description "Barachen's factories rival the factories of Zarkxaa in the production of Sayari plushies and merchandise. If Zarkxaa was to be occupied, Barachen would only need to increase its production to make up for the lost supply."
 	spaceport "The spaceport is located in the civilian area of the SPA naval base. The surrounding settlement is roughly 300,000 strong. As usual, large turrets have been placed on the naval base for protection against CSSF attacks. The shipyard is closely integrated with the naval base."
 	spaceport "Meanwhile, the spaceport village offers several services such as food, drinks, ship repairs, and most importantly, plushies of either Freya Winters or Sayari. The traffic at the spaceport is fairly light with a ship entering roughly every 4 minutes."
 

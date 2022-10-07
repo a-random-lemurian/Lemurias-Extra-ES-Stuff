@@ -93,3 +93,6 @@ trade
 		"copyright-infringing anime"
 		"sensitive anime"
 		"pirated anime"
+
+	commodity "Debian hat"
+		"Debian hats"

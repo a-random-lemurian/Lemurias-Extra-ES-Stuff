@@ -161,3 +161,103 @@ mission debianHatRetrieval.conversation.begin
 	on complete
 		payment 560000 800000
 		dialog phrase debianHatGiven
+
+
+phrase "Debian hat pickup visit"
+	word
+		"The mysterious person in the black shirt with the red swirl ignores you, as if they somehow know you still don't have the hats."
+		"You get a message: 'Scan of your ship reveals no hats. Get the hats and I will appear.'"
+
+
+phrase "Debian hat pickup complete"
+	word
+		"A mysterious person in a black shirt with a red swirl gives you your money after picking up the Debian hats. They give you a credit chip with <payment>."
+
+
+mission "Debian hat pickup [0]"
+	name "Debian hat to <system>"
+	description "Transport <tons> of <commodity> to <planet>, <system> for a reward of <payment>."
+	job
+	repeat
+	cargo "Debian hats" 10 54
+	to offer
+		has "debianHatRetrieval.conversation.begin: done"
+		"cargo space" > 10
+		random > 80
+	source
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	destination
+		distance 3 17
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	on visit
+		dialog phrase "Debian hat pickup visit"
+	on complete
+		payment 7600 340
+		dialog phrase "Debian hat pickup complete"
+
+
+mission "Debian hat pickup [1]"
+	name "Debian hat to <system>"
+	description "Transport <tons> of <commodity> to <planet>, <system> for a reward of <payment>."
+	job
+	repeat
+	cargo "Debian hats" 10 54
+	to offer
+		has "debianHatRetrieval.conversation.begin: done"
+		"cargo space" > 10
+		random > 80
+	source
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	destination
+		distance 3 17
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	on visit
+		dialog phrase "Debian hat pickup visit"
+	on complete
+		payment 7600 340
+		dialog phrase "Debian hat pickup complete"
+
+
+mission "Debian hat pickup [2]"
+	name "Debian hat to <system>"
+	description "Transport <tons> of <commodity> to <planet>, <system> for a reward of <payment>."
+	job
+	repeat
+	cargo "Debian hats" 10 54
+	to offer
+		has "debianHatRetrieval.conversation.begin: done"
+		"cargo space" > 10
+		random > 80
+	source
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	destination
+		distance 3 17
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	on visit
+		dialog phrase "Debian hat pickup visit"
+	on complete
+		payment 7600 340
+		dialog phrase "Debian hat pickup complete"
+
+
+mission "Debian hat pickup [3]"
+	name "Debian hat to <system>"
+	description "Transport <tons> of <commodity> to <planet>, <system> for a reward of <payment>."
+	job
+	repeat
+	cargo "Debian hats" 10 54
+	to offer
+		has "debianHatRetrieval.conversation.begin: done"
+		"cargo space" > 10
+		random > 80
+	source
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	destination
+		distance 3 17
+		government Republic "Free Worlds" Syndicate Neutral Independent "Sayari Plushie"
+	on visit
+		dialog phrase "Debian hat pickup visit"
+	on complete
+		payment 7600 340
+		dialog phrase "Debian hat pickup complete"
+

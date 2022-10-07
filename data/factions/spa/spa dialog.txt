@@ -35,4 +35,4 @@ phrase spa.tr.visit
 
 phrase spa.tr.complete
 	word
-		"You recieve your payment of <payment> as you unload the <cargo>."
+		"You receive your payment of <payment> as you unload the <cargo>."

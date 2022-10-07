@@ -14,13 +14,20 @@
 - Populated the rest of the Illumina Regions.
 - Significantly expanded the Pelitol Cluster.
 - Reworked SPA fleet naming.
-- Added merchant hails that insult Amber Heard and her lawyer Elaine Bredehoft.
 - Added new Amidala sprite, courtesy of Zoura.
 - Removed the data drives commodity.
 - Fixed Erou system government (set to Sayari Plushies).
 - Fix Debian hat mission endless loop.
+- Shortened Anime Organization display name to "Anime Org.".
 - Remove `animeorg.landing.setFlag.landedOnEisei` "mission". It only sets a flag and is absolutely not needed.
-- Grammar fixes: "ammount" -> "amount", alongside removal of British English words.
+- Grammar fixes:
+  - "ammount" -> "amount"
+  - "recieve" -> "receive"
+  - Fixed misuse of possessive "it's".
+  - Removed British English spellings and words.
+- Moved Luisark and Jurluo out of JD range of 14 Pole and 12 Autumn Above.
+#### Other content
+- During the release candidate versions of 0.10.14, there were insults of Amber Heard that the community objected to in [pull request 450](https://github.com/EndlessSkyCommunity/endless-sky-plugins/pull/450) of the plugin index. Added in rc1, specifically commit b5b23e1499d32582219ac1abad68e4f3bfcca0b1 and removed in rc5 (be77cbf4c17d880c6a2db185b0e01e4e4b8280f2).
 
 ### v0.10.13
 - Didn't remove Orbona system (I made an error in commit 94a59c875f889cf36d13c94e6fb8253bca34269d, blame me for it.)

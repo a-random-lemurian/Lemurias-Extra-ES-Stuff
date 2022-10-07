@@ -1,7 +1,25 @@
+# LEESt: The world's greatest Endless Sky plugin.
+# Copyright (C) 2021-2022 Lemuria
+
+# This program is free software: you can redistribute it and/or modify it under the terms of the GNU
+# General Public License as published by the Free Software Foundation, either version 3 of the
+# License, or (at your option) any later version.
+
+# This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
+# even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+# General Public License for more details.
+
+# You should have received a copy of the GNU General Public License along with this program.
+# If not,see <https://www.gnu.org/licenses/>.
+
+# Lemuria is contactable in the Endless Sky discord server
+# as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
+
 system Poreu
 	pos -8370.5968 -154.58978
 	link Airuka
 	link Paricasa
+	arrival 3000
 	fleet spa.small 700
 	fleet spa.medium 1500
 	fleet "Small Republic" 900
@@ -46,6 +64,7 @@ system Chasikara
 	link "42 Merisai"
 	link Orunat
 	link Pechara
+	arrival 1800
 	object
 		sprite "star/g3"
 		distance 0
@@ -89,6 +108,7 @@ system Karita
 	link Onuka
 	link Vefrua
 	habitable 503
+	arrival 2180
 	object
 		sprite "star/m3"
 		distance 0
@@ -115,6 +135,7 @@ system Airuka
 	link Arau
 	link Mersat
 	link Poreu
+	arrival 1680
 	fleet spa.small 700
 	fleet spa.medium 1500
 	fleet "Small Republic" 900
@@ -157,6 +178,7 @@ system Airuka
 system Upalsa
 	pos -8128.7635 -163.562
 	link Caretta
+	arrival 1480
 	object
 		sprite "star/m4"
 		distance 0
@@ -191,6 +213,11 @@ system Ouchar
 	link Deriato
 	link Doler
 	link Gensar
+	arrival 2100
+	fleet spa.small 800
+	fleet spa.medium 1300
+	fleet spa.large 1600
+	fleet "Small Northern Merchants" 2400
 	trade Clothing 354
 	trade Electronics 471
 	trade Equipment 443
@@ -234,6 +261,7 @@ system Corua
 	link Daryn-qular
 	link Ertusca
 	link Pourat
+	arrival 1950
 	fleet "Small Republic" 900
 	fleet "Large Republic" 1300
 	fleet "Small Northern Merchants" 300
@@ -281,6 +309,7 @@ system Aradi
 	link Isalor
 	link Mariuta
 	link Vastary
+	arrival 1650
 	object
 		sprite "star/k-supergiant"
 		distance 1.04
@@ -317,6 +346,7 @@ system Aradi
 system Eputel
 	pos -8572.7635 -99.561998
 	link Casfik
+	arrival 3340
 	habitable 40000
 	object
 		sprite "star/a3"
@@ -346,6 +376,7 @@ system Eputel
 system Venisur
 	pos -8630.9857 -126.67311
 	link Casfik
+	arrival 2170
 	habitable 90000
 	object
 		sprite "star/o8"
@@ -385,6 +416,7 @@ system Opfrau
 	link "Alpha Tudalip"
 	link Melursa
 	link Porsuei
+	arrival 1800
 	fleet "Large Northern Pirates" 800
 	fleet "Small Northern Pirates" 500
 	fleet "Small Republic" 1200
@@ -429,6 +461,7 @@ system Posteli
 	link Freula
 	link Nestia
 	link Porsuei
+	arrival 1500
 	government "Republic"
 	trade Clothing 180
 	trade Electronics 713
@@ -441,7 +474,12 @@ system Posteli
 	trade Metal 631
 	trade Plastic 513
 	habitable 431
-
+	fleet "Small Republic" 1000
+	fleet spa.small 900
+	fleet spa.medium 2400
+	fleet "Small Northern Merchants" 1400
+	fleet "Large Northern Merchants" 4000
+	fleet "Small Northern Pirates" 9000
 	object
 		sprite "star/m3"
 		distance 0
@@ -463,6 +501,7 @@ system Pentarok
 	pos -8371.5135 -359.20089
 	link Maryn-qarou
 	link Olerak
+	arrival 1380
 	object
 		sprite "star/m5"
 		distance 0.13
@@ -530,6 +569,7 @@ system Casfik
 	link Sprooe
 	link Venisur
 	link Zerted
+	arrival 1860
 	object
 		sprite "star/b5"
 		distance 0
@@ -560,7 +600,8 @@ system Maryn-qarou
 	link Doler
 	link Isalor
 	link Pentarok
-	government "Sayari Plushie"
+	arrival 1480
+	government "Republic"
 	habitable 4331
 	object
 		sprite "star/a-supergiant"
@@ -608,6 +649,7 @@ system Daryn-qular
 	link Chasitum
 	link Chrusa
 	link Corua
+	arrival 1790
 	habitable 900000
 	object
 		sprite "star/m8"
@@ -643,6 +685,7 @@ system Isalor
 	link Aradi
 	link Gensar
 	link Maryn-qarou
+	arrival 1200
 	object
 		sprite "star/g0"
 		distance 0
@@ -676,6 +719,7 @@ system Vefrua
 	pos -8116.4857 -57.673109
 	link "94 Merisai"
 	link Karita
+	arrival 1500
 	object
 		sprite "star/m0"
 		distance 3.20
@@ -734,6 +778,7 @@ system Caretta
 	link "Alpha Tudalip"
 	link Karita
 	link Upalsa
+	arrival 2100
 	object
 		sprite "star/m8"
 		distance 0
@@ -772,6 +817,7 @@ system Mersat
 	link Airuka
 	link Nardacus
 	link Vachrau
+	arrival 1760
 	trade Clothing 407
 	trade Electronics 544
 	trade Equipment 721
@@ -817,6 +863,7 @@ system Vachrau
 	link Mersat
 	link Onuka
 	link Porsuei
+	arrival 1550
 	trade Clothing 334
 	trade Electronics 463
 	trade Equipment 554
@@ -879,6 +926,7 @@ system Vachrau
 system Nardacus
 	pos -8294.5968 -131.92311
 	link Mersat
+	arrival 1430
 	trade Clothing 214
 	trade Electronics 513
 	trade Equipment 715
@@ -927,6 +975,7 @@ system Porsuei
 	link Opfrau
 	link Posteli
 	link Vachrau
+	arrival 1280
 	trade Clothing 141
 	trade Electronics 641
 	trade Equipment 411
@@ -980,6 +1029,7 @@ system Porsuei
 system Peroni
 	pos -8379.0968 -410.33978
 	link Vastary
+	arrival 1100
 	object
 		sprite "star/m5"
 		distance 0
@@ -1017,6 +1067,7 @@ system Nestia
 	pos -8217.3468 -301.92311
 	link Ertusca
 	link Posteli
+	arrival 670
 	object
 		sprite "star/a8"
 		distance 0
@@ -1054,6 +1105,7 @@ system Arau
 	pos -8321.7912 -224.14533
 	link Airuka
 	link Defal
+	arrival 620
 	trade Clothing 314
 	trade Electronics 313
 	trade Equipment 415
@@ -1090,6 +1142,7 @@ system Melursa
 	link Meursa
 	link Opfrau
 	link Pourat
+	arrival 880
 	habitable 900
 	object
 		sprite "star/m-giant"
@@ -1131,6 +1184,7 @@ system Melursa
 system Vifura
 	pos -8682.1801 -335.20089
 	link Erou
+	arrival 980
 	habitable 340000
 	object
 		sprite "star/o8"
@@ -1167,6 +1221,7 @@ system Deriato
 	link Ouchar
 	link Presad
 	link Purai
+	arrival 900
 	trade Clothing 260
 	trade Electronics 471
 	trade Equipment 419
@@ -1177,6 +1232,14 @@ system Deriato
 	trade Medical 543
 	trade Metal 711
 	trade Plastic 696
+	fleet spa.small 500
+	fleet spa.medium 800
+	fleet spa.large 1100
+	fleet cssf.small 9000
+	fleet cssf.medium 11000
+	fleet cssf.large 14000
+	fleet "Small Northern Merchants" 3900
+	fleet "Large Northern Merchants" 5500
 	government "Sayari Plushie"
 	object
 		sprite "star/m0"
@@ -1206,6 +1269,7 @@ system Deriato
 system Purai
 	pos -8552.8468 -281.42311
 	link Deriato
+	arrival 870
 	trade Clothing 260
 	trade Electronics 471
 	trade Equipment 419
@@ -1242,6 +1306,7 @@ system "42 Merisai"
 	pos -8268.2635 75.632447
 	link "43 Merisai"
 	link Chasikara
+	arrival 1220
 	object
 		sprite "star/m0"
 		distance 0
@@ -1287,6 +1352,7 @@ system Vabchra
 	pos -8423.0968 -525.14533
 	link Mariuta
 	link Petun
+	arrival 790
 	object
 		sprite "star/g8"
 		distance 0
@@ -1316,6 +1382,7 @@ system Paruna
 	pos -7985.3468 -211.72866
 	link "Alpha Tudalip"
 	link "Vator Comparum"
+	arrival 1190
 	government "Pirate"
 	fleet "Large Northern Pirates" 800
 	fleet "Small Northern Pirates" 500
@@ -1357,6 +1424,7 @@ system Mirus
 	link Finuera
 	link Gestaru
 	link Petun
+	arrival 980
 	object
 		sprite "star/k3"
 		distance 0.766
@@ -1390,6 +1458,7 @@ system Carfue
 	pos -8038.069 -287.062
 	link Meursa
 	link "Vator Comparum"
+	arrival 1300
 	object
 		sprite "star/g8"
 		distance 0
@@ -1415,6 +1484,7 @@ system Chrusa
 	pos -8212.4301 -447.812
 	link Daryn-qular
 	link Gestaru
+	arrival 1200
 	object
 		sprite "star/g0"
 		distance 0
@@ -1445,6 +1515,7 @@ system Gestaru
 	link Aidux
 	link Chrusa
 	link Mirus
+	arrival 900
 	object
 		sprite "star/g8"
 		distance 0
@@ -1474,6 +1545,7 @@ system Mariuta
 	pos -8546.4301 -533.812
 	link Aradi
 	link Vabchra
+	arrival 1070
 	object
 		sprite "star/b3"
 		distance 1.45
@@ -1502,6 +1574,7 @@ system Mariuta
 system Zoruna
 	pos -8570.7079 -12.811998
 	link Orchao
+	arrival 840
 	object
 		sprite "star/f-giant"
 		distance 0
@@ -1535,6 +1608,7 @@ system Petun
 	pos -8365.7635 -525.14533
 	link Mirus
 	link Vabchra
+	arrival 1180
 	object
 		sprite "star/k3"
 		distance 0
@@ -1560,6 +1634,7 @@ system Vaitul
 	pos -8236.7635 -41.78422
 	link "43 Merisai"
 	link Nursuta
+	arrival 900
 	object
 		sprite "star/k8"
 		distance 0.344
@@ -1596,6 +1671,7 @@ system Vaitul
 system Freula
 	pos -8247.8746 -241.33978
 	link Posteli
+	arrival 1800
 	object
 		sprite "star/g3"
 		distance 0.603
@@ -1637,6 +1713,7 @@ system Pourat
 	pos -8135.5412 -342.72866
 	link Corua
 	link Melursa
+	arrival 640
 	object
 		sprite "star/a8"
 		distance 1.203
@@ -1727,6 +1804,7 @@ system Vastary
 	link Aradi
 	link Finuera
 	link Peroni
+	arrival 1800
 	object
 		sprite "star/o5"
 		distance 9.103
@@ -1767,6 +1845,7 @@ system Vastary
 system Imural
 	pos -8601.319 -460.562
 	link Cafrai
+	arrival 2100
 	object
 		sprite "star/a-giant"
 		distance 1.405
@@ -1796,6 +1875,7 @@ system Gensar
 	pos -8584.2079 -408.562
 	link Isalor
 	link Ouchar
+	arrival 1400
 	object
 		sprite "star/m3"
 		distance 1.804
@@ -1830,6 +1910,7 @@ system "94 Merisai"
 	link "43 Merisai"
 	link Miruver
 	link Vefrua
+	arrival 1930
 	trade Clothing 209
 	trade Electronics 711
 	trade Equipment 604
@@ -1885,12 +1966,14 @@ system Cafrai
 	pos -8648.4301 -391.22866
 	link Deriato
 	link Imural
+	arrival 2080
 
 system Onuka
 	pos -8230.7079 -98.561998
 	link Karita
 	link Nursuta
 	link Vachrau
+	arrival 1900
 	trade Clothing 184
 	trade Electronics 913
 	trade Equipment 439
@@ -1953,6 +2036,7 @@ system "Alpha Tudalip"
 	link Caretta
 	link Opfrau
 	link Paruna
+	arrival 880
 	fleet "Large Northern Pirates" 800
 	fleet "Small Northern Pirates" 500
 	fleet "Small Republic" 1200
@@ -1989,6 +2073,7 @@ system Nursuta
 	link Onuka
 	link Telicasa
 	link Vaitul
+	arrival 1180
 	object
 		sprite "star/g3"
 		distance 8.40
@@ -2053,6 +2138,7 @@ system Mosiato
 system Vaidanu
 	pos -8293.4301 -423.20089
 	link Finuera
+	arrival 700
 	object
 		sprite "star/m0"
 		distance 0 
@@ -2066,6 +2152,7 @@ system Zerted
 	pos -8658.7079 -13.923109
 	link Casfik
 	link Mosiato
+	arrival 1200
 	object 
 		sprite "star/g3"
 		distance 0.304
@@ -2088,6 +2175,7 @@ system Orunat
 	link Chasikara
 	link Darceas
 	link Mosiato
+	arrival 1800
 	object
 		sprite "star/m5"
 		distance 1.304
@@ -2097,6 +2185,7 @@ system Deramii
 	pos -8545.3746 80.743558
 	link Mosiato
 	link Pechara
+	arrival 1450
 	object
 		sprite "star/k3"
 		distance 0.405
@@ -2108,6 +2197,7 @@ system "43 Merisai"
 	link "42 Merisai"
 	link "94 Merisai"
 	link Vaitul
+	arrival 1200
 	object
 		sprite "star/m8"
 		distance 0
@@ -2130,6 +2220,12 @@ system Pechara
 	pos -8450.7079 103.85467
 	link Chasikara
 	link Deramii
+	government "Independent"
+	arrival 14000
+	fleet "Small Northern Merchants" 3000
+	fleet spa.small 900
+	fleet spa.medium 1800
+	fleet spa.large 3400
 	habitable 90000
 	object
 		sprite "planet/gas8"
@@ -2151,6 +2247,7 @@ system Pechara
 system Miruver
 	pos -8018.0135 -78.395331
 	link "94 Merisai"
+	arrival 3200
 	object
 		sprite "star/a3"
 		distance 0
@@ -2160,6 +2257,7 @@ system Porae
 	pos -7972.0135 -367.062
 	link Chasitum
 	link "Vator Comparum"
+	arrival 1800
 	object
 		sprite "star/"
 		distance 0
@@ -2168,6 +2266,7 @@ system Porae
 system Aidux
 	pos -8130.6801 -460.39533
 	link Gestaru
+	arrival 1200
 	object
 		sprite "star/m8"
 		distance 0
@@ -2177,6 +2276,7 @@ system Chasitum
 	pos -8040.0135 -418.39533
 	link Daryn-qular
 	link Porae
+	arrival 4000
 	belt 4000
 	fleet "Human Miners" 200
 	fleet "Small Republic" 600
@@ -2194,6 +2294,7 @@ system "Vator Comparum"
 	link Carfue
 	link Paruna
 	link Porae
+	arrival 1280
 	object
 		sprite "star/g0"
 		distance 0
@@ -2215,6 +2316,7 @@ system Meursa
 	pos -8042.5135 -353.28422
 	link Carfue
 	link Melursa
+	arrival 870
 	object
 		sprite "star/g5"
 		distance 0
@@ -2293,20 +2395,29 @@ planet "Pareia"
 planet "Steirek"
 	landscape "land/steirek"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	shipyard "Sayari Advanced"
+	outfitter "Sayari Outfits"
+	outfitter "Basic Outfits"
+	description `Steirek is a militarized world. It is for the exclusive use of the Sayari Plushie Authority. Steirek consists of a large network of warehouses, datacenters, and supercomputers providing storage for plushies and data and computing power to help the SPA choose the best place to sell plushies based on its models of the galaxy, which rival that of the Syndicate.`
+	spaceport `The vast majority of the ships leaving and entering the spaceport are in the livery of the Sayari Plushie Authority and your ship sticks out amongst the crowd. Containers full of plushies can be seen being loaded onto the ships. The spaceport is defended by hundreds of turrets to protect against CSSF and pirate intrusions.`
 
 planet Ponarai
 	landscape "land/ponarai"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	description `Ponarai is a relatively undeveloped world. The Sayari Plushie Authority has imported several species from Earth onto this world; modifying the biosphere in hopes of finding a new material that can be used to produce plushies.`
+	spaceport `Ponarai's spaceport is fairly primitive; some ships can even be seen directly on the ground; without a landing pad.`
 
 planet Narchrai
 	landscape "land/narchrai"
 	government "Sayari Plushie"
 	description `.`
 	spaceport `.`
+
+planet "Pechara High"
+	landscape "land/stationPecharaHigh"
+	government "Independent"
+	description `Pechara High is sparsely populated. Only roughly 40 people live here to maintain the station and perform research. It orbits the gas giant Pechara, which was expelled from its star system likely hundreds of millions of years ago. An even bigger mystery is why the hyperlane network would lead to such an isolated and lonely gas giant.`
+	spaceport `The spaceport consists primarily of equipment for launching scientific probes alongside standard refuelling facilities.`
 
 planet Brigantium
 	landscape "land/brigantium"
