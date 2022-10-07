@@ -214,6 +214,10 @@ system Ouchar
 	link Doler
 	link Gensar
 	arrival 2100
+	fleet spa.small 800
+	fleet spa.medium 1300
+	fleet spa.large 1600
+	fleet "Small Northern Merchants" 2400
 	trade Clothing 354
 	trade Electronics 471
 	trade Equipment 443
@@ -2399,8 +2403,8 @@ planet "Steirek"
 planet Ponarai
 	landscape "land/ponarai"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	description `Ponarai is a relatively undeveloped world. The Sayari Plushie Authority has imported several species from Earth onto this world; modifying the biosphere in hopes of finding a new material that can be used to produce plushies.`
+	spaceport `Ponarai's spaceport is fairly primitive; some ships can even be seen directly on the ground; without a landing pad.`
 
 planet Narchrai
 	landscape "land/narchrai"
