@@ -2217,6 +2217,10 @@ system Pechara
 	link Chasikara
 	link Deramii
 	arrival 14000
+	fleet "Small Northern Merchants" 3000
+	fleet spa.small 900
+	fleet spa.medium 1800
+	fleet spa.large 3400
 	habitable 90000
 	object
 		sprite "planet/gas8"
