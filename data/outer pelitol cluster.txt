@@ -597,7 +597,7 @@ system Maryn-qarou
 	link Isalor
 	link Pentarok
 	arrival 1480
-	government "Sayari Plushie"
+	government "Republic"
 	habitable 4331
 	object
 		sprite "star/a-supergiant"
