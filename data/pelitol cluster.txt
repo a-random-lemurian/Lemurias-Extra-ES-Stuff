@@ -1343,8 +1343,8 @@ planet Barachen
 planet Naprai
 	landscape "land/naprai"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	description `Naprai is a large urban colony. Cities of hundreds of thousands of people are spread out across the surface. It is estimated that the city currently hosts over 132 million people. Naprai is primarily known for having a higher concentration of technology startups; the local government is sometimes forced to perform orbital cleanup operations in the rare chance that an experiment goes wrong either due to random chance or negligence.`
+	spaceport `Naprai's spaceport is located outside of its largest city. Several large turrets are positioned outside the spaceport in the rare event that a piece of falling space debris from a failed experiment seems likely to hit the surface.`
 
 planet Ancherum
 	landscape "land/ancherum"
