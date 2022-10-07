@@ -96,6 +96,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Steirek                   | Bill Reckert         | Public domain           | ([orig](https://commons.wikimedia.org/wiki/File:FEMA_-_6050_-_Photograph_by_Bill_Reckert_in_Maryland.jpg))
 | Ponarai                   | Jean-Marie Hullot    | CC BY 2.0 "Generic"     | ([orig](https://commons.wikimedia.org/wiki/File:Tiger_Lake_Jiuzhaigou.jpg))
 | Narchrai                  | Nik Cyclist          | CC BY 2.0 "Generic"     | ([orig](https://commons.wikimedia.org/wiki/File:Chaophraya_River_(8767097465).jpg))
+| Ondoristra                | wanghongliu          | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:1998%E5%B9%B4%E6%9B%BC%E8%B0%B7%E4%BA%9A%E6%B4%B2%E9%85%92%E5%BA%97%E6%A5%BC%E4%B8%8A_Asia_Hotel,_Bangkok_-_panoramio.jpg))
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
