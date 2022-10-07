@@ -48,7 +48,7 @@ government "Yuyuko Saigyouji"
 		"Sayari Plushie" -.5
 
 government "Anime Organization"
-	"display name" "Anime Organization"
+	"display name" "Anime Org"
 	swizzle 5
 	color 0.9882352941176471 0.6862745098039216 0.23529411764705882 0.0
 	"attitude toward"

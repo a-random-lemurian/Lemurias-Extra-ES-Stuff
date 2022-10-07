@@ -18,6 +18,7 @@
 - Removed the data drives commodity.
 - Fixed Erou system government (set to Sayari Plushies).
 - Fix Debian hat mission endless loop.
+- Shortened Anime Organization display name to "Anime Org.".
 - Remove `animeorg.landing.setFlag.landedOnEisei` "mission". It only sets a flag and is absolutely not needed.
 - Grammar fixes:
   - "ammount" -> "amount"
