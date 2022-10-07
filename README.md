@@ -100,6 +100,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Bardanistra               | Roma Neus            | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:Bangkok_2013_april_-_panoramio.jpg))
 | Naprai                    | josef knecht         | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:Bangkok,_Oriental_City_-_panoramio_(1).jpg))
 | Ancherum                  | Philip Halling       | CC BY-SA 2.0 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Cotswold_grassland_-_geograph.org.uk_-_3009368.jpg))
+| Parton                    | Andrew Wood          | CC BY-SA 2.0 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Riveston_Grassland_-_geograph.org.uk_-_2579417.jpg))
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
