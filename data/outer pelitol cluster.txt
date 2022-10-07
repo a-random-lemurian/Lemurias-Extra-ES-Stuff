@@ -1910,6 +1910,8 @@ system "94 Merisai"
 	link "43 Merisai"
 	link Miruver
 	link Vefrua
+	link Daithus
+	link Orfue
 	arrival 1930
 	trade Clothing 209
 	trade Electronics 711
@@ -2196,6 +2198,7 @@ system "43 Merisai"
 	pos -8177.3746 22.076891
 	link "42 Merisai"
 	link "94 Merisai"
+	link Areuth
 	link Vaitul
 	arrival 1200
 	object

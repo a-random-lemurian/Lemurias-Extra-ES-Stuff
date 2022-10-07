@@ -24,13 +24,6 @@ system Maisudium
 		distance 1804.55
 		period 801.49
 
-system "94 Merisai"
-	add link Daithus
-	add link Orfue
-
-system "43 Merisai"
-	add link Areuth
-
 system Daetium
 	pos -8338.7778 388.11111
 	link Spariun
