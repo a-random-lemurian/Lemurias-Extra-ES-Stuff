@@ -27,6 +27,7 @@
   - Removed British English spellings and words.
 - Moved Luisark and Jurluo out of JD range of 14 Pole and 12 Autumn Above.
 - Add missions to bring SPA salespeople back into SPA territory after they complete their sales trips.
+- Fixed Arlok landscape image.
 #### Other content
 - During the release candidate versions of 0.10.14, there were insults of Amber Heard that the community objected to in [pull request 450](https://github.com/EndlessSkyCommunity/endless-sky-plugins/pull/450) of the plugin index. Added in rc1, specifically commit b5b23e1499d32582219ac1abad68e4f3bfcca0b1 and removed in rc5 (be77cbf4c17d880c6a2db185b0e01e4e4b8280f2).
 
