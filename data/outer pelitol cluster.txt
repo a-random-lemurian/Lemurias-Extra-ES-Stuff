@@ -2410,8 +2410,8 @@ planet Ponarai
 planet Narchrai
 	landscape "land/narchrai"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	description `Narchrai's population density is unusually high. Untouched grasslands and forests still cover over 90% of the surface, the remaining 10% being a single continuous metropolitan area home to large buildings. Collectively, these large buildings host roughly hundreds of millions of people.`
+	spaceport `Narchrai's primary spaceport is located atop the city's tallest building. The immense size of the spaceport shrouds the nearby buildings into darkness for a few kilometers extending out from the center.`
 
 planet "Pechara High"
 	landscape "land/stationPecharaHigh"
