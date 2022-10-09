@@ -2329,6 +2329,7 @@ system Meursa
 planet Sparley
 	landscape "land/sparley"
 	government "Republic"
+	attributes urban
 	description `Sparley is another Republic colony. Large settlements referred to as "favelas" (plural) dominate the vast majority of the landscape, except for the land near the spaceport, a few nature reserves, and the planet's large mountain ranges.`
 	spaceport `The spaceport city is the only non-favela part of Sparley. The spaceport building is roughly octopus-shaped, with several landing pads for many different variants of ships near the spaceport's tentacle-like appendages.`
 
@@ -2343,12 +2344,14 @@ planet Mirdenheim
 	outfitter "Ammo South"
 	outfitter "Deep Sky Basics"
 	outfitter "Deep Sky Advanced"
+	attributes urban
 	description "Mirdenheim is a heavily urbanized colony bordering the SPA colony of Defal, with a population of roughly 898 million. Mirdenheim is one of the major colonies in the Pelitol Cluster and is home to a major Navy base and a forward operating base for conducting surveillance on the nearby Sayari Plushie Authority colonies."
 	spaceport "Mirdenheim's spaceport is at the outskirts of the largest city on Mirdenheim, and is right next to the shipyard. Large turrets are placed on the shipyard and spaceport buildings to guard against pirate attacks."
 
 planet Martieu
 	landscape "land/martieu"
 	government "Republic"
+	attributes religious urban
 	description `Martieu is an unusually religious and conservative planet. Data chips on Martieu are frequently inspected and any chip containing "objectionable" material is destroyed. Aside from censorship of the galactic internet, the government of Martieu has implemented conservative policies.`
 	description `60% of the surface of Martieu is an ocean. The remaining 40% has been subject to urbanization and deforestation.`
 	spaceport `Martieu's spaceport is located at the largest city. Security guards can be seen inspecting people's data chips for so-called "objectionable" material. The spaceport has several different types of bays, optimized for loading and unloading either passengers or several types of cargo.`
@@ -2370,12 +2373,14 @@ planet Tarsia
 	shipyard "Sayari Advanced"
 	outfitter "Sayari Outfits"
 	government "Republic"
+	attributes urban
 	description "Tarsia is another of the developed and heavily urbanized planets of the southeast parts of the Pelitol Cluster. Tarsia is home to a significant SPA presence, though not enough for this planet to be governed outright by them. Tarsia is home to a large SPA distribution center, which is responsible for the sale and distribution of all plushies in the southeast Pelitol Cluster."
 	spaceport "Tarsia's spaceport is in a way, similar to Earth's spaceport. Serving a city of roughly 75 million people, most parts of the spaceport are dilapidated except for the private terminal reserved for the rich and famous. Some slave shops are likely operating within the deeper, more hidden parts of the spaceport."
 
 planet "Taraz"
 	landscape "land/taraz"
 	government "Republic"
+	attributes forest
 	description `Taraz is a forest world. The vast majority of the population of Taraz reside in a single metropolitan area. Over 75% of the land on Taraz has been designated as a nature reserve, and only biologists, scientists reside on that part of the planet. Not to be confused with Tarsia in the neighboring Vachrau system or Tarazed.`
 	description `The forest surrounding the city is home to several native species of trees. It is for this reason that ships are inspected closely for the presence of any invasive species.`
 	spaceport `The spaceport on Taraz is located in a small exclave surrounded by the nature reserve. From space, a line of deforested land can be seen running between the spaceport and the Taraz metropolitan area. This strip of land is the only major route and is high traffic with a large team of air traffic controllers coordinating spaceship traffic along the route.`
@@ -2398,18 +2403,21 @@ planet "Steirek"
 	shipyard "Sayari Advanced"
 	outfitter "Sayari Outfits"
 	outfitter "Basic Outfits"
+	attributes military
 	description `Steirek is a militarized world. It is for the exclusive use of the Sayari Plushie Authority. Steirek consists of a large network of warehouses, datacenters, and supercomputers providing storage for plushies and data and computing power to help the SPA choose the best place to sell plushies based on its models of the galaxy, which rival that of the Syndicate.`
 	spaceport `The vast majority of the ships leaving and entering the spaceport are in the livery of the Sayari Plushie Authority and your ship sticks out amongst the crowd. Containers full of plushies can be seen being loaded onto the ships. The spaceport is defended by hundreds of turrets to protect against CSSF and pirate intrusions.`
 
 planet Ponarai
 	landscape "land/ponarai"
 	government "Sayari Plushie"
+	attributes farming frontier
 	description `Ponarai is a relatively undeveloped world. The Sayari Plushie Authority has imported several species from Earth onto this world; modifying the biosphere in hopes of finding a new material that can be used to produce plushies.`
 	spaceport `Ponarai's spaceport is fairly primitive; some ships can even be seen directly on the ground; without a landing pad.`
 
 planet Narchrai
 	landscape "land/narchrai"
 	government "Sayari Plushie"
+	attributes urban forest
 	description `Narchrai's population density is unusually high. Untouched grasslands and forests still cover over 90% of the surface, the remaining 10% being a single continuous metropolitan area home to large buildings. Collectively, these large buildings host roughly hundreds of millions of people.`
 	spaceport `Narchrai's primary spaceport is located atop the city's tallest building. The immense size of the spaceport shrouds the nearby buildings into darkness for a few kilometers extending out from the center.`
 
@@ -2423,6 +2431,7 @@ planet "Pechara High"
 planet Brigantium
 	landscape "land/brigantium"
 	government "Republic"
+	attributes research
 	description `Brigantium is home to the Brigantium Computing Array: a network of supercomputers across the surface, capable of running highly intensive simulations, using the water as a heatsink. The Array is powered by a partial Dyson sphere, the sole source of power in the Brigantium system.`
 	description `The Brigantium Computing Array, while primarily used for scientific research, has had a part of its computing power rented out for a variety of purposes such as rendering of extremely high-quality images and movies, simulation of galactic trade prices and combat simulations. Over 99.8% of Brigantium's permanent population consist of people who maintain the Array alongside their families and close relatives.`
 	spaceport `The spaceport on Brigantium is located on top of one of the array's largest nodes. There is a relatively high demand for electronics to replace some of the failing parts of the Array, and data-chips containing high quality images, rendered by the array at extremely high resolutions, so high that even at 500x zoom level the image was still 4K.`
@@ -2431,6 +2440,7 @@ planet Brigantium
 planet Lattice
 	landscape "land/lattice"
 	government "Republic"
+	attributes rich urban
 	description `Lattice is primarily an upscale colony, with the vast majority of the population being either rich or retired. Most of the planet's poorer population originate from the other parts of the Pelitol cluster; it is essentially an enclave of the Paradise Worlds.`
 	spaceport `The spaceport of Lattice contains many luxury stores, most of which are prohibitively expensive.`
 
