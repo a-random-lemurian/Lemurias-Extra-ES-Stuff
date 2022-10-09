@@ -1285,8 +1285,10 @@ planet "Defal VI Station"
 planet "Ondoristra"
 	landscape "land/ondoristra"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	description `Ondoristra was first colonized by the Anime Organization in the 2740s. When the Sayari Plushie Authority split off from the Anime Organization, Ondoristra was ceded over after the end of a brutal 3-year-long civil war. However, these days, the A.O and the SPA are on peaceful terms.`
+	description `The planet's surface consists of a single Pangaea-style continent. The northern hemisphere of the planet is home to the majority of the population; the landscape becoming more rural and less urbanized as one goes south. A medium-sized city surrounds the spaceport, which is unusual as the surrounding region is mostly barren and uninhabited.`
+	spaceport `The center of the Ondoristra spaceport contains a memorial to both the soldiers of the SPA and the Anime Organization, who fought after the SPA seceded from the Anime Organization. The spaceport is located at Ondoristra's equator.`
+	spaceport `Near the spaceport, there is a large shopping center where all types of items can be bought. It is also a place where merchants and freight captains constantly haggle over the price of commodities. A large warehouse operated by the Sayari Plushie Authority takes up roughly one-third of the shopping center's space. As usual, it is used for plushie storage.`
 
 planet Bardanistra
 	landscape "land/bardanistra"
