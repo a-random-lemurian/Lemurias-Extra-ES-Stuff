@@ -2389,6 +2389,7 @@ planet Gura
 planet "Pareia"
 	landscape "land/pareia"
 	government Republic
+	attributes "nature reserve" religious
 	description `Pareia is a large planetwide nature reserve. Most of the planet's species are imported from Earth. Small groups of Amish reside on this relatively undeveloped planet in the areas open to settlement.`
 	spaceport `Pareia's spaceport is primitive. Not many ships land here on the very few landing pads available, which even then are simple concrete pads, instead of more advanced high-tech landing pads used on other worlds.`
 

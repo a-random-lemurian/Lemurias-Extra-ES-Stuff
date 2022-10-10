@@ -96,3 +96,13 @@ trade
 
 	commodity "Debian hat"
 		"Debian hats"
+	
+	commodity "Nature reserve imports"
+		"plant seeds"
+		"plants"
+		"tree saplings"
+		"animal specimens"
+		"insect specimens"
+		"bacteria specimens"
+		"fertilizer"
+		"controlled burning equipment"
