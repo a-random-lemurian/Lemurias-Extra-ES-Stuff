@@ -261,6 +261,7 @@ mission githubCodeVault.buyDataChipsForPerson
 			
 			label whyDoYouCareSoMuchAboutThis
 			`	"History is important to me. I'm very interested in the history of human computing and how much it has evolved since the first computers came into being in the early 19th century, which is a long time ago.", says the old man.`
+			`	"It's also very good fun.", adds the old man.`
 				goto questions
 
 			label leaving
