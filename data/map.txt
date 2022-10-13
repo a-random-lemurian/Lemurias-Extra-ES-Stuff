@@ -1873,6 +1873,7 @@ planet Khoramelia
 	outfitter "Common Outfits"
 	outfitter Nuke
 	landscape land/khoramelia
+	attributes urban
 	description "Khoramelia is the headquarters of the Sayari Plushie Authority, one of the major powers of the Illumina Regions. Its main enemy, the CSSF, has surprisingly stayed out of this area. You do wonder why the Republic has not taken any action regarding this battle, considering their role as a peacekeeping organization. You're in one of the few spaceport complexes open to the general public, but even here you can still purchase a few ships and some decent outfits."
 	spaceport "The spaceport is full of ships decked out in the livery of the Sayari Plushie Authority, but you can see a few merchant ships, if any. Most of the SPA officers ignore you, as they mind their own business trying to command the fleets of the Sayari Protection Fleet,the SPA's naval wing, which reportedly consists of 3-6,000 capital ships, far outnumbering the Republic Navy."
 	government "Sayari Plushie"
@@ -1880,6 +1881,7 @@ planet Khoramelia
 
 planet "Khoramelia Mission Office"
 	landscape land/stationKhorameliaMission
+	attributes station
 	description "The mission office is located here. As you walk through the ornate halls, you find a large room containing several boards with jobs of different kinds."
 	spaceport "There are many drones at the docking bay alongside small ships."
 	government "Sayari Plushie"
@@ -1923,7 +1925,7 @@ planet Lorok
 planet Melisida
 	landscape land/melisida
 	government "Sayari Plushie"
-	attributes mining factory
+	attributes mining factory manufacturing
 	description "Located north of Mindai, Melisida is yet another SPA colony. Similar to Mindai, it is a manufacturing and mining colony. Outside of the main city, there are many smaller mining villages home to massive equipment and hundreds of workers each."
 	spaceport "The spaceport here is incredibly boring, with not much to admire except for the ships. You see several containers of Sayari plushies being loaded on the ships, alongside the occasional 'prototype' plushies, most of whom seem to depict a woman named 'Freya Winters'."
 
@@ -1937,6 +1939,7 @@ planet Ekarai
 	outfitter "Common Outfits"
 	outfitter "Basic Outfits"
 	government "Sayari Plushie"
+	attributes urban
 	description "Ekarai is a Sayari Plushie Authority colony. With a popuation of 45.43 million, Ekarai is a relatively large colony, rivalling the capital Khoramelia, in size. Shipyards and outfitters here sell common ships and outifts used by the Sayari Plushie Authority."
 	spaceport "The shipyard is integrated with the main spaceport. At the bench where you are sitting, a well-dressed salesman is pitching a lifesize Freya Winters plushie to a group of parents and their children who are clearly wearing party hats."
 
@@ -1944,6 +1947,7 @@ planet Ekarai
 planet Renpaya
 	landscape land/renpaya
 	government "Sayari Plushie"
+	attributes "nature reserve" tourism
 	description "Renpaya is a relatively boring savannah world. This world is held by the Sayari Plushie Authority mainly to prevent it from falling into the hands of the CSSF."
 	spaceport "The spaceport is primitive, containing only the basic essentials. There are a few food shops offering food and water, and tourists who wish to explore the planet's relatively pristine nature."
 
@@ -1955,6 +1959,7 @@ planet Denchrao
 	outfitter "Basic Outfits"
 	outfitter "Ammo North"
 	government "Sayari Plushie"
+	attributes urban
 	description "Denchrao is a large and urbanized world with several cities scattered over the many continent. Rather strangely, 55% of the planet is land, whereas the average proportion of land to water on other planets was far lower, somewhere between 30 to 40%. Outside of the cities, the nature is surprisingly pristine and is well-preserved and catalogued."
 	spaceport "The spaceport is located in the largest city on Denchrao. Businesspeople in suits can be seen conversing with SPA officers and carts full of plushies, either depicting Sayari, or Freya Winters."
 #### Kestrix moons (in Ghesie) ####
@@ -1962,6 +1967,7 @@ planet "Kestrix I"
 	attributes kestrix
 	landscape "land/kestrix1"
 	government "Pirate"
+	attributes moon
 	description "This is a moon of the gas giant named Kestrix. Piracy runs rampant here on this world, and many pirates here have their guns pointed at you. Kestrix I is the most run-down of the three, where crews subservient to the inhabitants of Kestrix II and III live and toil. Arbitrary executions for even the smallest of mistakes are routine here, and no mercy is given."
 	spaceport "The spaceport is rundown and the conditions here are the worst of the other Kestrix moons. Food here is overpriced and sold by men who look like they're from either Kestrix II or III. Occasionally, one of the locals attempts to steal some food, but they are mercilessly executed. You decide to ignore all of this."
 	
@@ -1971,6 +1977,7 @@ planet "Kestrix II"
 	shipyard "Basic Ships"
 	outfitter "Pirate Outfits"
 	government "Pirate"
+	attributes moon
 	description "This is a moon of the gas giant named Kestrix. Piracy runs rampant here on this world, and many pirates here have their guns pointed at you. Kestrix II is where most captains, either independent or bound to a warlord on Kestrix III live. This is the only moon where you can buy outfits and ships. The captains here are actually willing to trade with you, even the pirates."
 	spaceport "The spaceport is quite decent here compared to Kestrix I and III, considering Kestrix II is where most of the Kestrix Moons captains live. The outfitters are willing to sell you some basic outfits, including the notorious nerve gas."
 
@@ -1978,6 +1985,7 @@ planet "Kestrix III"
 	attributes kestrix
 	landscape "land/kestrix3"
 	government "Pirate"
+	attributes moon
 	description "This is a moon of the gas giant named Kestrix. Piracy runs rampant here on this world, and many pirates here have their guns pointed at you. Kestrix III is the more populous planet of the three. None of the pirates here want to trade with you or sell you even the most basic of outfits. Most of the pirates here are big and rich pirate warlords while lower-class crew and captains reside on Kestrix I and II respectively. There are many crew here who normally would belong on Kestrix I or on Leroo Station. You do meet a few friendly merchant captains who want to trade."
 	spaceport "The spaceport is rundown and the conditions are almost inhuman. Well-dressed men (likely rich pirates) sit at their tables as poorer-looking men and women bring them plates full of food. There is a field hospital here, but it is relatively empty, and it is likely the only medical care facility in the Kestrix Moons."
 planet Eisei
