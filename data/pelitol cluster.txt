@@ -1297,8 +1297,18 @@ planet "Ondoristra"
 planet Bardanistra
 	landscape "land/bardanistra"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	shipyard "Sayari Advanced"
+	shipyard "Southbound Basics"
+	outfitter "Basic Outfits"
+	outfitter "Ammo North"
+	outfitter "Ammo South"
+	outfitter "Sayari Outfits"
+	description `Bardanistra was first colonized by the Anime Organization in the 2720s. When the Sayari Plushie Authority split off from the Anime Organization, this colony stubbornly held on until the 2840s, even when they had lost military support from the A.O.`
+	description `Today, most of the draconian measures implemented by the SPA such as martial law when they eventually gained full control are repealed; but a few of those measures still exist.`
+	description `In the planet's orbit, there are a few hundred orbital turrets which are derelict and abandoned; leftovers from Bardanistra's resistance. They are not enough of a nuisance to the planet's orbital volume yet as to warrant a salvage operation.`
+	spaceport `Bardanistra's spaceport is located outside the main city. There are still several turrets left over from when the colony held out against the Sayari Plushie Authority, but some have already been upgraded to modern turrets. The security checkpoints, normally absent on other SPA planets, are still running, another leftover security measure from the old martial law era.`
+	spaceport `Near the spaceport lies a large SPA-owned military base, shipyard, and outfitter. The security is a bit more intense than the regular spaceport. The roof of the SPA-owned military base has significantly more turrets than the rest, which are of significantly higher quality.`
+	spaceport `This spaceport is large; but the SPA military base is thrice as large. It is locked behind a tall electric fence and anti-ship turrets.`
 
 planet Perechra
 	landscape "land/perechra"
