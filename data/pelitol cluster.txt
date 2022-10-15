@@ -24,6 +24,7 @@ system Sorusep
 	government "Sayari Plushie"
 	link Ikopp
 	link Oratelis
+	attributes "pelitol cluster"
 	arrival 1800
 	fleet spa.small 800
 	fleet spa.medium 3000
@@ -65,6 +66,7 @@ system Pelitol
 	link Ikopp
 	link Sedlai
 	link Frechisa
+	attributes "pelitol cluster"
 	arrival 1900
 	trade Clothing 344
 	trade Electronics 713
@@ -128,6 +130,7 @@ system Defal
 	link Pelitol
 	link Dorkelt
 	link Arau
+	attributes "pelitol cluster"
 	arrival 1380
 	trade Clothing 376
 	trade Electronics 733
@@ -178,6 +181,7 @@ system Ikopp
 	link Pelitol
 	link Repolitea
 	link Sorusep
+	attributes "pelitol cluster"
 	arrival 1780
 	fleet spa.small 900
 	fleet spa.medium 1700
@@ -214,6 +218,7 @@ system Repolitea
 	link Ikopp
 	link Doler
 	link Sarut
+	attributes "pelitol cluster"
 	arrival 1370
 	fleet spa.small 600
 	fleet spa.medium 1300
@@ -278,6 +283,7 @@ system Sarut
 	link Repolitea
 	link Oratelis
 	link Vourgat
+	attributes "pelitol cluster"
 	arrival 1180
 	fleet spa.small 500
 	fleet spa.medium 1200
@@ -318,6 +324,7 @@ system Doler
 	link Repolitea
 	link Maryn-qarou
 	link Ouchar
+	attributes "pelitol cluster"
 	arrival 1340
 	fleet spa.small 800
 	fleet spa.medium 1600
@@ -360,6 +367,7 @@ system Oratelis
 	link Sarut
 	link Arket
 	link Dorkelt
+	attributes "pelitol cluster"
 	arrival 1870
 	fleet spa.small 500
 	fleet spa.medium 900
@@ -391,6 +399,7 @@ system Dorkelt
 	pos -8402.4995 -203.45588
 	link Oratelis
 	link Defal
+	attributes "pelitol cluster"
 	arrival 1340
 	fleet spa.small 800
 	fleet spa.medium 2000
@@ -431,6 +440,7 @@ system Arket
 	link Oratelis
 	link Vensur
 	link Paricasa
+	attributes "pelitol cluster"
 	arrival 1140
 	fleet spa.small 700
 	fleet spa.medium 1800
@@ -497,6 +507,7 @@ system Vensur
 	link Arket
 	link Sprad
 	link Starish
+	attributes "pelitol cluster"
 	arrival 1680
 	arrival 500
 	fleet spa.small 500
@@ -540,6 +551,7 @@ system Starish
 	link Vensur
 	link Darceas
 	link Orchao
+	attributes "pelitol cluster"
 	arrival 1200
 	object
 		sprite "star/k5"
@@ -581,6 +593,7 @@ system Darceas
 	link Orchao
 	link Varfeticasa
 	link Orunat
+	attributes "pelitol cluster"
 	arrival 1470
 	trade Clothing 319
 	trade Electronics 463
@@ -620,6 +633,7 @@ system Orchao
 	link Darceas
 	link Starish
 	link Zoruna
+	attributes "pelitol cluster"
 	arrival 1270
 	object
 		sprite "star/m8"
@@ -640,6 +654,7 @@ system Paricasa
 	link Arket
 	link Telicasa
 	link Poreu
+	attributes "pelitol cluster"
 	arrival 1670
 	fleet spa.small 1900
 	fleet spa.medium 2300
@@ -662,6 +677,7 @@ system Telicasa
 	link Paricasa
 	link Nursuta
 	link Kolicasa
+	attributes "pelitol cluster"
 	arrival 1340
 	fleet spa.small 1900
 	fleet spa.medium 2300
@@ -692,6 +708,7 @@ system Kolicasa
 	link Telicasa
 	link Varfeticasa
 	link Lesokicasa
+	attributes "pelitol cluster"
 	arrival 2800
 	fleet spa.small 1900
 	fleet spa.medium 2300
@@ -733,6 +750,7 @@ system Varfeticasa
 	pos -8403.0488 -33.240
 	link Darceas
 	link Kolicasa
+	attributes "pelitol cluster"
 	arrival 2170
 	fleet "Small Northern Merchants" 1300
 	fleet "Small Northern Pirates" 1500
@@ -762,6 +780,7 @@ system Lesokicasa
 	pos -8307.2033 1.887
 	arrival 3000
 	link Kolicasa
+	attributes "pelitol cluster"
 	fleet spa.small 1900
 	fleet spa.medium 2300
 	fleet spa.large 3100
@@ -799,6 +818,7 @@ system Frechisa
 	link Pelitol
 	link Olerak
 	link Ertusca
+	attributes "pelitol cluster"
 	arrival 1760
 	fleet spa.small 900
 	fleet spa.medium 1900
@@ -847,6 +867,7 @@ system Ertusca
 	link Frechisa
 	link Corua
 	link Nestia
+	attributes "pelitol cluster"
 	arrival 1430
 	fleet spa.small 900
 	fleet spa.medium 2400
@@ -891,6 +912,7 @@ system Olerak
 	link Erited
 	link Frechisa
 	link Pentarok
+	attributes "pelitol cluster"
 	arrival 1480
 	fleet spa.small 850
 	fleet spa.medium 1560
@@ -921,6 +943,7 @@ system Erited
 	government "Sayari Plushie"
 	pos -8242.3493 -401.41104
 	link Olerak
+	attributes "pelitol cluster"
 	arrival 1260
 	fleet spa.small 500
 	fleet spa.medium 900
@@ -953,6 +976,7 @@ system Ourais
 	belt 1344
 	link Daxter
 	link Erou
+	attributes "pelitol cluster"
 	arrival 2330
 	trade Clothing 359
 	trade Electronics 513
@@ -1007,6 +1031,7 @@ system Vourgat
 	link Presad
 	link Sarut
 	link Sprad
+	attributes "pelitol cluster"
 	arrival 1460
 	fleet "Small Northern Pirates" 1300
 	object
@@ -1039,6 +1064,7 @@ system Erou
 	link Ourais
 	link Presad
 	link Vifura
+	attributes "pelitol cluster"
 	arrival 1170
 	government "Sayari Plushie"
 	fleet "Small Northern Pirates" 1300
@@ -1072,6 +1098,7 @@ system Sprad
 	link Varisa
 	link Vensur
 	link Vourgat
+	attributes "pelitol cluster"
 	arrival 2170
 	fleet "Small Northern Pirates" 1300
 	object
@@ -1096,6 +1123,7 @@ system Presad
 	link Erou
 	link Vourgat
 	link Deriato
+	attributes "pelitol cluster"
 	arrival 1270
 	trade Clothing 194
 	trade Electronics 463
@@ -1138,6 +1166,7 @@ system Sprooe
 	pos -8730.8056 -99.694444
 	link Daxter
 	link Casfik
+	attributes "pelitol cluster"
 	arrival 1780
 	government "Sayari Plushie"
 	fleet spa.small 900
@@ -1167,6 +1196,7 @@ system Daxter
 	link Ourais
 	link Sprooe
 	link Varisa
+	attributes "pelitol cluster"
 	arrival 2400
 	trade Clothing 304
 	trade Electronics 523
@@ -1209,6 +1239,7 @@ system Varisa
 	pos -8612.7222 -179.33333
 	link Daxter
 	link Sprad
+	attributes "pelitol cluster"
 	arrival 780
 	government "Sayari Plushie"
 	trade Clothing 384
