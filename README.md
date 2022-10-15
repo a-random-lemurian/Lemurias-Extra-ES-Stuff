@@ -79,7 +79,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Delistra                  | David Iliff          | CC BY-SA 3.0            | ([orig](https://en.wikipedia.org/wiki/File:Tunnel_View,_Yosemite_Valley,_Yosemite_NP_-_Diliff.jpg))
 | Pondar                    | PiccoloNamek         | CC BY-SA 3.0            | ([orig](https://en.wikipedia.org/wiki/File:CirrusField-color.jpg))
 | Aylar                     | Jarvin               | CC BY-SA 3.0            | ([orig](https://commons.wikimedia.org/wiki/File:Gamle_Stavanger.jpg))
-| Voreo                     | Daniel Delille        | CC BY-SA 3.0            | ([orig](https://commons.wikimedia.org/wiki/File:Port_aux_Fran%C3%A7ais.JPG))
+| Voreo                     | Daniel Delille       | CC BY-SA 3.0            | ([orig](https://commons.wikimedia.org/wiki/File:Port_aux_Fran%C3%A7ais.JPG))
 | Mirdenheim                | Jean-Pierre Dalbéra  | CC BY 2.0               | ([orig](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Le_KUMU%2C_mus%C3%A9e_dart_estonien_%28Tallinn%29_%287637597178%29.jpg/1024px-Le_KUMU%2C_mus%C3%A9e_dart_estonien_%28Tallinn%29_%287637597178%29.jpg))
 | Sparley                   | Chensiyuan           | CC BY-SA 3.0            | ([orig](https://commons.wikimedia.org/wiki/File:1_rocinha_night_2014_panorama.jpg))
 | Barachen                  | Jjm596               | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:Mizen_Head_2695.jpg))
@@ -95,6 +95,13 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Brigantium                | Tiago Foreze         | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:Clouds_over_the_Atlantic_Ocean.jpg))
 | Steirek                   | Bill Reckert         | Public domain           | ([orig](https://commons.wikimedia.org/wiki/File:FEMA_-_6050_-_Photograph_by_Bill_Reckert_in_Maryland.jpg))
 | Ponarai                   | Jean-Marie Hullot    | CC BY 2.0 "Generic"     | ([orig](https://commons.wikimedia.org/wiki/File:Tiger_Lake_Jiuzhaigou.jpg))
+| Narchrai                  | Nik Cyclist          | CC BY 2.0 "Generic"     | ([orig](https://commons.wikimedia.org/wiki/File:Chaophraya_River_(8767097465).jpg))
+| Ondoristra                | wanghongliu          | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:1998%E5%B9%B4%E6%9B%BC%E8%B0%B7%E4%BA%9A%E6%B4%B2%E9%85%92%E5%BA%97%E6%A5%BC%E4%B8%8A_Asia_Hotel,_Bangkok_-_panoramio.jpg))
+| Bardanistra               | Roma Neus            | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:Bangkok_2013_april_-_panoramio.jpg))
+| Naprai                    | josef knecht         | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:Bangkok,_Oriental_City_-_panoramio_(1).jpg))
+| Ancherum                  | Philip Halling       | CC BY-SA 2.0 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Cotswold_grassland_-_geograph.org.uk_-_3009368.jpg))
+| Parton                    | Andrew Wood          | CC BY-SA 2.0 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Riveston_Grassland_-_geograph.org.uk_-_2579417.jpg))
+| Heine                     | Wing-Chi Poon        | CC BY-SA 2.5 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Cumulus_Clouds_over_Yellow_Prairie2.jpg))
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 

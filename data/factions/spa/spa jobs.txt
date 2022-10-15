@@ -143,6 +143,14 @@ phrase "SPA salespeople complete"
 		"You see some mysterious people chase them." 30
 		"" 70
 
+# For the large missions (hundreds of people)
+phrase "SPA salespeople complete, always gender-neutral"
+	word
+		"The SPA salespeople leave your ship after paying you <payment>. "
+	word
+		"You see some mysterious people chase them." 30
+		"" 70
+	
 mission spa.salespeopleTransport.1
 	name "<bunks> SPA salespeople to <system>"
 	description "Transport <bunks> SPA salespeople to <planet>, <system> for <payment>."
@@ -966,3 +974,187 @@ mission "SPA Export Large [3]"
 				"Falcon" 2
 			variant
 				"Leviathan" 1
+mission "SPA salespeople going home, Large [1]"
+	name "<bunks> SPA salespeople going home to <system>"
+	description "<bunks> SPA salespeople have completed their sales trip. It is time for them to go home to <planet>, <system>. Transport them for a payment of <payment>."
+	passengers 300 900
+	job
+	repeat
+	source
+		government Republic Syndicate "Free Worlds" Hai Neutral Independent
+	destination
+		government "Sayari Plushie"
+	to offer
+		random > 30
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		payment 70000 240
+		dialog phrase "SPA salespeople complete, always gender-neutral"
+		"reputation: Sayari Plushie" += 20
+	npc
+		government "Yuyuko Saigyouji"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 7
+			variant
+				"Fury" 6
+			variant
+				"Berserker" 4
+			variant
+				"Falcon" 2
+	npc
+		government "Sayari Plushie"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "spa.allNames"
+			variant
+				"SPA Gunboat" 4
+			variant
+				"SPA Cruiser" 2
+			variant
+				"Amidala" 2
+mission "SPA salespeople going home, Large [2]"
+	name "<bunks> SPA salespeople going home to <system>"
+	description "<bunks> SPA salespeople have completed their sales trip. It is time for them to go home to <planet>, <system>. Transport them for a payment of <payment>."
+	passengers 300 900
+	job
+	repeat
+	source
+		government Republic Syndicate "Free Worlds" Hai Neutral Independent
+	destination
+		government "Sayari Plushie"
+	to offer
+		random > 30
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		payment 70000 240
+		dialog phrase "SPA salespeople complete, always gender-neutral"
+		"reputation: Sayari Plushie" += 20
+	npc
+		government "Yuyuko Saigyouji"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 7
+			variant
+				"Fury" 6
+			variant
+				"Berserker" 4
+			variant
+				"Falcon" 2
+	npc
+		government "Sayari Plushie"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "spa.allNames"
+			variant
+				"SPA Gunboat" 4
+			variant
+				"SPA Cruiser" 2
+			variant
+				"Amidala" 2
+mission "SPA salespeople going home, Large [3]"
+	name "<bunks> SPA salespeople going home to <system>"
+	description "<bunks> SPA salespeople have completed their sales trip. It is time for them to go home to <planet>, <system>. Transport them for a payment of <payment>."
+	passengers 300 900
+	job
+	repeat
+	source
+		government Republic Syndicate "Free Worlds" Hai Neutral Independent
+	destination
+		government "Sayari Plushie"
+	to offer
+		random > 30
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		payment 70000 240
+		dialog phrase "SPA salespeople complete, always gender-neutral"
+		"reputation: Sayari Plushie" += 20
+	npc
+		government "Yuyuko Saigyouji"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 7
+			variant
+				"Fury" 6
+			variant
+				"Berserker" 4
+			variant
+				"Falcon" 2
+	npc
+		government "Sayari Plushie"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "spa.allNames"
+			variant
+				"SPA Gunboat" 4
+			variant
+				"SPA Cruiser" 2
+			variant
+				"Amidala" 2
+mission "SPA salespeople going home, Large [4]"
+	name "<bunks> SPA salespeople going home to <system>"
+	description "<bunks> SPA salespeople have completed their sales trip. It is time for them to go home to <planet>, <system>. Transport them for a payment of <payment>."
+	passengers 300 900
+	job
+	repeat
+	source
+		government Republic Syndicate "Free Worlds" Hai Neutral Independent
+	destination
+		government "Sayari Plushie"
+	to offer
+		random > 30
+	on visit
+		dialog phrase spa.tr.visit
+	on complete
+		payment 70000 240
+		dialog phrase "SPA salespeople complete, always gender-neutral"
+		"reputation: Sayari Plushie" += 20
+	npc
+		government "Yuyuko Saigyouji"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "cssf"
+			variant
+				"Sparrow" 7
+			variant
+				"Fury" 6
+			variant
+				"Berserker" 4
+			variant
+				"Falcon" 2
+	npc
+		government "Sayari Plushie"
+		personality nemesis staying harvests plunders
+			confusion 40
+		system destination
+		fleet
+			names "spa.allNames"
+			variant
+				"SPA Gunboat" 4
+			variant
+				"SPA Cruiser" 2
+			variant
+				"Amidala" 2

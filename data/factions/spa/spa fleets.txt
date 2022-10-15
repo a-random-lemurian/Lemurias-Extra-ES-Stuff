@@ -18,7 +18,7 @@
 
 fleet spa.small
 	government "Sayari Plushie"
-	names "spa small"
+	names spa.allNames
 	cargo 5
 	variant 30
 		"Amidala" 1

@@ -19,6 +19,7 @@ system Poreu
 	pos -8370.5968 -154.58978
 	link Airuka
 	link Paricasa
+	attributes "pelitol cluster"
 	arrival 3000
 	fleet spa.small 700
 	fleet spa.medium 1500
@@ -64,6 +65,7 @@ system Chasikara
 	link "42 Merisai"
 	link Orunat
 	link Pechara
+	attributes "pelitol cluster"
 	arrival 1800
 	object
 		sprite "star/g3"
@@ -107,6 +109,7 @@ system Karita
 	link Caretta
 	link Onuka
 	link Vefrua
+	attributes "pelitol cluster"
 	habitable 503
 	arrival 2180
 	object
@@ -135,6 +138,7 @@ system Airuka
 	link Arau
 	link Mersat
 	link Poreu
+	attributes "pelitol cluster"
 	arrival 1680
 	fleet spa.small 700
 	fleet spa.medium 1500
@@ -178,6 +182,7 @@ system Airuka
 system Upalsa
 	pos -8128.7635 -163.562
 	link Caretta
+	attributes "pelitol cluster"
 	arrival 1480
 	object
 		sprite "star/m4"
@@ -213,6 +218,7 @@ system Ouchar
 	link Deriato
 	link Doler
 	link Gensar
+	attributes "pelitol cluster"
 	arrival 2100
 	fleet spa.small 800
 	fleet spa.medium 1300
@@ -261,6 +267,7 @@ system Corua
 	link Daryn-qular
 	link Ertusca
 	link Pourat
+	attributes "pelitol cluster"
 	arrival 1950
 	fleet "Small Republic" 900
 	fleet "Large Republic" 1300
@@ -309,6 +316,7 @@ system Aradi
 	link Isalor
 	link Mariuta
 	link Vastary
+	attributes "pelitol cluster"
 	arrival 1650
 	object
 		sprite "star/k-supergiant"
@@ -346,6 +354,7 @@ system Aradi
 system Eputel
 	pos -8572.7635 -99.561998
 	link Casfik
+	attributes "pelitol cluster"
 	arrival 3340
 	habitable 40000
 	object
@@ -376,6 +385,7 @@ system Eputel
 system Venisur
 	pos -8630.9857 -126.67311
 	link Casfik
+	attributes "pelitol cluster"
 	arrival 2170
 	habitable 90000
 	object
@@ -416,6 +426,7 @@ system Opfrau
 	link "Alpha Tudalip"
 	link Melursa
 	link Porsuei
+	attributes "pelitol cluster"
 	arrival 1800
 	fleet "Large Northern Pirates" 800
 	fleet "Small Northern Pirates" 500
@@ -461,6 +472,7 @@ system Posteli
 	link Freula
 	link Nestia
 	link Porsuei
+	attributes "pelitol cluster"
 	arrival 1500
 	government "Republic"
 	trade Clothing 180
@@ -501,6 +513,7 @@ system Pentarok
 	pos -8371.5135 -359.20089
 	link Maryn-qarou
 	link Olerak
+	attributes "pelitol cluster"
 	arrival 1380
 	object
 		sprite "star/m5"
@@ -569,6 +582,7 @@ system Casfik
 	link Sprooe
 	link Venisur
 	link Zerted
+	attributes "pelitol cluster"
 	arrival 1860
 	object
 		sprite "star/b5"
@@ -600,6 +614,7 @@ system Maryn-qarou
 	link Doler
 	link Isalor
 	link Pentarok
+	attributes "pelitol cluster"
 	arrival 1480
 	government "Republic"
 	habitable 4331
@@ -649,6 +664,7 @@ system Daryn-qular
 	link Chasitum
 	link Chrusa
 	link Corua
+	attributes "pelitol cluster"
 	arrival 1790
 	habitable 900000
 	object
@@ -685,6 +701,7 @@ system Isalor
 	link Aradi
 	link Gensar
 	link Maryn-qarou
+	attributes "pelitol cluster"
 	arrival 1200
 	object
 		sprite "star/g0"
@@ -719,6 +736,7 @@ system Vefrua
 	pos -8116.4857 -57.673109
 	link "94 Merisai"
 	link Karita
+	attributes "pelitol cluster"
 	arrival 1500
 	object
 		sprite "star/m0"
@@ -778,6 +796,7 @@ system Caretta
 	link "Alpha Tudalip"
 	link Karita
 	link Upalsa
+	attributes "pelitol cluster"
 	arrival 2100
 	object
 		sprite "star/m8"
@@ -817,6 +836,7 @@ system Mersat
 	link Airuka
 	link Nardacus
 	link Vachrau
+	attributes "pelitol cluster"
 	arrival 1760
 	trade Clothing 407
 	trade Electronics 544
@@ -863,6 +883,7 @@ system Vachrau
 	link Mersat
 	link Onuka
 	link Porsuei
+	attributes "pelitol cluster"
 	arrival 1550
 	trade Clothing 334
 	trade Electronics 463
@@ -926,6 +947,7 @@ system Vachrau
 system Nardacus
 	pos -8294.5968 -131.92311
 	link Mersat
+	attributes "pelitol cluster"
 	arrival 1430
 	trade Clothing 214
 	trade Electronics 513
@@ -975,6 +997,7 @@ system Porsuei
 	link Opfrau
 	link Posteli
 	link Vachrau
+	attributes "pelitol cluster"
 	arrival 1280
 	trade Clothing 141
 	trade Electronics 641
@@ -1029,6 +1052,7 @@ system Porsuei
 system Peroni
 	pos -8379.0968 -410.33978
 	link Vastary
+	attributes "pelitol cluster"
 	arrival 1100
 	object
 		sprite "star/m5"
@@ -1067,6 +1091,7 @@ system Nestia
 	pos -8217.3468 -301.92311
 	link Ertusca
 	link Posteli
+	attributes "pelitol cluster"
 	arrival 670
 	object
 		sprite "star/a8"
@@ -1105,6 +1130,7 @@ system Arau
 	pos -8321.7912 -224.14533
 	link Airuka
 	link Defal
+	attributes "pelitol cluster"
 	arrival 620
 	trade Clothing 314
 	trade Electronics 313
@@ -1142,6 +1168,7 @@ system Melursa
 	link Meursa
 	link Opfrau
 	link Pourat
+	attributes "pelitol cluster"
 	arrival 880
 	habitable 900
 	object
@@ -1184,6 +1211,7 @@ system Melursa
 system Vifura
 	pos -8682.1801 -335.20089
 	link Erou
+	attributes "pelitol cluster"
 	arrival 980
 	habitable 340000
 	object
@@ -1221,6 +1249,7 @@ system Deriato
 	link Ouchar
 	link Presad
 	link Purai
+	attributes "pelitol cluster"
 	arrival 900
 	trade Clothing 260
 	trade Electronics 471
@@ -1269,6 +1298,7 @@ system Deriato
 system Purai
 	pos -8552.8468 -281.42311
 	link Deriato
+	attributes "pelitol cluster"
 	arrival 870
 	trade Clothing 260
 	trade Electronics 471
@@ -1306,6 +1336,7 @@ system "42 Merisai"
 	pos -8268.2635 75.632447
 	link "43 Merisai"
 	link Chasikara
+	attributes "pelitol cluster"
 	arrival 1220
 	object
 		sprite "star/m0"
@@ -1352,6 +1383,7 @@ system Vabchra
 	pos -8423.0968 -525.14533
 	link Mariuta
 	link Petun
+	attributes "pelitol cluster"
 	arrival 790
 	object
 		sprite "star/g8"
@@ -1382,6 +1414,7 @@ system Paruna
 	pos -7985.3468 -211.72866
 	link "Alpha Tudalip"
 	link "Vator Comparum"
+	attributes "pelitol cluster"
 	arrival 1190
 	government "Pirate"
 	fleet "Large Northern Pirates" 800
@@ -1424,6 +1457,7 @@ system Mirus
 	link Finuera
 	link Gestaru
 	link Petun
+	attributes "pelitol cluster"
 	arrival 980
 	object
 		sprite "star/k3"
@@ -1458,6 +1492,7 @@ system Carfue
 	pos -8038.069 -287.062
 	link Meursa
 	link "Vator Comparum"
+	attributes "pelitol cluster"
 	arrival 1300
 	object
 		sprite "star/g8"
@@ -1484,6 +1519,7 @@ system Chrusa
 	pos -8212.4301 -447.812
 	link Daryn-qular
 	link Gestaru
+	attributes "pelitol cluster"
 	arrival 1200
 	object
 		sprite "star/g0"
@@ -1515,6 +1551,7 @@ system Gestaru
 	link Aidux
 	link Chrusa
 	link Mirus
+	attributes "pelitol cluster"
 	arrival 900
 	object
 		sprite "star/g8"
@@ -1545,6 +1582,7 @@ system Mariuta
 	pos -8546.4301 -533.812
 	link Aradi
 	link Vabchra
+	attributes "pelitol cluster"1=
 	arrival 1070
 	object
 		sprite "star/b3"
@@ -1574,6 +1612,7 @@ system Mariuta
 system Zoruna
 	pos -8570.7079 -12.811998
 	link Orchao
+	attributes "pelitol cluster"
 	arrival 840
 	object
 		sprite "star/f-giant"
@@ -1608,6 +1647,7 @@ system Petun
 	pos -8365.7635 -525.14533
 	link Mirus
 	link Vabchra
+	attributes "pelitol cluster"
 	arrival 1180
 	object
 		sprite "star/k3"
@@ -1634,6 +1674,7 @@ system Vaitul
 	pos -8236.7635 -41.78422
 	link "43 Merisai"
 	link Nursuta
+	attributes "pelitol cluster"
 	arrival 900
 	object
 		sprite "star/k8"
@@ -1671,6 +1712,7 @@ system Vaitul
 system Freula
 	pos -8247.8746 -241.33978
 	link Posteli
+	attributes "pelitol cluster"
 	arrival 1800
 	object
 		sprite "star/g3"
@@ -1713,6 +1755,7 @@ system Pourat
 	pos -8135.5412 -342.72866
 	link Corua
 	link Melursa
+	attributes "pelitol cluster"
 	arrival 640
 	object
 		sprite "star/a8"
@@ -1764,6 +1807,7 @@ system Finuera
 	link Mirus
 	link Vaidanu
 	link Vastary
+	attributes "pelitol cluster"
 	habitable 40000
 	arrival 3000
 	object
@@ -1804,6 +1848,7 @@ system Vastary
 	link Aradi
 	link Finuera
 	link Peroni
+	attributes "pelitol cluster"
 	arrival 1800
 	object
 		sprite "star/o5"
@@ -1845,6 +1890,7 @@ system Vastary
 system Imural
 	pos -8601.319 -460.562
 	link Cafrai
+	attributes "pelitol cluster"
 	arrival 2100
 	object
 		sprite "star/a-giant"
@@ -1875,6 +1921,7 @@ system Gensar
 	pos -8584.2079 -408.562
 	link Isalor
 	link Ouchar
+	attributes "pelitol cluster"
 	arrival 1400
 	object
 		sprite "star/m3"
@@ -1912,6 +1959,7 @@ system "94 Merisai"
 	link Vefrua
 	link Daithus
 	link Orfue
+	attributes "pelitol cluster"
 	arrival 1930
 	trade Clothing 209
 	trade Electronics 711
@@ -1968,6 +2016,7 @@ system Cafrai
 	pos -8648.4301 -391.22866
 	link Deriato
 	link Imural
+	attributes "pelitol cluster"
 	arrival 2080
 
 system Onuka
@@ -1975,6 +2024,7 @@ system Onuka
 	link Karita
 	link Nursuta
 	link Vachrau
+	attributes "pelitol cluster"
 	arrival 1900
 	trade Clothing 184
 	trade Electronics 913
@@ -2038,6 +2088,7 @@ system "Alpha Tudalip"
 	link Caretta
 	link Opfrau
 	link Paruna
+	attributes "pelitol cluster"
 	arrival 880
 	fleet "Large Northern Pirates" 800
 	fleet "Small Northern Pirates" 500
@@ -2075,6 +2126,7 @@ system Nursuta
 	link Onuka
 	link Telicasa
 	link Vaitul
+	attributes "pelitol cluster"
 	arrival 1180
 	object
 		sprite "star/g3"
@@ -2102,6 +2154,7 @@ system Mosiato
 	link Deramii
 	link Orunat
 	link Zerted
+	attributes "pelitol cluster"
 	habitable 5308
 	arrival 800
 	object
@@ -2140,6 +2193,7 @@ system Mosiato
 system Vaidanu
 	pos -8293.4301 -423.20089
 	link Finuera
+	attributes "pelitol cluster"
 	arrival 700
 	object
 		sprite "star/m0"
@@ -2154,6 +2208,7 @@ system Zerted
 	pos -8658.7079 -13.923109
 	link Casfik
 	link Mosiato
+	attributes "pelitol cluster"
 	arrival 1200
 	object 
 		sprite "star/g3"
@@ -2177,6 +2232,7 @@ system Orunat
 	link Chasikara
 	link Darceas
 	link Mosiato
+	attributes "pelitol cluster"
 	arrival 1800
 	object
 		sprite "star/m5"
@@ -2187,6 +2243,7 @@ system Deramii
 	pos -8545.3746 80.743558
 	link Mosiato
 	link Pechara
+	attributes "pelitol cluster"
 	arrival 1450
 	object
 		sprite "star/k3"
@@ -2200,6 +2257,7 @@ system "43 Merisai"
 	link "94 Merisai"
 	link Areuth
 	link Vaitul
+	attributes "pelitol cluster"
 	arrival 1200
 	object
 		sprite "star/m8"
@@ -2223,6 +2281,7 @@ system Pechara
 	pos -8450.7079 103.85467
 	link Chasikara
 	link Deramii
+	attributes "pelitol cluster"
 	government "Independent"
 	arrival 14000
 	fleet "Small Northern Merchants" 3000
@@ -2250,6 +2309,7 @@ system Pechara
 system Miruver
 	pos -8018.0135 -78.395331
 	link "94 Merisai"
+	attributes "pelitol cluster"
 	arrival 3200
 	object
 		sprite "star/a3"
@@ -2260,6 +2320,7 @@ system Porae
 	pos -7972.0135 -367.062
 	link Chasitum
 	link "Vator Comparum"
+	attributes "pelitol cluster"
 	arrival 1800
 	object
 		sprite "star/"
@@ -2269,6 +2330,7 @@ system Porae
 system Aidux
 	pos -8130.6801 -460.39533
 	link Gestaru
+	attributes "pelitol cluster"
 	arrival 1200
 	object
 		sprite "star/m8"
@@ -2279,6 +2341,7 @@ system Chasitum
 	pos -8040.0135 -418.39533
 	link Daryn-qular
 	link Porae
+	attributes "pelitol cluster"
 	arrival 4000
 	belt 4000
 	fleet "Human Miners" 200
@@ -2297,6 +2360,7 @@ system "Vator Comparum"
 	link Carfue
 	link Paruna
 	link Porae
+	attributes "pelitol cluster"
 	arrival 1280
 	object
 		sprite "star/g0"
@@ -2319,6 +2383,7 @@ system Meursa
 	pos -8042.5135 -353.28422
 	link Carfue
 	link Melursa
+	attributes "pelitol cluster"
 	arrival 870
 	object
 		sprite "star/g5"
@@ -2332,6 +2397,7 @@ system Meursa
 planet Sparley
 	landscape "land/sparley"
 	government "Republic"
+	attributes urban
 	description `Sparley is another Republic colony. Large settlements referred to as "favelas" (plural) dominate the vast majority of the landscape, except for the land near the spaceport, a few nature reserves, and the planet's large mountain ranges.`
 	spaceport `The spaceport city is the only non-favela part of Sparley. The spaceport building is roughly octopus-shaped, with several landing pads for many different variants of ships near the spaceport's tentacle-like appendages.`
 
@@ -2346,12 +2412,14 @@ planet Mirdenheim
 	outfitter "Ammo South"
 	outfitter "Deep Sky Basics"
 	outfitter "Deep Sky Advanced"
+	attributes urban
 	description "Mirdenheim is a heavily urbanized colony bordering the SPA colony of Defal, with a population of roughly 898 million. Mirdenheim is one of the major colonies in the Pelitol Cluster and is home to a major Navy base and a forward operating base for conducting surveillance on the nearby Sayari Plushie Authority colonies."
 	spaceport "Mirdenheim's spaceport is at the outskirts of the largest city on Mirdenheim, and is right next to the shipyard. Large turrets are placed on the shipyard and spaceport buildings to guard against pirate attacks."
 
 planet Martieu
 	landscape "land/martieu"
 	government "Republic"
+	attributes religious urban
 	description `Martieu is an unusually religious and conservative planet. Data chips on Martieu are frequently inspected and any chip containing "objectionable" material is destroyed. Aside from censorship of the galactic internet, the government of Martieu has implemented conservative policies.`
 	description `60% of the surface of Martieu is an ocean. The remaining 40% has been subject to urbanization and deforestation.`
 	spaceport `Martieu's spaceport is located at the largest city. Security guards can be seen inspecting people's data chips for so-called "objectionable" material. The spaceport has several different types of bays, optimized for loading and unloading either passengers or several types of cargo.`
@@ -2373,12 +2441,14 @@ planet Tarsia
 	shipyard "Sayari Advanced"
 	outfitter "Sayari Outfits"
 	government "Republic"
+	attributes urban
 	description "Tarsia is another of the developed and heavily urbanized planets of the southeast parts of the Pelitol Cluster. Tarsia is home to a significant SPA presence, though not enough for this planet to be governed outright by them. Tarsia is home to a large SPA distribution center, which is responsible for the sale and distribution of all plushies in the southeast Pelitol Cluster."
 	spaceport "Tarsia's spaceport is in a way, similar to Earth's spaceport. Serving a city of roughly 75 million people, most parts of the spaceport are dilapidated except for the private terminal reserved for the rich and famous. Some slave shops are likely operating within the deeper, more hidden parts of the spaceport."
 
 planet "Taraz"
 	landscape "land/taraz"
 	government "Republic"
+	attributes forest
 	description `Taraz is a forest world. The vast majority of the population of Taraz reside in a single metropolitan area. Over 75% of the land on Taraz has been designated as a nature reserve, and only biologists, scientists reside on that part of the planet. Not to be confused with Tarsia in the neighboring Vachrau system or Tarazed.`
 	description `The forest surrounding the city is home to several native species of trees. It is for this reason that ships are inspected closely for the presence of any invasive species.`
 	spaceport `The spaceport on Taraz is located in a small exclave surrounded by the nature reserve. From space, a line of deforested land can be seen running between the spaceport and the Taraz metropolitan area. This strip of land is the only major route and is high traffic with a large team of air traffic controllers coordinating spaceship traffic along the route.`
@@ -2392,6 +2462,7 @@ planet Gura
 planet "Pareia"
 	landscape "land/pareia"
 	government Republic
+	attributes "nature reserve" religious
 	description `Pareia is a large planetwide nature reserve. Most of the planet's species are imported from Earth. Small groups of Amish reside on this relatively undeveloped planet in the areas open to settlement.`
 	spaceport `Pareia's spaceport is primitive. Not many ships land here on the very few landing pads available, which even then are simple concrete pads, instead of more advanced high-tech landing pads used on other worlds.`
 
@@ -2401,30 +2472,35 @@ planet "Steirek"
 	shipyard "Sayari Advanced"
 	outfitter "Sayari Outfits"
 	outfitter "Basic Outfits"
+	attributes military
 	description `Steirek is a militarized world. It is for the exclusive use of the Sayari Plushie Authority. Steirek consists of a large network of warehouses, datacenters, and supercomputers providing storage for plushies and data and computing power to help the SPA choose the best place to sell plushies based on its models of the galaxy, which rival that of the Syndicate.`
 	spaceport `The vast majority of the ships leaving and entering the spaceport are in the livery of the Sayari Plushie Authority and your ship sticks out amongst the crowd. Containers full of plushies can be seen being loaded onto the ships. The spaceport is defended by hundreds of turrets to protect against CSSF and pirate intrusions.`
 
 planet Ponarai
 	landscape "land/ponarai"
 	government "Sayari Plushie"
+	attributes farming frontier
 	description `Ponarai is a relatively undeveloped world. The Sayari Plushie Authority has imported several species from Earth onto this world; modifying the biosphere in hopes of finding a new material that can be used to produce plushies.`
 	spaceport `Ponarai's spaceport is fairly primitive; some ships can even be seen directly on the ground; without a landing pad.`
 
 planet Narchrai
 	landscape "land/narchrai"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	attributes urban forest
+	description `Narchrai's population density is unusually high. Untouched grasslands and forests still cover over 90% of the surface, the remaining 10% being a single continuous metropolitan area home to large buildings. Collectively, these large buildings host roughly hundreds of millions of people.`
+	spaceport `Narchrai's primary spaceport is located atop the city's tallest building. The immense size of the spaceport shrouds the nearby buildings into darkness for a few kilometers extending out from the center.`
 
 planet "Pechara High"
 	landscape "land/stationPecharaHigh"
 	government "Independent"
+	attributes station
 	description `Pechara High is sparsely populated. Only roughly 40 people live here to maintain the station and perform research. It orbits the gas giant Pechara, which was expelled from its star system likely hundreds of millions of years ago. An even bigger mystery is why the hyperlane network would lead to such an isolated and lonely gas giant.`
 	spaceport `The spaceport consists primarily of equipment for launching scientific probes alongside standard refuelling facilities.`
 
 planet Brigantium
 	landscape "land/brigantium"
 	government "Republic"
+	attributes research
 	description `Brigantium is home to the Brigantium Computing Array: a network of supercomputers across the surface, capable of running highly intensive simulations, using the water as a heatsink. The Array is powered by a partial Dyson sphere, the sole source of power in the Brigantium system.`
 	description `The Brigantium Computing Array, while primarily used for scientific research, has had a part of its computing power rented out for a variety of purposes such as rendering of extremely high-quality images and movies, simulation of galactic trade prices and combat simulations. Over 99.8% of Brigantium's permanent population consist of people who maintain the Array alongside their families and close relatives.`
 	spaceport `The spaceport on Brigantium is located on top of one of the array's largest nodes. There is a relatively high demand for electronics to replace some of the failing parts of the Array, and data-chips containing high quality images, rendered by the array at extremely high resolutions, so high that even at 500x zoom level the image was still 4K.`
@@ -2433,6 +2509,7 @@ planet Brigantium
 planet Lattice
 	landscape "land/lattice"
 	government "Republic"
+	attributes rich urban
 	description `Lattice is primarily an upscale colony, with the vast majority of the population being either rich or retired. Most of the planet's poorer population originate from the other parts of the Pelitol cluster; it is essentially an enclave of the Paradise Worlds.`
 	spaceport `The spaceport of Lattice contains many luxury stores, most of which are prohibitively expensive.`
 

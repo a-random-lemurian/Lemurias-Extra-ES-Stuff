@@ -24,6 +24,7 @@ system Sorusep
 	government "Sayari Plushie"
 	link Ikopp
 	link Oratelis
+	attributes "pelitol cluster"
 	arrival 1800
 	fleet spa.small 800
 	fleet spa.medium 3000
@@ -65,6 +66,7 @@ system Pelitol
 	link Ikopp
 	link Sedlai
 	link Frechisa
+	attributes "pelitol cluster"
 	arrival 1900
 	trade Clothing 344
 	trade Electronics 713
@@ -128,6 +130,7 @@ system Defal
 	link Pelitol
 	link Dorkelt
 	link Arau
+	attributes "pelitol cluster"
 	arrival 1380
 	trade Clothing 376
 	trade Electronics 733
@@ -178,6 +181,7 @@ system Ikopp
 	link Pelitol
 	link Repolitea
 	link Sorusep
+	attributes "pelitol cluster"
 	arrival 1780
 	fleet spa.small 900
 	fleet spa.medium 1700
@@ -214,6 +218,7 @@ system Repolitea
 	link Ikopp
 	link Doler
 	link Sarut
+	attributes "pelitol cluster"
 	arrival 1370
 	fleet spa.small 600
 	fleet spa.medium 1300
@@ -278,6 +283,7 @@ system Sarut
 	link Repolitea
 	link Oratelis
 	link Vourgat
+	attributes "pelitol cluster"
 	arrival 1180
 	fleet spa.small 500
 	fleet spa.medium 1200
@@ -318,6 +324,7 @@ system Doler
 	link Repolitea
 	link Maryn-qarou
 	link Ouchar
+	attributes "pelitol cluster"
 	arrival 1340
 	fleet spa.small 800
 	fleet spa.medium 1600
@@ -360,6 +367,7 @@ system Oratelis
 	link Sarut
 	link Arket
 	link Dorkelt
+	attributes "pelitol cluster"
 	arrival 1870
 	fleet spa.small 500
 	fleet spa.medium 900
@@ -391,6 +399,7 @@ system Dorkelt
 	pos -8402.4995 -203.45588
 	link Oratelis
 	link Defal
+	attributes "pelitol cluster"
 	arrival 1340
 	fleet spa.small 800
 	fleet spa.medium 2000
@@ -431,6 +440,7 @@ system Arket
 	link Oratelis
 	link Vensur
 	link Paricasa
+	attributes "pelitol cluster"
 	arrival 1140
 	fleet spa.small 700
 	fleet spa.medium 1800
@@ -497,6 +507,7 @@ system Vensur
 	link Arket
 	link Sprad
 	link Starish
+	attributes "pelitol cluster"
 	arrival 1680
 	arrival 500
 	fleet spa.small 500
@@ -540,6 +551,7 @@ system Starish
 	link Vensur
 	link Darceas
 	link Orchao
+	attributes "pelitol cluster"
 	arrival 1200
 	object
 		sprite "star/k5"
@@ -581,6 +593,7 @@ system Darceas
 	link Orchao
 	link Varfeticasa
 	link Orunat
+	attributes "pelitol cluster"
 	arrival 1470
 	trade Clothing 319
 	trade Electronics 463
@@ -620,6 +633,7 @@ system Orchao
 	link Darceas
 	link Starish
 	link Zoruna
+	attributes "pelitol cluster"
 	arrival 1270
 	object
 		sprite "star/m8"
@@ -640,6 +654,7 @@ system Paricasa
 	link Arket
 	link Telicasa
 	link Poreu
+	attributes "pelitol cluster"
 	arrival 1670
 	fleet spa.small 1900
 	fleet spa.medium 2300
@@ -662,6 +677,7 @@ system Telicasa
 	link Paricasa
 	link Nursuta
 	link Kolicasa
+	attributes "pelitol cluster"
 	arrival 1340
 	fleet spa.small 1900
 	fleet spa.medium 2300
@@ -692,6 +708,7 @@ system Kolicasa
 	link Telicasa
 	link Varfeticasa
 	link Lesokicasa
+	attributes "pelitol cluster"
 	arrival 2800
 	fleet spa.small 1900
 	fleet spa.medium 2300
@@ -733,6 +750,7 @@ system Varfeticasa
 	pos -8403.0488 -33.240
 	link Darceas
 	link Kolicasa
+	attributes "pelitol cluster"
 	arrival 2170
 	fleet "Small Northern Merchants" 1300
 	fleet "Small Northern Pirates" 1500
@@ -762,6 +780,7 @@ system Lesokicasa
 	pos -8307.2033 1.887
 	arrival 3000
 	link Kolicasa
+	attributes "pelitol cluster"
 	fleet spa.small 1900
 	fleet spa.medium 2300
 	fleet spa.large 3100
@@ -799,6 +818,7 @@ system Frechisa
 	link Pelitol
 	link Olerak
 	link Ertusca
+	attributes "pelitol cluster"
 	arrival 1760
 	fleet spa.small 900
 	fleet spa.medium 1900
@@ -847,6 +867,7 @@ system Ertusca
 	link Frechisa
 	link Corua
 	link Nestia
+	attributes "pelitol cluster"
 	arrival 1430
 	fleet spa.small 900
 	fleet spa.medium 2400
@@ -891,6 +912,7 @@ system Olerak
 	link Erited
 	link Frechisa
 	link Pentarok
+	attributes "pelitol cluster"
 	arrival 1480
 	fleet spa.small 850
 	fleet spa.medium 1560
@@ -921,6 +943,7 @@ system Erited
 	government "Sayari Plushie"
 	pos -8242.3493 -401.41104
 	link Olerak
+	attributes "pelitol cluster"
 	arrival 1260
 	fleet spa.small 500
 	fleet spa.medium 900
@@ -953,6 +976,7 @@ system Ourais
 	belt 1344
 	link Daxter
 	link Erou
+	attributes "pelitol cluster"
 	arrival 2330
 	trade Clothing 359
 	trade Electronics 513
@@ -1007,6 +1031,7 @@ system Vourgat
 	link Presad
 	link Sarut
 	link Sprad
+	attributes "pelitol cluster"
 	arrival 1460
 	fleet "Small Northern Pirates" 1300
 	object
@@ -1039,6 +1064,7 @@ system Erou
 	link Ourais
 	link Presad
 	link Vifura
+	attributes "pelitol cluster"
 	arrival 1170
 	government "Sayari Plushie"
 	fleet "Small Northern Pirates" 1300
@@ -1072,6 +1098,7 @@ system Sprad
 	link Varisa
 	link Vensur
 	link Vourgat
+	attributes "pelitol cluster"
 	arrival 2170
 	fleet "Small Northern Pirates" 1300
 	object
@@ -1096,6 +1123,7 @@ system Presad
 	link Erou
 	link Vourgat
 	link Deriato
+	attributes "pelitol cluster"
 	arrival 1270
 	trade Clothing 194
 	trade Electronics 463
@@ -1138,6 +1166,7 @@ system Sprooe
 	pos -8730.8056 -99.694444
 	link Daxter
 	link Casfik
+	attributes "pelitol cluster"
 	arrival 1780
 	government "Sayari Plushie"
 	fleet spa.small 900
@@ -1167,6 +1196,7 @@ system Daxter
 	link Ourais
 	link Sprooe
 	link Varisa
+	attributes "pelitol cluster"
 	arrival 2400
 	trade Clothing 304
 	trade Electronics 523
@@ -1209,6 +1239,7 @@ system Varisa
 	pos -8612.7222 -179.33333
 	link Daxter
 	link Sprad
+	attributes "pelitol cluster"
 	arrival 780
 	government "Sayari Plushie"
 	trade Clothing 384
@@ -1254,6 +1285,7 @@ system Varisa
 planet "Eteristra"
 	landscape "land/eteristra"
 	government "Sayari Plushie"
+	attributes "nature reserve"
 	description "Eteristra is an undeveloped planet in the Pelitol Cluster. Eteristra acts primarily as a nature reserve."
 	spaceport "The spaceport here is primitive, with very few landing pads. Most traffic into the planet descends into the atmosphere to land in places far away from the spaceport, presumably to record the planet's wildlife (of which a sizable chunk was imported from Earth)."
 
@@ -1266,36 +1298,57 @@ planet "Delistra"
 planet "Moristra"
 	landscape "land/moristra"
 	government "Sayari Plushie"
+	attributes farming
 	description "Moristra is the northernmost colony in the Pelitol Cluster. Moristra is primarily an agricultural colony with the exception of the spaceport city, where the farmer's market resides (it takes up over 75% of the spaceport city's space)."
 	spaceport "Moristra's spaceport is home to the farmer's market, where farmers sell their crops and the occasional tractor salesman approaches you, and asks if you want one. Notably, Moristra has very strong right-to-repair laws for tractors and farm equipment, so there are countless facilities where farmers modify their equipment or watch as repairmen, experienced or not, repair their equipment."
 
 planet "Kaistra"
 	landscape "land/kaistra"
 	government "Sayari Plushie"
+	attributes mining
 	description "Even deeper into the Pelitol Cluster, is the planet of Kaistra. Kaistra is an even smaller outpost, a mere mining colony."
 	spaceport "Kaistra's spaceport consists of a few landing pads, and the minimum required facilities."
 
 planet "Defal VI Station"
 	landscape "land/space2"
 	government "Sayari Plushie"
+	attributes station
 	description "This is an outpost. With more migration to the Pelitol Cluster, the SPA is discussing plans to convert this into a fuel generation factory, leeching off Defal VI, the gas giant that this outpost orbits. The station, located in the rings of Defal VI, is equipped with cannons on all sides to protect the station from asteroid impacts."
 	spaceport "As standard procedure, there are fuel pumps. Not many people are here, and you feel like you're in a distant region of space. There is only one ship docked. The crew seem friendly and even let you view one of their plushies. Even in remote space, Freya Winters plushies run rampant."
 
+# TODO: add image and description for Ondoristra and Bardanistra
 planet "Ondoristra"
 	landscape "land/ondoristra"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	outfitter "Basic Outfits"
+	outfitter "Sayari Outfits"
+	shipyard "Sayari Advanced"
+	attributes urban
+	description `Ondoristra was first colonized by the Anime Organization in the 2740s. When the Sayari Plushie Authority split off from the Anime Organization, Ondoristra was ceded over after the end of a brutal 3-year-long civil war. However, these days, the A.O and the SPA are on peaceful terms.`
+	description `The planet's surface consists of a single Pangaea-style continent. The northern hemisphere of the planet is home to the majority of the population; the landscape becoming more rural and less urbanized as one goes south. A medium-sized city surrounds the spaceport, which is unusual as the surrounding region is mostly barren and uninhabited.`
+	spaceport `The center of the Ondoristra spaceport contains a memorial to both the soldiers of the SPA and the Anime Organization, who fought after the SPA seceded from the Anime Organization. The spaceport is located at Ondoristra's equator.`
+	spaceport `Near the spaceport, there is a large shopping center where all types of items can be bought. It is also a place where merchants and freight captains constantly haggle over the price of commodities. A large warehouse operated by the Sayari Plushie Authority takes up roughly one-third of the shopping center's space. As usual, it is used for plushie storage.`
 
 planet Bardanistra
 	landscape "land/bardanistra"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	shipyard "Sayari Advanced"
+	shipyard "Southbound Basics"
+	outfitter "Basic Outfits"
+	outfitter "Ammo North"
+	outfitter "Ammo South"
+	outfitter "Sayari Outfits"
+	description `Bardanistra was first colonized by the Anime Organization in the 2720s. When the Sayari Plushie Authority split off from the Anime Organization, this colony stubbornly held on until the 2840s, even when they had lost military support from the A.O.`
+	description `Today, most of the draconian measures implemented by the SPA such as martial law when they eventually gained full control are repealed; but a few of those measures still exist.`
+	description `In the planet's orbit, there are a few hundred orbital turrets which are derelict and abandoned; leftovers from Bardanistra's resistance. They are not enough of a nuisance to the planet's orbital volume yet as to warrant a salvage operation.`
+	spaceport `Bardanistra's spaceport is located outside the main city. There are still several turrets left over from when the colony held out against the Sayari Plushie Authority, but some have already been upgraded to modern turrets. The security checkpoints, normally absent on other SPA planets, are still running, another leftover security measure from the old martial law era.`
+	spaceport `Near the spaceport lies a large SPA-owned military base, shipyard, and outfitter. The security is a bit more intense than the regular spaceport. The roof of the SPA-owned military base has significantly more turrets than the rest, which are of significantly higher quality.`
+	spaceport `This spaceport is large; but the SPA military base is thrice as large. It is locked behind a tall electric fence and anti-ship turrets.`
 
 planet Perechra
 	landscape "land/perechra"
 	government "Sayari Plushie"
+	attributes frontier
 	description "Perechra is an Earth-like world and the easternmost world in the Pelitol Cluster. With a population of 12,000, the world's facilties are primitive and meet only the barebones basic standards of medicine, hygiene and other critical services. Perechra is most often used as a rest stop for ships making their way to either Kaistra or Salistra."
 	spaceport "The spaceport is barebones, with just 5 landing pads for large ships. You see 4 small ships on one of the landing pads. People here give you weird looks, since not many people land often. Dental offices, shopping centers, and even a small hospital are visible from where you currently are."
 
@@ -1306,6 +1359,7 @@ planet "Salistra"
 	outfitter "Common Outfits"
 	landscape "land/salistra"
 	government "Sayari Plushie"
+	attributes farming manufacturing
 	description "Salistra is an Earth-like world in the Pelitol Cluster. Salistra is primarily a farming, manufacturing, and shipbuilding world. Salistra is home to the Salistra Shipyard in orbit. The colony of Kaistra in the neighbouring Sarut system is the Salistra Shipyard's primary source of material."
 	spaceport "The Salistra Spaceport is located on an island in the middle of one of Salistra's large oceans."
 
@@ -1324,6 +1378,7 @@ planet "Aylar"
 planet "Voreo"
 	government "Republic"
 	landscape "land/voreo"
+	attributes military
 	description "Voreo is a Republic outpost, presumably to keep an eye on the activities of the Sayari Plushie Authority in the Pelitol Cluster. It's unclear how they are able to circumvent the patrols of the Sayari Plushie Authority, though."
 	spaceport "Voreo's spaceport is designed more for large ships. Soldiers and officers in Republic uniforms dominate the landscape, but thankfully are nice enough to refuel and repair your ship at no cost."
 
@@ -1332,23 +1387,27 @@ planet Barachen
 	landscape "land/barachen"
 	shipyard "Sayari Advanced"
 	outfitter "Sayari Outfits"
+	attributes military manufacturing
 	description "Barachen is an ocean world where roughly 85% of the surface is an ocean. Small settlements are present on most of Barachen's islands, home to a few plushie stashes and factories, most of which are well-hidden."
 	description "One of the larger island chains is home to a massive SPA naval base, the spaceport, and shipyard, presumably to intimidate the Republic outpost on Voreo."
 	description "Barachen's factories rival the factories of Zarkxaa in the production of Sayari plushies and merchandise. If Zarkxaa was to be occupied, Barachen would only need to increase its production to make up for the lost supply."
 	spaceport "The spaceport is located in the civilian area of the SPA naval base. The surrounding settlement is roughly 300,000 strong. As usual, large turrets have been placed on the naval base for protection against CSSF attacks. The shipyard is closely integrated with the naval base."
 	spaceport "Meanwhile, the spaceport village offers several services such as food, drinks, ship repairs, and most importantly, plushies of either Freya Winters or Sayari. The traffic at the spaceport is fairly light with a ship entering roughly every 4 minutes."
 
+# TODO: add images and complete descriptions for Naprai, Ancherum, Parton, and Heine
 planet Naprai
 	landscape "land/naprai"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	attributes urban research
+	description `Naprai is a large urban colony. Cities of hundreds of thousands of people are spread out across the surface. It is estimated that the city currently hosts over 132 million people. Naprai is primarily known for having a higher concentration of technology startups; the local government is sometimes forced to perform orbital cleanup operations in the rare chance that an experiment goes wrong either due to random chance or negligence.`
+	spaceport `Naprai's spaceport is located outside of its largest city. Several large turrets are positioned outside the spaceport in the rare event that a piece of falling space debris from a failed experiment seems likely to hit the surface.`
 
 planet Ancherum
 	landscape "land/ancherum"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	attributes "nature reserve" farming
+	description `Ancherum is a farming planet. The vast majority of Ancherum's land is used for cotton farming, supplying material critical to plushie production. The rest of the land is simply used for growing and storing food with small villages peppered across the landscape.`
+	spaceport `Ancherum's spaceport and the main farmer's market are physically in the same building.`
 
 planet Parton
 	landscape "land/parton"
