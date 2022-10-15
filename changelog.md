@@ -29,6 +29,7 @@
 - Add missions to bring SPA salespeople back into SPA territory after they complete their sales trips.
 - Fixed Arlok landscape image.
 - Added missions for nature reserve deliveries.
+- Added the Hidalgo Shrine.
 - Expanded GitHub Code Vault storyline.
   - Now you have an old man who has an archive of software. He wants you to pick up his order of datachips from a store.
 - Complete redo of all planet and system attributes.

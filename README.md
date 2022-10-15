@@ -102,6 +102,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Ancherum                  | Philip Halling       | CC BY-SA 2.0 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Cotswold_grassland_-_geograph.org.uk_-_3009368.jpg))
 | Parton                    | Andrew Wood          | CC BY-SA 2.0 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Riveston_Grassland_-_geograph.org.uk_-_2579417.jpg))
 | Heine                     | Wing-Chi Poon        | CC BY-SA 2.5 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Cumulus_Clouds_over_Yellow_Prairie2.jpg))
+| Hidalgo Shrine            | Benh LIEU SONG       | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:Hotel_de_Ville_Paris_Wikimedia_Commons.jpg))
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
