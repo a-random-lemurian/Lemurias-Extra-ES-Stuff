@@ -576,6 +576,12 @@ system Starish
 
 system Darceas
 	government "Republic"
+	fleet "Small Republic" 600
+	fleet "Large Republic" 1800
+	fleet "Small Northern Merchants" 800
+	fleet "Large Northern Merchants" 1000
+	fleet "Small Southern Merchants" 400
+	fleet "Large Southern Merchants" 600
 	pos -8461.199 -33.3076
 	link Starish
 	link Orchao
