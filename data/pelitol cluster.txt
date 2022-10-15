@@ -1365,8 +1365,9 @@ planet Naprai
 planet Ancherum
 	landscape "land/ancherum"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	attributes "nature reserve" farming
+	description `Ancherum is a farming planet. The vast majority of Ancherum's land is used for cotton farming, supplying material critical to plushie production. The rest of the land is simply used for growing and storing food with small villages peppered across the landscape.`
+	spaceport `Ancherum's spaceport and the main farmer's market are physically in the same building.`
 
 planet Parton
 	landscape "land/parton"
