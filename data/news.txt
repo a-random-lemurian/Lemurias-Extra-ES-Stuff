@@ -105,3 +105,18 @@ news "Bredehoft-specific dialog"
 		word
 			"This place is home to a long line of lawyers going back to 21st century Earth!"
 			"I heard the lawyers here take defamation cases regarding actors quite often."
+
+# TODO: Wait for Unicode PR so we can spell Anne's name properly.
+news "Hidalgo Shrine dialog 1"
+	location
+		planet "Hidalgo Shrine"
+	name
+		word
+			"Public announcement system"
+	message
+		word
+			"Bow down to Anne Hidalgo, the mayor of Paris and your new goddess."
+			"Failure to venerate Anne Hidalgo may result in your expulsion from the planet."
+			"Anne Hidalgo is your new goddess. Please make sure to capitalize Her pronouns in your writing."
+			`Ana Maria "Anne" Hidalgo Aleu (born 19 June 1959) is a Spanish-French person who was the first woman to be the mayor of Paris when she was elected in 2014.`
+			`Please visit the shrine's website to download high-quality royalty free imagery of Anne Hidalgo.`
