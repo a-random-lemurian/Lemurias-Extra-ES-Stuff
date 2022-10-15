@@ -30,6 +30,9 @@
 - Fixed Arlok landscape image.
 - Added missions for nature reserve deliveries.
 - Added the Hidalgo Shrine.
+- Expanded GitHub Code Vault storyline.
+  - Now you have an old man who has an archive of software. He wants you to pick up his order of datachips from a store.
+- Complete redo of all planet and system attributes.
 #### Other content
 - During the release candidate versions of 0.10.14, there were insults of Amber Heard that the community objected to in [pull request 450](https://github.com/EndlessSkyCommunity/endless-sky-plugins/pull/450) of the plugin index. Added in rc1, specifically commit b5b23e1499d32582219ac1abad68e4f3bfcca0b1 and removed in rc5 (be77cbf4c17d880c6a2db185b0e01e4e4b8280f2).
 
