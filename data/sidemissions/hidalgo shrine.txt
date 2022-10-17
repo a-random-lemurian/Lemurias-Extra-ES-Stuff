@@ -15,6 +15,14 @@
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
+#------------------------------------#
+#[ Missions for the Hidalgo Shrine. ]#
+#------------------------------------#
+
+#------ TODO ------#
+# Add dialog-only missions to the Hidalgo Shrine which you
+# can do to explore the rest of the Shrine. Would be great
+# for worldbuilding.
 
 fleet "Hidalgo Shrine Patrol"
 	government "Hidalgo Shrine"
@@ -32,3 +40,89 @@ fleet "Hidalgo Shrine Patrol"
 		"Leviathan" 1
 		"Sparrow" 3
 
+mission "Hidalgo Shrine landing"
+	source "Hidalgo Shrine"
+	landing
+	on offer
+		"leest: player first name" = "<first>"
+		"leest: player last name" = "<last>"
+
+		log "Factions" "France" `Former nation on Earth, in a region known as Europe. The Hidalgo Shrine is a museum dedicated specifically to France-related artifacts.`
+
+		log "Factions" "Hidalgo Shrine" `The Hidalgo Shrine is a large museum on a moon of Heine, Darceas. It is a hub for anything related to France; being home to many France-related artifacts, photos of Anne Hidalgo, French food shops, a French language learning school, and so much more. At its center lies a golden statue of Anne Hidalgo.`
+
+		log "Minor People" "Anne Hidalgo" `Spanish-French politician born on Earth, born 1959-06-19. She was the mayor of Paris; the first female mayor. Today, she is venerated by the Hidalgo Shrine, a large museum on a moon of Heine, Darceas.`
+
+		log "I landed on the Anne Hidalgo shrine. The people here were either tourists wanting to learn about French history or cultists who think Anne Hidalgo is their 'goddess'."
+
+		conversation
+			scene "scene/anneHidalgo"
+			`You begin a retrograde burn to deorbit and prepare to land on the Hidalgo Shrine spaceport. As your altitude rapidly approaches 50km, you begin receiving hails. You swear you saw a popup of a middle aged woman on one of the computer screens on your ship, but since you're landing and you're a pilot, you can't be distracted so you continue looking forward.`
+
+			`On final approach towards the landing pads, you see large portraits of the same middle-aged woman alongside the usual advertisements for baguettes, croissants, guided tours, and even data drives containing photos of Anne Hidalgo. The billboards attempt to hail you with the audio for those billboards, but thankfully your ship's adblocker software is running smoothly in the background, blocking them. After a few minutes, you make a soft landing on one of the many docking pads at the port. Your ship is refueled and your shields recharged as usual. `
+
+			`When you leave your ship, several people, dressed in white T-shirts with a photo of Anne Hidalgo on the back and black pants, who you suspect are the staff, greet you in unison, one of them carrying large portraits of a middle-aged woman. Apparently, it is your first time landing on this moon. Additionally, the walls at this spaceport are plastered with photos of what seems like the same middle-aged woman as the one on the portrait. As you try to process where you've just landed on, you see a bunch of workers moving a guillotine somewhere, probably to a storage unit, or some grotesque museum exhibit - you are simply too overloaded to care.`
+
+			`	"Welcome to the Hidalgo Shrine! We're so glad to see you here. Here at the Shrine, we provide the galaxy with information about France. If there's something you want to know about France, it's right here. As usual, we have refueling facilities, shops, and of course at the center we have a large statue of Anne Hidalgo. Entry to this place is free. You don't even need to pay for the costs of docking at our spaceport.", says one of them.`
+
+			`	"If you're wondering who that woman is on the portrait my colleague is holding, alongside the woman on all those walls and billboards you saw while landing, then that person is Anne Hidalgo. She was born on Earth in the 20th century. She was the mayor of a city named Paris for most of the early 21st century. She is dead now, but she is forever remembered at this shrine."`
+
+			# TODO: In the rare event that the pilot
+			# names themselves Anne Hidalgo, trigger
+			# easter egg/alternative dialog.
+			#--------------------------------------------#
+			# branch "player is anne hidalgo"
+			# 	"leest: player first name" == "Anne"
+			# 	"leest: player last name" == "Hidalgo"
+
+			choice
+				`	"My name is <first> <last>. I'll be sure to explore this place if I have the time."`
+					goto "rest of dialog"
+				`	"No thanks, I will explore on my own."`
+					decline
+
+			label "rest of dialog"
+			`	"Great! We also have missions here, so if you want to take one, just take a right, and then a left and walk until you see a sign that says 'mission office'. It isn't that far from here. Should be 8 minutes from where you are right now.", says another employee. And then another employee hands you a leaflet, presumably containing information about the shrine, the rules you are expected to follow, and other stuff.`
+			label questions
+			`	"Do you have any questions?", asks the employee.`
+			choice
+				`	"Why do you have a shrine dedicated to Anne Hidalgo?"`
+					goto why
+				`	"Why do you care so much about France?"`
+					goto france
+				# The Academie Francaise (unaccented because Endless Sky still won't
+				# add Unicode support) is the organization that regulates the French
+				# language.
+				`	"Is this where the Academie Francaise is located?"`
+					goto academieFrancaise
+				`	"I'm hungry. What can I eat here?"`
+					goto hungry
+				`	"Who is Anne Hidalgo?`
+					goto who
+				`	"I think I'll manage on my own now.`
+					goto leave
+
+			label why
+			`	"I don't know. I'm only here for my paycheck. Maybe the owner of this place is a descendant of Anne Hidalgo and just wants to honor their ancestor, maybe they're obsessed, or maybe they picked a random person to make a shrine for, and they chose Anne."`
+				goto questions
+
+			label france
+			`	"History. History is very important. Also, this place makes good money from tourism, and we're actually keeping French culture alive. Even if I didn't care about history, I'm still paid to work here so I would care about France at the bare minimum level."`
+				goto questions
+
+			# TODO: Allow player to visit Academie Francaise on Earth
+			label academieFrancaise
+			`	"No, they're still based on Earth. Maybe someday they will relocate here, but so far no word from them at all. If you find yourself interested in the French language, there is a French language learning school here, and I'm sure a bookstore here sells French dictionaries."`
+				goto questions
+			
+			label hungry
+			`	"Our shrine has a lot of food options. Obviously, we sell French food items such as baguettes, croissants, and cheese. We also have non-French food items, the usual stuff you'd see in any spaceport."`
+				goto questions
+
+			label who
+			`	"Anne Hidalgo is a Spanish-French politician who was the mayor of France. She was the mayor of Paris in the 21st century. If the historical record is accurate, then she was very popular during her tenure. She might be dead, but this shrine continues to remember her and her achievements."`
+				goto questions
+
+			label leave
+			`	"Thank you for visiting the Hidalgo Shrine! Our employees are always available to help you. Feel free to explore on your own!"`
+				decline
