@@ -1423,8 +1423,13 @@ planet Ancherum
 planet Parton
 	landscape "land/parton"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	attributes research "nature reserve"
+	outfitter "Basic Outfits"
+	outfitter "Sayari Outfits"
+	shipyard "Basic Ships"
+	shipyard "Sayari Advanced"
+	description `The majority of Parton is a large nature reserve. Rumors are that this place serves as a place for top-secret SPA experiments. The planetary government refuses to confirm or deny these. While Parton is an urban colony, the settlements are mostly underground.`
+	spaceport `The spaceport is located in one of the planet's valleys; the inhabitants of the spaceport village residing in a large network of caves. In one of the larger cave entrances near the spaceport, there is an outfitter and shipyard.`
 
 planet "Heine"
 	landscape "land/heine"
