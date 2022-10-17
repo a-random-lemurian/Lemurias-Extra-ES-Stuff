@@ -594,6 +594,7 @@ system Darceas
 	fleet "Large Northern Merchants" 1000
 	fleet "Small Southern Merchants" 400
 	fleet "Large Southern Merchants" 600
+	fleet "Hidalgo Shrine Patrol" 3000
 	pos -8461.199 -33.3076
 	link Starish
 	link Orchao
