@@ -495,9 +495,9 @@ system Hiljaak
 	link Jarkiiens
 	attributes "illumina regions"
 	arrival 1870
-	fleet spa.trade.HumanSpace.large.1 600
-	fleet spa.war."illumina regions".large.1 600
-	fleet spa.general.amidalaVariants.large.1 700
+	fleet spa.small 600
+	fleet spa.medium 1200
+	fleet spa.large 1800
 	fleet cssf.small 2400
 	fleet cssf.medium 4700
 	fleet cssf.large 6700
@@ -677,8 +677,9 @@ system Illuria
 	minables aluminum 1 1
 	minables copper 70 4
 	minables lead 33 4
-	fleet spa.war."illumina regions".small.1 2900
-	fleet spa.war."illumina regions".large.1 3000
+	fleet spa.small 600
+	fleet spa.medium 1200
+	fleet spa.large 1800
 	fleet cssf.small 2400
 	fleet cssf.medium 4700
 	fleet cssf.large 6700
@@ -1042,7 +1043,6 @@ system Littike
 	pos -1043.5833 -132.19444
 	government "Sayari Plushie"
 	attributes "illumina regions"
-	fleet spa.war."illumina regions".large.1 1000
 	fleet "Large Northern Pirates" 4000
 	fleet "Large Northern Merchants" 300
 	fleet "Large Northern Merchants" 300
@@ -1380,7 +1380,9 @@ system Suerolii
 	link Illuria
 	link Ladosak
 	fleet "Large Northern Merchants" 600
-	fleet spa.war."illumina regions".large.1 1300
+	fleet spa.small 600
+	fleet spa.medium 1200
+	fleet spa.large 1800
 	fleet cssf.small 2400
 	fleet cssf.medium 4700
 	fleet cssf.large 6700
@@ -1626,13 +1628,14 @@ system Suerolii
 	attributes "illumina regions"
 	arrival 1600
 	fleet "Large Northern Merchants" 600
-	fleet spa.war."illumina regions".large.1 1300
+	fleet spa.small 600
+	fleet spa.medium 1200
+	fleet spa.large 1800
 	fleet cssf.small 2400
 	fleet cssf.medium 4700
 	fleet cssf.large 6700
 	fleet "Paradise Merchants" 1400
 	fleet "Large Northern Pirates" 4000
-	fleet spa.general.emptyCarriers.small.1 2800
 	trade Clothing 448
 	trade Electronics 998
 	trade Equipment 612
