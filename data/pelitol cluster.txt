@@ -1434,8 +1434,9 @@ planet Parton
 planet "Heine"
 	landscape "land/heine"
 	government "Republic"
-	description `.`
-	spaceport `.`
+	attributes farming
+	description `Heine is a planet of large farms and wheat fields. Over 80% of Heine's arable land is under the control of a single agricultural cooperative, known as the Heine Farming Federation. Unlike other planets where multiple cooperatives compete for domination over a planet's farmers, Heine's agricultural cooperative has dominated most of the planet. Other competing cooperatives were absorbed into the HFF or shut down a long time ago.`
+	spaceport `As with many farming planets, the farmer's market is what uses up the vast majority of the spaceport's space and docking pads (for exports and imports). The only spaceport on Heine is under the control of the HFF, and they give priority to ships moving crops over ships carrying other types of cargo.`
 
 # TODO: wait for unicode PR so we can add the accent mark to
 #       Hôtel de Ville
