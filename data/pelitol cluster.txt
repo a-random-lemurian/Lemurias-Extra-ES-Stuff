@@ -1377,7 +1377,7 @@ planet "Salistra"
 planet "Pondar"
 	government "Independent"
 	landscape "land/pondar"
-	description "Pondar is a very remote part of human space located at the southernmost part of the Pelitol Cluster. Settled in roughly 26-27th century CE with 300 colonists, Pondar is now home to 9,210 people and serves as a hotspot for pirate and CSSF activity. The CSSF and pirate warlords operate their own bases on Pondar."
+	description "Pondar is a colony in the southern parts of the Pelitol Cluster. It was settled roughly during the 26-27th centuries with 300 colonists. Today, Pondar is now home to 9,210 people and serves as a hotspot for pirate and CSSF activity. The CSSF and pirate warlords operate their own bases on Pondar."
 	spaceport "Pondar's spaceport is one of three ports on this planet. The other ports belong to the CSSF and pirate warlords respectively."
 
 planet "Aylar"
