@@ -23,6 +23,8 @@ ship "Amidala"
 	thumbnail "thumbnail/kar ik vot 349"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		"cost" 77988000
 		"shields" 88700
 		"hull" 74300
@@ -101,6 +103,8 @@ ship "Amidala" "Amidala Miner"
 	thumbnail "thumbnail/kar ik vot 349"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		"cost" 60988000
 		"shields" 118700
 		"hull" 21300
@@ -162,6 +166,8 @@ ship "Amidala" "Skylance Amidala"
 	thumbnail "thumbnail/kar ik vot 349"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		"cost" 213300000
 		"shields" 103000
 		"hull" 19800
