@@ -1554,7 +1554,6 @@ system Sedlai
 
 system Sundum
 	pos -986.25 -399.94444
-	link Julitius
 	link Pekora
 	link Zikut
 	attributes "illumina regions"
