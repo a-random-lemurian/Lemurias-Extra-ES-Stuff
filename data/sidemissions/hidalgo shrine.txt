@@ -67,19 +67,62 @@ mission "Hidalgo Shrine landing"
 
 			`	"If you're wondering who that woman is on the portrait my colleague is holding, alongside the woman on all those walls and billboards you saw while landing, then that person is Anne Hidalgo. She was born on Earth in the 20th century. She was the mayor of a city named Paris for most of the early 21st century. She is dead now, but she is forever remembered at this shrine."`
 
-			# TODO: In the rare event that the pilot
+			# In the rare event that the pilot
 			# names themselves Anne Hidalgo, trigger
 			# easter egg/alternative dialog.
-			#--------------------------------------------#
-			# branch "player is anne hidalgo"
-			# 	"leest: player first name" == "Anne"
-			# 	"leest: player last name" == "Hidalgo"
+			branch "player is anne hidalgo"
+				"leest: player first name" == "Anne"
+				"leest: player last name" == "Hidalgo"
 
 			choice
 				`	"My name is <first> <last>. I'll be sure to explore this place if I have the time."`
 					goto "rest of dialog"
 				`	"No thanks, I will explore on my own."`
 					decline
+
+			label "player is anne hidalgo"
+			choice
+				`	"My name is <first> <last>. Why did you make a shrine about me? And why is that employee holding a photo of me?"`
+					goto "employees realize your name is anne"
+				`(Leave without a word.)`
+					goto "anne leaves this place"
+				`	"Thank you so much for the warm welcome. I'll be sure to explore this place if I have the time." (Do not give them your name.)`
+					goto "rest of dialog"
+			
+			label "employees realize your name is anne"
+			`The moment you give the employees your name, they begin to look shocked. One of them takes out a radio. The employee holding the portrait depicting you moves to put it away, while the rest freeze. The employee with the radio speaks into it.`
+			`	Employee: "Sir, it seems like Anne Hidalgo herself just arrived. What should we do?"`
+			`	Supervisor: "Are you sure that it is the mayor herself and not someone who had the same name by coincidence?"`
+			`	Employee: "I'm sure. She looks a lot like the portraits we see here! Why don't you come and see for yourself?", says the employee.`
+			`	Supervisor: "Okay, I'll see for myself. If you lie, we may have a bit of an issue here."`
+			`You sit on a nearby chair, waiting for the supervisor to arrive. Eventually, after approximately 5-10 minutes, a man in a black suit and tie approaches you, likely the employee's supervisor. Once he sees you, he visibly recoils in shock upon realizing that it is you. Theories begin running through his head about how the mayor of Paris was able to live for 1000 years. Perhaps your name was just a coincidence, maybe you really were the mayor of Paris. If you were the mayor, how you were able to live 1000 years is a mystery.`
+			`Finally, the supervisor collects himself, and with a calm expression, approaches you. He finally speaks.`
+			`	"So you really are Anne Hidalgo. How is this possible?"`
+			choice
+				`	"I wasn't the mayor of Paris. I never was. My name is just a simple coincidence."`
+					goto coincidence
+				`	"I was the mayor of Paris in my past life. Was I resurrected?"`
+					goto resurrected
+			
+			label coincidence
+			`You begin to explain that your name was a coincidence; and that you were never the mayor of Paris at all. The supervisor, still a little shocked, listens intently, alongside other members of staff who had arrived to see you. As you finish your short but simple explanation, the supervisor begins to speak.`
+			`	"Well that clears everything up. Well, this shrine is dedicated to the other Anne Hidalgo who was the mayor of Paris, not you. You're still welcome at our shrine, but you might want to avoid telling people here your name to avoid unnecessary attention.", says the supervisor.`
+			`The employees share a bit of a laugh upon the realization that you are indeed, not the mayor of Paris. Today surely was an interesting day - you discovered a place named after someone who had the same name as you.`
+			choice
+				`(Explore.)`
+					goto explore2
+			
+			label explore2
+			`You wave goodbye to the supervisor and his employees. As you walk away, the supervisor begins to murmur about "Anne Hidalgo protocols". The employees walk in your direction before entering an employee room; and you are now free to explore.`
+				decline
+
+			label resurrected
+			`You jokingly explain that you were resurrected; having been the mayor of Paris in your past life. You can feel the supervisor attempt to keep his laughter under control. Eventually, you decide to drop the joke altogether.`
+				goto coincidence
+
+			label "anne leaves this place"
+			"Still shocked that someone would be so obsessed with you so as to dedicate an entire planet to you, you run back into your ship and leave the planet."
+				launch
 
 			label "rest of dialog"
 			`	"Great! We also have missions here, so if you want to take one, just take a right, and then a left and walk until you see a sign that says 'mission office'. It isn't that far from here. Should be 8 minutes from where you are right now.", says another employee. And then another employee hands you a leaflet, presumably containing information about the shrine, the rules you are expected to follow, and other stuff.`
