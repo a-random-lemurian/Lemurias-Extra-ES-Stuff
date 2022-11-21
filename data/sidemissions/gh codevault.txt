@@ -81,7 +81,7 @@ mission githubCodeVault.conversation
 
 			label torvaldsLinuxQuestion
 			`	"Well, you must be confused. torvalds/linux was the repository for something called the Linux kernel. At the core of most of the computers that run our ships, such as the targeting, navigation and shield harmonics computers, is the Linux kernel. The Linux kernel has changed so much over the past 1000 years."`
-			`	"Meanwhile, the 'torvalds' in the name refers to the owner of the repository, a human known as Linus Torvalds. He was the creator of the Linux kernel until he handed over control of the project to his family. Nowadays, there are several forks of it.", John says.`
+			`	"Meanwhile, the 'torvalds' in the name refers to the owner of the repository, a human known as Linus Torvalds. He was the creator of the Linux kernel until he handed over control of the project to his family when he became old and incapable of maintaining the kernel. Nowadays, there are several forks of it.", John says.`
 			`	"Well, that explains everything.", you say in response.`
 			choice
 				`	(Leave.)`

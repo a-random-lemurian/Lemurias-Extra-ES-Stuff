@@ -72,3 +72,16 @@ government "SPA: Republic Livery"
 	"friendly hail" "friendly navy"
 	"hostile hail" "hostile navy"
 	raid "pirate raid"
+
+government "Hidalgo Shrine"
+	"display name" "Hidalgo Shrine"
+	swizzle 5
+	color .1 .1 .1
+	"crew attack" 1
+	"crew defense" 1
+	"player reputation" 20
+	"attitude toward"
+		Pirate -.5
+		Republic .1
+	"friendly hail" "friendly hidalgo shrine"
+	"hostile hail" "hostile hidalgo shrine"

@@ -588,6 +588,13 @@ system Starish
 
 system Darceas
 	government "Republic"
+	fleet "Small Republic" 600
+	fleet "Large Republic" 1800
+	fleet "Small Northern Merchants" 800
+	fleet "Large Northern Merchants" 1000
+	fleet "Small Southern Merchants" 400
+	fleet "Large Southern Merchants" 600
+	fleet "Hidalgo Shrine Patrol" 3000
 	pos -8461.199 -33.3076
 	link Starish
 	link Orchao
@@ -614,6 +621,10 @@ system Darceas
 		sprite "planet/rock4"
 		distance 804
 		period 332
+		object "Hidalgo Shrine"
+			sprite "planet/europa"
+			distance 244
+			period 41
 	object
 		sprite "planet/rock2"
 		distance 1753
@@ -1366,7 +1377,7 @@ planet "Salistra"
 planet "Pondar"
 	government "Independent"
 	landscape "land/pondar"
-	description "Pondar is a very remote part of human space located at the southernmost part of the Pelitol Cluster. Settled in roughly 26-27th century CE with 300 colonists, Pondar is now home to 9,210 people and serves as a hotspot for pirate and CSSF activity. The CSSF and pirate warlords operate their own bases on Pondar."
+	description "Pondar is a colony in the southern parts of the Pelitol Cluster. It was settled roughly during the 26-27th centuries with 300 colonists. Today, Pondar is now home to 9,210 people and serves as a hotspot for pirate and CSSF activity. The CSSF and pirate warlords operate their own bases on Pondar."
 	spaceport "Pondar's spaceport is one of three ports on this planet. The other ports belong to the CSSF and pirate warlords respectively."
 
 planet "Aylar"
@@ -1412,11 +1423,28 @@ planet Ancherum
 planet Parton
 	landscape "land/parton"
 	government "Sayari Plushie"
-	description `.`
-	spaceport `.`
+	attributes research "nature reserve"
+	outfitter "Basic Outfits"
+	outfitter "Sayari Outfits"
+	shipyard "Basic Ships"
+	shipyard "Sayari Advanced"
+	description `The majority of Parton is a large nature reserve. Rumors are that this place serves as a place for top-secret SPA experiments. The planetary government refuses to confirm or deny these. While Parton is an urban colony, the settlements are mostly underground.`
+	spaceport `The spaceport is located in one of the planet's valleys; the inhabitants of the spaceport village residing in a large network of caves. In one of the larger cave entrances near the spaceport, there is an outfitter and shipyard.`
 
 planet "Heine"
 	landscape "land/heine"
 	government "Republic"
-	description `.`
-	spaceport `.`
+	attributes farming
+	description `Heine is a planet of large farms and wheat fields. Over 80% of Heine's arable land is under the control of a single agricultural cooperative, known as the Heine Farming Federation. Unlike other planets where multiple cooperatives compete for domination over a planet's farmers, Heine's agricultural cooperative has dominated most of the planet. Other competing cooperatives were absorbed into the HFF or shut down a long time ago.`
+	spaceport `As with many farming planets, the farmer's market is what uses up the vast majority of the spaceport's space and docking pads (for exports and imports). The only spaceport on Heine is under the control of the HFF, and they give priority to ships moving crops over ships carrying other types of cargo.`
+
+# TODO: wait for unicode PR so we can add the accent mark to
+#       Hôtel de Ville
+
+planet "Hidalgo Shrine"
+	landscape "land/hidalgoShrine"
+	government "Independent"
+	description `The Hidalgo Shrine, in orbit of Heine, is a massive planetwide shrine to Anne Hidalgo (born 1959 on Earth), who served as the mayor of a city named Paris on Earth in the early 21st century. The servers here have been continually running since 2871, surviving the war when the SPA split off from the Anime Organization. High-resolution images of Anne Hidalgo are stored on these servers, and are freely available for anyone to download.`
+	description `Tourists can often be seen walking across the shrine, with more people gravitating towards the large statue of Hidalgo located at the shrine's center. Aside from an Anne Hidalgo shrine, the station also acts as a general museum of French history. Aside from that the rest of the planet is undeveloped.`
+	spaceport `Thousands of Anne Hidalgo images are glued onto the walls of the spaceport, with many more on the floor. The station's docking ports are continually crowded with ships and tourists. Ships wanting to enter the station during peak hours sometimes wait in planetary orbit due to the unbearable traffic. The main spaceport building itself is a replica of the Hotel de Ville, where Anne Hidalgo resided during her tenure as the mayor of Paris.`
+	spaceport `The nearby shops sell items related to France, such as baguettes, croissants, and datachips either full of Anne Hidalgo images or information about French history and culture. The spaceport is the only settlement on this planet, home to roughly 11,000 people, the rest left barren and uninhabited.`

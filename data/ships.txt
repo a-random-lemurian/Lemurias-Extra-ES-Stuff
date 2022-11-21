@@ -146,6 +146,8 @@ ship "Gunboat" "SPA Gunboat"
 	thumbnail "thumbnail/gunboat"
 	attributes
 		category "Light Warship"
+		licenses
+			"SPA Ship"
 		"cost" 4880000
 		"shields" 6740
 		"hull" 1600
@@ -200,6 +202,8 @@ ship "Gunboat" "SPA Gunboat (Proton Gun)"
 	thumbnail "thumbnail/gunboat"
 	attributes
 		category "Light Warship"
+		licenses
+			"SPA Ship"
 		"cost" 4880000
 		"shields" 6740
 		"hull" 1600
@@ -254,6 +258,8 @@ ship "Gunboat" "SPA Gunboat (Blaze-Pike)"
 	thumbnail "thumbnail/gunboat"
 	attributes
 		category "Light Warship"
+		licenses
+			"SPA Ship"
 		"cost" 3820000
 		"shields" 4600
 		"hull" 1300
@@ -307,6 +313,8 @@ ship "Cruiser" "SPA Cruiser"
 	thumbnail "thumbnail/cruiser"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		"cost" 19200000
 		"shields" 55600
 		"hull" 6800
@@ -385,6 +393,8 @@ ship "Cruiser" "SPA Cruiser (Blaze-Pike)"
 	thumbnail "thumbnail/cruiser"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		"cost" 19200000
 		"shields" 55600
 		"hull" 6800
@@ -463,6 +473,8 @@ ship "Cruiser" "SPA Cruiser (Electron)"
 	thumbnail "thumbnail/cruiser"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		"cost" 21800000
 		"shields" 55600
 		"hull" 6800
@@ -541,6 +553,8 @@ ship "Cruiser" "SPA Cruiser (Ion)"
 	thumbnail "thumbnail/cruiser"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		"cost" 21800000
 		"shields" 55600
 		"hull" 6800
@@ -621,6 +635,8 @@ ship "Cruiser" "SPA Cruiser (Korath Slicer)"
 	thumbnail "thumbnail/cruiser"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		"cost" 19200000
 		"shields" 55600
 		"hull" 5200
@@ -700,6 +716,8 @@ ship "Cruiser" "SPA Cruiser (Particle Cannon)"
 	thumbnail "thumbnail/cruiser"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		"cost" 15340000
 		"shields" 51040
 		"hull" 5700
@@ -778,6 +796,8 @@ ship "Carrier" "SPA Carrier (Combat)"
 	thumbnail "thumbnail/carrier"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		"cost" 23200000
 		"shields" 32400
 		"hull" 6900
@@ -847,6 +867,8 @@ ship "Shield Beetle" "SPA Shield Beetle (Proton)"
 	thumbnail "thumbnail/hai shield beetle"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		"cost" 19900000
 		"shields" 55000
 		"hull" 8920
@@ -915,6 +937,8 @@ ship "Skein" "SPA Skein"
 	thumbnail "thumbnail/skein"
 	attributes
 		category "Medium Warship"
+		licenses
+			"SPA Ship"
 		"cost" 4200000
 		"shields" 8500
 		"hull" 5100
@@ -978,6 +1002,8 @@ ship "Kestrel" "SPA Kestrel"
 	thumbnail "thumbnail/kestrelw"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		cost 14700000
 		mass 740
 		bunks 128
@@ -1039,6 +1065,8 @@ ship "Kestrel" "SPA Kestrel (Proton)"
 	thumbnail "thumbnail/kestrelw"
 	attributes
 		category "Heavy Warship"
+		licenses
+			"SPA Ship"
 		cost 14700000
 		mass 740
 		bunks 128
@@ -1084,6 +1112,8 @@ ship "SPA Rosas"
 	thumbnail "thumbnail/arach spindle"
 	attributes
 		category "Medium Warship"
+		licenses
+			"SPA Ship"
 		"cost" 12652000
 		"shields" 20000
 		"hull" 42000
