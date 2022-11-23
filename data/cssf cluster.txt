@@ -2,34 +2,56 @@ system Reimu
 	pos -1590.5 -1058.037
 	link Mugenkan
 	link Geidontei
+	government ""
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system Cirno
 	pos -1390.241 -1183.982
 	link "Myouren Temple"
 	link Marisa
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system Hakugyukurou
 	pos -1180.482 -1156.093
 	link "Road of Lingering Snow"
+	fleet cssf.large 1000
+	fleet cssf.medium 700
+	fleet cssf.small 400
 
 system Junya
 	pos -1440.481 -950.926
 	link Mugenkan
 	link Gensokyo
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system Whiterock
 	pos -1450.815 -1132.759
 	link Gensokyo
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system Marisa
 	pos -1308.847 -1126.967
 	link Cirno
 	link Netherworld
 	link Moriya
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system Margatroid
 	pos -1259.106 -971.208
 	link "Road of Reconsideration"
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system Gensokyo
 	pos -1389.662 -1065.041
@@ -38,16 +60,25 @@ system Gensokyo
 	link Netherworld
 	link "Road of Liminality"
 	link Geidontei
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system Netherworld
 	pos -1347.458 -1101.152
 	link Marisa
 	link "Road of Reconsideration"
 	link Gensokyo
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system Hakugyukurou
 	pos -1613.046 -964.417
 	link Mugenkan
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 	object "Hakugyukurou-Hiljaak Wormhole"
 		sprite "planet/wormhole"
 		period 3488
@@ -56,29 +87,47 @@ system Hakugyukurou
 system "Road of Liminality"
 	pos -1324.509 -1009.602
 	link Gensokyo
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system "Road of Reconsideration"
 	pos -1277.306 -1063.194
 	link Margatroid
 	link Netherworld
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system "Road of Lingering Snow"
 	pos -1176.639 -1099.657
 	link Hakugyukurou
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system "Myouren Temple"
 	pos -1342.065 -1217.398
 	link Cirno
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system Geidontei
 	pos -1508.806 -1097.676
 	link Reimu
 	link Mugenkan
 	link Gensokyo
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system Moriya
 	pos -1271.079 -1179.884
 	link Marisa
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
 
 system Mugenkan
 	pos -1531.671 -1004.032
@@ -86,4 +135,6 @@ system Mugenkan
 	link Junya
 	link Reimu
 	link Geidontei
-
+	fleet cssf.large 1400
+	fleet cssf.medium 1200
+	fleet cssf.small 600
