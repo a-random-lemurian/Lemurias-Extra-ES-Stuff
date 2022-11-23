@@ -50,7 +50,7 @@ mission animeorg.landing
 					goto walkToTheater
 
 			label walkToTheater
-			"Reading directions on a poster, you walk to the theater. Many people walk alongside you, from the disreputable-looking to well-dressed people. Some of them have rifles, but you don't think of it. Some people in the crowd buy snacks and drinks, while you go straight to the cinema. You're briefed on the rules, such as remaining quiet at all times, not littering."
+			"Reading directions on a poster, you walk to the theater. Many people walk alongside you, from the disreputable-looking to well-dressed people. Some of them have rifles, but you don't think of it. Some people in the crowd buy snacks and drinks, while you go straight to the cinema. You're briefed on the rules, such as remaining quiet at all times, and not littering."
 			"The anime they screen is good. After what feels like a few hours, the screening concludes as the end credits roll and you return to your ship, ready to leave."
 			action
 				set "watchedAnimeOnEisei"
