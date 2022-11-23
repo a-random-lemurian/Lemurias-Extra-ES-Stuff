@@ -82,7 +82,7 @@ system Hakugyukurou
 	object "Hakugyukurou-Hiljaak Wormhole"
 		sprite "planet/wormhole"
 		period 3488
-		distance 50000
+		distance 3000
 
 system "Road of Liminality"
 	pos -1324.509 -1009.602

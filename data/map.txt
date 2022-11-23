@@ -546,7 +546,7 @@ system Hiljaak
 		object "Hakugyukurou-Hiljaak Wormhole"
 			sprite "planet/wormhole"
 			period 3488
-			distance 50000
+			distance 3000
 	object
 		sprite planet/gas5-b
 		distance 2361
