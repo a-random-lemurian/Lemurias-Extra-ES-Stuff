@@ -68,9 +68,24 @@ system Gensokyo
 	link "Road of Liminality"
 	link Geidontei
 	government "Yuyuko Saigyouji"
+	arrival 700
+	habitable 700
+	belt 1245
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
 	fleet cssf.small 600
+	fleet "Small Northern Merchants" 800
+	fleet "Large Northern Merchants" 1300
+	trade Clothing 362
+	trade Electronics 763
+	trade Equipment 644
+	trade Food 165
+	trade "Heavy Metals" 1280
+	trade Industrial 848
+	trade "Luxury Goods" 1055
+	trade Medical 509
+	trade Metal 457
+	trade Plastic 503
 	object
 		sprite star/g3
 		period 10
