@@ -1,5 +1,7 @@
 ### v0.10.15
 - Fixed Sundum's links to the non-existent systems Julitius and Pekora. #38 and #41
+- All SPA ships are now locked behind the (currently) unobtainable SPA License. An update in the far future may add a mission chain that gives you this license.
+- You can now buy snacks before your first anime screening on Eisei.
 
 ### v0.10.14
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
