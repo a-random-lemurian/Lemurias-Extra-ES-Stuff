@@ -318,6 +318,6 @@ planet "Hakugyukurou Keepstar"
 planet "Ring of Gensokyo"
 	landscape "land/ringOfGensokyo"
 	government "Yuyuko Saigyouji"
-	description `A massive ring the size of some Quarg ringworlds, this serves as the capital of the CSSF. This ring is home to a reclusive group of people who discuss video games. Until recently, images of an unknown nature were plastered all across the walls. Now, they have been removed and all that remains is the odd piece of paper or adhesive.`
+	description `A massive ring the size of some Quarg ringworlds, this area serves as the capital of the CSSF, an organization that has been in a constant state of war with the Sayari Plushie Authority. This ring is home to a reclusive group of people who discuss video games. Until recently, images of an unknown nature were plastered all across the walls. Now, they have been removed and all that remains is the odd piece of paper or adhesive.`
 	description `Aside from that, a majority of the ring appears to be empty and dark, illuminated only by the sun it surrounds. The CSSF isn't really that large, after all.`
 	spaceport `The spaceport resides to the left of the only populated sector of the ring. It is massive, with traders entering and exiting near-constantly. As you go further left, all you see are countless numbers of large ships, presumably a ship parking lot.`
