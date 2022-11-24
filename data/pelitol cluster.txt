@@ -3747,7 +3747,7 @@ planet "Salistra"
 	landscape "land/salistra"
 	government "Sayari Plushie"
 	attributes farming manufacturing
-	description "Salistra is an Earth-like world in the Pelitol Cluster. Salistra is primarily a farming, manufacturing, and shipbuilding world. Salistra is home to the Salistra Shipyard in orbit. The colony of Kaistra in the neighbouring Sarut system is the Salistra Shipyard's primary source of material."
+	description "Salistra is an Earth-like world in the Pelitol Cluster. Salistra is primarily a farming, manufacturing, and shipbuilding world. Salistra is home to the Salistra Shipyard in orbit. The colony of Kaistra in the neighboring Sarut system is the Salistra Shipyard's primary source of material."
 	spaceport "The Salistra Spaceport is located on an island in the middle of one of Salistra's large oceans."
 
 planet "Pondar"
