@@ -79,10 +79,38 @@ system Hakugyukurou
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
 	fleet cssf.small 600
+	object 
+		sprite "star/g3"
+		distance 0
+		period 0
+	object
+		sprite "planet/rock8"
+		distance 391
+		period 130
+	object
+		sprite "planet/rock2"
+		distance 691
+		period 277
+	object
+		sprite "planet/earth"
+		distance 980
+		period 390
+	object
+		sprite "planet/gas2"
+		distance 1840
+		period 836
+	object
+		sprite "planet/gas9"
+		distance 2509
+		period 987
 	object "Hakugyukurou-Hiljaak Wormhole"
 		sprite "planet/wormhole"
 		period 3488
 		distance 3000
+	object
+		sprite "planet/station6"
+		distance 6721
+		period 18
 
 system "Road of Liminality"
 	pos -1324.509 -1009.602
