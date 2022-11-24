@@ -5,6 +5,7 @@
 - Through unknown methods, the SPA has acquired the prototype blueprint for the Prototype Fusion Cannon on Gefulte's person ship.
 - Grammar fixes:
    - Specify plural for the SPA Rosas
+   - particfularly -> particularly
 
 ### v0.10.14
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
