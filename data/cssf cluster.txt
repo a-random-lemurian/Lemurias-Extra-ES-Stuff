@@ -107,7 +107,7 @@ system Hakugyukurou
 		sprite "planet/wormhole"
 		period 3488
 		distance 3000
-	object
+	object "Hakugyukurou Keepstar"
 		sprite "planet/station6"
 		distance 6721
 		period 18
@@ -166,3 +166,9 @@ system Mugenkan
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
 	fleet cssf.small 600
+
+planet "Hakugyukurou Keepstar"
+	landscape "land/station35"
+	government "Yuyuko Saigyouji"
+	description `The Hakugyukurou Keepstar is a massive military orbital station standing at the entry point into the territory of the CSSF. Its main responsibility is to keep an eye on the nearby wormhole to Hiljaak to keep the SPA's plushie dealers out.`
+	spaceport `The spaceport is heavily militaristic, with soldiers and their equipment everywhere. The scanning procedures at this station are extremely invasive. The scanning procedures grow ever more complicated as it attempts to win the arms race against the plushie smugglers.`
