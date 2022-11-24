@@ -71,6 +71,116 @@ system Gensokyo
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
 	fleet cssf.small 600
+	object
+		sprite star/g3
+		period 10
+	object "Ring of Gensokyo"
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 20
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 40
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 60
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 80
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 100
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 120
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 140
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 160
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 180
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 200
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 220
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 240
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 260
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 280
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 300
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 320
+	object
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 340
 
 system Netherworld
 	pos -1347.458 -1101.152
@@ -189,3 +299,10 @@ planet "Hakugyukurou Keepstar"
 	government "Yuyuko Saigyouji"
 	description `The Hakugyukurou Keepstar is a massive military orbital station standing at the entry point into the territory of the CSSF. Its main responsibility is to keep an eye on the nearby wormhole to Hiljaak to keep the SPA's plushie dealers out.`
 	spaceport `The spaceport is heavily militaristic, with soldiers and their equipment everywhere. The scanning procedures at this station are extremely invasive. The scanning procedures grow ever more complicated as it attempts to win the arms race against the plushie smugglers.`
+
+planet "Ring of Gensokyo"
+	landscape "land/ringOfGensokyo"
+	government "Yuyuko Saigyouji"
+	description `A massive ring the size of some Quarg ringworlds, this serves as the capital of the CSSF. This ring is home to a reclusive group of people who discuss video games. Until recently, images of an unknown nature were plastered all across the walls. Now, they have been removed and all that remains is the odd piece of paper or adhesive.`
+	description `Aside from that, a majority of the ring appears to be empty and dark, illuminated only by the sun it surrounds. The CSSF isn't really that large, after all.`
+	spaceport `The spaceport resides to the left of the only populated sector of the ring. It is massive, with traders entering and exiting near-constantly. As you go further left, all you see are countless numbers of large ships, presumably a ship parking lot.`

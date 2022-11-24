@@ -4,6 +4,7 @@
 - You can now buy snacks before your first anime screening on Eisei.
 - Through unknown methods, the SPA has acquired the prototype blueprint for the Prototype Fusion Cannon on Gefulte's person ship.
 - Added the territories of the CSSF. They are accessible through a wormhole somewhere in the Illumina Regions. Find it yourself.
+   - Added the Ring of Gensokyo, the capital of the CSSF.
 
 ### v0.10.14
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
