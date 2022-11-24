@@ -1178,6 +1178,7 @@ ship "Kestrel" "SPA Kestrel (Proton)"
 ship "SPA Rosas"
 	sprite "ship/arach spindle"
 	thumbnail "thumbnail/arach spindle"
+	plural "SPA Rosases"
 	attributes
 		category "Medium Warship"
 		licenses

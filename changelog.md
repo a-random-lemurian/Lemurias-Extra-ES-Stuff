@@ -3,6 +3,8 @@
 - All SPA ships are now locked behind the (currently) unobtainable SPA License. An update in the far future may add a mission chain that gives you this license.
 - You can now buy snacks before your first anime screening on Eisei.
 - Through unknown methods, the SPA has acquired the prototype blueprint for the Prototype Fusion Cannon on Gefulte's person ship.
+- Grammar fixes:
+   - Specify plural for the SPA Rosas
 
 ### v0.10.14
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
