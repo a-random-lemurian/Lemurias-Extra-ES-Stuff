@@ -46,6 +46,7 @@ system Marisa
 	link Cirno
 	link Netherworld
 	link Moriya
+	link "Road of Lingering Snow"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -140,7 +141,7 @@ system "Road of Reconsideration"
 
 system "Road of Lingering Snow"
 	pos -1176.639 -1099.657
-	link Hakugyukurou
+	link Marisa
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
