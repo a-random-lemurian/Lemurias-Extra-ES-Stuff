@@ -588,7 +588,7 @@ system Geidontei
 				sprite "planet/rock12"
 				distance 761
 				period 322
-			object
+			object "Alice"
 				sprite "planet/ocean3"
 				distance 983
 				period 563
@@ -738,6 +738,12 @@ planet "Scarlet"
 	spaceport `.`
 
 planet "Margaret"
+	landscape "land/margaret"
+	government "Yuyuko Saigyouji"
+	description `.`
+	spaceport `.`
+
+planet "Alice"
 	landscape "land/margaret"
 	government "Yuyuko Saigyouji"
 	description `.`
