@@ -716,8 +716,8 @@ planet "Liminal Bastion"
 planet "Geidontei Fortress"
 	landscape "land/geidonteiFortress"
 	government "Yuyuko Saigyouji"
-	description `.`
-	spaceport `.`
+	description `The Geidontei Fortress is another massive military base. Military infastructure dominates on this planet, with the sight of civillians very rare. The massive fleet defenses here ensure that any plushie smuggler will have a hard time transporting plushies past this system.`
+	spaceport `The spaceport is full of soldiers and large turrets, some of which are pointed at you, ready to fire even on the slightest suspicion that you are carrying plushies. A large incineration facility nearby burns plushies as they are intercepted, polluting the nearby environment and turning the nearby fog grey.`
 
 planet "Nuclear Furnace"
 	landscape "land/nuclearFurnace"
