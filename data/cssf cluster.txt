@@ -746,5 +746,5 @@ planet "Margaret"
 planet "Taglamig"
 	landscape "land/taglamig"
 	government "Yuyuko Saigyouji"
-	description `.`
-	spaceport `.`
+	description `Taglamig is a tundra world. Its name means 'winter' in Tagalog, which is to be expected as the majority of Taglamig's residents are Filipino.`
+	spaceport `Taglamig's population is concentrated in a single town with the only spaceport on the planet. As a planet on the very fringes of human space, it is very primitive.`

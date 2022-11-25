@@ -104,6 +104,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Heine                     | Wing-Chi Poon        | CC BY-SA 2.5 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Cumulus_Clouds_over_Yellow_Prairie2.jpg))
 | Hidalgo Shrine            | Benh LIEU SONG       | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:Hotel_de_Ville_Paris_Wikimedia_Commons.jpg))
 | Ring of Gensokyo          | ZKang123             | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:CE1_DT16_Bayfront_MRT_Exit_B_20201201_152252.jpg))
+| Taglamig                  | Markus Leupold-Löwenthal | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:KleinarlWinterwonderland.jpg))
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
