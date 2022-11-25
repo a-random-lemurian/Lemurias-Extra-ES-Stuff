@@ -6,6 +6,10 @@
 - Added the territories of the CSSF. They are accessible through a wormhole somewhere in the Illumina Regions. Find it yourself.
    - Added the Ring of Gensokyo, the capital of the CSSF.
 - Added a new variant of the Falcon for the SPA.
+- Grammar fixes:
+   - Specify plural for the SPA Rosas
+   - particfularly -> particularly
+- Merged `outer pelitol cluster.txt` into `pelitol cluster.txt`. Now they're all one big file.
 
 ### v0.10.14
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
