@@ -225,7 +225,7 @@ system Gensokyo
 	link Geidontei
 	arrival 8400
 	government "Yuyuko Saigyouji"
-	arrival 700
+	arrival 7000
 	habitable 700
 	belt 1245
 	fleet cssf.large 1400
