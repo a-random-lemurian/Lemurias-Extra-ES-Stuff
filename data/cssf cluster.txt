@@ -722,8 +722,8 @@ planet "Geidontei Fortress"
 planet "Nuclear Furnace"
 	landscape "land/nuclearFurnace"
 	government "Yuyuko Saigyouji"
-	description `.`
-	spaceport `.`
+	description `The Nuclear Furnace, named such due to its proximity to its star and the large radioactive mineral deposits in the crust and mantle, is a critical mining world. Most of the minerals are shipped offworld. There is no need for nuclear power, with solar panels covering up to 50% of the surface.`
+	spaceport `Large ships continually offload radioactive minerals at the spaceport. The spaceport's Geiger counters continually run, creating a subtle but noticable "white noise".`
 
 planet "Letty"
 	landscape "land/letty"
