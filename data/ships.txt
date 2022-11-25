@@ -415,6 +415,7 @@ ship "Cruiser" "SPA Cruiser (PFC)"
 			"hit force" 3900
 	outfits
 		"Prototype Fusion Cannon" 2
+		"Electron Turret" 4
 		
 		"Blue Sun Reactor" 1
 		"LP576a Battery Pack" 2
@@ -436,6 +437,11 @@ ship "Cruiser" "SPA Cruiser (PFC)"
 
 	gun     -30   -55   "Prototype Fusion Cannon"
 	gun      30   -55   "Prototype Fusion Cannon"
+
+	turret    0    -55   "Electron Turret"
+	turret    10   -40   "Electron Turret"
+	turret   -10   -40   "Electron Turret"
+	turret    0    -25   "Electron Turret"
 
 	bay "Drone" -25  19.5
 	bay "Drone"  25  19.5
