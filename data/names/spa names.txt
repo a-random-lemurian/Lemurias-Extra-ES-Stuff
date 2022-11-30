@@ -116,6 +116,7 @@ phrase "people worthy of being ship names"
 		"Lizz Robinett"           # American singer
 
 		"May Berenbaum"           # American entomologist
+		"Lisa Su"                 # CEO of AMD
 
 phrase "Hai systems"
 	word
