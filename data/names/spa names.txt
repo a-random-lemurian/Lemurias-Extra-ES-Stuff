@@ -104,11 +104,15 @@ phrase "locations"
 # - the SPA names its ships after.
 phrase "people worthy of being ship names"
 	word
+		"Anne Rice"               # American author (1941-2021)
 		"Amber Heard"
 		"Camille Vasquez"
+		"Itzhak Perlman"          # Israeli-American violinist
 		"Johnny Depp"
+		"Radia Perlman"           # American programmer
 		"Richard Stallman"        # GNU Project creator
 		"Rainych Ran"             # Indonesian singer
+		"Lena Raine"
 		"Lizz Robinett"           # American singer
 		"Linus Torvalds"          # Linux kernel creator
 		"Lisa Su"                 # CEO of AMD
