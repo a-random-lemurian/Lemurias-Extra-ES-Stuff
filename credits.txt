@@ -45,6 +45,7 @@ Landscape images
     John Picken
     josef knecht
     Kai Lehmann
+    Malc McDonald
     Markus Leupold-Lowenthal
     Murray Foubister
     Nik Cyclist

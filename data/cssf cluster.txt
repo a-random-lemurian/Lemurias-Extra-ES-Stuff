@@ -728,8 +728,8 @@ planet "Nuclear Furnace"
 planet "Letty"
 	landscape "land/letty"
 	government "Yuyuko Saigyouji"
-	description `.`
-	spaceport `.`
+	description `The planet of Letty acts as housing for high-ranking CSSF officials. As always, the security is near-invasive, with any plushies being burned on sight. Several thousand checkpoints operate on the roads and routes of Letty.`
+	spaceport `Perhaps the most-secured part of the planet is Letty's spaceport. Large scanning equipment is present in numbers that dwarf even the strongest Republic-controlled spaceports and manual inspection of every crate is required.`
 
 planet "Scarlet"
 	landscape "land/scarlet"
