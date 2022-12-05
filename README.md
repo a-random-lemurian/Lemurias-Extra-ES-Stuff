@@ -106,7 +106,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Ring of Gensokyo          | ZKang123             | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:CE1_DT16_Bayfront_MRT_Exit_B_20201201_152252.jpg))
 | Taglamig                  | Markus Leupold-Löwenthal | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:KleinarlWinterwonderland.jpg))
 | Nuclear Furnace           | J.D. Griggs          | Public Domain           | ([orig](https://commons.wikimedia.org/wiki/File:Pahoeoe_fountain_edit2.jpg))
-| Letty                     | Malc McDonald        | CC BY 2.0               | ([orig](https://www.geograph.org.uk/photo/7041176))
+| Letty                     | Malc McDonald        | CC BY-SA 2.0               | ([orig](https://www.geograph.org.uk/photo/7041176))
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
