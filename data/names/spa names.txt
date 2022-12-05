@@ -104,7 +104,6 @@ phrase "locations"
 # - the SPA names its ships after.
 phrase "people worthy of being ship names"
 	word
-		# Depp v. Heard, 2022 trial case
 		"Amber Heard"
 		"Camille Vasquez"
 		"Johnny Depp"
