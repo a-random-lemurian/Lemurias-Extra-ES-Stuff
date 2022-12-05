@@ -49,32 +49,32 @@ phrase spa.allNames
 ###
 phrase "spa, no prefix"
 	phrase
-		"leest surnames" 4
-		"ingame characters" 3
-		"politicians" 63
 		"chemical elements" 118
+		"ingame characters" 3
+		"people worthy of being ship names" 7
+		"politicians" 63
+		"leest surnames" 4
+		"leest standalone names" 2
 		"locations" 90
 		"mountains" 170
-		"leest standalone names" 2
-		"people worthy of being ship names" 7
 
 phrase "ingame characters"
 	word
-		"Freya Winters"
-		"Katya Reynolds"
-		"Emeka'a Isai"
-		"Sayari"
-		"Diana Howl"
-		"Tom Paris"
-		"Sawyer"
-		"William Danforth"
-		"Nanachi"
-		"Kiru"
-		"Alondo Gruyere"
 		"Albert Foster"
+		"Alondo Gruyere"
+		"Diana Howl"
 		"David Turner"
 		"Edward Tivrusky"
+		"Emeka'a Isai"
+		"Freya Winters"
 		"Ijs Springborn"
+		"Katya Reynolds"
+		"Kiru"
+		"Nanachi"
+		"Sayari"
+		"Sawyer"
+		"Tom Paris"
+		"William Danforth"
 
 phrase "SPA Republic Livery names"
 	word
@@ -105,39 +105,36 @@ phrase "locations"
 phrase "people worthy of being ship names"
 	word
 		# Depp v. Heard, 2022 trial case
-		"Johnny Depp"
 		"Amber Heard"
 		"Camille Vasquez"
-
-		"Linus Torvalds"          # Linux kernel creator
+		"Johnny Depp"
 		"Richard Stallman"        # GNU Project creator
-
 		"Rainych Ran"             # Indonesian singer
 		"Lizz Robinett"           # American singer
-
-		"May Berenbaum"           # American entomologist
+		"Linus Torvalds"          # Linux kernel creator
 		"Lisa Su"                 # CEO of AMD
+		"May Berenbaum"           # American entomologist
 
 phrase "Hai systems"
 	word
-		"Hevru Hai"
-		"Fah Soom"
-		"Wah Oh"
-		"Io Mann"
-		"Due Yoot"
-		"Rati Cal"
-		"Heia Due"
-		"Io Lowe"
-		"Mei Yohn"
-		"Zuba Zub"
-		"Imo Dep"
-		"Ula Mon"
-		"Wah Ki"
 		"Bore Fah"
-		"Da Lest"
 		"Da Ent"
+		"Da Lest"
+		"Due Yoot"
+		"Fah Soom"
+		"Heia Due"
+		"Hevru Hai"
+		"Imo Dep"
+		"Io Lowe"
+		"Io Mann"
+		"Mei Yohn"
+		"Rati Cal"
+		"Ula Mon"
 		"Uwa Fahn"
+		"Wah Ki"
+		"Wah Oh"
 		"Ya Hai"
+		"Zuba Zub"
 
 phrase "leest standalone names"
 	word
@@ -146,8 +143,8 @@ phrase "leest standalone names"
 
 phrase "leest surnames"
 	word
-		"Couric"
 		"Berenbaum"
+		"Couric"
 		"Kaufman"
 		"Luria"
 
@@ -183,11 +180,11 @@ phrase "female politicians"
 phrase "male politicians"
 	word
 		# Asia
+		"Bongbong Marcos"
+		"Isko Moreno"
+		"Kiko Pangilinan"
 		"Lee Hsien Loong"
 		"Shinzo Abe"
-		"Bongbong Marcos"
-		"Kiko Pangilinan"
-		"Isko Moreno"
 
 		# Europeans
 		"Boris Johnson"
