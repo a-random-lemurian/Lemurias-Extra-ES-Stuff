@@ -11,7 +11,7 @@
 - Prevent Hai Reveal systems from overlapping with the route between the Illumina Regions and the northern pirate colonies, by moving Sparikau, Derusa, Kilooew, and Vamiru out of the way and replacing them with a wormhole.
 - Fix date format for GitHub Code Vault event. It is supposed to trigger on 3020-02-01, not 3020-01-02.
 
-### v0.10.14
+### v0.10.14 (2022-10-19)
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
 - Removed Heliarch Scanning Modules from the SPA Kestrel to prevent them scanning you.
 - Fixed a planet in Deriie that had no distance specified, placing it at the center of the system.
@@ -49,7 +49,7 @@
 #### Other content
 - During the release candidate versions of 0.10.14, there were insults of Amber Heard that the community objected to in [pull request 450](https://github.com/EndlessSkyCommunity/endless-sky-plugins/pull/450) of the plugin index. Added in rc1, specifically commit b5b23e1499d32582219ac1abad68e4f3bfcca0b1 and removed in rc5 (be77cbf4c17d880c6a2db185b0e01e4e4b8280f2).
 
-### v0.10.13
+### v0.10.13 (2022-05-24)
 - Didn't remove Orbona system (I made an error in commit 94a59c875f889cf36d13c94e6fb8253bca34269d, blame me for it.)
 - Removed Neistat system
 - Removed Leideete system
@@ -162,7 +162,7 @@
       - Terisch
       - Vaughari
       - Varug
-### v0.10.12
+### v0.10.12 (2022-03-18)
 - Completely overhauled SPA fleets. Before this version, SPA fleets were distributed amongst many different fleet objects (specialized for a certain role). The old specialized SPA fleets will remain, for backwards compatibility, and for situations where they are needed (such as system-specific fleets.)
 - Overhauled CSSF fleets, similar to how the SPA fleets were overhauled.
 - Added SPA variant of the Kestrel.
@@ -171,7 +171,7 @@
 - Added Delistra and Eteristra, two new planets in the Pelitol Cluster.
 - Added phrase containing names of all U.S. Presidents.
 
-### v0.10.11
+### v0.10.11 (2022-03-11)
 - Added hails about some ships exceeding API ratelimits.
 - Added a small variant of the SPA Illumina Regions fleet.
 - Rebalanced Illuria fleets.
@@ -185,7 +185,7 @@
 - Added new landable planets Kaistra and Salistra.
 - Added new systems Repolitea, Sarut, Doler, Oratelis, Dorkelt, and Arket
 
-### v0.10.10
+### v0.10.10 (2022-02-01)
 - Rebalancing
    - Removed SPA and CSSF fleets from human space
    - Rebalance Ghesie fleets: buffed SPA patrols and "nerfed"/weakened pirates
@@ -201,7 +201,7 @@
 - Added a CSSF fleet that spawns only in Orbona
 - Added a SPA fleet with empty carriers (to pick up "orphaned" fighters whose carriers were destroyed)
 
-### v0.10.9
+### v0.10.9 (2022-01-09)
 - More hails
    - Added hails about making free software
    - Added hails that insult the player if he writes proprietary programs
@@ -221,7 +221,7 @@
 - Added more stuff about the Anime Organization
 - ~~Emeka'a Isai plushies!~~
 
-### v0.10.8
+### v0.10.8 (2021-12-24)
 This is honestly a lot of content to work on. We hope that this release makes your Christmas a bit better. If you fancy playing Endless Sky on Christmas, that is.
 - Added planets to several systems:
    - Raidei
@@ -276,7 +276,7 @@ This is honestly a lot of content to work on. We hope that this release makes yo
 - Added trade prices to most of the Illumina Regions
 - Add source code files as variants of Data drives commodity
 - Added SPA Cruiser exploration fleet with gunboats
-### v0.10.7
+### v0.10.7 (2021-12-21)
 - Added more SPA friendly and hostile hails.
 - Balance Amidala stats
 - Improve GitHub code vault story dialog.
@@ -351,7 +351,7 @@ This is honestly a lot of content to work on. We hope that this release makes yo
 
 **Git log**: https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff/compare/v0.10.6...v0.10.7
 
-### v0.10.6
+### v0.10.6 (2021-12-12)
 - Added more SPA hails
 - Added Linux user spaceport news
 - Added Debian hat retrieval mission (triggers in 3014)
@@ -360,7 +360,7 @@ This is honestly a lot of content to work on. We hope that this release makes yo
 - Removed GH workflows
 - Renamed SPA jobs file, no campaign right now
 
-### v0.10.5
+### v0.10.5 (2021-12-09)
 - New entry in logbook upon trigger of `githubCodeVault` event and dialog
 - SPA fleets... in Republic Navy livery have been added. They manifest in huge numbers just like regular SPA fleets.
 - Amidalas now use Hai Bufaer Atomic engines
