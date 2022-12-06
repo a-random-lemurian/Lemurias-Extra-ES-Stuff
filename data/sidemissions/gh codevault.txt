@@ -16,7 +16,8 @@
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
 event githubCodeVault
-	date 2 1 3020
+	# dd/mm/yyyy format.
+	date 1 2 3020
 
 
 mission githubCodeVault.conversation

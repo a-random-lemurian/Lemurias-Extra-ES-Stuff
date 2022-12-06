@@ -9,6 +9,7 @@
 - Added the territories of the CSSF. They are accessible through a wormhole somewhere in the Illumina Regions. Find it yourself.
 - Merged `outer pelitol cluster.txt` into `pelitol cluster.txt`. Now they're all one big file.
 - Prevent Hai Reveal systems from overlapping with the route between the Illumina Regions and the northern pirate colonies, by moving Sparikau, Derusa, Kilooew, and Vamiru out of the way and replacing them with a wormhole.
+- Fix date format for GitHub Code Vault event. It is supposed to trigger on 3020-02-01, not 3020-01-02.
 
 ### v0.10.14
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
