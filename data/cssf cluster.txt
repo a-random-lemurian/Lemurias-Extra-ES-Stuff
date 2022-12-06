@@ -734,8 +734,8 @@ planet "Letty"
 planet "Scarlet"
 	landscape "land/scarlet"
 	government "Yuyuko Saigyouji"
-	description `.`
-	spaceport `.`
+	description `Scarlet is a sparsely populated farm world. The planet supplies food for the CSSF's soldiers and officials, to allow them to continue their war against the Sayari Plushie Authority. It is rumored that Scarlet is home to a secret weapons development lab and perhaps a large stockpile of nuclear weapons.`
+	spaceport `Scarlet's spaceport consists of a large grid of landing. There are large fuel tanks and hangars nearby, alongside the stuff to be expected from a normal spaceport.`
 
 planet "Margaret"
 	landscape "land/margaret"

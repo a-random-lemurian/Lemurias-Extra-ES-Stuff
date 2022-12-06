@@ -107,6 +107,8 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Taglamig                  | Markus Leupold-Löwenthal | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:KleinarlWinterwonderland.jpg))
 | Nuclear Furnace           | J.D. Griggs          | Public Domain           | ([orig](https://commons.wikimedia.org/wiki/File:Pahoeoe_fountain_edit2.jpg))
 | Letty                     | Malc McDonald        | CC BY-SA 2.0               | ([orig](https://www.geograph.org.uk/photo/7041176))
+| Scarlet                   | Jim Barton           | CC BY-SA 2.0               | ([orig](https://www.geograph.org.uk/photo/6371158))
+
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
