@@ -914,7 +914,7 @@ system Kiselot
 		period 35.4978
 
 system Kilooew
-	pos -929.77777 -538.13888
+	pos -1065.4444 -540.36111
 	government Pirate
 	link Eileri
 	link Derusa
@@ -1023,7 +1023,6 @@ system Ladosak
 
 system Luduras
 	pos -725.38889 -713.83333
-	link Vamiru
 	link Kiselot
 	arrival 4100
 	object
