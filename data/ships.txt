@@ -386,7 +386,81 @@ ship "Cruiser" "SPA Cruiser"
 
 	"final explode" "final explosion large"
 	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
-	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particularly the Hauler III/II."
+
+ship "Cruiser" "SPA Cruiser (PFC)"
+	sprite "ship/cruiser"
+	thumbnail "thumbnail/cruiser"
+	attributes
+		category "Heavy Warship"
+		licenses
+			"SPA Ship"
+		"cost" 19200000
+		"shields" 55600
+		"hull" 6800
+		"required crew" 71
+		"bunks" 188
+		"mass" 1250
+		"drag" 10.1
+		"heat dissipation" .38
+		"fuel capacity" 500
+		"cargo space" 40
+		"outfit space" 1190
+		"weapon capacity" 450
+		"engine capacity" 180
+		weapon
+			"blast radius" 260
+			"shield damage" 2600
+			"hull damage" 1300
+			"hit force" 3900
+	outfits
+		"Prototype Fusion Cannon" 2
+		"Electron Turret" 4
+		
+		"Blue Sun Reactor" 1
+		"LP576a Battery Pack" 2
+		"Hai Diamond Regenerator"
+		"Large Hybrid Cooling"
+		"SPA Scan Blocker" 6
+
+		`"Bufaer" Atomic Thruster`
+		`"Bufaer" Atomic Steering`
+
+		"Jump Drive"
+		"Hyperdrive"
+	
+	engine -52 151 0.75
+	engine -28 154 0.95
+	engine   0 154 0.5
+	engine  28 154 0.95
+	engine  52 151 0.75
+
+	gun     -30   -55   "Prototype Fusion Cannon"
+	gun      30   -55   "Prototype Fusion Cannon"
+
+	turret    0    -55   "Electron Turret"
+	turret    10   -40   "Electron Turret"
+	turret   -10   -40   "Electron Turret"
+	turret    0    -25   "Electron Turret"
+
+	bay "Drone" -25  19.5
+	bay "Drone"  25  19.5
+	bay "Drone" -25  49.5
+	bay "Drone"  25  49.5
+
+	leak "leak"     30 50
+	leak "flame"    50 80
+	leak "big leak" 40 30
+
+	explode "tiny explosion"   20
+	explode "small explosion"  45
+	explode "medium explosion" 50
+	explode "large explosion"  40
+	explode "huge explosion"   10
+
+	"final explode" "final explosion large"
+	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particularly the Hauler III/II."
 
 ship "Cruiser" "SPA Cruiser (Blaze-Pike)"
 	sprite "ship/cruiser"
@@ -466,7 +540,7 @@ ship "Cruiser" "SPA Cruiser (Blaze-Pike)"
 
 	"final explode" "final explosion large"
 	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
-	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particularly the Hauler III/II."
 
 ship "Cruiser" "SPA Cruiser (Electron)"
 	sprite "ship/cruiser"
@@ -546,7 +620,7 @@ ship "Cruiser" "SPA Cruiser (Electron)"
 
 	"final explode" "final explosion large"
 	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
-	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particularly the Hauler III/II."
 
 ship "Cruiser" "SPA Cruiser (Ion)"
 	sprite "ship/cruiser"
@@ -627,7 +701,7 @@ ship "Cruiser" "SPA Cruiser (Ion)"
 
 	"final explode" "final explosion large"
 	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
-	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particularly the Hauler III/II."
 
 
 ship "Cruiser" "SPA Cruiser (Korath Slicer)"
@@ -708,7 +782,7 @@ ship "Cruiser" "SPA Cruiser (Korath Slicer)"
 
 	"final explode" "final explosion large"
 	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
-	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particularly the Hauler III/II."
 
 
 ship "Cruiser" "SPA Cruiser (Particle Cannon)"
@@ -788,7 +862,7 @@ ship "Cruiser" "SPA Cruiser (Particle Cannon)"
 
 	"final explode" "final explosion large"
 	description "The Republic Cruiser is a relatively recent design, a much larger version of the Frigate designed to be able to take on an entire pirate fleet if necessary. In addition to a wide variety of weaponry, Cruisers have space to carry four attack drones: fast, pilotless fighters that can be controlled remotely."
-	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particfularly the Hauler III/II."
+	description "This Cruiser is a custom-built SPA variant designed for combat. Its primary role is to protect plushie transports, which are mostly stocked on other types of ships, particularly the Hauler III/II."
 
 
 ship "Carrier" "SPA Carrier (Combat)"
@@ -1110,6 +1184,7 @@ ship "Kestrel" "SPA Kestrel (Proton)"
 ship "SPA Rosas"
 	sprite "ship/arach spindle"
 	thumbnail "thumbnail/arach spindle"
+	plural "SPA Rosases"
 	attributes
 		category "Medium Warship"
 		licenses
