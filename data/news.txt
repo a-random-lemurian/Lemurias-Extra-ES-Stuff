@@ -106,6 +106,27 @@ news "Bredehoft-specific dialog"
 			"This place is home to a long line of lawyers going back to 21st century Earth!"
 			"I heard the lawyers here take defamation cases regarding actors quite often."
 
+
+news "technical writer ranting about date formats"
+	location
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
+		attributes "north" "rim" "core" "near earth"
+	name
+		word
+			"Technical writer"
+	message
+		word
+			`"`
+		word
+			"Do you have a few minutes to listen to my thoughts on the importance of using the proper date format?"
+			`We should all just use a date format like "3020-10-12". It's just so much clearer and I'm sick and tired of having to guess whether 12/10/3020 is 12 October or December 10!"`
+			`Always use clear date formats. Either use year-month-day or spell out the month!`
+			`I heard someone rant about the date on their certificate being wrong because it was in day-month-year format and not month-day-year. Seriously, just use year-month-day already!`
+			`Year-month-day is the best date format! It's largest to smallest and it just makes so much sense!`
+			`You should use year-month-day for your computer files!`
+		word
+			`"`
+
 # TODO: Wait for Unicode PR so we can spell Anne's name properly.
 news "Hidalgo Shrine dialog 1"
 	location
