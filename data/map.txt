@@ -360,6 +360,10 @@ system Eileri
 		sprite "planet/gas3"
 		distance 7053.1134
 		period 2048.507
+	object "Eileri-Luduras Wormhole"
+		sprite "planet/wormhole"
+		distance 9410.394
+		period 3310.493
 
 ### F
 system Finduue
@@ -1026,6 +1030,10 @@ system Luduras
 		sprite "star/m8"
 		distance 0
 		period 37.402
+	object "Eileri-Luduras Wormhole"
+		sprite "planet/wormhole"
+		distance 8156.7340
+		period 2119.178
 
 
 system Lindookor
@@ -2043,3 +2051,6 @@ planet Eisei
 #===< Wormholes >===#
 # planet "Pelitol-Sedlai Wormhole"
 # 	description ""
+
+planet "Eileri-Luduras Wormhole"
+	description ``
