@@ -222,9 +222,9 @@ mission githubCodeVault.buyDataChipsForPerson
 		
 			label seeCollection
 			`	"Great!", says the old man. "Here, enter this room."`
-			``
+
 			`You enter the room and see a shelf full of datachips. They are marked with decades, one saying 2020s, 1990s, 2340s, 2800s, all the way to the 2990s There are over 310 datachips total, if your counting was accurate.`
-			``
+
 			`	"I collect ancient software for a living. These datachips contain it all. Precious history. I've been trying to access the history for some 2030s software, but I never had the right software for the job. It rambled on and on about some software called Git. By any chance, do you have a copy of 43.11?"`
 			choice
 				`"Yes."`
