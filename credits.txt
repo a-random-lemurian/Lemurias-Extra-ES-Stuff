@@ -65,10 +65,13 @@ Landscape images
     Wing-Chi Poon
     ZKang123
 
-
 * Names may be missing diacritical
 marks. This is due to a problem
 with the Endless Sky font.
+** The author of the Margaret
+landscape has a Greek name. Endless
+Sky does not support rendering
+Greek text.
 
 LEESt is licensed under the GNU GPL
 version 3.

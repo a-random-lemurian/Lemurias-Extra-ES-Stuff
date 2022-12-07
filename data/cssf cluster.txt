@@ -740,8 +740,8 @@ planet "Scarlet"
 planet "Margaret"
 	landscape "land/margaret"
 	government "Yuyuko Saigyouji"
-	description `.`
-	spaceport `.`
+	description `Margaret is a mostly rural colony. The people here were once independent until the arrival of the CSSF. Nowadays, it is used as a penal colony where captured SPA officials reside, with the smell of burning plushies always prevalent near the prison compounds.`
+	spaceport `The primary spaceport of Margaret is located on the planet's largest prison, home to 500,000 prisoners. For this reason, the spaceport's security is extremely pervasive..`
 
 planet "Alice"
 	landscape "land/margaret"
