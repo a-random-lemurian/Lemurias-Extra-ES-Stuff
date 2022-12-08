@@ -744,7 +744,7 @@ planet "Margaret"
 	spaceport `The primary spaceport of Margaret is located on the planet's largest prison, home to 500,000 prisoners. For this reason, the spaceport's security is extremely pervasive..`
 
 planet "Alice"
-	landscape "land/margaret"
+	landscape "land/alice"
 	government "Yuyuko Saigyouji"
 	description `.`
 	spaceport `.`
