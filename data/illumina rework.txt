@@ -30,7 +30,7 @@ system Akore
 		period 39.77
 
 system Derusa
-	pos -893.26811 -590.62189
+	pos -1121.4444 -580.36111
 	link Kilooew
 	link Sparikau
 	object
@@ -51,7 +51,7 @@ system Derusa
 		period 170.33
 
 system Sparikau
-	pos -856.82367 -656.84411
+	pos -1154.4444 -620.36111
 	link Derusa
 	link Vamiru
 	object
@@ -72,8 +72,7 @@ system Sparikau
 		period 321.870
 
 system Vamiru
-	pos -795.04589 -705.733
-	link Luduras
+	pos -1201.4444 -670.36111
 	link Sparikau
 	object
 		sprite "star/g3"

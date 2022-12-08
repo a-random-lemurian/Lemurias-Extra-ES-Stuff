@@ -360,6 +360,10 @@ system Eileri
 		sprite "planet/gas3"
 		distance 7053.1134
 		period 2048.507
+	object "Eileri-Luduras Wormhole"
+		sprite "planet/wormhole"
+		distance 9410.394
+		period 3310.493
 
 ### F
 system Finduue
@@ -914,7 +918,7 @@ system Kiselot
 		period 35.4978
 
 system Kilooew
-	pos -929.77777 -538.13888
+	pos -1065.4444 -540.36111
 	government Pirate
 	link Eileri
 	link Derusa
@@ -1023,13 +1027,16 @@ system Ladosak
 
 system Luduras
 	pos -725.38889 -713.83333
-	link Vamiru
 	link Kiselot
 	arrival 4100
 	object
 		sprite "star/m8"
 		distance 0
 		period 37.402
+	object "Eileri-Luduras Wormhole"
+		sprite "planet/wormhole"
+		distance 8156.7340
+		period 2119.178
 
 
 system Lindookor
@@ -2053,3 +2060,7 @@ planet "Hakugyukurou-Hiljaak Wormhole"
 	government "Uninhabited"
 	description `.`
 	spaceport `.`
+
+planet "Eileri-Luduras Wormhole"
+	description ``
+
