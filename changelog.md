@@ -15,6 +15,7 @@
 - Removed Liz Cheney person ship dialog referencing Donald Trump to avoid harassment from Trump supporters. Please, don't get me involved in the mess that is American politics.
 - Grammar and typo fixes.
    - Added the missing word "one" to Tarsia's description.
+- Suerolli, Illumina, Illuria, and Jarkiiens are now SPA property. They are no longer under the control of the Republic.
 
 ### v0.10.14 (2022-10-19)
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
