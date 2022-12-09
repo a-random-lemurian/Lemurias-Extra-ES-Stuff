@@ -12,6 +12,7 @@
 - Fix date format for GitHub Code Vault event. It is supposed to trigger on 3020-02-01, not 3020-01-02.
 - Technical writers in human space will now sometimes rant about using the year-month-day format for dates.
 - Fixed Liz Cheney claiming her "Kestrel was much cooler" when her person ship is a Star Queen.
+- Removed Liz Cheney person ship dialog referencing Donald Trump to avoid harassment from Trump supporters. Please, don't get me involved in the mess that is American politics.
 - Grammar and typo fixes.
    - Added the missing word "one" to Tarsia's description.
 
