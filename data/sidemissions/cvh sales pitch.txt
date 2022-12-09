@@ -1,0 +1,16 @@
+# Carla Von Hausen, one of the game's minor characters
+# sells houses. She will continue attempting to sell
+# you a house after that first encounter.
+
+news "CVH sales pitch 1"
+	to show
+		has "Home for Skadenga 3: done"
+	location
+		planet "Asgard"
+	name
+		word
+			"Advertising billboard"
+	message
+		word
+			"You see an advertisement of a well-dressed woman in a pantsuit handing over keys to a family in one of Asgard's prefabricated housing developments. You notice that on the bottom right, the name 'Carla Von Hausen' is written."
+			"You see an advertisement for housing in Asgard. In the bottom corner you see the face of a familiar woman with the name 'Carla Von Hausen' written right next to it."
