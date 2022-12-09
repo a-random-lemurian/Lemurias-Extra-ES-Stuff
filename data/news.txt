@@ -99,7 +99,7 @@ news "technical writer ranting about date formats"
 			`"`
 		word
 			"Do you have a few minutes to listen to my thoughts on the importance of using the proper date format?"
-			`We should all just use a date format like "3020-10-12". It's just so much clearer and I'm sick and tired of having to guess whether 12/10/3020 is 12 October or December 10!"`
+			`We should all just use a date format like "3020-10-12". It's just so much clearer and I'm sick and tired of having to guess whether 12/10/3020 is the 12th of October or December 10th!"`
 			`Always use clear date formats. Either use year-month-day or spell out the month!`
 			`I heard someone rant about the date on their certificate being wrong because it was in day-month-year format and not month-day-year. Seriously, just use year-month-day already!`
 			`Year-month-day is the best date format! It's largest to smallest and it just makes so much sense!`
