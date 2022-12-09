@@ -74,26 +74,6 @@ news dockWork.puzzlegame
 		word
 			"Dockworkers play massive puzzle games all the time! Have you ever tried to fit 15 boxes of different shapes and sizes all in one cargo hold?"
 
-news laateliWarn.neistat
-	location
-		system Illumina
-	name
-		word
-			Explorer
-	message
-		word
-			"Stay away from the Neistat system! That place is a warzone! Pirates and Republic ships in a never-ending fight. How did they even get those Bactrians?"
-
-news laateliPromote.neistatSalvage
-	location
-		system Illumina
-	name
-		word
-			"Salvage captain"
-	message
-		word
-			"The Neistat system has a fair amount of pirate Bactrians. You should go and board them! Big profits await!"
-
 news "Bredehoft-specific dialog"
 	location
 		planet Bredehoft
