@@ -22,7 +22,6 @@ person "Liz Cheney"
 		word
 			"I seem to have been transported 1,000 years into the future."
 			"Over 1,000 years ago in an old nation called the United States, someone called Donald Trump tried to rig an election. Nowadays you have much more advanced ways of doing elections, I see."
-			"The cool politicians have a Star Queen but my Kestrel is much cooler."
 	system
 		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent" "Sayari Plushies" "Anime Organization"
 	ship "Star Queen" "Star Queen"
