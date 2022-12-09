@@ -2,7 +2,7 @@
 # sells houses. She will continue attempting to sell
 # you a house after that first encounter.
 
-news "CVH sales pitch 1"
+news "CVH advertising billboard"
 	to show
 		has "Home for Skadenga 3: done"
 	location
