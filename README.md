@@ -109,6 +109,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Letty                     | Malc McDonald        | CC BY-SA 2.0               | ([orig](https://www.geograph.org.uk/photo/7041176))
 | Scarlet                   | Jim Barton           | CC BY-SA 2.0               | ([orig](https://www.geograph.org.uk/photo/6371158))
 | Margaret                  | Γεωργός              | CC BY-SA 4.0               | ([orig](https://commons.wikimedia.org/wiki/User:%CE%93%CE%B5%CF%89%CF%81%CE%B3%CF%8C%CF%82))
+| Alice                     | Natasha Ceridwen de Chroustchoff | CC BY-SA 2.0   | ([orig](https://www.geograph.org.uk/photo/1788888))
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
