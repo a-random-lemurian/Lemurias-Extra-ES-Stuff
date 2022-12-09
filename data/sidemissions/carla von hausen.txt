@@ -26,7 +26,7 @@ mission "CVH sales pitch 1"
 		planet "Asgard"
 	on offer
 	
-		log "Minor People" "Carla Von Hausen" "A property agent based on Asgard, Naos. She runs her own property agency. You have had multiple run-ins with her, whether it was her boarding your ship, her approaching you "
+		log "Minor People" "Carla Von Hausen" "A property agent based on Asgard, Naos. She runs her own property agency. You have had multiple run-ins with her, whether it was her boarding your ship, her approaching you, or selling you an apartment."
 
 		conversation
 			"	When you land on <origin> and open your hatch, a woman in a well-pressed green pantsuit rushes in, sitting on a nearby table."
@@ -140,3 +140,9 @@ mission "CVH sales pitch 1"
 		set "bought house from carla von hansen"
 		set "has house on asgard"
 		payment -810000
+
+
+		log "I remember when Carla Von Hausen tried to sell me a house while I was sitting in a park in Helsingor. Today she approached me again. I bought a house from her for 810,000 credits."
+
+	on decline
+		log "I remember when Carla Von Hausen tried to sell me a house while I was sitting in a park in Helsingor. Today she approached me again. I made it clear to her that I was not interested."
