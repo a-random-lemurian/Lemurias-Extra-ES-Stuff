@@ -11,6 +11,8 @@
 - Prevent Hai Reveal systems from overlapping with the route between the Illumina Regions and the northern pirate colonies, by moving Sparikau, Derusa, Kilooew, and Vamiru out of the way and replacing them with a wormhole.
 - Fix date format for GitHub Code Vault event. It is supposed to trigger on 3020-02-01, not 3020-01-02.
 - Technical writers in human space will now sometimes rant about using the year-month-day format for dates.
+- Grammar and typo fixes.
+   - Added the missing word "one" to Tarsia's description.
 
 ### v0.10.14 (2022-10-19)
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
