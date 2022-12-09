@@ -69,6 +69,9 @@ system Hakugyukurou
 	fleet cssf.large 1000
 	fleet cssf.medium 700
 	fleet cssf.small 400
+	fleet spa.large 1000
+	fleet spa.medium 700
+	fleet spa.small 400
 	object
 		sprite "star/b8"
 		distance 41.38

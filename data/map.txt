@@ -502,9 +502,9 @@ system Hiljaak
 	fleet spa.small 600
 	fleet spa.medium 1200
 	fleet spa.large 1800
-	fleet cssf.small 2400
-	fleet cssf.medium 4700
-	fleet cssf.large 6700
+	fleet cssf.small 600
+	fleet cssf.medium 1200
+	fleet cssf.large 1800
 	asteroids "medium rock" 10 2.002
 	asteroids "large rock" 41 2.548
 	asteroids "small metal" 5 2.002
