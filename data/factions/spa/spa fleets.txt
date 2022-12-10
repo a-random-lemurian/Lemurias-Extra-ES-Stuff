@@ -138,7 +138,7 @@ fleet spa.medium
 	variant 2
 		"Model 512" 4
 		"Model 256" 9
-	variant 550
+	variant 55
 		"SPA Cruiser (PFC)" 3
 
 	# Smugglers
