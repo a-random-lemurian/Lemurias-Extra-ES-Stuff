@@ -98,6 +98,74 @@ news "Bredehoft-specific dialog"
 		word
 			`"`
 
+news "Martieu-specific dialog, anti-religion"
+	location
+		planet Martieu
+	name
+		word
+			"Atheist"
+			"Agnostic"
+			"Non-religious person"
+			"Secular humanist"
+	message
+		word
+			`"`
+		phrase
+			"Martieu-specific dialog phrases, anti-religion"
+		word
+			`"`
+
+phrase "Martieu-specific dialog phrases, anti-religion"
+	word
+		"I was approached by"
+	word
+		" "
+	word
+		"a bunch of religious nuts"
+		"a missionary"
+		"a pastor"
+		"an extremely religious person"
+	word
+		" "
+	word
+		"who kept going on and on about their religion! "
+	word
+		"Such nonsense!"
+		"This is exactly why I'm atheist!"
+		"This is why I have no faith in their nonsense!"
+		"I told them to shut up and they still kept going!"
+		"I can't believe how bad the brainwashing is on this planet!"
+
+phrase "Martieu-specific dialog phrases, anti-religion"
+	word
+		"Are you one of those "
+	word
+		"missionaries"
+		"religious nuts"
+	word
+		" "
+	word
+		"who have been trying to convert me for the past "
+	word
+		"few hours"
+		"few days"
+		"5 hours"
+	word
+		"?"
+
+phrase "Martieu-specific dialog phrases, anti-religion"
+	word
+		"Sometimes, I feel bad for the "
+	word
+		"people here"
+		"locals"
+	word
+		"."
+	word
+		" "
+	word
+		"They've been brainwashed their whole life!"
+
 news "technical writer ranting about date formats"
 	location
 		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"

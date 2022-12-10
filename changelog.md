@@ -9,6 +9,7 @@
 - Added the territories of the CSSF. They are accessible through a wormhole somewhere in the Illumina Regions. Find it yourself.
 - Merged `outer pelitol cluster.txt` into `pelitol cluster.txt`. Now they're all one big file.
 - Prevent Hai Reveal systems from overlapping with the route between the Illumina Regions and the northern pirate colonies, by moving Sparikau, Derusa, Kilooew, and Vamiru out of the way and replacing them with a wormhole.
+- Non-religious people on Martieu now rant about the constant conversion attempts in the spaceport, sometimes.
 - Fix date format for GitHub Code Vault event. It is supposed to trigger on 3020-02-01, not 3020-01-02.
 - Technical writers in human space will now sometimes rant about using the year-month-day format for dates.
 - Fixed Liz Cheney claiming her "Kestrel was much cooler" when her person ship is a Star Queen.
