@@ -495,7 +495,7 @@ system Ghesie
 ### H
 system Hiljaak
 	pos -807.36111 -69.555556
-	government Republic
+	government "Sayari Plushie"
 	link Jarkiiens
 	attributes "illumina regions"
 	arrival 1870
@@ -565,7 +565,7 @@ system Hiljaak
 ### I
 system Iloke
 	pos -975.47222 -287.69444
-	government Republic
+	government "Sayari Plushie"
 	link Jalak
 	link Ghesie
 	link Kailoo-ereki
@@ -611,7 +611,7 @@ system Iloke
 
 system Illumina
 	pos -853 -124.58333
-	government Republic
+	government "Sayari Plushie"
 	link Illuria
 	link Jarkiiens
 	link Serfeiia
@@ -626,7 +626,6 @@ system Illumina
 	fleet cssf.large 6700
 	fleet "Large Northern Merchants" 600
 	fleet "Paradise Merchants" 600
-	fleet "Republic Logistics" 600
 	fleet "Small Core Merchants" 600
 	fleet "Large Core Merchants" 600
 	fleet "Large Northern Pirates" 1700
@@ -663,7 +662,7 @@ system Illumina
 
 system Illuria
 	pos -836.33333 -187.91667
-	government Republic
+	government "Sayari Plushie"
 	attributes "illumina regions"
 	arrival 1300
 	link Illumina
@@ -745,7 +744,7 @@ system Illuria
 ### J
 system Jarkiiens
 	pos -873.66667 -63.25
-	government Republic
+	government "Sayari Plushie"
 	attributes "illumina regions"
 	link Deriie
 	link Hiljaak
@@ -757,8 +756,6 @@ system Jarkiiens
 	fleet spa.small 700
 	fleet spa.medium 1300
 	fleet spa.large 1500
-	fleet "Small Republic" 800
-	fleet "Large Republic" 1800
 	fleet cssf.small 2400
 	fleet cssf.medium 4700
 	fleet cssf.large 6700
@@ -1383,7 +1380,7 @@ system Suerolii
 		link 750
 		jump 200
 	attributes "illumina regions"
-	government Republic
+	government "Sayari Plushie"
 	link Illuria
 	link Ladosak
 	fleet "Large Northern Merchants" 600
@@ -1627,7 +1624,7 @@ system Sayreopli
 
 system Suerolii
 	pos -850.33333 -238.58333
-	government Republic
+	government "Sayari Plushie"
 	link Illuria
 	link Ladosak
 	attributes "illumina regions"
@@ -1854,7 +1851,7 @@ planet Markaai
 	landscape land/markaai
 	description "Markaai is a thriving world in the Illuria system. However, its cousin, Illumina, has a similar name, meaning people regularly confuse the two planets together. Due to this, the residents have been discussing changing the name of the system lately but it is unlikely the Republic will approve of this."
 	spaceport "Most dockworkers you see at the port have been continually annoyed at constant cargo arrivals bound for Illumina. Annoyed dockworkers aside, merchants haggle for hours on end with sellers to get the lowest possible price. In addition, Markaai is home to a large ship refurbishment company, offering various types of ships for anyone's needs."
-	government Republic
+	government "Sayari Plushie"
 	security 0.66
 
 
@@ -1875,7 +1872,7 @@ planet Laateli
 	landscape land/laateli
 	description "Laateli is an Earth-like planet home to a large shipyard and over 1.34 billion people. The streets of its largest city, Laadecki is bustling with small businesses strewn across the cityscape with the occasional chop-shop. The slave trade has proliferated deep within the planet's mantle. Amongst the inhabitants, there is rumor that deep in the nearby uninhabited systems lies an entrance to an alien civillization. No explorer has been daring enough to investigate this, and it is often dismissed as mere nonsense. Due to the large shipyards here, it is a popular stopping point for captains who wish to purchase new ships or upgrades."
 	spaceport "The spaceport is busy with ships docking and undocking constantly. Air traffic controllers continue to exist, but ever since spacecraft made atmospheric-based vehicles obsolete, their main responsibility is now to control the flow of ships into the system."
-	government Republic
+	government "Sayari Plushie"
 	security 0.67
 
 
@@ -1887,7 +1884,7 @@ planet Yinachr
 	landscape land/yinachr
 	description "Yinachr is a densely settled desert planet home to around 3.81 billion people. You are at one of the more sparse parts of the planet where the spaceport happens to be. The buildings of this part of Yinachr seem to match the color of the sand. Large deposits of important ship-building materials lie deep beneath the surface of Yinachr. In light of this, there are many mining operations on this planet and most of the residents here are either miners or their families, with the exception of the occasional rich person who you assume is one of the supervisors. Another part of the planet that seems to trigger you is the immense temperature differences between day and night (59 & -77 C respectively)."
 	spaceport "At the spaceport, which is quite small for the planet's size, is overcrowded and extremely hot to the point where you would want to wear your temperature-controlled environment suit. At one section of the spaceport, there seems to be construction work going on which you hope is a temperature control system for the whole place."
-	government Republic
+	government "Sayari Plushie"
 	security 0.32
 
 
@@ -1896,7 +1893,7 @@ planet Pedinai
 	landscape land/pedinai
 	description "Pedinai is a forest world. Over 80% of the planet's land consists solely of forests, consisting of various tree species. The largest settlement on Pedinai is home to the spaceport and hosts most of the planet's population of 14 million. The planet is home to a large lumber industry, supplying lumber to most of human space to provide the Paradise Planets and anyone with the right amount of money with wooden furniture."
 	spaceport "Merchant ships often stop by the area to purchase large amounts of lumber to sell to the Paradise Planets. Most of the dockworker's equipment seem to be specialized for carrying wood, and only wood. At least one section of the spaceport is made out of wood, from what you could discern when you landed."
-	government Republic
+	government "Sayari Plushie"
 	security 0.38
 
 
