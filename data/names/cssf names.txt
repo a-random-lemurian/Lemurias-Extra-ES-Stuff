@@ -30,18 +30,8 @@ phrase cssf
 		cssf.ghost 18
 		cssf.touhouGameNames 30
 		cssf.misc 2
-	word
-		""
-		" I"
-		" II"
-		" III"
-		" IV"
-		" V"
-		" VI"
-		" VII"
-		" IX"
-		" X"
-		" XI"
+	phrase
+		"sometimes a successor"
 
 phrase cssf.misc
 	word
