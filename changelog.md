@@ -12,6 +12,11 @@
 - Fix date format for GitHub Code Vault event. It is supposed to trigger on 3020-02-01, not 3020-01-02.
 - Technical writers in human space will now sometimes rant about using the year-month-day format for dates.
 - After meeting Carla Von Hansen during the Skadenga storyline, there is a 5% chance everytime you land on Asgard that she will enter your ship and attempt to sell you a house.
+- Fixed Liz Cheney claiming her "Kestrel was much cooler" when her person ship is a Star Queen.
+- Removed Liz Cheney person ship dialog referencing Donald Trump to avoid harassment from Trump supporters. Please, don't get me involved in the mess that is American politics.
+- Grammar and typo fixes.
+   - Added the missing word "one" to Tarsia's description.
+- Suerolli, Illumina, Illuria, and Jarkiiens are now SPA property. They are no longer under the control of the Republic.
 
 ### v0.10.14 (2022-10-19)
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
