@@ -15,6 +15,64 @@ news "CVH advertising billboard"
 			"You see an advertisement of a well-dressed woman in a pantsuit handing over keys to a family in one of Asgard's prefabricated housing developments. You notice that on the bottom right, the name 'Carla Von Hausen' is written."
 			"You see an advertisement for housing in Asgard. In the bottom corner you see the face of a familiar woman with the name 'Carla Von Hausen' written right next to it."
 
+phrase "woman in a suit"
+	word
+		"woman"
+		"lady"
+	word
+		" "
+	word
+		"in a"
+		"wearing a"
+		"dressed in a"
+	word
+		" "
+	word
+		"high-quality"
+		"well-pressed"
+		"well-made"
+		"bespoke"
+		"" 50
+	word
+		"red" 5
+		"green" 5
+		"black" 10
+		"brown" 8
+	word
+		" suit" 100
+		" pantsuit" 100
+		" pants suit" 100
+		" suit jacket" 80
+		" blazer" 70
+
+news "CVH for sale sign"
+	to show
+		has "Home for Skadenga 3: done"
+	location
+		planet "Asgard"
+	name
+		word
+			"Sign"
+			"Poster"
+	message
+		phrase
+			"CVH for sale sign messages"
+
+phrase "CVH for sale sign messages"
+	word
+		"You see an empty space for rent. The name 'Carla Von Hausen' is written on the sign, alongside the face of a woman."
+
+phrase "CVH for sale sign messages"
+	word
+		"You see a poster on the wall of the spaceport. It is a portrait of a "
+	phrase
+		"woman in a suit"
+	word
+		" and the name 'Carla Von Hausen' written on it. It is an advertisement for "
+	word
+		"housing in Asgard."
+		"an apartment in Asgard."
+
 # TODO: Change the dialog slightly if Carla reveals that she is an agent working for the Deep in "Home for Skadenga 7"
 mission "CVH sales pitch 1"
 	landing
