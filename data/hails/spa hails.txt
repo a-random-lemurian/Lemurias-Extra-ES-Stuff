@@ -31,6 +31,7 @@ phrase spa.hails.friendly
 		spa.hails.friendly.sp5 20
 		spa.hails.friendly.sp6 48
 		spa.hails.friendly.sp7 72
+		spa.hails.friendly.sp8 5
 
 
 		spa.hails.funFacts 34
@@ -285,3 +286,11 @@ phrase spa.hails.subphrases.mandates.sp1
 		"our trade fleets"
 	word
 		"!"
+
+phrase spa.hails.friendly.sp8
+	word
+		"Stay out of Hiljaak if you're transporting plushies. The CSSF usually attack that system. There's a wormhole in there that leads to the main CSSF territories."
+		"Would you like to volunteer for wormhole guard duty in Hiljaak? Visit our office on Khoramelia."
+		"We're rallying a fleet for an expedition into the Hiljaak wormhole. Want to join us?"
+		"I'm going on a mission past the wormhole this month. I just hope I'll make it back alive."
+		"We're planning on running a few plushies into CSSF space later this week."
