@@ -191,7 +191,7 @@ ship "Amidala" "Skylance Amidala"
 	outfits
 		"Korath Slicer" 4
 		"Korath Warder" 2
-		"Quarg Skylance" 6
+		"SPA Skylance" 6
 
 		"Antimatter Core" 2
 		"Nanotech Battery" 4
@@ -206,12 +206,12 @@ ship "Amidala" "Skylance Amidala"
 	gun 8 -212 "Korath Slicer"
 	gun -16 -158 "Korath Slicer"
 	gun 16 -158 "Korath Slicer"
-	turret -37 -150 "Quarg Skylance"
-	turret 37 -150 "Quarg Skylance"
-	turret -38 -132 "Quarg Skylance"
-	turret 38 -132 "Quarg Skylance"
-	turret -40 -111 "Quarg Skylance"
-	turret 40 -111 "Quarg Skylance"
+	turret -37 -150 "SPA Skylance"
+	turret 37 -150 "SPA Skylance"
+	turret -38 -132 "SPA Skylance"
+	turret 38 -132 "SPA Skylance"
+	turret -40 -111 "SPA Skylance"
+	turret 40 -111 "SPA Skylance"
 	turret -102 188 "Korath Warder"
 	turret 102 188 "Korath Warder"
 	explode "tiny explosion" 120
