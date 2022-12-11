@@ -1,4 +1,4 @@
-# Carla Von Hausen, one of the game's minor characters
+# Carla von Hausen, one of the game's minor characters
 # sells houses. She will continue attempting to sell
 # you a house after that first encounter.
 
@@ -12,8 +12,8 @@ news "CVH advertising billboard"
 			"Advertising billboard"
 	message
 		word
-			"You see an advertisement of a ${woman in a suit} in a pantsuit handing over keys to a family in one of Asgard's prefabricated housing developments. You notice that on the bottom right, the name 'Carla Von Hausen' is written."
-			"You see an advertisement for housing in Asgard. In the bottom corner you see the face of a familiar ${woman in a suit} with the name 'Carla Von Hausen' written right next to it."
+			"You see an advertisement of a ${woman in a suit} in a pantsuit handing over keys to a family in one of Asgard's prefabricated housing developments. You notice that on the bottom right, the name 'Carla von Hausen' is written."
+			"You see an advertisement for housing in Asgard. In the bottom corner you see the face of a familiar ${woman in a suit} with the name 'Carla von Hausen' written right next to it."
 
 phrase "woman in a suit"
 	word
@@ -59,7 +59,7 @@ news "CVH for sale sign"
 
 phrase "CVH for sale sign messages"
 	word
-		"You see an empty space for rent. The name 'Carla Von Hausen' is written on the sign, alongside the face of a woman."
+		"You see an empty space for rent. The name 'Carla von Hausen' is written on the sign, alongside the face of a woman."
 
 phrase "CVH for sale sign messages"
 	word
@@ -67,7 +67,7 @@ phrase "CVH for sale sign messages"
 	phrase
 		"woman in a suit"
 	word
-		" and the name 'Carla Von Hausen' written on it. It is an advertisement for "
+		" and the name 'Carla von Hausen' written on it. It is an advertisement for "
 	word
 		"housing in Asgard."
 		"an apartment in Asgard."
@@ -83,7 +83,7 @@ mission "CVH sales pitch 1"
 		planet "Asgard"
 	on offer
 	
-		log "Minor People" "Carla Von Hausen" "A property agent based on Asgard, Naos. She runs her own property agency. You have had multiple run-ins with her, whether it was her boarding your ship, her approaching you, or selling you an apartment."
+		log "Minor People" "Carla von Hausen" "A property agent based on Asgard, Naos. She runs her own property agency. You have had multiple run-ins with her, whether it was her boarding your ship, her approaching you, or selling you an apartment."
 
 		conversation
 			"	When you land on <origin> and open your hatch, a woman in a well-pressed green pantsuit rushes in, sitting on a nearby table."
@@ -93,7 +93,7 @@ mission "CVH sales pitch 1"
 				"	(Approach her.)"
 			
 			"	You walk over to the table where she is sitting at."
-			"	The unknown woman in the green pantsuit takes something from her pocket and hands it to you. It is yet another card. Her name, 'Carla Von Hausen', is written on it."
+			"	The unknown woman in the green pantsuit takes something from her pocket and hands it to you. It is yet another card. Her name, 'Carla von Hausen', is written on it."
 			`	"Hello!" She smiles at you. "<origin> is a really great place, isn't it? Have you reconsidered your decision to purchase a home?"`
 			choice
 				`	"No. I don't want a house."`
@@ -104,7 +104,7 @@ mission "CVH sales pitch 1"
 					goto homeIsAmongStars
 
 			label angrilyDemandLeave0
-			"	The unknown woman in the green pantsuit hands you her name card and leaves your ship. Her name was 'Carla Von Hausen'. You vaguely remember that when you were here earlier, she had approached you wanting to sell you a house."
+			"	The unknown woman in the green pantsuit hands you her name card and leaves your ship. Her name was 'Carla von Hausen'. You vaguely remember that when you were here earlier, she had approached you wanting to sell you a house."
 				goto closeHatch
 
 			label angrilyDemandLeave1
@@ -200,10 +200,10 @@ mission "CVH sales pitch 1"
 		payment -810000
 
 
-		log "I remember when Carla Von Hausen tried to sell me a house while I was sitting in a park in Helsingor. Today she approached me again. I bought a house from her for 810,000 credits."
+		log "I remember when Carla von Hausen tried to sell me a house while I was sitting in a park in Helsingor. Today she approached me again. I bought a house from her for 810,000 credits."
 
 	on decline
-		log "I remember when Carla Von Hausen tried to sell me a house while I was sitting in a park in Helsingor. Today she approached me again. I made it clear to her that I was not interested."
+		log "I remember when Carla von Hausen tried to sell me a house while I was sitting in a park in Helsingor. Today she approached me again. I made it clear to her that I was not interested."
 
 trade
 	commodity "Elaine's stuff"
@@ -263,14 +263,14 @@ mission "CVH customer moving house"
 					goto timeToGo
 			
 			label whoIsLandlord
-			`	"Her name is 'Carla Von Hausen'. I'm renting.", says Elaine.`
+			`	"Her name is 'Carla von Hausen'. I'm renting.", says Elaine.`
 
 			label timeToGo
 			`	"It's time to go", you say.`
 
 			label leaveShip
 			`	As a truck arrives outside your ship, several dockworkers enter and begin loading the cargo into the truck. Just as you and Elaine leave the ship, a woman in a red pantsuit approaches.`
-			`	As she approaches you, she identifies herself as 'Carla Von Hausen'.`
+			`	As she approaches you, she identifies herself as 'Carla von Hausen'.`
 			`	"Hello. I'm <first> <last>", you say.`
 			`	"Thank you very much, Captain <last>. I appreciate your help in getting my tenant and her stuff transported to Asgard.`
 			`	Carla and Elaine observe as the dockworkers load the cargo onto the truck. While the cargo is being loaded, a small van appears nearby.`
