@@ -49,6 +49,8 @@ news linuxUser.spaceportNews.1
 			" user"
 	message
 		word
+			`"`
+		word
 			"Anyone who uses "
 		phrase
 			badOperatingSystems
@@ -64,6 +66,8 @@ news linuxUser.spaceportNews.1
 		word
 			"."
 			"!"
+		word
+			`"`
 
 news linuxUser.spaceportNews.2
 	location
@@ -75,6 +79,8 @@ news linuxUser.spaceportNews.2
 		word
 			" user"
 	message
+		word
+			`"`
 		word
 			"Your "
 		word
@@ -94,6 +100,8 @@ news linuxUser.spaceportNews.2
 			"Well, you'll get far in life."
 			"You've made the right choice."
 			"Great. At least you're not a Windows user."
+		word
+			`"`
 
 news linuxUser.spaceportNews.3
 	location
@@ -105,6 +113,8 @@ news linuxUser.spaceportNews.3
 		word
 			" user"
 	message
+		word
+			`"`
 		word
 			"If you run "
 		phrase
@@ -120,6 +130,8 @@ news linuxUser.spaceportNews.3
 		word
 			"!"
 			"."
+		word
+			`"`
 
 phrase linuxUser.spaceportNews.3.phrases.switchToLinux
 	word
@@ -143,6 +155,8 @@ news linuxUser.spaceportNews.4
 			" user"
 	message
 		word
+			"`"
+		word
 			"Say no to "
 		phrase
 			badOperatingSystems
@@ -159,6 +173,8 @@ news linuxUser.spaceportNews.4
 		word
 			"."
 			"!"
+		word
+			"`"
 
 phrase linuxDistroNames
 	word

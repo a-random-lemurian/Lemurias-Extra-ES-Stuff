@@ -22,6 +22,10 @@ fleet spa.small
 	cargo 5
 	variant 30
 		"Amidala" 1
+	variant 30
+		"SPA Gunboat" 4
+		"SPA Cruiser" 2
+		"Skylance Amidala"
 	variant 20
 		"SPA Cruiser" 1
 	variant 40
@@ -104,6 +108,9 @@ fleet spa.medium
 		"SPA Rosas" 3
 	variant 15
 		"Amidala" 2
+	variant 5
+		"Skylance Amidala" 1
+		"SPA Cruiser" 3
 	variant 40
 		"SPA Kestrel" 4
 	variant 30
@@ -138,7 +145,7 @@ fleet spa.medium
 	variant 2
 		"Model 512" 4
 		"Model 256" 9
-	variant 550
+	variant 55
 		"SPA Cruiser (PFC)" 3
 
 	# Smugglers
@@ -198,10 +205,14 @@ fleet spa.large
 		"SPA Cruiser" 4
 	variant 50
 		"Falcon" 5
+	variant 35
+		"SPA Cruiser" 2
+		"Skylance Amidala" 5
 	variant 40
 		"Leviathan" 5
 	variant 20
 		"Emerald Sword" 2
+		"Skylance Amidala" 1
 	variant 35
 		"SPA Cruiser (Electron)" 2
 	variant 25

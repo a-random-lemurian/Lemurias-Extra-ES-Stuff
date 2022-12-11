@@ -73,3 +73,23 @@ mission fi.destroyCSSFpatrol.small.1.spa
 			variant
 				"Vanguard"
 				"Sparrow" 5
+
+news laateliWarn.neistat
+	location
+		system Illumina
+	name
+		word
+			Explorer
+	message
+		word
+			"Stay away from the Neistat system! That place is a warzone! Pirates and Republic ships in a never-ending fight. How did they even get those Bactrians?"
+
+news laateliPromote.neistatSalvage
+	location
+		system Illumina
+	name
+		word
+			"Salvage captain"
+	message
+		word
+			"The Neistat system has a fair amount of pirate Bactrians. You should go and board them! Big profits await!"
