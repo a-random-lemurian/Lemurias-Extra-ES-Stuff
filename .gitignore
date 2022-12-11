@@ -32,3 +32,4 @@ __pycache__
 !.gitignore
 !.gitattributes
 !.github
+!.pre-commit-config.yaml
