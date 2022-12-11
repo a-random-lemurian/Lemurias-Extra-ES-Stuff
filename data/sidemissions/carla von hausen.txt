@@ -197,6 +197,7 @@ mission "CVH sales pitch 1"
 	on accept
 		set "bought house from carla von hausen"
 		set "has house on asgard"
+		set "met carla von hausen"
 		payment -810000
 
 
