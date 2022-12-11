@@ -35,7 +35,7 @@ system Aixafer
 	trade Food 332
 	trade "Heavy Metals" 593
 	trade Industrial 713
-	trade "Luxury Goods" 1438 
+	trade "Luxury Goods" 1438
 	trade Plastic 487
 	trade Medical 736
 	trade Metal 511
@@ -157,7 +157,7 @@ system Alkxaai
 	trade Food 305
 	trade "Heavy Metals" 613
 	trade Industrial 783
-	trade "Luxury Goods" 1562 
+	trade "Luxury Goods" 1562
 	trade Plastic 440
 	trade Medical 776
 	trade Metal 543
@@ -270,7 +270,7 @@ system Denleitt
 		sprite planet/earth
 		distance 1073
 		period 412
-	object 
+	object
 		sprite planet/forest0
 		distance 1553
 		period 544
@@ -278,7 +278,7 @@ system Denleitt
 		sprite planet/forest6
 		distance 2133
 		period 766
-		
+
 
 system Duffeni
 	pos -899.22222 -173.80556
@@ -301,7 +301,7 @@ system Duffeni
 	trade Food 304
 	trade "Heavy Metals" 643
 	trade Industrial 733
-	trade "Luxury Goods" 1502 
+	trade "Luxury Goods" 1502
 	trade Medical 790
 	trade Metal 665
 	trade Plastic 448
@@ -951,7 +951,7 @@ system Lesarkei
 	link Minjuuk
 	attributes "illumina regions"
 	arrival 1700
-	object 
+	object
 		sprite star/g0
 		distance 0
 		period 0
@@ -1272,7 +1272,7 @@ system Oldothe
 	trade Food 393
 	trade "Heavy Metals" 621
 	trade Industrial 793
-	trade "Luxury Goods" 1102 
+	trade "Luxury Goods" 1102
 	trade Plastic 393
 	trade Medical 736
 	trade Metal 555
@@ -1370,7 +1370,7 @@ system Raidei
 		sprite "planet/gas5"
 		distance 2123
 		period 572
-		
+
 
 
 ### S
@@ -1547,7 +1547,7 @@ system Sedlai
 		sprite star/k0
 		distance 0
 		period 0
-	object 
+	object
 		sprite planet/lava4
 		distance 388
 		period 123
@@ -1698,15 +1698,15 @@ system Zarkxaa
 		sprite planet/cloud2-b
 		distance 887
 		period 409
-	object 
+	object
 		sprite planet/cloud3
 		distance 1775
 		period 709
-	object 
+	object
 		sprite planet/ice1
 		distance 2443
 		period 1033
-	object 
+	object
 		sprite planet/desert3
 		distance 4096
 		period 1309
@@ -1720,7 +1720,7 @@ system Zarkxaa
 	trade Food 364
 	trade "Heavy Metals" 653
 	trade Industrial 739
-	trade "Luxury Goods" 1477 
+	trade "Luxury Goods" 1477
 	trade Plastic 433
 	trade Medical 746
 	trade Metal 511
@@ -1729,11 +1729,11 @@ system Zusul
 	link Akore
 	attributes "illumina regions"
 	arrival 700
-	object 
+	object
 		sprite star/g0
 		distance 539
 		period 217
-	object 
+	object
 		sprite planet/rock12
 		distance 886
 		period 321
@@ -2015,7 +2015,7 @@ planet "Kestrix I"
 	attributes moon
 	description "This is a moon of the gas giant named Kestrix. Piracy runs rampant here on this world, and many pirates here have their guns pointed at you. Kestrix I is the most run-down of the three, where crews subservient to the inhabitants of Kestrix II and III live and toil. Arbitrary executions for even the smallest of mistakes are routine here, and no mercy is given."
 	spaceport "The spaceport is rundown and the conditions here are the worst of the other Kestrix moons. Food here is overpriced and sold by men who look like they're from either Kestrix II or III. Occasionally, one of the locals attempts to steal some food, but they are mercilessly executed. You decide to ignore all of this."
-	
+
 planet "Kestrix II"
 	attributes kestrix
 	landscape "land/kestrix2"

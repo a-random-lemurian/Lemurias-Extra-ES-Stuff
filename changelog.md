@@ -272,7 +272,7 @@ This is honestly a lot of content to work on. We hope that this release makes yo
 - New variants:
    - Added the SPA Gunboat with proton guns
    - Added the SPA Cruiser, with more turrets than a normal Cruiser.
-   - Added 
+   - Added
 - Pirate ships now use vanilla names
 - Bug fixes:
    - Fix incorrect fleet names

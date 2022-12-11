@@ -424,4 +424,3 @@ mission animeorg.transportFromHS.spa.10
 		on complete
 						payment 88000 40
 						dialog phrase animeorg.transportFromHS.complete
-

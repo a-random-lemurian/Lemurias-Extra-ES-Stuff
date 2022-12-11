@@ -18,7 +18,7 @@ This Endless Sky plugin may contain traces of the Hai ambassador "Sayari". Expos
 Additional effects include a cease and desist letter from anti-gaming groups (rare), and for developers, overload of any MongoDB databases, bill shock if GitHub autopay is on and price is based upon your use of storage and computing power, being denied access to APIs and web services due to storing excessive photos of Sayari, writing too much code that keeps track of Sayari, sending too many requests for a search for Sayari, and excessive posting of Sayari images to aforementioned web services (Stack Overflow, Discord, animal forums, r/aww, r/squirrel, subreddits related to squirrels) respectively.
 
 > I've never seen someone simp so hard for a digital squirrel alien
-> 
+>
 > Hyugatha #FixFighters, Endless Sky discord server
 
 
@@ -38,7 +38,7 @@ Contact:          Lemuria#0685 (Discord)
 Can't find the attribution for your image? Use the search feature of your code editor or whatever program you're using to read this.
 
 To make it easier to contact the author, you may join the Endless Sky discord server at: https://discord.com/invite/ZeuASSx
-             
+
 ## Pictures
 
 ### Planet landscape images
@@ -125,6 +125,3 @@ https://en.wikipedia.org/wiki/File:Blue_Marble_2002.png
 ## Other
 * This plugin contains copy-pasted code in map.txt from the base game, specifically the Sol System's code.
 * This plugin is written in Endless Sky Data Language using Visual Studio Code.
-
-
-

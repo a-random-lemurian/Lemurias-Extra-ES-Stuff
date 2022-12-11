@@ -50,18 +50,18 @@ person "Liz Cheney"
 			"Sidewinder Missile Launcher" 2
 			"Sidewinder Missile" 90
 			"Heavy Anti-Missile Turret" 2
-			
+
 			"KP-6 Photovoltaic Array" 4
 			"LP036a Battery Pack"
 			"D94-YV Shield Generator"
 			"Small Radar Jammer" 3
 			"Luxury Accommodations"
-			
+
 			"X3700 Ion Thruster"
 			"X2200 Ion Steering"
 			"AR120 Reverse Thruster"
 			"Hyperdrive"
-			
+
 		engine -18.5 115
 		engine 18.5 115
 		"reverse engine" -19 51
@@ -83,5 +83,3 @@ person "Liz Cheney"
 		description "The Star Queen is a relic of a more peaceful period of galactic history: a luxury liner for high-end tourists. Every cabin has its own mini-bar, and the bathrooms have marble tile and showers that use actual hot water instead of chemicals or sonic vibrations."
 		description "	In support of environmental movements across the galaxy, all Star Queens come standard with an array of solar panels as their only source of energy as opposed to more popular power generators such as fuel cells or nuclear reactors that produce some amount of waste. Although some argue that this is a pointless move given the prevalence of clean fusion reactors, others have applauded it and cited the prohibitive costs of fusion reactors as a reason for using solar panels."
 		description "	This particular Star Queen belongs to Liz Cheney, who resided on a region of Earth known as the United States during the pre-hyperdrive era."
-
-

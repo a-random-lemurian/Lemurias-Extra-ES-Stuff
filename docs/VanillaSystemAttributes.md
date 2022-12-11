@@ -6,7 +6,7 @@ System attributes:
 "saryd" "south" "void sprites" "wolf-rayet" "wormhole"
 
 
-Planet attributes: 
+Planet attributes:
 
 "arach" "coalition station" "core" "core pirate" "deep"
 "dirt belt" "efret" "emitter" "factory" "farming"

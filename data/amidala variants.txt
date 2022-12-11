@@ -48,7 +48,7 @@ ship "Amidala"
 		"Heavy Laser Turret" 10
 		"Energy Blaster" 8
 		"Korath Warder" 2
-		
+
 		"Antimatter Core" 2
 		"Nanotech Battery" 4
 
@@ -57,7 +57,7 @@ ship "Amidala"
 		`"Bufaer" Atomic Thruster`
 		`"Bufaer" Atomic Steering`
 		Hyperdrive
-	
+
 	engine -24 237
 	engine 24 237
 	engine 0 237
@@ -127,7 +127,7 @@ ship "Amidala" "Amidala Miner"
 	outfits
 		"Korath Slicer" 4
 		"Korath Warder" 2
-		
+
 		"Antimatter Core" 2
 		"Nanotech Battery" 4
 
@@ -136,7 +136,7 @@ ship "Amidala" "Amidala Miner"
 		`"Bufaer" Atomic Thruster`
 		`"Bufaer" Atomic Steering`
 		Hyperdrive
-	
+
 	engine -24 237
 	engine 24 237
 	engine 0 237

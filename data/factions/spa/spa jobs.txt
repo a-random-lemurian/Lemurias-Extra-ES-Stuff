@@ -150,7 +150,7 @@ phrase "SPA salespeople complete, always gender-neutral"
 	word
 		"You see some mysterious people chase them." 30
 		"" 70
-	
+
 mission spa.salespeopleTransport.1
 	name "<bunks> SPA salespeople to <system>"
 	description "Transport <bunks> SPA salespeople to <planet>, <system> for <payment>."
