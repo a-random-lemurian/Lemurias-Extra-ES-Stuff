@@ -205,3 +205,95 @@ mission "CVH sales pitch 1"
 
 	on decline
 		log "I remember when Carla Von Hausen tried to sell me a house while I was sitting in a park in Helsingor. Today she approached me again. I made it clear to her that I was not interested."
+
+trade
+	commodity "Elaine's stuff"
+		"Elaine's stuff"
+
+mission "CVH customer moving house"
+	to offer
+		has "Home for Skadenga 3: done"
+		"cargo space" > 7
+		#random > 80
+	source
+		distance 2 5
+		attributes "deep"
+		not attributes "station"
+	destination
+		planet "Asgard"
+	cargo "Elaine's stuff" 4 6
+	on offer
+		conversation
+			"	As you walk to the spaceport, a woman approaches you."
+			`	"Captain?", she says.`
+			choice
+				`	"Leave me alone!"`
+					decline
+				`	"Yes?"`
+					goto explain
+
+			label explain
+			"	I'm moving to <destination> soon. I just want a captain who will transport me and my stuff. It should be roughly <tons>."
+			choice
+				`	"Sorry, I'm not headed there right now."`
+					decline
+				`	"I can transport you."`
+					goto canTransportYou
+				`	"How much are you willing to pay me?"`
+					goto askAboutPayment
+
+			label askAboutPayment
+			`	"I can pay you <payment>.", explains the woman.`
+			choice
+				`	"Okay, I will be willing to transport you."`
+					goto canTransportYou
+				`	"Sorry, but I can't take a job for that amount of money."`
+					decline
+
+			label canTransportYou
+			`	"Great!", says the woman. "I'll load my cargo onto your ship.". A few dockworkers arrive and begin loading what looks like her items into the hatch. With the items loaded, you show the woman her bunk as you go to the bridge. "Oh, and the name's Elaine".`
+				accept
+
+	on complete
+		conversation
+			"	Your ship enters the atmosphere of Asgard. As you land on the spaceport and prepare to open the hatch, you approach the woman.."
+			choice
+				`	"So by any chance, who's your landlord?"`
+					goto whoIsLandlord
+				`	"We're here. Time to go."`
+					goto timeToGo
+			
+			label whoIsLandlord
+			`	"Her name is 'Carla Von Hausen'. I'm renting.", says Elaine.`
+
+			label timeToGo
+			`	"It's time to go", you say.`
+
+			label leaveShip
+			`	As a truck arrives outside your ship, several dockworkers enter and begin loading the cargo into the truck. Just as you and Elaine leave the ship, a woman in a red pantsuit approaches.`
+			`	As she approaches you, she identifies herself as 'Carla Von Hausen'.`
+			`	"Hello. I'm <first> <last>", you say.`
+			`	"Thank you very much, Captain <last>. I appreciate your help in getting my tenant and her stuff transported to Asgard.`
+			`	Carla and Elaine observe as the dockworkers load the cargo onto the truck. While the cargo is being loaded, a small van appears nearby.`
+			`	"Want to join us?", asks Carla.`
+			choice
+				`	"Sure, I'd love to go with you."`
+					goto accompanyThem
+				`	"No, I'm going on my own now."`
+					decline
+
+			label accompanyThem
+			`	The three of you board the van. The truck begins departing the spaceport, while the van follows. Eventually, you arrive at your destination. The three of you then leave the van. Another van that you haven't noticed stops nearby. A group of workers begin unloading the cargo, while another group lays down protective covers on the walls, floor, and elevator interior, to prevent scratches.`
+			`	"Greetings to all residents! A new tenant is moving into your block. We apologize for the noise and inconvenience.", says one of the workers over a loudspeaker.`
+			`	Elaine then approaches you, and hands you something from her pocket. It is a credit chip containing <payment>. You wave goodbye to Carla and Elaine as they disappear, presumably to walk to the apartment.`
+			`	"<first>! Do you need a lift back to the spaceport?", asks the driver of the small van, in a significantly raised voice.`
+			choice
+				`	"Yes, please!"`
+					goto journeyBackToSpaceport
+			
+			label journeyBackToSpaceport
+			"You enter the van, asking the driver to take you to the spaceport. After a short ride, you enter your ship, as you begin to ponder your next move."
+				decline
+
+		set "met carla von hausen"
+		payment 76000
