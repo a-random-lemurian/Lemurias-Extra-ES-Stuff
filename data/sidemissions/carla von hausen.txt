@@ -41,7 +41,6 @@ phrase "woman in a suit"
 	word
 		" suit" 100
 		" pantsuit" 100
-		" pants suit" 100
 		" suit jacket" 80
 		" blazer" 70
 
