@@ -129,4 +129,3 @@ mission "Nature Reserve Species Import [4]"
 	on complete
 		payment 7600 190
 		dialog phrase "Nature Reserve Species Import Complete"
-

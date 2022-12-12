@@ -111,8 +111,6 @@ phrase spa.hails.friendly.sp1
 		"We appreciate your presence here."
 		"Long live our great Ambassador!"
 		"It is great that you have chosen not to associate yourself with the CSSF."
-		"Join us in glorious combat against the CSSF at Orbona!"
-		"Do your patriotic duty - hold off the CSSF fleets at Orbona!"
 
 
 phrase spa.hails.friendly.sp2

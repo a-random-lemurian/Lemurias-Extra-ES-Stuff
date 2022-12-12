@@ -470,4 +470,3 @@ fleet spa.war.illuminaReg.small.1
 		"Amidala" 2
 	variant 25
 		"SPA Cruiser" 1
-

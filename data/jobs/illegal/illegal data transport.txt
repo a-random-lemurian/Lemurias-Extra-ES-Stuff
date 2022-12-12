@@ -97,4 +97,3 @@ mission "Data Transport - Small, Illegal [2]"
 	on complete
 		payment 76000 340
 		dialog phrase "Illegal Data Transport Completion"
-

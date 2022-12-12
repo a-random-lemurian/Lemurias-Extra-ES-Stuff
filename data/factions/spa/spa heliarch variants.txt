@@ -27,7 +27,7 @@ ship "Heliarch Punisher" "SPA Heliarch Punisher"
 	outfits
 		"Ion Rain Gun" 6
 		"Ion Hail Turret" 4
-		
+
 		"Large Reactor Module" 2
 		"Large Battery Module"
 		"Overcharged Shield Module" 2
@@ -40,7 +40,7 @@ ship "Heliarch Punisher" "SPA Heliarch Punisher"
 		"Large Steering Module" 2
 		"Small Steering Module" 2
 		"Hyperdrive"
-	
+
 	engine -24 184 .6
 	engine 0 187 1.1
 	engine 24 184 .6
@@ -91,7 +91,7 @@ ship "Heliarch Breacher" "SPA Heliarch Breacher"
 	outfits
 		"Ion Rain Gun" 3
 		"Bombardment Turret"
-		
+
 		"Small Reactor Module" 2
 		"Small Battery Module" 2
 		"Overcharged Shield Module"
@@ -99,12 +99,12 @@ ship "Heliarch Breacher" "SPA Heliarch Breacher"
 		"Cooling Module" 2
 		"Enforcer Riot Staff" 8
 		"Enforcer Confrontation Gear" 6
-		
+
 		"Large Thrust Module"
 		"Small Thrust Module" 3
 		"Small Steering Module"
 		"Hyperdrive"
-	
+
 	engine 0 85 .9
 	engine -19 78 .7
 	engine 19 79 .7
@@ -147,7 +147,7 @@ ship "Heliarch Hunter" "SPA Heliarch Hunter"
 	outfits
 		"Proton Gun" 3
 		"Ion Hail Turret" 2
-		
+
 		"Large Reactor Module"
 		"Large Battery Module"
 		"Overcharged Shield Module"
@@ -155,13 +155,13 @@ ship "Heliarch Hunter" "SPA Heliarch Hunter"
 		"Cooling Module" 2
 		"Enforcer Riot Staff" 25
 		"Enforcer Confrontation Gear" 13
-		
+
 		"Large Thrust Module" 2
 		"Small Thrust Module"
 		"Large Steering Module"
 		"Small Steering Module" 2
 		"Scram Drive"
-	
+
 	engine -5.5 103 .1
 	engine 5.5 103 .1
 	engine -25 113 .8
@@ -207,7 +207,7 @@ ship "Heliarch Interdictor" "SPA Heliarch Interdictor"
 	outfits
 		"Ion Rain Gun" 2
 		"Ion Hail Turret" 2
-		
+
 		"Large Reactor Module"
 		"Large Battery Module"
 		"Overcharged Shield Module"
@@ -215,11 +215,11 @@ ship "Heliarch Interdictor" "SPA Heliarch Interdictor"
 		"Cooling Module" 2
 		"Enforcer Riot Staff" 28
 		"Enforcer Confrontation Gear" 30
-		
+
 		"Large Thrust Module" 2
 		"Large Steering Module" 2
 		"Hyperdrive"
-	
+
 	engine -30 163 .5
 	engine -20 163 .85
 	engine 20 163 .85
@@ -264,7 +264,7 @@ ship "Heliarch Judicator" "SPA Heliarch Judicator"
 	outfits
 		"Ion Rain Gun" 2
 		"Ion Hail Turret"
-		
+
 		"Large Reactor Module"
 		"Small Battery Module"
 		"Large Battery Module"
@@ -273,13 +273,13 @@ ship "Heliarch Judicator" "SPA Heliarch Judicator"
 		"Cooling Module" 2
 		"Enforcer Riot Staff" 83
 		"Enforcer Confrontation Gear" 49
-		
+
 		"Small Thrust Module" 2
 		"Small Steering Module"
 		"Large Thrust Module" 2
 		"Large Steering Module"
 		"Scram Drive"
-	
+
 	engine -33 108 .5
 	engine -17 163 .7
 	engine 17 163 .7
@@ -329,7 +329,7 @@ ship "Heliarch Neutralizer" "SPA Heliarch Neutralizer"
 			"hit force" 2100
 	outfits
 		"Ion Rain Gun" 4
-		
+
 		"Small Reactor Module" 2
 		"Large Battery Module"
 		"Overcharged Shield Module"
@@ -337,13 +337,13 @@ ship "Heliarch Neutralizer" "SPA Heliarch Neutralizer"
 		"Cooling Module"
 		"Enforcer Riot Staff" 9
 		"Enforcer Confrontation Gear" 11
-		
+
 		"Large Thrust Module"
 		"Small Thrust Module" 2
 		"Large Steering Module"
 		"Small Steering Module" 2
 		"Hyperdrive"
-	
+
 	engine -17 82 .7
 	engine 0 74 1
 	engine 17 82 .7

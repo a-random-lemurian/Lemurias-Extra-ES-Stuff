@@ -185,4 +185,3 @@ phrase linuxDistroNames
 		"Arch"
 		"Arch Linux"
 		"Pop! OS"
-		""

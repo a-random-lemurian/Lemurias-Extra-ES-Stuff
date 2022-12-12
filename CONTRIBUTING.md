@@ -12,5 +12,3 @@ soon as possible.
   organise, defense not defence, color not colour. This
   is consistent with vanilla, which uses en-US with a
   few exceptions (like dialog).
-
-

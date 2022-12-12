@@ -47,7 +47,7 @@ mission debianHatRetrieval.conversation.begin
 		government "Republic" "Syndicate" "Free Worlds"
 	to offer
 		"<name>" == "Debian" # Ship must be named Debian
-		
+
 		# And your pilot name must be "Ian Murdock", the founder of Debian.
 		"<first>" == "Ian"
 		"<last>" == "Murdock"
@@ -75,7 +75,7 @@ mission debianHatRetrieval.conversation.begin
 			choice
 				`	"Yes, that's what my ship runs."`
 					goto shipUsesLinux
-				
+
 				`	"No, I haven't."`
 					goto doesNotUseLinux
 
@@ -260,4 +260,3 @@ mission "Debian hat pickup [3]"
 	on complete
 		payment 7600 340
 		dialog phrase "Debian hat pickup complete"
-

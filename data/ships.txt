@@ -47,7 +47,7 @@ ship "Hauler III" "SPA Hauler III"
 		"D23-QP Shield Generator"
 		"Large Heat Shunt" 2
 		"SPA Scan Blocker" 5
-		
+
 		"A250 Atomic Thruster"
 		"A255 Atomic Steering"
 		"Hyperdrive"
@@ -113,17 +113,17 @@ ship "Aerie" "Aerie Miner"
 	outfits
 		"Heavy Laser" 2
 		"Heavy Laser Turret" 4
-		
+
 		"NT-200 Nucleovoltaic"
 		"KP-6 Photovoltaic Panel" 2
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"
 		"Laser Rifle" 3
-		
+
 		"A370 Atomic Thruster"
 		"A375 Atomic Steering"
 		"Hyperdrive"
-		
+
 	engine 0 91
 	gun -13 -79 "Heavy Laser"
 	gun 13 -79 "Heavy Laser"
@@ -169,11 +169,11 @@ ship "Gunboat" "SPA Gunboat"
 	outfits
 		"Heavy Laser" 2
 		"Heavy Laser Turret"
-		
+
 		"Red Sun Reactor"
 		"LP144a Battery Pack" 1
 		"Hai Corundum Regenerator" 1
-		
+
 		`"Biroo" Atomic Thruster` 1
 		`"Biroo" Atomic Steering` 1
 		"Hyperdrive" 1
@@ -181,7 +181,7 @@ ship "Gunboat" "SPA Gunboat"
 		"SPA Scan Blocker" 5
 
 		"Large Hybrid Cooling" 1
-		
+
 	engine -12 57.5 0.7
 	engine 12 57.5 0.7
 	gun -28.5 -27.5 "Heavy Laser"
@@ -225,11 +225,11 @@ ship "Gunboat" "SPA Gunboat (Proton Gun)"
 	outfits
 		"Proton Gun" 2
 		"Proton Turret"
-		
+
 		"Red Sun Reactor"
 		"LP144a Battery Pack" 1
 		"Hai Corundum Regenerator" 1
-		
+
 		`"Biroo" Atomic Thruster` 1
 		`"Biroo" Atomic Steering` 1
 		"Hyperdrive" 1
@@ -238,7 +238,7 @@ ship "Gunboat" "SPA Gunboat (Proton Gun)"
 		"Interference Plating" 2
 
 		"Large Hybrid Cooling" 1
-		
+
 	engine -12 57.5 0.7
 	engine 12 57.5 0.7
 	gun -28.5 -27.5 "Proton Gun"
@@ -280,11 +280,11 @@ ship "Gunboat" "SPA Gunboat (Blaze-Pike)"
 			"hit force" 1080
 	outfits
 		"Blaze-Pike Turret" 3
-		
+
 		"Red Sun Reactor"
 		"LP144a Battery Pack" 1
 		"Hai Corundum Regenerator" 1
-		
+
 		`"Biroo" Atomic Thruster` 1
 		`"Biroo" Atomic Steering` 1
 		"Hyperdrive" 1
@@ -293,7 +293,7 @@ ship "Gunboat" "SPA Gunboat (Blaze-Pike)"
 		"Interference Plating" 2
 
 		"Large Hybrid Cooling" 1
-		
+
 	engine -12 57.5 0.7
 	engine 12 57.5 0.7
 	turret -28.5 -27.5 "Blaze-Pike Turret"
@@ -336,7 +336,7 @@ ship "Cruiser" "SPA Cruiser"
 	outfits
 		"Heavy Laser" 6
 		"Heavy Laser Turret" 6
-		
+
 		"Blue Sun Reactor" 1
 		"LP576a Battery Pack" 2
 		"Hai Diamond Regenerator"
@@ -348,7 +348,7 @@ ship "Cruiser" "SPA Cruiser"
 
 		"Jump Drive"
 		"Hyperdrive"
-	
+
 	engine -52 151 0.75
 	engine -28 154 0.95
 	engine   0 154 0.5
@@ -416,7 +416,7 @@ ship "Cruiser" "SPA Cruiser (PFC)"
 	outfits
 		"Prototype Fusion Cannon" 2
 		"Electron Turret" 4
-		
+
 		"Blue Sun Reactor" 1
 		"LP576a Battery Pack" 2
 		"Hai Diamond Regenerator"
@@ -428,7 +428,7 @@ ship "Cruiser" "SPA Cruiser (PFC)"
 
 		"Jump Drive"
 		"Hyperdrive"
-	
+
 	engine -52 151 0.75
 	engine -28 154 0.95
 	engine   0 154 0.5
@@ -490,7 +490,7 @@ ship "Cruiser" "SPA Cruiser (Blaze-Pike)"
 	outfits
 		"Heavy Laser" 6
 		"Blaze-Pike Turret" 6
-		
+
 		"Blue Sun Reactor" 1
 		"LP576a Battery Pack" 2
 		"Hai Diamond Regenerator"
@@ -502,7 +502,7 @@ ship "Cruiser" "SPA Cruiser (Blaze-Pike)"
 
 		"Jump Drive"
 		"Hyperdrive"
-	
+
 	engine -52 151 0.75
 	engine -28 154 0.95
 	engine   0 154 0.5
@@ -571,7 +571,7 @@ ship "Cruiser" "SPA Cruiser (Electron)"
 		"Electron Beam" 6
 		"Heavy Anti-Missile Turret" 2
 		"Electron Turret" 4
-		
+
 		"Blue Sun Reactor" 1
 		"LP576a Battery Pack" 2
 		"Hai Diamond Regenerator"
@@ -582,7 +582,7 @@ ship "Cruiser" "SPA Cruiser (Electron)"
 
 		"Jump Drive"
 		"Hyperdrive"
-	
+
 	engine -52 151 0.75
 	engine -28 154 0.95
 	engine   0 154 0.5
@@ -650,7 +650,7 @@ ship "Cruiser" "SPA Cruiser (Ion)"
 	outfits
 		"Ion Cannon" 6
 		"Heavy Anti-Missile Turret" 6
-		
+
 		"Outfit Expansion" 1
 
 		"Blue Sun Reactor" 1
@@ -663,7 +663,7 @@ ship "Cruiser" "SPA Cruiser (Ion)"
 
 		"Jump Drive"
 		"Hyperdrive"
-	
+
 	engine -52 151 0.75
 	engine -28 154 0.95
 	engine   0 154 0.5
@@ -733,7 +733,7 @@ ship "Cruiser" "SPA Cruiser (Korath Slicer)"
 		"Korath Slicer" 6
 		"Korath Slicer Turret" 3
 		"Heavy Anti-Missile Turret" 3
-		
+
 		"Blue Sun Reactor" 1
 		"LP576a Battery Pack" 2
 		"Hai Diamond Regenerator"
@@ -744,7 +744,7 @@ ship "Cruiser" "SPA Cruiser (Korath Slicer)"
 
 		"Jump Drive"
 		"Hyperdrive"
-	
+
 	engine -52 151 0.75
 	engine -28 154 0.95
 	engine   0 154 0.5
@@ -813,7 +813,7 @@ ship "Cruiser" "SPA Cruiser (Particle Cannon)"
 	outfits
 		"Particle Cannon" 6
 		"Heavy Anti-Missile Turret" 6
-		
+
 		"Blue Sun Reactor" 1
 		"LP576a Battery Pack" 2
 		"Hai Diamond Regenerator"
@@ -824,7 +824,7 @@ ship "Cruiser" "SPA Cruiser (Particle Cannon)"
 
 		"Jump Drive"
 		"Hyperdrive"
-	
+
 	engine -52 151 0.75
 	engine -28 154 0.95
 	engine   0 154 0.5
@@ -893,17 +893,17 @@ ship "Carrier" "SPA Carrier (Combat)"
 	outfits
 		"Electron Beam" 8
 		"Electron Turret" 4
-		
+
 		"Blue Sun Reactor" 2
 		"LP288a Battery Pack" 3
 		"Hai Diamond Regenerator" 4
 		"Large Heat Shunt" 2
-		
+
 		"A860 Atomic Thruster"
 		"A865 Atomic Steering"
 		"Hyperdrive"
 		"Jump Drive"
-		
+
 	engine -36.5 200 0.65
 	engine  36.5 200 0.65
 
@@ -1034,11 +1034,11 @@ ship "Skein" "SPA Skein"
 	outfits
 		"Heavy Laser" 2
 		"Heavy Laser Turret" 4
-		
+
 		"S3 Thermionic"
 		"LP072a Battery Pack"
 		"D67-TM Shield Generator" 4
-		
+
 		"A250 Atomic Thruster"
 		"A255 Atomic Steering"
 		"Hyperdrive"
@@ -1166,7 +1166,7 @@ ship "Kestrel" "SPA Kestrel (Proton)"
 		"LP144a Battery Pack"
 		"Liquid Nitrogen Cooler"
 		"Outfits Expansion" 2
-	
+
 	gun -73.5 46   "Proton Gun"
 	gun -76.5 49   "Proton Gun"
 	gun 73.5 46    "Proton Gun"
@@ -1215,14 +1215,14 @@ ship "SPA Rosas"
 		"Nanotech Battery"
 
 		"Large Heat Shunt"
-		
+
 		"Smelter-Class Thruster"
 		"Smelter-Class Steering"
 
 		"SPA Scan Blocker" 10
 
 		"Hyperdrive"
-		
+
 	engine -13 198 .7
 	engine 0 199 1
 	engine 13 198 .7
@@ -1237,4 +1237,3 @@ ship "SPA Rosas"
 	explode "large explosion" 20
 	"final explode" "final explosion large"
 	description `The Rosas-class freighter ("Rosas" meaning "pink" in Tagalog) is a large-scale plushie smuggling ship, meant as a replacement for the Syndicate Bulk Freighter. It may be a freighter but it is classified as a Medium Warship due to its armanent. `
-

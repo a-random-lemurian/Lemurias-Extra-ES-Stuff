@@ -34,7 +34,7 @@ mission animeorg.landing
 
 				`"No, I don't feel like it."`
 					decline
-			
+
 			label accepted
 			"You decide to attend the screening."
 			choice
