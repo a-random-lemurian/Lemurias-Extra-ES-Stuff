@@ -55,7 +55,7 @@ phrase visit.sayariPlushie
 phrase spoiledChild.Comp
 	word
 		"The parents and their only child depart your ship, while the kid (who you believe is spoiled based on"
-	phrase 
+	phrase
 		genderPronouns.third
 	word
 		" behavior throughout the entire ride) screams at you for no reason at all. The parents notice this and drag their child off the ship. You suddenly receive a notification on your datapad that they have transferred the promised <payment>."

@@ -15,7 +15,7 @@
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
-trade 
+trade
 	commodity "Illegal data"
 		"stolen usernames and passwords"
 		"stolen data"
@@ -67,8 +67,8 @@ trade
 		"Lua source code files"
 
 	commodity "4th wall breaker"
-		"Endless Sky game files"  
-	
+		"Endless Sky game files"
+
 	commodity "Sayari goodies"
 		"Sayari plushies"
 		"Sayari merchandise"
@@ -96,7 +96,7 @@ trade
 
 	commodity "Debian hat"
 		"Debian hats"
-	
+
 	commodity "Nature reserve imports"
 		"plant seeds"
 		"plants"

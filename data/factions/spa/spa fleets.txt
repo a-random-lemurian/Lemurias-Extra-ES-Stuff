@@ -235,4 +235,4 @@ fleet spa.large
 	# Smugglers
 	variant 3
 		"Auxiliary (Cargo)" 9
-		"SPA Gunboat" 5	
+		"SPA Gunboat" 5

@@ -228,7 +228,7 @@ system Repolitea
 		sprite "star/g0"
 		distance 0
 		period 0
-	object 
+	object
 		sprite "planet/rock12"
 		distance 504
 		period 200
@@ -252,7 +252,7 @@ system Repolitea
 			sprite "planet/station5"
 			distance 500
 			period 24
-	object 
+	object
 		sprite "planet/gas11"
 		distance 4599
 		period 577
@@ -260,7 +260,7 @@ system Repolitea
 			sprite "planet/station1"
 			distance 439
 			period 16
-	object 
+	object
 		sprite "planet/gas4"
 		distance 7304
 		period 708
@@ -268,7 +268,7 @@ system Repolitea
 			sprite "planet/station5"
 			distance 338
 			period 16
-	object 
+	object
 		sprite "planet/gas7"
 		distance 13440
 		period 901
@@ -1433,7 +1433,7 @@ system Airuka
 	trade Industrial 490
 	trade "Luxury Goods" 943
 	trade Medical 321
-	trade Metal 411 
+	trade Metal 411
 	trade Plastic 438
 	government "Republic"
 	object
@@ -2056,7 +2056,7 @@ system Vefrua
 		sprite "planet/gas11"
 		distance 9013
 		period 1745.33
-		object 
+		object
 			sprite "planet/rock4"
 			distance 431
 			period 74.211
@@ -2675,7 +2675,7 @@ system Vabchra
 		sprite "planet/rock8-b"
 		distance 1330.67
 		period 144.50
-	object 
+	object
 		sprite "planet/rock13"
 		distance 2704.13
 		period 255.87
@@ -2749,7 +2749,7 @@ system Mirus
 		sprite "planet/rock4"
 		distance 416.75
 		period 211.40
-	object 
+	object
 		sprite "planet/rock9"
 		distance 681.33
 		period 362.67611
@@ -3473,7 +3473,7 @@ system Vaidanu
 	arrival 700
 	object
 		sprite "star/m0"
-		distance 0 
+		distance 0
 		period 9
 	object
 		sprite "planet/rock1"
@@ -3486,7 +3486,7 @@ system Zerted
 	link Mosiato
 	attributes "pelitol cluster"
 	arrival 1200
-	object 
+	object
 		sprite "star/g3"
 		distance 0.304
 		period 9.08
@@ -3652,7 +3652,7 @@ system "Vator Comparum"
 	object
 		sprite "planet/rock2"
 		distance 1180.95
-		period 433.50 
+		period 433.50
 
 system Meursa
 	pos -8042.5135 -353.28422

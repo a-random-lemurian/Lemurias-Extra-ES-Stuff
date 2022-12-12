@@ -17,6 +17,7 @@
 - Grammar and typo fixes.
    - Added the missing word "one" to Tarsia's description.
 - Suerolli, Illumina, Illuria, and Jarkiiens are now SPA property. They are no longer under the control of the Republic.
+- Added a SPA variant of the Quarg Skylance so their agents (and you, if you somehow manage to acquire a SPA Outfits License) will not be imprisoned by the Quarg.
 
 ### v0.10.14 (2022-10-19)
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
@@ -272,7 +273,7 @@ This is honestly a lot of content to work on. We hope that this release makes yo
 - New variants:
    - Added the SPA Gunboat with proton guns
    - Added the SPA Cruiser, with more turrets than a normal Cruiser.
-   - Added 
+   - Added
 - Pirate ships now use vanilla names
 - Bug fixes:
    - Fix incorrect fleet names

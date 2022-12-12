@@ -157,7 +157,7 @@ mission "Hidalgo Shrine landing"
 			label academieFrancaise
 			`	"No, they're still based on Earth. Maybe someday they will relocate here, but so far no word from them at all. If you find yourself interested in the French language, there is a French language learning school here, and I'm sure a bookstore here sells French dictionaries."`
 				goto questions
-			
+
 			label hungry
 			`	"Our shrine has a lot of food options. Obviously, we sell French food items such as baguettes, croissants, and cheese. We also have non-French food items, the usual stuff you'd see in any spaceport."`
 				goto questions

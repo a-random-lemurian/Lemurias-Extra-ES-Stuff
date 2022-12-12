@@ -80,7 +80,7 @@ phrase "hostile hidalgo shrine"
 phrase "consequences for insulting anne"
 	word
 		"and "
-	word 
+	word
 		"it's too late to apologize"
 		"it's too late to say sorry."
 		"you will die for it."
@@ -89,4 +89,3 @@ phrase "consequences for insulting anne"
 		"you've blown all your chances."
 		"you can no longer be forgiven."
 		"you can no longer be trusted."
-

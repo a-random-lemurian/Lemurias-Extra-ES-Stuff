@@ -43,16 +43,16 @@ mission githubCodeVault.conversation
 
 		conversation
 			`As you land at the spaceport, you find that it is eerily quiet once more. You enter the spaceport bar and on one of the screens is a news broadcast showing a group of workers unloading several crates all labelled "GitHub" from an unknown location in the Arctic on Earth.`
-			
+
 			`	"Over 1000 years ago, our ancestors gathered more than 200 million "repositories" of code and preserved them in what they called the 'Arctic Code Vault'. According to archaeologists, GitHub was an ancient organization whose sole purpose was to distribute computer code across the world, via a model of development known as 'open source'.", says the news anchor.`
-			
+
 			`Just as you are about to leave, one of the patrons in the bar grab your shoulder. "They're opening the box!", says the patron. You gaze back at the screen. Several computer experts inspect the first box. The camera pans towards another label on the box. The label is as follows:`
-			
+
 			`		Repository: torvalds/linux`
 			`		ID: #90939-40093`
-			
+
 			`The same patron introduces himself as 'John'. He sees that you are visibly confused, so he asks you if you have a question. "You confused? Well, I've been programming in C since the 2990s so I'd say I'm quite knowledgeable."`
-			
+
 			choice
 				`	"Wait, what's 'torvalds/linux'?"`
 					goto torvaldsLinuxQuestion
@@ -136,7 +136,7 @@ mission githubCodeVault.alexandriaVisit
 			choice
 				"(Look through the shelves of datachips.)"
 					goto getGit.lookThroughShelves
-				
+
 				"(Ask a librarian for help.)"
 					goto getGit.askLibrarianForHelp
 
@@ -148,7 +148,7 @@ mission githubCodeVault.alexandriaVisit
 			choice
 				"(Leave and never come back.)"
 					decline
-				
+
 				"(Try again another day.)"
 					defer
 
@@ -201,7 +201,7 @@ mission githubCodeVault.buyDataChipsForPerson
 					decline
 				`"Sure, I'll get you the datachips."`
 					goto accept
-			
+
 			label accept
 			"Alright, great! Remember, visit <stopover>, that's where you can buy the datachips."
 				accept
@@ -219,7 +219,7 @@ mission githubCodeVault.buyDataChipsForPerson
 					goto leaving
 				`"Sure, what do you have?"`
 					goto seeCollection
-		
+
 			label seeCollection
 			`	"Great!", says the old man. "Here, enter this room."`
 
@@ -232,7 +232,7 @@ mission githubCodeVault.buyDataChipsForPerson
 
 				`"No."`
 					goto playerLiesAboutNotHavingGit
-			
+
 			label playerHasGit
 			`	"Oh yes, I do.", you say.`
 			`	"Great!", replies the old man.`
@@ -252,14 +252,14 @@ mission githubCodeVault.buyDataChipsForPerson
 
 				`"Why do you care so much about this?"`
 					goto whyDoYouCareSoMuchAboutThis
-				
+
 				`"I have no questions. I think I'm going to leave now."`
 					goto leaving
-			
+
 			label favoriteItem
 			`	"Linux. It may be a thousand years old but it still works like a charm! It was a kernel developed by some guy named Linus Torvalds. Did you know that he was originally going to call it Freax? Well the person who was helping distribute Linux by putting it on a server for everyone to see didn't like the name and so renamed it Linux. The name stuck.", says the old man.`
 				goto questions
-			
+
 			label whyDoYouCareSoMuchAboutThis
 			`	"History is important to me. I'm very interested in the history of human computing and how much it has evolved since the first computers came into being in the early 19th century, which is a long time ago.", says the old man.`
 			`	"It's also very good fun.", adds the old man.`
@@ -267,7 +267,7 @@ mission githubCodeVault.buyDataChipsForPerson
 
 			label leaving
 			`	"Alright then, good luck!", the old man says. You never got his name during your visit, though...`
-		
+
 		log "I dropped off datachips for some old man with a software collection."
 
 		payment 340000 200
