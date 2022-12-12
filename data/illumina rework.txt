@@ -22,7 +22,7 @@ system Akore
 	link Zusul
 	object
 		sprite "star/g0"
-		distance 0 
+		distance 0
 		period 8.43
 	object
 		sprite "planet/gas3"
@@ -126,4 +126,3 @@ system Poruch
 			sprite "planet/rock8"
 			distance 553.10
 			period 124.58
-

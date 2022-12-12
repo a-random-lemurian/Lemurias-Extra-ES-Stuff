@@ -546,4 +546,3 @@ mission "Destroy CSSF Patrol, Large [8]"
 		fleet cssf.large
 		personality heroic staying nemesis target
 		dialog phrase "generic hunted bounty fleet eliminated dialog"
-

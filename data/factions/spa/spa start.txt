@@ -164,8 +164,3 @@
 # 			`	"You better!", says George and the recruit as they both leave the spaceport while you wave to them. Considering your next move, you decide to sit on a bench to think for a while...`
 # 	on visit
 # 		dialog phrase spaContactFomalhaut.arrKhor.visit
-
-
-
-
-

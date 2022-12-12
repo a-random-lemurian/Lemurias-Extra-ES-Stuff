@@ -11,6 +11,7 @@
    - particfularly -> particularly
 - Merged `outer pelitol cluster.txt` into `pelitol cluster.txt`. Now they're all one big file.
 - Prevent Hai Reveal systems from overlapping with the route between the Illumina Regions and the northern pirate colonies, by moving Sparikau, Derusa, Kilooew, and Vamiru out of the way and replacing them with a wormhole.
+- Non-religious people on Martieu now rant about the constant conversion attempts in the spaceport, sometimes.
 - Fix date format for GitHub Code Vault event. It is supposed to trigger on 3020-02-01, not 3020-01-02.
 - Technical writers in human space will now sometimes rant about using the year-month-day format for dates.
 - Fixed Liz Cheney claiming her "Kestrel was much cooler" when her person ship is a Star Queen.
@@ -18,6 +19,7 @@
 - Grammar and typo fixes.
    - Added the missing word "one" to Tarsia's description.
 - Suerolli, Illumina, Illuria, and Jarkiiens are now SPA property. They are no longer under the control of the Republic.
+- Added a SPA variant of the Quarg Skylance so their agents (and you, if you somehow manage to acquire a SPA Outfits License) will not be imprisoned by the Quarg.
 
 ### v0.10.14 (2022-10-19)
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
@@ -273,7 +275,7 @@ This is honestly a lot of content to work on. We hope that this release makes yo
 - New variants:
    - Added the SPA Gunboat with proton guns
    - Added the SPA Cruiser, with more turrets than a normal Cruiser.
-   - Added 
+   - Added
 - Pirate ships now use vanilla names
 - Bug fixes:
    - Fix incorrect fleet names
