@@ -12,6 +12,7 @@
 - Non-religious people on Martieu now rant about the constant conversion attempts in the spaceport, sometimes.
 - Fix date format for GitHub Code Vault event. It is supposed to trigger on 3020-02-01, not 3020-01-02.
 - Technical writers in human space will now sometimes rant about using the year-month-day format for dates.
+- You now have a chance of encountering a man in the spaceport who will rant about the date format. On a loudspeaker.
 - Added mission where someone is moving to Asgard and she wants you to transport her stuff. By the way, her landlord is Carla von Hausen.
 - After meeting Carla von Hausen during the Skadenga storyline, there is a 5% chance everytime you land on Asgard that she will enter your ship and attempt to sell you a house.
 - Fixed Liz Cheney claiming her "Kestrel was much cooler" when her person ship is a Star Queen.
