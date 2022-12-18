@@ -284,6 +284,7 @@ system Duffeni
 	pos -899.22222 -173.80556
 	government "Sayari Plushie"
 	attributes "illumina regions"
+	arrival 4300
 	link Aljuik
 	fleet spa.trade.gen.small.1 300
 	fleet spa.trade.gen.small.1 300
