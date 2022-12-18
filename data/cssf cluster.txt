@@ -111,7 +111,7 @@ system Junya
 		sprite "planet/dust2-b"
 		distance 1544.83
 		period 1420.77
-	object 
+	object
 		sprite "planet/rock3"
 		distance 1988.16
 		period 1509.32
@@ -392,7 +392,7 @@ system Hakugyukurou
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
 	fleet cssf.small 600
-	object 
+	object
 		sprite "star/g3"
 		distance 0
 		period 0
@@ -557,7 +557,7 @@ system "Myouren Temple"
 		sprite "planet/rock4"
 		distance 1804.61
 		period 597.63
-	object 
+	object
 		sprite "planet/ice3"
 		distance 2641.16
 		period 1432.28
