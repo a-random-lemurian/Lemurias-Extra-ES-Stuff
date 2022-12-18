@@ -572,6 +572,7 @@ system Geidontei
 	link Mugenkan
 	link Gensokyo
 	arrival 8000
+	"invisible fence" 16000
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -585,7 +586,7 @@ system Geidontei
 		# First system
 		object
 			sprite "star/k5"
-			distance 4080
+			distance 6480
 			period 10933
 			object
 				sprite "planet/rock12"
@@ -611,7 +612,7 @@ system Geidontei
 		# Second system
 		object
 			sprite "star/g3"
-			distance 4080
+			distance 6480
 			period 10933
 			offset 180
 			object
