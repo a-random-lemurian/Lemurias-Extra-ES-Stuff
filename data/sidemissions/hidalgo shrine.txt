@@ -88,7 +88,7 @@ mission "Hidalgo Shrine landing"
 					goto "anne leaves this place"
 				`	"Thank you so much for the warm welcome. I'll be sure to explore this place if I have the time." (Do not give them your name.)`
 					goto "rest of dialog"
-			
+
 			label "employees realize your name is anne"
 			`The moment you give the employees your name, they begin to look shocked. One of them takes out a radio. The employee holding the portrait depicting you moves to put it away, while the rest freeze. The employee with the radio speaks into it.`
 			`	Employee: "Sir, it seems like Anne Hidalgo herself just arrived. What should we do?"`
@@ -103,7 +103,7 @@ mission "Hidalgo Shrine landing"
 					goto coincidence
 				`	"I was the mayor of Paris in my past life. Was I resurrected?"`
 					goto resurrected
-			
+
 			label coincidence
 			`You begin to explain that your name was a coincidence; and that you were never the mayor of Paris at all. The supervisor, still a little shocked, listens intently, alongside other members of staff who had arrived to see you. As you finish your short but simple explanation, the supervisor begins to speak.`
 			`	"Well that clears everything up. Well, this shrine is dedicated to the other Anne Hidalgo who was the mayor of Paris, not you. You're still welcome at our shrine, but you might want to avoid telling people here your name to avoid unnecessary attention.", says the supervisor.`
@@ -111,7 +111,7 @@ mission "Hidalgo Shrine landing"
 			choice
 				`(Explore.)`
 					goto explore2
-			
+
 			label explore2
 			`You wave goodbye to the supervisor and his employees. As you walk away, the supervisor begins to murmur about "Anne Hidalgo protocols". The employees walk in your direction before entering an employee room; and you are now free to explore.`
 				decline
