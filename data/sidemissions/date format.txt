@@ -55,3 +55,25 @@ mission "Person ranting about date format"
 			choice
 				"	(Leave.)"
 					decline
+
+mission "Person ranting about date format on clipboard"
+	to offer
+		random > 99
+	source
+		government "Anime Organization" "Republic" "Free Worlds" "Sayari Plushie" "Hai" "Syndicate"
+	on offer
+		conversation
+			"	As you walk through the spaceport, you overhear an argument between a captain and a bunch of dockworkers."
+			`	"No, this cargo was loaded on December 4th, not April 12th!", says the captain in an angry voice, holding a clipboard of some sort.`
+			`	"Sir, the clipboard uses day-month-year, not month-day-year.", replies the dockworker, in a calm tone.`
+			choice
+				"	(Ignore them.)"
+					decline
+				`	"Just use year-month-day already!"`
+					goto ymd
+
+			label ymd
+			`	After your interjection, both parties look at you. "I guess we can do that.", says the dockworker. "Year-month-day is better anyway.".`
+			`	The dockworker takes a new clipboard and starts redoing the paperwork, this time in year-month-day format.`
+			`	You leave.`
+				decline
