@@ -44,9 +44,6 @@ mission "Hidalgo Shrine landing"
 	source "Hidalgo Shrine"
 	landing
 	on offer
-		"leest: player first name" = "<first>"
-		"leest: player last name" = "<last>"
-
 		log "Factions" "France" `Former nation on Earth, in a region known as Europe. The Hidalgo Shrine is a museum dedicated specifically to France-related artifacts.`
 
 		log "Factions" "Hidalgo Shrine" `The Hidalgo Shrine is a large museum on a moon of Heine, Darceas. It is a hub for anything related to France; being home to many France-related artifacts, photos of Anne Hidalgo, French food shops, a French language learning school, and so much more. At its center lies a golden statue of Anne Hidalgo.`
@@ -71,8 +68,7 @@ mission "Hidalgo Shrine landing"
 			# names themselves Anne Hidalgo, trigger
 			# easter egg/alternative dialog.
 			branch "player is anne hidalgo"
-				"leest: player first name" == "Anne"
-				"leest: player last name" == "Hidalgo"
+				has "name: Anne Hidalgo"
 
 			choice
 				`	"My name is <first> <last>. I'll be sure to explore this place if I have the time."`
