@@ -46,12 +46,6 @@ mission debianHatRetrieval.conversation.begin
 	stopover
 		government "Republic" "Syndicate" "Free Worlds"
 	to offer
-		"<name>" == "Debian" # Ship must be named Debian
-
-		# And your pilot name must be "Ian Murdock", the founder of Debian.
-		"<first>" == "Ian"
-		"<last>" == "Murdock"
-
 		"random" > 80
 	on offer
 		log "Someone asked me for a Debian hat today. It seems like Debian was some centuries-old distribution of Linux. What a fun day."
