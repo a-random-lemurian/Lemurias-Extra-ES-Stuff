@@ -3703,7 +3703,6 @@ planet "Defal VI Station"
 	description "This is an outpost. With more migration to the Pelitol Cluster, the SPA is discussing plans to convert this into a fuel generation factory, leeching off Defal VI, the gas giant that this outpost orbits. The station, located in the rings of Defal VI, is equipped with cannons on all sides to protect the station from asteroid impacts."
 	spaceport "As standard procedure, there are fuel pumps. Not many people are here, and you feel like you're in a distant region of space. There is only one ship docked. The crew seem friendly and even let you view one of their plushies. Even in remote space, Freya Winters plushies run rampant."
 
-# TODO: add image and description for Ondoristra and Bardanistra
 planet "Ondoristra"
 	landscape "land/ondoristra"
 	government "Sayari Plushie"
@@ -3781,7 +3780,6 @@ planet Barachen
 	spaceport "The spaceport is located in the civilian area of the SPA naval base. The surrounding settlement is roughly 300,000 strong. As usual, large turrets have been placed on the naval base for protection against CSSF attacks. The shipyard is closely integrated with the naval base."
 	spaceport "Meanwhile, the spaceport village offers several services such as food, drinks, ship repairs, and most importantly, plushies of either Freya Winters or Sayari. The traffic at the spaceport is fairly light with a ship entering roughly every 4 minutes."
 
-# TODO: add images and complete descriptions for Naprai, Ancherum, Parton, and Heine
 planet Naprai
 	landscape "land/naprai"
 	government "Sayari Plushie"

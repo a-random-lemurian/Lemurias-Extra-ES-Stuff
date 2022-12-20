@@ -62,6 +62,7 @@ phrase "ingame characters"
 	word
 		"Albert Foster"
 		"Alondo Gruyere"
+		"Carla von Hausen"
 		"Diana Howl"
 		"David Turner"
 		"Edward Tivrusky"
@@ -104,19 +105,19 @@ phrase "locations"
 # - the SPA names its ships after.
 phrase "people worthy of being ship names"
 	word
-		"Anne Rice"               # American author (1941-2021)
-		"Amber Heard"
-		"Camille Vasquez"
-		"Itzhak Perlman"          # Israeli-American violinist
+		"May Berenbaum"           # American entomologist
 		"Johnny Depp"
+		"Amber Heard"
+		"Itzhak Perlman"          # Israeli-American violinist
 		"Radia Perlman"           # American programmer
 		"Richard Stallman"        # GNU Project creator
-		"Rainych Ran"             # Indonesian singer
+		"Lisa Su"                 # CEO of AMD
 		"Lena Raine"
+		"Rainych Ran"             # Indonesian singer
+		"Anne Rice"               # American author (1941-2021)
 		"Lizz Robinett"           # American singer
 		"Linus Torvalds"          # Linux kernel creator
-		"Lisa Su"                 # CEO of AMD
-		"May Berenbaum"           # American entomologist
+		"Camille Vasquez"
 
 phrase "Hai systems"
 	word
