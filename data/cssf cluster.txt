@@ -750,8 +750,8 @@ planet "Margaret"
 planet "Alice"
 	landscape "land/alice"
 	government "Yuyuko Saigyouji"
-	description `.`
-	spaceport `.`
+	description `Alice is home to barracks for SPA soldiers. In addition to Margaret, a large network of prisons has been built on Alice for captured SPA officials and plushie smugglers. There is not much to see here except the visitor center.`
+	spaceport `The visitor center is bland and boring, with the large cities in the distance being large barracks. Large gates and security fences stand in the way, and all you can get is basic SPA propaganda, and even a place to turn in SPA products, which they consider highly illegal.`
 
 planet "Taglamig"
 	landscape "land/taglamig"
