@@ -166,6 +166,110 @@ phrase "Martieu-specific dialog phrases, anti-religion"
 	word
 		"They've been brainwashed their whole life!"
 
+phrase "Martieu religious parent"
+	word
+		"Worried"
+		"Concerned"
+		"Religious"
+		"Highly religious"
+		"Anxious"
+		"Strict religious"
+		"Strict"
+	word
+		" "
+	word
+		"mother"
+		"father"
+		"parent"
+
+phrase "Martieu religious parent description of books"
+	word
+		"sinful"
+		"disgusting"
+		"inappropriate"
+		"degenerate"
+		"blasphemous"
+		"abhorrent"
+	word
+		" "
+	word
+		"material"
+		"books"
+		"smut"
+
+phrase "book disliked by Martieu religious parents"
+	word
+		"a book about"
+	word
+		" "
+	word
+		"science"
+		"the theory of evolution"
+		"Islam"
+		"vampires"
+		"secular humanism"
+		"wizards"
+		"magic"
+		"witches"
+
+phrase "stuff that parents monitor"
+	word
+		"photos"
+		"files"
+		"messages"
+		"browsing history"
+		"watch history"
+		`location`
+		"location history"
+		"social media posts"
+		"posts"
+		"app history"
+		"history"
+		"book reading history"
+		"Bible verse reading history"
+
+phrase "child's private info"
+	word
+		"children's"
+		"kids'"
+		"kid's"
+		"child's"
+		"son's"
+		"daughter's"
+	word
+		" "
+	phrase
+		"stuff that parents monitor"
+
+phrase "people Martieu religious parents hate"
+	word
+		"child predators"
+		"sinners"
+		"Satanists"
+		"atheists"
+		"bad people"
+		"agnostics"
+
+news "Martieu religious parent"
+	location
+		planet Martieu
+	name
+		phrase
+			"Martieu religious parent"
+	message
+		word
+			`"`
+		word
+			"I was at a bookstore the other day. When my kids were passing through the vampire book section, I had to cover their eyes to keep them safe!"
+			"I saw the school library on another planet and I was horrified by the ${Martieu religious parent description of books} that the children were reading!"
+			"My kid got ${book disliked by Martieu religious parents} as a gift for his birthday. I took it away and threw it in the trash. I don't want my kid to lose their innocence."
+			"For only 500 credits a month, I can access my ${child's private info} with this awesome parental control software! Now I have peace of mind knowing they're safe."
+			"Did you know that the vast majority of the internet is populated by ${people Martieu religious parents hate}? You need to do everything to protect your child and ensure they walk the Lord's path!"
+			"I take my kids to church every 2 days!"
+			"I'm thinking of buying special kneeling chairs so me and my kids can pray for 7 hours straight!"
+		word
+			`"`
+
 news "technical writer ranting about date formats"
 	location
 		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
