@@ -3579,10 +3579,12 @@ system Pechara
 		period 0
 		object
 			sprite "planet/rock2"
+				scale 0.4
 			distance 402
 			period 198.75
 		object
 			sprite "planet/rock8"
+				scale 0.6
 			distance 743
 			period 430.41
 		object "Pechara High"
