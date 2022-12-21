@@ -20,7 +20,7 @@
 # 	sprite "galaxy/pelitol cluster"
 
 system Sorusep
-	pos -8431.4301 -235.86756
+	pos -3431.4301 -235.86756
 	government "Sayari Plushie"
 	link Ikopp
 	link Oratelis
@@ -61,7 +61,7 @@ system Sorusep
 
 system Pelitol
 	government "Sayari Plushie"
-	pos -8357.2079 -286.53422
+	pos -3357.2079 -286.53422
 	link Defal
 	link Ikopp
 	link Sedlai
@@ -124,7 +124,7 @@ system Pelitol
 	# 	distance 6550
 
 system Defal
-	pos -8356.319 -246.08978
+	pos -3356.319 -246.08978
 	government "Sayari Plushie"
 	link Ikopp
 	link Pelitol
@@ -176,7 +176,7 @@ system Defal
 			distance 233
 system Ikopp
 	government "Sayari Plushie"
-	pos -8401.2079 -271.42311
+	pos -3401.2079 -271.42311
 	link Defal
 	link Pelitol
 	link Repolitea
@@ -214,7 +214,7 @@ system Ikopp
 
 system Repolitea
 	government "Sayari Plushie"
-	pos -8477.3299 -290.50439
+	pos -3477.3299 -290.50439
 	link Ikopp
 	link Doler
 	link Sarut
@@ -279,7 +279,7 @@ system Repolitea
 
 system Sarut
 	government "Sayari Plushie"
-	pos -8494.2013 -254.20034
+	pos -3494.2013 -254.20034
 	link Repolitea
 	link Oratelis
 	link Vourgat
@@ -320,7 +320,7 @@ system Sarut
 
 system Doler
 	government "Sayari Plushie"
-	pos -8497.2208 -341.10098
+	pos -3497.2208 -341.10098
 	link Repolitea
 	link Maryn-qarou
 	link Ouchar
@@ -362,7 +362,7 @@ system Doler
 
 system Oratelis
 	government "Sayari Plushie"
-	pos -8455.3029 -201.04985
+	pos -3455.3029 -201.04985
 	link Sorusep
 	link Sarut
 	link Arket
@@ -396,7 +396,7 @@ system Oratelis
 
 system Dorkelt
 	government "Sayari Plushie"
-	pos -8402.4995 -203.45588
+	pos -3402.4995 -203.45588
 	link Oratelis
 	link Defal
 	attributes "pelitol cluster"
@@ -436,7 +436,7 @@ system Dorkelt
 
 system Arket
 	government "Sayari Plushie"
-	pos -8454.1998 -161.30113
+	pos -3454.1998 -161.30113
 	link Oratelis
 	link Vensur
 	link Paricasa
@@ -503,7 +503,7 @@ system Arket
 
 system Vensur
 	government "Sayari Plushie"
-	pos -8488.108 -120.618
+	pos -3488.108 -120.618
 	link Arket
 	link Sprad
 	link Starish
@@ -547,7 +547,7 @@ system Vensur
 
 system Starish
 	government "Republic"
-	pos -8472.1898 -87.287
+	pos -3472.1898 -87.287
 	link Vensur
 	link Darceas
 	link Orchao
@@ -595,7 +595,7 @@ system Darceas
 	fleet "Small Southern Merchants" 400
 	fleet "Large Southern Merchants" 600
 	fleet "Hidalgo Shrine Patrol" 3000
-	pos -8461.199 -33.3076
+	pos -3461.199 -33.3076
 	link Starish
 	link Orchao
 	link Varfeticasa
@@ -640,7 +640,7 @@ system Darceas
 
 system Orchao
 	government "Sayari Plushie"
-	pos -8544.02 -55.332
+	pos -3544.02 -55.332
 	link Darceas
 	link Starish
 	link Zoruna
@@ -661,7 +661,7 @@ system Orchao
 
 system Paricasa
 	government "Sayari Plushie"
-	pos -8388.334 -102.119
+	pos -3388.334 -102.119
 	link Arket
 	link Telicasa
 	link Poreu
@@ -684,7 +684,7 @@ system Paricasa
 
 system Telicasa
 	government "Sayari Plushie"
-	pos -8343.103 -94.2014
+	pos -3343.103 -94.2014
 	link Paricasa
 	link Nursuta
 	link Kolicasa
@@ -715,7 +715,7 @@ system Telicasa
 
 system Kolicasa
 	government "Sayari Plushie"
-	pos -8342.033 -51.3001
+	pos -3342.033 -51.3001
 	link Telicasa
 	link Varfeticasa
 	link Lesokicasa
@@ -758,7 +758,7 @@ system Kolicasa
 
 system Varfeticasa
 	government "Sayari Plushie"
-	pos -8403.0488 -33.240
+	pos -3403.0488 -33.240
 	link Darceas
 	link Kolicasa
 	attributes "pelitol cluster"
@@ -788,7 +788,7 @@ system Varfeticasa
 
 system Lesokicasa
 	government "Independent"
-	pos -8307.2033 1.887
+	pos -3307.2033 1.887
 	arrival 3000
 	link Kolicasa
 	attributes "pelitol cluster"
@@ -825,7 +825,7 @@ system Lesokicasa
 
 system Frechisa
 	government "Sayari Plushie"
-	pos -8301.4954 -311.04398
+	pos -3301.4954 -311.04398
 	link Pelitol
 	link Olerak
 	link Ertusca
@@ -874,7 +874,7 @@ system Frechisa
 
 system Ertusca
 	government "Sayari Plushie"
-	pos -8259.4910 -330.93343
+	pos -3259.4910 -330.93343
 	link Frechisa
 	link Corua
 	link Nestia
@@ -919,7 +919,7 @@ system Ertusca
 
 system Olerak
 	government "Sayari Plushie"
-	pos -8307.3493 -369.41104
+	pos -3307.3493 -369.41104
 	link Erited
 	link Frechisa
 	link Pentarok
@@ -952,7 +952,7 @@ system Olerak
 
 system Erited
 	government "Sayari Plushie"
-	pos -8242.3493 -401.41104
+	pos -3242.3493 -401.41104
 	link Olerak
 	attributes "pelitol cluster"
 	arrival 1260
@@ -982,7 +982,7 @@ system Erited
 		period 798
 
 system Ourais
-	pos -8741.6111 -214.88889
+	pos -3741.6111 -214.88889
 	habitable 441.8
 	belt 1344
 	link Daxter
@@ -1038,7 +1038,7 @@ system Ourais
 			period 344
 
 system Vourgat
-	pos -8546.5 -222.44444
+	pos -3546.5 -222.44444
 	link Presad
 	link Sarut
 	link Sprad
@@ -1071,7 +1071,7 @@ system Vourgat
 		period 1766
 
 system Erou
-	pos -8716.7222 -275.33333
+	pos -3716.7222 -275.33333
 	link Ourais
 	link Presad
 	link Vifura
@@ -1105,7 +1105,7 @@ system Erou
 		period 2432
 
 system Sprad
-	pos -8510.0556 -141.55556
+	pos -3510.0556 -141.55556
 	link Varisa
 	link Vensur
 	link Vourgat
@@ -1130,7 +1130,7 @@ system Sprad
 		period 885
 
 system Presad
-	pos -8639.3889 -269.55556
+	pos -3639.3889 -269.55556
 	link Erou
 	link Vourgat
 	link Deriato
@@ -1174,7 +1174,7 @@ system Presad
 			period 211
 
 system Sprooe
-	pos -8730.8056 -99.694444
+	pos -3730.8056 -99.694444
 	link Daxter
 	link Casfik
 	attributes "pelitol cluster"
@@ -1203,7 +1203,7 @@ system Sprooe
 		period 650.11
 
 system Daxter
-	pos -8702.0556 -172.22222
+	pos -3702.0556 -172.22222
 	link Ourais
 	link Sprooe
 	link Varisa
@@ -1247,7 +1247,7 @@ system Daxter
 		period 1104
 
 system Varisa
-	pos -8612.7222 -179.33333
+	pos -3612.7222 -179.33333
 	link Daxter
 	link Sprad
 	attributes "pelitol cluster"
@@ -1294,7 +1294,7 @@ system Varisa
 		period 1211
 
 system Poreu
-	pos -8370.5968 -154.58978
+	pos -3370.5968 -154.58978
 	link Airuka
 	link Paricasa
 	attributes "pelitol cluster"
@@ -1339,7 +1339,7 @@ system Poreu
 			period 100
 
 system Chasikara
-	pos -8365.5968 66.96578
+	pos -3365.5968 66.96578
 	link "42 Merisai"
 	link Orunat
 	link Pechara
@@ -1383,7 +1383,7 @@ system Chasikara
 		period 1604.309
 
 system Karita
-	pos -8157.819 -86.117553
+	pos -3157.819 -86.117553
 	link Caretta
 	link Onuka
 	link Vefrua
@@ -1412,7 +1412,7 @@ system Karita
 		period 543.109
 
 system Airuka
-	pos -8261.6523 -191.45089
+	pos -3261.6523 -191.45089
 	link Arau
 	link Mersat
 	link Poreu
@@ -1458,7 +1458,7 @@ system Airuka
 		period 1302
 
 system Upalsa
-	pos -8128.7635 -163.562
+	pos -3128.7635 -163.562
 	link Caretta
 	attributes "pelitol cluster"
 	arrival 1480
@@ -1492,7 +1492,7 @@ system Upalsa
 		period 1321.139
 
 system Ouchar
-	pos -8555.069 -362.312
+	pos -3555.069 -362.312
 	link Deriato
 	link Doler
 	link Gensar
@@ -1541,7 +1541,7 @@ system Ouchar
 		period 1205.698
 
 system Corua
-	pos -8195.0968 -358.28422
+	pos -3195.0968 -358.28422
 	link Daryn-qular
 	link Ertusca
 	link Pourat
@@ -1590,7 +1590,7 @@ system Corua
 		period 703.400
 
 system Aradi
-	pos -8510.2079 -461.89533
+	pos -3510.2079 -461.89533
 	link Isalor
 	link Mariuta
 	link Vastary
@@ -1630,7 +1630,7 @@ system Aradi
 		period 1803.409
 
 system Eputel
-	pos -8572.7635 -99.561998
+	pos -3572.7635 -99.561998
 	link Casfik
 	attributes "pelitol cluster"
 	arrival 3340
@@ -1661,7 +1661,7 @@ system Eputel
 		period 843.498
 
 system Venisur
-	pos -8630.9857 -126.67311
+	pos -3630.9857 -126.67311
 	link Casfik
 	attributes "pelitol cluster"
 	arrival 2170
@@ -1700,7 +1700,7 @@ system Venisur
 			period 77.40
 
 system Opfrau
-	pos -8108.0412 -236.562
+	pos -3108.0412 -236.562
 	link "Alpha Tudalip"
 	link Melursa
 	link Porsuei
@@ -1746,7 +1746,7 @@ system Opfrau
 		period 2754.10
 
 system Posteli
-	pos -8186.0968 -267.00644
+	pos -3186.0968 -267.00644
 	link Freula
 	link Nestia
 	link Porsuei
@@ -1788,7 +1788,7 @@ system Posteli
 		period 184.308
 
 system Pentarok
-	pos -8371.5135 -359.20089
+	pos -3371.5135 -359.20089
 	link Maryn-qarou
 	link Olerak
 	attributes "pelitol cluster"
@@ -1855,7 +1855,7 @@ system Pentarok
 			period 156.49
 
 system Casfik
-	pos -8675.4301 -84.006442
+	pos -3675.4301 -84.006442
 	link Eputel
 	link Sprooe
 	link Venisur
@@ -1888,7 +1888,7 @@ system Casfik
 		period 1140.694
 
 system Maryn-qarou
-	pos -8444.4023 -378.312
+	pos -3444.4023 -378.312
 	link Doler
 	link Isalor
 	link Pentarok
@@ -1938,7 +1938,7 @@ system Maryn-qarou
 		period 2451.31
 
 system Daryn-qular
-	pos -8143.0968 -401.39533
+	pos -3143.0968 -401.39533
 	link Chasitum
 	link Chrusa
 	link Corua
@@ -1975,7 +1975,7 @@ system Daryn-qular
 		period 1453.40
 
 system Isalor
-	pos -8510.1801 -409.42311
+	pos -3510.1801 -409.42311
 	link Aradi
 	link Gensar
 	link Maryn-qarou
@@ -2011,7 +2011,7 @@ system Isalor
 			period 74.201
 
 system Vefrua
-	pos -8116.4857 -57.673109
+	pos -3116.4857 -57.673109
 	link "94 Merisai"
 	link Karita
 	attributes "pelitol cluster"
@@ -2070,7 +2070,7 @@ system Vefrua
 			period 186.31
 
 system Caretta
-	pos -8109.3746 -115.22866
+	pos -3109.3746 -115.22866
 	link "Alpha Tudalip"
 	link Karita
 	link Upalsa
@@ -2110,7 +2110,7 @@ system Caretta
 		period 1107.634
 
 system Mersat
-	pos -8219.3746 -152.562
+	pos -3219.3746 -152.562
 	link Airuka
 	link Nardacus
 	link Vachrau
@@ -2157,7 +2157,7 @@ system Mersat
 		period 1509
 
 system Vachrau
-	pos -8171.5968 -140.78422
+	pos -3171.5968 -140.78422
 	link Mersat
 	link Onuka
 	link Porsuei
@@ -2223,7 +2223,7 @@ system Vachrau
 		period 1340.211
 
 system Nardacus
-	pos -8294.5968 -131.92311
+	pos -3294.5968 -131.92311
 	link Mersat
 	attributes "pelitol cluster"
 	arrival 1430
@@ -2271,7 +2271,7 @@ system Nardacus
 			period 155
 
 system Porsuei
-	pos -8192.0412 -203.00644
+	pos -3192.0412 -203.00644
 	link Opfrau
 	link Posteli
 	link Vachrau
@@ -2328,7 +2328,7 @@ system Porsuei
 		period 1893.13
 
 system Peroni
-	pos -8379.0968 -410.33978
+	pos -3379.0968 -410.33978
 	link Vastary
 	attributes "pelitol cluster"
 	arrival 1100
@@ -2366,7 +2366,7 @@ system Peroni
 		period 3401.32
 
 system Nestia
-	pos -8217.3468 -301.92311
+	pos -3217.3468 -301.92311
 	link Ertusca
 	link Posteli
 	attributes "pelitol cluster"
@@ -2405,7 +2405,7 @@ system Nestia
 		period 2405.21
 
 system Arau
-	pos -8321.7912 -224.14533
+	pos -3321.7912 -224.14533
 	link Airuka
 	link Defal
 	attributes "pelitol cluster"
@@ -2442,7 +2442,7 @@ system Arau
 		period 705
 
 system Melursa
-	pos -8095.0968 -316.95089
+	pos -3095.0968 -316.95089
 	link Meursa
 	link Opfrau
 	link Pourat
@@ -2487,7 +2487,7 @@ system Melursa
 		period 2903.498
 
 system Vifura
-	pos -8682.1801 -335.20089
+	pos -3682.1801 -335.20089
 	link Erou
 	attributes "pelitol cluster"
 	arrival 980
@@ -2522,7 +2522,7 @@ system Vifura
 		period 1048.20
 
 system Deriato
-	pos -8611.069 -338.312
+	pos -3611.069 -338.312
 	link Cafrai
 	link Ouchar
 	link Presad
@@ -2574,7 +2574,7 @@ system Deriato
 		period 501.48
 
 system Purai
-	pos -8552.8468 -281.42311
+	pos -3552.8468 -281.42311
 	link Deriato
 	attributes "pelitol cluster"
 	arrival 870
@@ -2611,7 +2611,7 @@ system Purai
 		period 456.198
 
 system "42 Merisai"
-	pos -8268.2635 75.632447
+	pos -3268.2635 75.632447
 	link "43 Merisai"
 	link Chasikara
 	attributes "pelitol cluster"
@@ -2658,7 +2658,7 @@ system "42 Merisai"
 			period 132.40
 
 system Vabchra
-	pos -8423.0968 -525.14533
+	pos -3423.0968 -525.14533
 	link Mariuta
 	link Petun
 	attributes "pelitol cluster"
@@ -2689,7 +2689,7 @@ system Vabchra
 		period 1310.49
 
 system Paruna
-	pos -7985.3468 -211.72866
+	pos -2985.3468 -211.72866
 	link "Alpha Tudalip"
 	link "Vator Comparum"
 	attributes "pelitol cluster"
@@ -2731,7 +2731,7 @@ system Paruna
 		period 1104.375
 
 system Mirus
-	pos -8298.4301 -535.812
+	pos -3298.4301 -535.812
 	link Finuera
 	link Gestaru
 	link Petun
@@ -2767,7 +2767,7 @@ system Mirus
 		period 1033.51130
 
 system Carfue
-	pos -8038.069 -287.062
+	pos -3038.069 -287.062
 	link Meursa
 	link "Vator Comparum"
 	attributes "pelitol cluster"
@@ -2794,7 +2794,7 @@ system Carfue
 		period 980.134
 
 system Chrusa
-	pos -8212.4301 -447.812
+	pos -3212.4301 -447.812
 	link Daryn-qular
 	link Gestaru
 	attributes "pelitol cluster"
@@ -2825,7 +2825,7 @@ system Chrusa
 		period 1204
 
 system Gestaru
-	pos -8215.0968 -491.14533
+	pos -3215.0968 -491.14533
 	link Aidux
 	link Chrusa
 	link Mirus
@@ -2857,7 +2857,7 @@ system Gestaru
 		period 804.536
 
 system Mariuta
-	pos -8546.4301 -533.812
+	pos -3546.4301 -533.812
 	link Aradi
 	link Vabchra
 	attributes "pelitol cluster"1=
@@ -2888,7 +2888,7 @@ system Mariuta
 		period 778.108
 
 system Zoruna
-	pos -8570.7079 -12.811998
+	pos -3570.7079 -12.811998
 	link Orchao
 	attributes "pelitol cluster"
 	arrival 840
@@ -2922,7 +2922,7 @@ system Zoruna
 		period 1784.20
 
 system Petun
-	pos -8365.7635 -525.14533
+	pos -3365.7635 -525.14533
 	link Mirus
 	link Vabchra
 	attributes "pelitol cluster"
@@ -2949,7 +2949,7 @@ system Petun
 		period 588.103
 
 system Vaitul
-	pos -8236.7635 -41.78422
+	pos -3236.7635 -41.78422
 	link "43 Merisai"
 	link Nursuta
 	attributes "pelitol cluster"
@@ -2988,7 +2988,7 @@ system Vaitul
 		period 2503.41
 
 system Freula
-	pos -8247.8746 -241.33978
+	pos -3247.8746 -241.33978
 	link Posteli
 	attributes "pelitol cluster"
 	arrival 1800
@@ -3030,7 +3030,7 @@ system Freula
 		period 1716.408
 
 system Pourat
-	pos -8135.5412 -342.72866
+	pos -3135.5412 -342.72866
 	link Corua
 	link Melursa
 	attributes "pelitol cluster"
@@ -3081,7 +3081,7 @@ system Pourat
 			period 174.1980
 
 system Finuera
-	pos -8336.2079 -470.562
+	pos -3336.2079 -470.562
 	link Mirus
 	link Vaidanu
 	link Vastary
@@ -3122,7 +3122,7 @@ system Finuera
 		period 1846.71
 
 system Vastary
-	pos -8431.5412 -443.22866
+	pos -3431.5412 -443.22866
 	link Aradi
 	link Finuera
 	link Peroni
@@ -3166,7 +3166,7 @@ system Vastary
 		period 3810.64853
 
 system Imural
-	pos -8601.319 -460.562
+	pos -3601.319 -460.562
 	link Cafrai
 	attributes "pelitol cluster"
 	arrival 2100
@@ -3196,7 +3196,7 @@ system Imural
 		period 601.97
 
 system Gensar
-	pos -8584.2079 -408.562
+	pos -3584.2079 -408.562
 	link Isalor
 	link Ouchar
 	attributes "pelitol cluster"
@@ -3231,7 +3231,7 @@ system Gensar
 		period 794.503
 
 system "94 Merisai"
-	pos -8055.5968 14.96578
+	pos -3055.5968 14.96578
 	link "43 Merisai"
 	link Miruver
 	link Vefrua
@@ -3289,14 +3289,14 @@ system "94 Merisai"
 		period 1309
 
 system Cafrai
-	pos -8648.4301 -391.22866
+	pos -3648.4301 -391.22866
 	link Deriato
 	link Imural
 	attributes "pelitol cluster"
 	arrival 2080
 
 system Onuka
-	pos -8230.7079 -98.561998
+	pos -3230.7079 -98.561998
 	link Karita
 	link Nursuta
 	link Vachrau
@@ -3360,7 +3360,7 @@ system Onuka
 		period 1843.20
 
 system "Alpha Tudalip"
-	pos -8043.819 -179.89533
+	pos -3043.819 -179.89533
 	link Caretta
 	link Opfrau
 	link Paruna
@@ -3398,7 +3398,7 @@ system "Alpha Tudalip"
 		period 1136.87
 
 system Nursuta
-	pos -8279.5968 -75.450887
+	pos -3279.5968 -75.450887
 	link Onuka
 	link Telicasa
 	link Vaitul
@@ -3426,7 +3426,7 @@ system Nursuta
 		period 780.744
 
 system Mosiato
-	pos -8596.0412 37.854669
+	pos -3596.0412 37.854669
 	link Deramii
 	link Orunat
 	link Zerted
@@ -3467,7 +3467,7 @@ system Mosiato
 			period 113.49
 
 system Vaidanu
-	pos -8293.4301 -423.20089
+	pos -3293.4301 -423.20089
 	link Finuera
 	attributes "pelitol cluster"
 	arrival 700
@@ -3481,7 +3481,7 @@ system Vaidanu
 		period 89.309
 
 system Zerted
-	pos -8658.7079 -13.923109
+	pos -3658.7079 -13.923109
 	link Casfik
 	link Mosiato
 	attributes "pelitol cluster"
@@ -3504,7 +3504,7 @@ system Zerted
 		period 133.407
 
 system Orunat
-	pos -8479.5968 25.410224
+	pos -3479.5968 25.410224
 	link Chasikara
 	link Darceas
 	link Mosiato
@@ -3516,7 +3516,7 @@ system Orunat
 		period 1.04
 
 system Deramii
-	pos -8545.3746 80.743558
+	pos -3545.3746 80.743558
 	link Mosiato
 	link Pechara
 	attributes "pelitol cluster"
@@ -3528,7 +3528,7 @@ system Deramii
 
 
 system "43 Merisai"
-	pos -8177.3746 22.076891
+	pos -3177.3746 22.076891
 	link "42 Merisai"
 	link "94 Merisai"
 	link Vaitul
@@ -3553,7 +3553,7 @@ system "43 Merisai"
 
 # Pechara is a drifting gas giant, expelled from a planetary system
 system Pechara
-	pos -8450.7079 103.85467
+	pos -3450.7079 103.85467
 	link Chasikara
 	link Deramii
 	attributes "pelitol cluster"
@@ -3582,7 +3582,7 @@ system Pechara
 			period 1304.408
 
 system Miruver
-	pos -8018.0135 -78.395331
+	pos -3018.0135 -78.395331
 	link "94 Merisai"
 	attributes "pelitol cluster"
 	arrival 3200
@@ -3592,7 +3592,7 @@ system Miruver
 		period 1.08
 
 system Porae
-	pos -7972.0135 -367.062
+	pos -2972.0135 -367.062
 	link Chasitum
 	link "Vator Comparum"
 	attributes "pelitol cluster"
@@ -3603,7 +3603,7 @@ system Porae
 		period 0
 
 system Aidux
-	pos -8130.6801 -460.39533
+	pos -3130.6801 -460.39533
 	link Gestaru
 	attributes "pelitol cluster"
 	arrival 1200
@@ -3613,7 +3613,7 @@ system Aidux
 		period 0
 
 system Chasitum
-	pos -8040.0135 -418.39533
+	pos -3040.0135 -418.39533
 	link Daryn-qular
 	link Porae
 	attributes "pelitol cluster"
@@ -3631,7 +3631,7 @@ system Chasitum
 		period 0
 
 system "Vator Comparum"
-	pos -7985.3468 -301.72866
+	pos -2985.3468 -301.72866
 	link Carfue
 	link Paruna
 	link Porae
@@ -3655,7 +3655,7 @@ system "Vator Comparum"
 		period 433.50
 
 system Meursa
-	pos -8042.5135 -353.28422
+	pos -3042.5135 -353.28422
 	link Carfue
 	link Melursa
 	attributes "pelitol cluster"
