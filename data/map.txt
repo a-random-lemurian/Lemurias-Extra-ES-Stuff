@@ -1657,33 +1657,56 @@ system Suerolii
 		period 10
 	object
 		sprite planet/rock13
-		distance 356
+		distance 256
 		period 245
 	object Pedinai
 		sprite planet/forest6
-		distance 590
+		distance 890
 		period 388
 	object
 		sprite planet/dust4
-		distance 778
+		distance 1478
 		period 453
+		object
+			sprite "planet/rock3"
+				scale 0.4
+			distance 110
+			period 43
 	object
 		sprite planet/dust1
-		distance 906
+		distance 1906
 		period 544
 	object
 		sprite planet/rock12
-		distance 1334
+		distance 2834
 		period 699
 	object
 		sprite planet/rock17
-		distance 1566
+		distance 3613
 		period 802
 	object
 		sprite planet/ice3
-		distance 1776
+		distance 5176
 		period 1006
-
+	object
+		sprite "planet/gas8"
+		distance 7653
+		period 3221
+	object
+		sprite "planet/gas3"
+			scale 2.5
+		distance 13405
+		period 4487
+		object
+			sprite "planet/rock4"
+				scale 0.5
+			distance 1409
+			period 321
+		object
+			sprite "planet/rock1-b"
+				scale 0.8
+			distance 1875
+			period 553
 
 
 
