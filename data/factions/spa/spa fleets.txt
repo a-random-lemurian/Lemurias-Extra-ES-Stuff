@@ -33,6 +33,8 @@ fleet spa.small
 	variant 15
 		"SPA Gunboat" 2
 		"SPA Cruiser" 1
+	variant 35
+		"SPA Falcon (Korath Slicer)" 4
 	variant 50
 		"SPA Kestrel" 1
 	variant 35
@@ -203,8 +205,8 @@ fleet spa.large
 		"SPA Cruiser" 4
 	variant 10
 		"SPA Cruiser" 4
-	variant 50
-		"Falcon" 5
+	variant 45
+		"SPA Falcon (Korath Slicer)"
 	variant 35
 		"SPA Cruiser" 2
 		"Skylance Amidala" 5

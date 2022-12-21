@@ -1237,3 +1237,16 @@ ship "SPA Rosas"
 	explode "large explosion" 20
 	"final explode" "final explosion large"
 	description `The Rosas-class freighter ("Rosas" meaning "pink" in Tagalog) is a large-scale plushie smuggling ship, meant as a replacement for the Syndicate Bulk Freighter. It may be a freighter but it is classified as a Medium Warship due to its armanent. `
+
+ship "Falcon" "SPA Falcon (Korath Slicer)"
+	outfits
+		"Korath Slicer Turret" 3
+		"Heavy Anti-Missile Turret"
+		"Fusion Reactor"
+		"D67-TM Shield Generator"
+		"Laser Rifle" 20
+		"Orca Plasma Thruster"
+		"A375 Atomic Steering"
+		"Hyperdrive"
+		"Supercapacitor"
+		"Outfits Expansion"
