@@ -23,6 +23,7 @@
 - Added a SPA variant of the Quarg Skylance so their agents (and you, if you somehow manage to acquire a SPA Outfits License) will not be imprisoned by the Quarg.
 - Increased likelihood of SPA spawning Mereti ships.
 - Added more spaceport news to Martieu about its crazy religious people and the people sick and tired of the conversion attempts.
+- Shifted all Pelitol Cluster systems 5,000 Endless Sky units closer to the vanilla galaxy to lessen scrolling time.
 
 ### v0.10.14 (2022-10-19)
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
