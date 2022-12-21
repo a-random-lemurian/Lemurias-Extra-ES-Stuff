@@ -172,6 +172,7 @@ system Defal
 		distance 2344
 		object "Defal VI Station"
 			sprite "planet/station15"
+				scale 0.5
 			period 39
 			distance 233
 system Ikopp
@@ -234,6 +235,7 @@ system Repolitea
 		period 200
 		object
 			sprite "planet/station4"
+				scale 0.5
 			distance 165
 			period 16
 	object "Salistra"
@@ -242,14 +244,17 @@ system Repolitea
 		period 400
 		object
 			sprite "planet/station1"
+				scale 0.5
 			distance 300
 			period 16
 		object
 			sprite "planet/station3"
+				scale 0.5
 			distance 400
 			period 20
 		object
 			sprite "planet/station5"
+				scale 0.5
 			distance 500
 			period 24
 	object
@@ -258,6 +263,7 @@ system Repolitea
 		period 577
 		object
 			sprite "planet/station1"
+				scale 0.5
 			distance 439
 			period 16
 	object
@@ -266,6 +272,7 @@ system Repolitea
 		period 708
 		object
 			sprite "planet/station5"
+				scale 0.5
 			distance 338
 			period 16
 	object
@@ -274,6 +281,7 @@ system Repolitea
 		period 901
 		object
 			sprite "planet/station9"
+				scale 0.5
 			distance 506
 			period 16
 
@@ -2050,6 +2058,7 @@ system Vefrua
 		period 1310.49
 		object
 			sprite "planet/station3"
+				scale 0.5
 			distance 137.56
 			period 38.53
 	object
@@ -3578,6 +3587,7 @@ system Pechara
 			period 430.41
 		object "Pechara High"
 			sprite "planet/station8"
+				scale 0.5
 			distance 2042.189
 			period 1304.408
 
