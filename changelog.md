@@ -27,6 +27,9 @@
 - Scaled down all stations to half-size, consistent with vanilla.
 - Scaled down the moons of the Pechara gas giant.
 - Added more types of data to transport. Just haul those hard drives full of Excel spreadsheets across the galaxy and you're all set!
+- Overhauled the Suerolli system.
+- Added LEEST-specific graffiti to spaceports.
+- Completely changed the Amidala's loadout.
 
 ### v0.10.14 (2022-10-19)
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
