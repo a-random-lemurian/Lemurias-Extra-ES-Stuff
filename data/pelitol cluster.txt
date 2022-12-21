@@ -19,6 +19,10 @@
 # 	pos -8057.2079 -0.53422
 # 	sprite "galaxy/pelitol cluster"
 
+galaxy "label leest pechara"
+	pos -3450.7079 63.85467
+	sprite "label/pechara"
+
 system Sorusep
 	pos -3431.4301 -235.86756
 	government "Sayari Plushie"
