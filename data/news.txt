@@ -250,6 +250,67 @@ phrase "people Martieu religious parents hate"
 		"bad people"
 		"agnostics"
 
+phrase "terms for children (leest)"
+	word
+		"kid" 100
+		"child" 100
+		"son" 50
+		"daughter" 50
+
+phrase "parent ensuring kid's religious outcome"
+	phrase
+		"parent ensuring kid's good religious outcome, singular"
+		"parent preventing kid's bad religious outcome, singular"
+
+phrase "parent ensuring kid's good religious outcome, singular"
+	word
+		"I want to make sure that my ${terms for children (leest)} ${good religious outcomes (Christianity)}."
+	replace
+		"find peace" "finds peace"
+		"know that" "knows that"
+		"turn only" "turns only"
+		"go to" "goes to"
+		"are " "is "
+
+phrase "parent preventing kid's bad religious outcome, singular"
+	word
+		"I don't want my ${terms for children (leest)} to ${bad religious outcomes (Christianity)}."
+		"I want to make sure my ${terms for children (leest)} won't ${bad religious outcomes}."
+
+phrase "good religious outcomes (Christianity)"
+	word
+		"go to Heaven"
+		"turn only to the Bible"
+		"are sent to Heaven"
+		"are protected by the Lord"
+		"find peace in the Lord"
+		"find peace in the Bible"
+		"know that Jesus died for all of us"
+		"know that Jesus died for our sins"
+
+phrase "bad religious outcomes (Christianity)"
+	word
+		"lose their innocence"
+		"turn away from God"
+		"turn away from the Lord"
+		"be deceived by Satanists"
+		"be deceived by Satan"
+		"go to Hell"
+		"be damned in hell"
+		"suffer in hell"
+
+phrase "ways to take away a child's book, past tense"
+	word
+		"threw it in the trash"
+		"burned it"
+		"sold it to someone else"
+		"doused it in holy water"
+		"submerged it in holy water"
+		"tore it apart"
+		"shredded it"
+		"threw it away"
+		"threw it out"
+
 news "Martieu religious parent"
 	location
 		planet Martieu
@@ -262,7 +323,7 @@ news "Martieu religious parent"
 		word
 			"I was at a bookstore the other day. When my kids were passing through the vampire book section, I had to cover their eyes to keep them safe!"
 			"I saw the school library on another planet and I was horrified by the ${Martieu religious parent description of books} that the children were reading!"
-			"My kid got ${book disliked by Martieu religious parents} as a gift for his birthday. I took it away and threw it in the trash. I don't want my kid to lose their innocence."
+			"My kid got ${book disliked by Martieu religious parents} as a gift for his birthday. I took it away and ${ways to take away a child's book, past tense}. ${parent ensuring kid's religious outcome}"
 			"For only 500 credits a month, I can access my ${child's private info} with this awesome parental control software! Now I have peace of mind knowing they're safe."
 			"Did you know that the vast majority of the internet is populated by ${people Martieu religious parents hate}? You need to do everything to protect your child and ensure they walk the Lord's path!"
 			"I take my kids to church every 2 days!"
