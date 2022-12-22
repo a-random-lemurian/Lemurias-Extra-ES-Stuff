@@ -19,6 +19,10 @@ galaxy "label leest illumina regions"
 	sprite "label/illumina regions"
 	pos -1008.5833 -221.02778
 
+galaxy "label leest eisei"
+	sprite "label/eisei"
+	pos -1087.9166 -56.638885
+
 ### A
 system Aixafer
 	pos -968.58331 -42.08333
