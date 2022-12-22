@@ -27,6 +27,8 @@ Dialog and "strings" visible to players do not contain mild/major swear words, n
 
 Do note that this addon has references to slavery and organized crime (pirates).
 
+When writing content for LEEST, I make sure the content remains at ESRB's *Teen* rating, PEGI's *12* rating, Germany's *USK 12* rating, or in general, appropriate for someone at or above the age of 13.
+
 # Copyrights
 Plugin copyright (C) Lemuria#0685 2021-2022. License: GPLv3, view in LICENSE.md
 
