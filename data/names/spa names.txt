@@ -108,6 +108,8 @@ phrase "people worthy of being ship names"
 		"May Berenbaum"           # American entomologist
 		"Johnny Depp"             # American actor, you should know
 		"Amber Heard"             # American actress, you should know
+		"Jen Kiggans"             # American congresswoman
+		"Elaine Luria"            # American congresswoman
 		"Itzhak Perlman"          # Israeli-American violinist
 		"Radia Perlman"           # American programmer
 		"Richard Stallman"        # GNU Project creator
