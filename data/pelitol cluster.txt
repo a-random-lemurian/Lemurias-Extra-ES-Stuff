@@ -1,5 +1,5 @@
 # LEESt: The world's greatest Endless Sky plugin.
-# Copyright (C) 2021-2022 Lemuria
+# Copyright (C) 2021-2023 Lemuria
 
 # This program is free software: you can redistribute it and/or modify it under the terms of the GNU
 # General Public License as published by the Free Software Foundation, either version 3 of the
@@ -18,6 +18,14 @@
 # galaxy pelitolNebula
 # 	pos -8057.2079 -0.53422
 # 	sprite "galaxy/pelitol cluster"
+
+galaxy "label leest pechara"
+	pos -3450.7079 63.85467
+	sprite "label/pechara"
+
+galaxy "label leest martieu sector"
+	pos -3370.5968 -154.58978
+	sprite "label/martieu"
 
 system Sorusep
 	pos -3431.4301 -235.86756

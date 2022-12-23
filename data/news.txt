@@ -1,5 +1,5 @@
 # LEESt: The world's greatest Endless Sky plugin.
-# Copyright (C) 2021-2022 Lemuria
+# Copyright (C) 2021-2023 Lemuria
 
 # This program is free software: you can redistribute it and/or modify it under the terms of the GNU
 # General Public License as published by the Free Software Foundation, either version 3 of the
@@ -308,3 +308,21 @@ news "Hidalgo Shrine dialog 1"
 			`Please visit the shrine's website to download high-quality royalty free imagery of Anne Hidalgo.`
 		word
 			"`"
+
+news "leest graffiti"
+	location
+		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent" "Pirate" "Sayari Plushie" "Anime Organization" "Yuyuko Saigyouji"
+	name
+		word
+			"Graffiti painted on a wall"
+	message
+		word
+			# These are not references. The dates were chosen by a
+			# random date generator, I swear. Not kidding.
+			"A drawing of a red bowl of rice on top of a yellow book."
+			"1941-10-04 / 2021-12-11"
+			"Never forget December 11, 2021"
+			"1976-05-05"
+			"May 5, 1976 - a great book was made known to humanity!"
+
+			"A drawing of a penguin using a computer."
