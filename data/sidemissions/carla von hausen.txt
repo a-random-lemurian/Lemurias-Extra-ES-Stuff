@@ -82,7 +82,7 @@ mission "CVH sales pitch 1"
 	source
 		planet "Asgard"
 	on offer
-	
+
 		log "Minor People" "Carla von Hausen" "A property agent based on Asgard, Naos. She runs her own property agency. You have had multiple run-ins with her, whether it was her boarding your ship, her approaching you, or selling you an apartment."
 
 		conversation
@@ -91,7 +91,7 @@ mission "CVH sales pitch 1"
 				`	"Get out of my ship right now!"`
 					goto angrilyDemandLeave0
 				"	(Approach her.)"
-			
+
 			"	You walk over to the table where she is sitting at."
 			"	The unknown woman in the green pantsuit takes something from her pocket and hands it to you. It is yet another card. Her name, 'Carla von Hausen', is written on it."
 			`	"Hello!" She smiles at you. "<origin> is a really great place, isn't it? Have you reconsidered your decision to purchase a home?"`
@@ -140,7 +140,7 @@ mission "CVH sales pitch 1"
 			choice
 				`	"Let's go, then."`
 					goto journey
-			
+
 			label journey
 			`	Carla gets up from her seat, smoothing and adjusting her suit jacket as necessary and fastening a few buttons. She collects her things. After a few minutes you open the hatch and begin walking to the nearest bus stop.`
 			`	After a few minutes of both of you sitting, the bus arrives. You and Carla get on the bus, finding a seat in the front. You both pay the fare. Occasionally, to pass the time and stave off boredom, she tells you one of her many stories about life as a property agent, such as the time she accidentally stepped over a child's toy set, the time she found magazines of a certain type on the desk, and the occasional renter who acted rude towards a client during a showing.`
@@ -148,7 +148,7 @@ mission "CVH sales pitch 1"
 			choice
 				`	(Enter the apartment.)`
 					goto insideApartment
-			
+
 			label insideApartment
 			`	You enter the apartment. It only has a bed, table, a sofa, and a few chairs. The apartment contains a single bedroom, a bathroom, and a large living room, alongside a small storage room between the kitchen and the living room.`
 			`	Carla begins explaining. Unlike the speech she gave at the table on your ship, this time she speaks in a clear voice. "It's a one-bedroom apartment. The bedroom should be large enough for three people. If you want to rent, it is 5,800 credits per month, and if you want to buy it, it should cost about 810,000 credits. The purchase price includes the furniture."`
@@ -261,7 +261,7 @@ mission "CVH customer moving house"
 					goto whoIsLandlord
 				`	"We're here. Time to go."`
 					goto timeToGo
-			
+
 			label whoIsLandlord
 			`	"Her name is 'Carla von Hausen'. I'm renting.", says Elaine.`
 
@@ -298,6 +298,16 @@ mission "leest carla von hausen condition patch"
 	to offer
 		# Do not correct this typo
 		has "met carla von hansen"
+	on offer
+		set "met carla von hausen"
+		fail
+
+# The player first meets Carla in the mission "Home for Skadenga 3"
+mission "leest detect home for skadenga 3"
+	landing
+	invisible
+	to offer
+		has "Home for Skadenga 3: done"
 	on offer
 		set "met carla von hausen"
 		fail
