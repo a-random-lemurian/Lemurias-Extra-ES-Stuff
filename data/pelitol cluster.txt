@@ -27,6 +27,10 @@ galaxy "label leest martieu sector"
 	pos -3370.5968 -154.58978
 	sprite "label/martieu"
 
+galaxy "label leest plushie belt"
+	pos -3477.3299 -290.50439
+	sprite "label/plushie belt"
+
 system Sorusep
 	pos -3431.4301 -235.86756
 	government "Sayari Plushie"
