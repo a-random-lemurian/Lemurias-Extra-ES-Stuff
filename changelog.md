@@ -3,10 +3,12 @@
 - All SPA ships are now locked behind the (currently) unobtainable SPA License. An update in the far future may add a mission chain that gives you this license.
 - You can now buy snacks before your first anime screening on Eisei.
 - Through unknown methods, the SPA has acquired the prototype blueprint for the Prototype Fusion Cannon on Gefulte's person ship.
+- Added the territories of the CSSF. They are accessible through a wormhole somewhere in the Illumina Regions. Find it yourself.
+   - Added the Ring of Gensokyo, the capital of the CSSF.
+- Added a new variant of the Falcon for the SPA.
 - Grammar fixes:
    - Specify plural for the SPA Rosas
    - particfularly -> particularly
-- Added the territories of the CSSF. They are accessible through a wormhole somewhere in the Illumina Regions. Find it yourself.
 - Merged `outer pelitol cluster.txt` into `pelitol cluster.txt`. Now they're all one big file.
 - Prevent Hai Reveal systems from overlapping with the route between the Illumina Regions and the northern pirate colonies, by moving Sparikau, Derusa, Kilooew, and Vamiru out of the way and replacing them with a wormhole.
 - Non-religious people on Martieu now rant about the constant conversion attempts in the spaceport, sometimes.
