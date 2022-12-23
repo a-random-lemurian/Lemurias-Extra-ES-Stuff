@@ -105,6 +105,14 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Parton                    | Andrew Wood          | CC BY-SA 2.0 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Riveston_Grassland_-_geograph.org.uk_-_2579417.jpg))
 | Heine                     | Wing-Chi Poon        | CC BY-SA 2.5 "Generic"  | ([orig](https://commons.wikimedia.org/wiki/File:Cumulus_Clouds_over_Yellow_Prairie2.jpg))
 | Hidalgo Shrine            | Benh LIEU SONG       | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:Hotel_de_Ville_Paris_Wikimedia_Commons.jpg))
+| Ring of Gensokyo          | ZKang123             | CC BY-SA 4.0            | ([orig](https://commons.wikimedia.org/wiki/File:CE1_DT16_Bayfront_MRT_Exit_B_20201201_152252.jpg))
+| Taglamig                  | Markus Leupold-Löwenthal | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:KleinarlWinterwonderland.jpg))
+| Nuclear Furnace           | J.D. Griggs          | Public Domain           | ([orig](https://commons.wikimedia.org/wiki/File:Pahoeoe_fountain_edit2.jpg))
+| Letty                     | Malc McDonald        | CC BY-SA 2.0               | ([orig](https://www.geograph.org.uk/photo/7041176))
+| Scarlet                   | Jim Barton           | CC BY-SA 2.0               | ([orig](https://www.geograph.org.uk/photo/6371158))
+| Margaret                  | Γεωργός              | CC BY-SA 4.0               | ([orig](https://commons.wikimedia.org/wiki/User:%CE%93%CE%B5%CF%89%CF%81%CE%B3%CF%8C%CF%82))
+| Alice                     | Natasha Ceridwen de Chroustchoff | CC BY-SA 2.0   | ([orig](https://www.geograph.org.uk/photo/1788888))
+| Geidontei Fortress        | Trevor Littlewood    | CC BY-SA 2.0 | ([orig](https://www.geograph.org.uk/photo/3406552))
 
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 

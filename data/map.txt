@@ -509,12 +509,13 @@ system Hiljaak
 	link Jarkiiens
 	attributes "illumina regions"
 	arrival 1870
+	"invisible fence" 18000
 	fleet spa.small 600
 	fleet spa.medium 1200
 	fleet spa.large 1800
-	fleet cssf.small 2400
-	fleet cssf.medium 4700
-	fleet cssf.large 6700
+	fleet cssf.small 600
+	fleet cssf.medium 1200
+	fleet cssf.large 1800
 	asteroids "medium rock" 10 2.002
 	asteroids "large rock" 41 2.548
 	asteroids "small metal" 5 2.002
@@ -557,6 +558,10 @@ system Hiljaak
 			sprite planet/dust4
 			distance 562
 			period 1033.815
+	object "Hakugyukurou-Hiljaak Wormhole"
+		sprite "planet/wormhole"
+		period 34880
+		distance 16646
 	object
 		sprite planet/gas5-b
 		distance 2361
@@ -2081,6 +2086,12 @@ planet Eisei
 #===< Wormholes >===#
 # planet "Pelitol-Sedlai Wormhole"
 # 	description ""
+
+planet "Hakugyukurou-Hiljaak Wormhole"
+	landscape ""
+	government "Uninhabited"
+	description `.`
+	spaceport `.`
 
 planet "Eileri-Luduras Wormhole"
 	description ``

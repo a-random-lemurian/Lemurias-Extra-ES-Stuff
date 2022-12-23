@@ -29,7 +29,7 @@ government "Sayari Plushie"
 government "Yuyuko Saigyouji (Hostile)"
 	"display name" CSSF
 	swizzle 13
-	color 0.17 0.18700001 0.20299999
+	color 0.250980 0.282352 0.861496 0.0
 	"friendly hail" cssf.hails.friendly
 	"hostile hail" cssf.hails.hostile
 	"attitude toward"
@@ -40,7 +40,7 @@ government "Yuyuko Saigyouji (Hostile)"
 government "Yuyuko Saigyouji"
 	"display name" CSSF
 	swizzle 13
-	color 0.17 0.18700001 0.20299999
+	color 0.250980 0.282352 0.861496 0.0
 	"friendly hail" cssf.hails.friendly
 	"hostile hail" cssf.hails.hostile
 	"attitude toward"
