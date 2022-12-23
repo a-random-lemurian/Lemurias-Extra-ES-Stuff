@@ -106,18 +106,18 @@ phrase "locations"
 phrase "people worthy of being ship names"
 	word
 		"May Berenbaum"           # American entomologist
-		"Johnny Depp"
-		"Amber Heard"
+		"Johnny Depp"             # American actor, you should know
+		"Amber Heard"             # American actress, you should know
 		"Itzhak Perlman"          # Israeli-American violinist
 		"Radia Perlman"           # American programmer
 		"Richard Stallman"        # GNU Project creator
 		"Lisa Su"                 # CEO of AMD
-		"Lena Raine"
+		"Lena Raine"              # Minecraft music maker
 		"Rainych Ran"             # Indonesian singer
 		"Anne Rice"               # American author (1941-2021)
 		"Lizz Robinett"           # American singer
 		"Linus Torvalds"          # Linux kernel creator
-		"Camille Vasquez"
+		"Camille Vasquez"         # Johnny Depp's lawyer
 
 phrase "Hai systems"
 	word
