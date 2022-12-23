@@ -1,5 +1,5 @@
 system Maisudium
-	pos -8238.1667 241.16667
+	pos -3238.1667 241.16667
 	link "320 Barduk"
 	link Eruni
 	arrival 2800
@@ -25,33 +25,33 @@ system Maisudium
 		period 801.49
 
 system Daetium
-	pos -8338.7778 388.11111
+	pos -3338.7778 388.11111
 	link Spariun
 	arrival 1870
 
 system Paras
-	pos -8050.7778 195.66667
+	pos -3050.7778 195.66667
 	link Carux
 	link Darune
 	link Saerun
 	arrival 1620
 
 system Orfue
-	pos -8087.6667 58.777778
+	pos -3087.6667 58.777778
 	link "94 Merisai"
 	link Areuth
 	link Daithus
 	arrival 1440
 
 system Farius
-	pos -7915.8889 247.94444
+	pos -2915.8889 247.94444
 	link Erudainum
 	link Ondurius
 	link Skeptau
 	arrival 2180
 
 system Darune
-	pos -8159.2222 268.11111
+	pos -3159.2222 268.11111
 	link "320 Barduk"
 	link Orinu
 	link Paras
@@ -59,47 +59,47 @@ system Darune
 	arrival 1740
 
 system Daithus
-	pos -8058.2222 91.777778
+	pos -3058.2222 91.777778
 	link "94 Merisai"
 	link Orfue
 	arrival 1620
 
 system Ondurius
-	pos -7845.2222 199.27778
+	pos -2845.2222 199.27778
 	link Dacurum
 	link Farius
 	arrival 1570
 
 system Dacurum
-	pos -7867.2222 127.5
+	pos -2867.2222 127.5
 	link Etyuruis
 	link Fatuis
 	link Ondurius
 	arrival 1610
 
 system Etyuruis
-	pos -7844.5556 63.055556
+	pos -2844.5556 63.055556
 	link Dacurum
 	link "Neru Akureis"
 	link Sami'sen
 	arrival 1590
 
 system Sami'sen
-	pos -7855.6667 -22.277778
+	pos -2855.6667 -22.277778
 	link Acraum
 	link Duxa'setisen
 	link Etyuruis
 	arrival 2700
 
 system Saerun
-	pos -8112.4444 164.66667
+	pos -3112.4444 164.66667
 	link Areuth
 	link Orinu
 	link Paras
 	arrival 2600
 
 system "187 Barduk"
-	pos -8197.8889 353.88889
+	pos -3197.8889 353.88889
 	link "120 Barduk"
 	link "313 Barduk"
 	link "320 Barduk"
@@ -107,27 +107,27 @@ system "187 Barduk"
 	arrival 2400
 
 system Eruni
-	pos -8253.2222 201.72222
+	pos -3253.2222 201.72222
 	link Maisudium
 	link Orinu
 	arrival 2180
 
 system "313 Barduk"
-	pos -8083.1667 343.61111
+	pos -3083.1667 343.61111
 	link "120 Barduk"
 	link "187 Barduk"
 	link Skeptau
 	arrival 1740
 
 system Kadorum
-	pos -8368.2222 277.5
+	pos -3368.2222 277.5
 	link "320 Barduk"
 	link Saineu
 	link Spariun
 	arrival 1650
 
 system Skeptau
-	pos -8024.2222 280.33333
+	pos -3024.2222 280.33333
 	link "313 Barduk"
 	link Carux
 	link Darune
@@ -137,22 +137,22 @@ system Skeptau
 	arrival 1880
 
 system "Neru Akureis"
-	pos -7819.2222 15.944444
+	pos -2819.2222 15.944444
 	link Etyuruis
 	arrival 1830
 
 system Ierun
-	pos -8000.6667 335.44444
+	pos -3000.6667 335.44444
 	link Skeptau
 	arrival 1650
 
 system Saineu
-	pos -8342.9444 230.05556
+	pos -3342.9444 230.05556
 	link Kadorum
 	arrival 1720
 
 system Spariun
-	pos -8289.8889 337
+	pos -3289.8889 337
 	link "187 Barduk"
 	link "320 Barduk"
 	link Daetium
@@ -160,20 +160,20 @@ system Spariun
 	arrival 1900
 
 system "120 Barduk"
-	pos -8203.8333 422.27778
+	pos -3203.8333 422.27778
 	link "187 Barduk"
 	link "313 Barduk"
 	arrival 1740
 
 system Erudainum
-	pos -7919.2222 179.27778
+	pos -2919.2222 179.27778
 	link Farius
 	link Fatuis
 	link Oruf
 	arrival 1380
 
 system Fatuis
-	pos -7903.6667 82.611111
+	pos -2903.6667 82.611111
 	link Acraum
 	link Carux
 	link Dacurum
@@ -181,26 +181,26 @@ system Fatuis
 	arrival 2000
 
 system Oruf
-	pos -7970.8889 227.88889
+	pos -2970.8889 227.88889
 	link Carux
 	link Erudainum
 	link Skeptau
 	arrival 1980
 
 system Acraum
-	pos -7908.5556 9.7222222
+	pos -2908.5556 9.7222222
 	link Fatuis
 	link Sami'sen
 	link Starium
 	arrival 1740
 
 system Starium
-	pos -7948.1111 -22.277778
+	pos -2948.1111 -22.277778
 	link Acraum
 	arrival 1890
 
 system Carux
-	pos -7995.7778 179
+	pos -2995.7778 179
 	link Fatuis
 	link Oruf
 	link Paras
@@ -208,7 +208,7 @@ system Carux
 	arrival 1830
 
 system "320 Barduk"
-	pos -8215.6667 295.66667
+	pos -3215.6667 295.66667
 	link "187 Barduk"
 	link Darune
 	link Kadorum
@@ -217,20 +217,20 @@ system "320 Barduk"
 	arrival 1760
 
 system Areuth
-	pos -8116.2222 125.33333
+	pos -3116.2222 125.33333
 	link "43 Merisai"
 	link Orfue
 	link Saerun
 	arrival 1490
 
 system Orinu
-	pos -8173.1111 195.55556
+	pos -3173.1111 195.55556
 	link Darune
 	link Eruni
 	link Saerun
 	arrival 1930
 
 system Duxa'setisen
-	pos -7865 -81.166667
+	pos -2865 -81.166667
 	link Sami'sen
 	arrival 1620
