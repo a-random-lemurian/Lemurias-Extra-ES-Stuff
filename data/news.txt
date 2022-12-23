@@ -367,6 +367,7 @@ news "Hidalgo Shrine dialog 1"
 			"Anne Hidalgo is your new goddess. Please make sure to capitalize Her pronouns in your writing."
 			`Ana Maria "Anne" Hidalgo Aleu (born 19 June 1959) is a Spanish-French person who was the first woman to be the mayor of Paris when she was elected in 2014.`
 			`Please visit the shrine's website to download high-quality royalty free imagery of Anne Hidalgo.`
+			`Bonjour!`
 		word
 			"`"
 
