@@ -19,6 +19,18 @@
 # 	pos -8057.2079 -0.53422
 # 	sprite "galaxy/pelitol cluster"
 
+galaxy "label leest pechara"
+	pos -3450.7079 63.85467
+	sprite "label/pechara"
+
+galaxy "label leest martieu sector"
+	pos -3370.5968 -154.58978
+	sprite "label/martieu"
+
+galaxy "label leest plushie belt"
+	pos -3477.3299 -290.50439
+	sprite "label/plushie belt"
+
 system Sorusep
 	pos -3431.4301 -235.86756
 	government "Sayari Plushie"

@@ -15,6 +15,13 @@
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
+galaxy "label leest illumina regions"
+	sprite "label/illumina regions"
+	pos -1008.5833 -221.02778
+
+galaxy "label leest eisei"
+	sprite "label/eisei"
+	pos -1087.9166 -56.638885
 
 ### A
 system Aixafer
