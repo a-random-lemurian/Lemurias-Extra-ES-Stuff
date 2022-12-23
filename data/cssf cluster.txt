@@ -1,3 +1,7 @@
+galaxy "label leest cssf space"
+	pos -1389.662 -1065.041
+	sprite "label/cssf space"
+
 system Reimu
 	pos -1590.5 -1058.037
 	link Mugenkan
