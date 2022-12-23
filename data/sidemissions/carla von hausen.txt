@@ -290,3 +290,14 @@ mission "CVH customer moving house"
 
 		set "met carla von hausen"
 		payment 76000
+
+# Patch mission to fix my misspelling of Carla's last name
+mission "leest carla von hausen condition patch"
+	landing
+	invisible
+	to offer
+		# Do not correct this typo
+		has "met carla von hansen"
+	on offer
+		set "met carla von hausen"
+		fail
