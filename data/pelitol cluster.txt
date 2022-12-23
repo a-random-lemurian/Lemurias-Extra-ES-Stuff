@@ -15,9 +15,9 @@
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
-# galaxy pelitolNebula
-# 	pos -8057.2079 -0.53422
-# 	sprite "galaxy/pelitol cluster"
+galaxy pelitolNebula
+	pos -3357.2079 -286.53422
+	sprite "galaxy/pelitol cluster"
 
 galaxy "label leest pechara"
 	pos -3450.7079 63.85467
