@@ -718,8 +718,8 @@ planet "Ring of Gensokyo"
 planet "Liminal Bastion"
 	landscape "land/liminalBastion"
 	government "Yuyuko Saigyouji"
-	description `.`
-	spaceport `.`
+	description `The Liminal Bastion is yet another urban colony within CSSF territory. It is populated by roughly 3.1 million people. Long before the arrival of the CSSF, Liminal Bastion had been an independent colony, until it voluntarily joined in 2941.`
+	spaceport `Liminal Bastion's spaceport is old. Dating back to the 2700s, it has been built, destroyed, and rebuilt multiple times. It is a sprawling mess that is closely integrated with the planet's only city and it is common for previously undiscovered sections that were never in the blueprints to be uncovered during a routine maintenance operation.`
 
 planet "Geidontei Fortress"
 	landscape "land/geidonteiFortress"
