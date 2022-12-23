@@ -32,7 +32,8 @@
 - Overhauled the Suerolli system.
 - Added LEEST-specific graffiti to spaceports.
 - Completely changed the Amidala's loadout.
-- Added a map label for the Illumina Regions.
+- Added a map label for the Illumina Regions, Pechara, Martieu, and the Plushie Belt (the SPA colonies in the Pelitol Cluster).
+- Overhauled Sayreopli system.
 
 ### v0.10.14 (2022-10-19)
 - Added the SPA Scan Blocker to block scans. Great for transporting nerve gas, and for hiding your secret plushie stash from the CSSF.
