@@ -3256,6 +3256,8 @@ system "94 Merisai"
 	link "43 Merisai"
 	link Miruver
 	link Vefrua
+	link Daithus
+	link Orfue
 	attributes "pelitol cluster"
 	arrival 1930
 	trade Clothing 209
@@ -3553,6 +3555,7 @@ system "43 Merisai"
 	link "42 Merisai"
 	link "94 Merisai"
 	link Vaitul
+	link Areuth
 	attributes "pelitol cluster"
 	arrival 1200
 	object
