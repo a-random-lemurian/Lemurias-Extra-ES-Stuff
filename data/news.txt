@@ -331,6 +331,44 @@ news "Martieu religious parent"
 		word
 			`"`
 
+phrase "Author disliked on Martieu"
+	word
+		# Vampire authors
+		"Anne Rice"         # American author. (1941-2021)
+		"Anne Rampling"     # Pen name used by Anne Rice.
+		"A.N. Roquelaure"   # Pen name used by Anne Rice.
+		"L. J. Smith"       # Writer of The Vampire Diaries.
+
+		"J. K. Rowling"     # Writer of Harry Potter.
+
+phrase "report reading of material disliked on Martieu"
+	word
+		"contact the Martieu Morality Police's hotline"
+		"contact your local pastor"
+		"encourage him to go to church"
+		"encourage him to turn to the Lord and the Bible"
+		"file a report on the Martieu Morality Police website"
+		"file a report with the Martieu Department of Morality"
+		"file a report with the Martieu Morality Police"
+		"please report it to the Martieu Morality Police"
+		"remind them of the eternal damnation they will suffer if they do not repent"
+		"report it immediately"
+
+news "Martieu public announcements"
+	location
+		planet Martieu
+	name
+		word
+			"Public Announcements"
+			"Public Announcement System"
+	message
+		word
+			`"`
+		word
+			"If you see anyone reading satanic material written by ${Author disliked on Martieu}, ${report reading of material disliked on Martieu}."
+		word
+			`"`
+
 news "technical writer ranting about date formats"
 	location
 		government "Republic" "Free Worlds" "Syndicate" "Neutral" "Independent"
