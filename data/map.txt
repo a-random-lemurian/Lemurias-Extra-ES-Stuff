@@ -416,6 +416,13 @@ system Finduue
 	link Lesarkei
 	link Luisark
 	link Lakodelfraddi
+	fleet spa.small 400
+	fleet spa.medium 600
+	fleet spa.large 750
+	fleet animeorg.general.patrol.small.1 1300
+	fleet "Small Northern Merchants" 500
+	fleet "Large Northern Merchants" 800
+	government "Sayari Plushie"
 	attributes "illumina regions"
 	arrival 4000
 	object
@@ -989,6 +996,13 @@ system Lakodelfraddi
 	link Finduue
 	link Sayreopli
 	link Raidei
+	fleet spa.small 400
+	fleet spa.medium 600
+	fleet spa.large 750
+	fleet animeorg.general.patrol.small.1 1300
+	fleet "Small Northern Merchants" 500
+	fleet "Large Northern Merchants" 800
+	government "Sayari Plushie"
 	attributes "illumina regions"
 	arrival 2300
 	object
@@ -1001,6 +1015,13 @@ system Lesarkei
 	link Finduue
 	link Poruch
 	link Minjuuk
+	fleet spa.small 400
+	fleet spa.medium 600
+	fleet spa.large 750
+	fleet animeorg.general.patrol.small.1 1300
+	fleet "Small Northern Merchants" 500
+	fleet "Large Northern Merchants" 800
+	government "Sayari Plushie"
 	attributes "illumina regions"
 	arrival 1700
 	object
@@ -2264,6 +2285,16 @@ planet Eisei
 	outfitter "Basic Outfits"
 	outfitter "Common Outfits"
 
+planet "Sayari Ring"
+	outfitter "Basic Outfits"
+	outfitter "Sayari Outfits"
+	shipyard "Sayari Advanced"
+	attributes "illumina regions" "station"
+	government "Sayari Plushie"
+	description "The Sayari Ring is a partial ringworld, set to be the future new capital of the SPA, which will replace Khoramelia once it is complete. Despite being under-construction, the amenities are shockingly complete and the station bustling with human settlement and the occasional forklift carrying boxes of plushies in clear containers."
+	description "Massive thrusters have been mounted on the ring, to prevent its orbit from destabilizing."
+	spaceport "The ring is wide. Due to its immense size, there are multiple spaceports scattered across the ring. You are in one of the larger ones. A massive SPA department store is at the exit of the spaceports, easily accessible, with tall shelves of plushie boxes in the industrial-looking storage area, being tended to by fast-moving machinery either depositing or taking products."
+	spaceport "Most of the industrial storage area is separated from the spaceport hallways by thick glass. It appears that the Authority is proud of this particular storage system."
 ###############################################################################
 #===< Wormholes >===#
 # planet "Pelitol-Sedlai Wormhole"
