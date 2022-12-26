@@ -50,8 +50,8 @@ phrase spa.allNames
 phrase "spa, no prefix"
 	phrase
 		"chemical elements" 118
-		"ingame characters" 3
-		"people worthy of being ship names" 7
+		"ingame characters" 17
+		"people worthy of being ship names" 15
 		"politicians" 63
 		"leest surnames" 4
 		"leest standalone names" 2
