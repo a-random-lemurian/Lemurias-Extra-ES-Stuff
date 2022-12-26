@@ -1433,28 +1433,74 @@ system Raidei
 	pos -1123.6944 -130.74999
 	link Lakodelfraddi
 	arrival 1720
-	attributes "illumina regions"
+	fleet spa.small 400
+	fleet spa.medium 600
+	fleet spa.large 750
+	fleet animeorg.general.patrol.small.1 1300
+	fleet "Small Northern Merchants" 500
+	fleet "Large Northern Merchants" 800
+	government "Sayari Plushie"
+	attributes "illumina regions" "ringworld"
 	object
-		sprite "star/a5"
+		sprite "star/a-supergiant"
 		distance 0
 		period 0
 	object
-		sprite "planet/lava4"
-		distance 344
-		period 133
+		sprite "planet/ringworld right"
+			scale 0.5
+		distance 1624
+		period 349.820
+		offset 180
+	object "Sayari Ring"
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 200
 	object
-		sprite "planet/forest6"
-		distance 773
-		period 310
+		sprite "planet/ringworld left"
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 220
 	object
-		sprite "planet/desert2"
-		distance 1335
-		period 433
+		sprite "planet/ringworld right"
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 40
 	object
-		sprite "planet/gas5"
-		distance 2123
-		period 572
-
+		sprite planet/ringworld
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 60
+	object
+		sprite "planet/ringworld left"
+			scale 0.5
+		distance 812
+		period 349.820
+		offset 80
+	object
+		sprite "planet/rock1"
+		distance 1132
+		period 489.104
+	object
+		sprite "planet/rock2-b"
+		distance 1744
+		period 625.501
+	object
+		sprite "planet/gas8"
+		distance 3318
+		period 971.436
+	object
+		sprite "planet/gas3-b"
+		distance 4107
+		period 1326.558
+	object
+		sprite "planet/ice1"
+		distance 4871
+		period 1540.273
 
 
 ### S
