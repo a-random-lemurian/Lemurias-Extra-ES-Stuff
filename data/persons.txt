@@ -15,6 +15,178 @@
 # Lemuria is contactable in the Endless Sky discord server
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
+phrase "Anne Rice file"
+	word
+		"Anne_Rice_"
+		""
+	word
+		"angel_time"
+		"beautys_kingdom"
+		"beautys_release"
+		"beautys_punishment"
+		"belinda"
+		"blackwood_farm"
+		"blood_and_gold"
+		"blood_canticle"
+		"blood_communion_a_tale_of_prince_lestat"
+		"christ_the_lord_out_of_egypt"
+		"christ_the_lord_the_road_to_cana"
+		"cry_to_heaven"
+		"exit_to_eden"
+		"interview_with_the_vampire"
+		"lasher"
+		"memnoch_the_devil"
+		"merrick"
+		"of_love_and_evil"
+		"pandora"
+		"prince_lestat"
+		"prince_lestat_and_the_realms_of_atlantis"
+		"ramses_the_damned_the_passion_of_cleopatra"
+		"ramses_the_damned_the_reign_of_osiris"
+		"servant_of_the_bones"
+		"taltos"
+		"the_claiming_of_sleeping_beauty"
+		"the_feast_of_all_saints"
+		"the_mummy_or_ramses_the_damned"
+		"the_queen_of_the_damned"
+		"the_tale_of_the_body_thief"
+		"the_vampire_armand"
+		"the_vampire_lestat"
+		"the_witching_hour"
+		"the_wolf_gift"
+		"the_wolves_of_midwinter"
+		"violin"
+		"vittorio_the_vampire"
+	word
+		".txt" 20
+		".pdf" 100
+		".epub" 100
+		".docx" 40
+		".ods" 40
+		".html" 5
+		".mobi" 5
+
+phrase "Anne Rice file"
+	word
+		"Anne_Rice"
+		"Anne-Rice"
+	word
+		"_highres"
+		"_4khd"
+		"_4k"
+		"_hd"
+	word
+		".png"
+		".jpg"
+		".tiff"
+
+# Me. I created this plugin.
+person "Lemuria"
+	frequency 1000
+	government "Author"
+	phrase
+		word
+			"["
+		word
+			"Lemuria sent you an attachment:"
+		word
+			" '"
+		phrase
+			"Anne Rice file"
+		word
+			"'. "
+		word
+			"Download it? (y/n)"
+		word
+			"]"
+	phrase
+		word
+			"Thank you for playing LEEST."
+			"Thank you to Zoura for the Amidala sprite."
+			"Burning Anne Rice books is a crime."
+			"Selling Sayari plushies is my thing."
+	personality
+		surveillance unconstrained forbearing
+	system
+		government "Republic" "Sayari Plushie" "Free Worlds" "Syndicate" "Neutral" "Independent" "Hai" "Anime Organization"
+	ship Amidala "F.S. Lemuria"
+		sprite ship/amidala
+		thumbnail "thumbnail/kar ik vot 349"
+		attributes
+			category "Heavy Warship"
+			cost 156988000
+			mass 1210
+			bunks 23
+			"cargo space" 1174
+			drag 11.2
+			"engine capacity" 214
+			"fuel capacity" 4700
+			"gun ports" 8
+			"heat dissipation" 0.8
+			hull 174300
+			"outfit space" 1501
+			ramscoop 30
+			shields 348700
+			"turret mounts" 14
+			"weapon capacity" 598
+		outfits
+			"Antimatter Core" 2
+			"Caldera Afterburner"
+			"Fuel Module" 4
+			"Fuel Pod"
+			"Heavy Anti-Missile Turret" 2
+			"Hyperdrive"
+			"Jump Drive"
+			"Large Heat Shunt"
+			"Nanotech Battery" 4
+			"Outfits Expansion" 8
+			"Quantum Keystone"
+			"Quarg Anti-Missile" 2
+			"Quarg Skylance" 6
+			"SPA Scan Blocker"
+			"Scanning Module" 3
+			"Smelter-Class Steering"
+			"Smelter-Class Thruster"
+			"Wanderer Ramscoop" 5
+			"Wanderer Anti-Missile" 5
+
+		engine -24 237
+		engine 24 237
+		engine 0 237
+		engine -24.5 236.5
+		engine 24.5 236.5
+
+		gun -8 -220    "Sunbeam"
+		gun -8 -220    "Sunbeam"
+		gun 8 -220     "Sunbeam"
+		gun 8 -220     "Sunbeam"
+		gun -37 -211   "Sunbeam"
+		gun -37 -211   "Sunbeam"
+		gun 37 -211    "Sunbeam"
+		gun 37 -211    "Sunbeam"
+
+		turret -60.5 -148.5 "Wanderer Anti-Missile"
+		turret 60.5 -148.5 "Quarg Skylance"
+		turret -61.5 -131 "Quarg Skylance"
+		turret 61.5 -131 "Quarg Skylance"
+		turret -64 -110 "Quarg Skylance"
+		turret 64 -110 "Quarg Skylance"
+		turret -65 -88 "Quarg Skylance"
+		turret 65 -88 "Heavy Anti-Missile Turret"
+		turret -71 43 "Heavy Anti-Missile Turret"
+		turret 71 43 "Wanderer Anti-Missile"
+		turret -55.5 42.5 "Wanderer Anti-Missile"
+		turret 55.5 42.5 "Wanderer Anti-Missile"
+		turret -100.5 189 "Wanderer Anti-Missile"
+		turret 100.5 189 "Wanderer Anti-Missile"
+
+		explode "huge explosion" 15
+		explode "large explosion" 50
+		explode "medium explosion" 70
+		explode "small explosion" 60
+		explode "tiny explosion" 120
+		"final explode" "final explosion large" 1
+
 person "Liz Cheney"
 	frequency 20
 	government "Merchant"
