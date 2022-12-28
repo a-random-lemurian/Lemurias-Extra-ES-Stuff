@@ -123,7 +123,7 @@ mission "Martieu data smuggling, unsuccessful [0]"
 	destination "Martieu"
 	on complete
 		dialog phrase "Martieu Data Smuggling Failure"
-		payment -2000000
+		fine 2000000
 mission "Martieu data smuggling, unsuccessful [1]"
 	name "Smuggle data to Martieu"
 	job
@@ -138,7 +138,7 @@ mission "Martieu data smuggling, unsuccessful [1]"
 	destination "Martieu"
 	on complete
 		dialog phrase "Martieu Data Smuggling Failure"
-		payment -2000000
+		fine 2000000
 mission "Martieu data smuggling, unsuccessful [2]"
 	name "Smuggle data to Martieu"
 	job
@@ -153,7 +153,7 @@ mission "Martieu data smuggling, unsuccessful [2]"
 	destination "Martieu"
 	on complete
 		dialog phrase "Martieu Data Smuggling Failure"
-		payment -2000000
+		fine 2000000
 mission "Martieu data smuggling, unsuccessful [3]"
 	name "Smuggle data to Martieu"
 	job
@@ -168,4 +168,4 @@ mission "Martieu data smuggling, unsuccessful [3]"
 	destination "Martieu"
 	on complete
 		dialog phrase "Martieu Data Smuggling Failure"
-		payment -2000000
+		fine 2000000
