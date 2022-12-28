@@ -1469,7 +1469,7 @@ system Raidei
 	object
 		sprite "planet/ringworld right"
 			scale 0.5
-		distance 1624
+		distance 812
 		period 349.820
 		offset 180
 	object "Sayari Ring"
@@ -2289,6 +2289,7 @@ planet "Sayari Ring"
 	outfitter "Basic Outfits"
 	outfitter "Sayari Outfits"
 	shipyard "Sayari Advanced"
+	landscape "land/station2"
 	attributes "illumina regions" "station"
 	government "Sayari Plushie"
 	description "The Sayari Ring is a partial ringworld, set to be the future new capital of the SPA, which will replace Khoramelia once it is complete. Despite being under-construction, the amenities are shockingly complete and the station bustling with human settlement and the occasional forklift carrying boxes of plushies in clear containers."
