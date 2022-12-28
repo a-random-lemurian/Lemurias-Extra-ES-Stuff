@@ -530,6 +530,16 @@ system Vensur
 	attributes "pelitol cluster"
 	arrival 1680
 	arrival 500
+	trade Clothing 394
+	trade Electronics 243
+	trade Equipment 419
+	trade Food 371
+	trade "Heavy Metals" 504
+	trade Industrial 457
+	trade "Luxury Goods" 613
+	trade Medical 543
+	trade Metal 432
+	trade Plastic 192
 	fleet spa.small 500
 	fleet spa.medium 800
 	fleet spa.large 1200
