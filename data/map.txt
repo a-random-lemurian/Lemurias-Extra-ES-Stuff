@@ -1460,6 +1460,16 @@ system Raidei
 	fleet animeorg.general.patrol.small.1 1300
 	fleet "Small Northern Merchants" 500
 	fleet "Large Northern Merchants" 800
+	trade Clothing 314
+	trade Electronics 733
+	trade Equipment 615
+	trade Food 549
+	trade "Heavy Metals" 483
+	trade Industrial 758
+	trade "Luxury Goods" 982
+	trade Medical 843
+	trade Metal 245
+	trade Plastic 472
 	government "Sayari Plushie"
 	attributes "illumina regions" "ringworld"
 	object
