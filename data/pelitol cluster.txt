@@ -200,6 +200,16 @@ system Ikopp
 	fleet spa.medium 1700
 	fleet spa.large 3000
 	fleet cssf.war.pelitolClusterRaid.small.1 1500
+	trade Clothing 244
+	trade Electronics 593
+	trade Equipment 566
+	trade Food 109
+	trade "Heavy Metals" 453
+	trade Industrial 728
+	trade "Luxury Goods" 1432
+	trade Medical 962
+	trade Metal 278
+	trade Plastic 532
 	object
 		sprite "star/a0"
 		period 0
