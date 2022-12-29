@@ -183,7 +183,7 @@ phrase githubCodeVault.buyDataChipsForPerson.stopover
 mission githubCodeVault.buyDataChipsForPerson
 	landing
 	name "Pick up order of datachips"
-	description "Buy the man some datachips for his stash of ancient software. The store is on <stopover>. You're going to get <credits> as payment."
+	description "Buy the man some datachips for his stash of ancient software. The store is on <stopover>. You're going to get <payment> as payment."
 	to offer
 		has "leest.player.hasGit"
 		random > 99
@@ -195,7 +195,7 @@ mission githubCodeVault.buyDataChipsForPerson
 	on offer
 		conversation
 			"As you land at the spaceport and exit your ship, a man approaches you. A credit chip is in his hand."
-			`	"Hey there! I have a special collection of software from the 21st through 27th centuries. I placed an order for extra datachips to make copies of the collection, but I'm a little too busy today. Would you please go and pick the datachips for me in <stopover>? I would be willing to pay you <credits>".`
+			`	"Hey there! I have a special collection of software from the 21st through 27th centuries. I placed an order for extra datachips to make copies of the collection, but I'm a little too busy today. Would you please go and pick the datachips for me in <stopover>? I would be willing to pay you <payment>".`
 			choice
 				`"I'm busy. Sorry."`
 					decline
@@ -212,7 +212,7 @@ mission githubCodeVault.buyDataChipsForPerson
 		dialog phrase githubCodeVault.buyDataChipsForPerson.stopover
 	on complete
 		conversation
-			"You land at the spaceport. The old man gave you his address so you could drop off the datachips. You make your way to the address and knock on the apartment door. As you knock the familiar old man opens the door to allow you in. You place the bag of (empty) datachips on the table, leaving the old man to check the status of the datachips. Once he confirms they are in good working order, he hands you <credits>."
+			"You land at the spaceport. The old man gave you his address so you could drop off the datachips. You make your way to the address and knock on the apartment door. As you knock the familiar old man opens the door to allow you in. You place the bag of (empty) datachips on the table, leaving the old man to check the status of the datachips. Once he confirms they are in good working order, he hands you <payment>."
 			`	"Thanks! While you're still here, do you want to see my collection?", asks the old man.`
 			choice
 				`"No thanks, I'm not interested."`

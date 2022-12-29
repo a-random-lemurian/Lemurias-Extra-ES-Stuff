@@ -23,7 +23,7 @@ phrase "Nature Reserve Species Import Visit"
 
 phrase "Nature Reserve Species Import Complete"
 	word
-		"You deliver the <commodity> to the nature reserve, receiving a payment of <credits>."
+		"You deliver the <commodity> to the nature reserve, receiving a payment of <payment>."
 
 mission "Nature Reserve Species Import [0]"
 	name "Specimens to a nature reserve in <system>"
