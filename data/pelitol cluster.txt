@@ -539,7 +539,7 @@ system Vensur
 	trade "Luxury Goods" 613
 	trade Medical 543
 	trade Metal 432
-	trade Plastic 192
+	trade Plastic 242
 	fleet spa.small 500
 	fleet spa.medium 800
 	fleet spa.large 1200
@@ -640,8 +640,8 @@ system Darceas
 	trade Industrial 703
 	trade "Luxury Goods" 1417
 	trade Medical 601
-	trade Metal 721
-	trade Plastic 816
+	trade Metal 381
+	trade Plastic 416
 	trade Food 244
 	object
 		sprite "star/m4"
@@ -1027,8 +1027,8 @@ system Ourais
 	trade Industrial 438
 	trade "Luxury Goods" 1233
 	trade Medical 643
-	trade Metal 801
-	trade Plastic 876
+	trade Metal 416
+	trade Plastic 376
 	government "Sayari Plushie"
 	fleet "Small Northern Pirates" 1300
 	asteroids "medium rock" 4 5.4054
@@ -1174,8 +1174,8 @@ system Presad
 	trade Industrial 517
 	trade "Luxury Goods" 1433
 	trade Medical 643
-	trade Metal 801
-	trade Plastic 132
+	trade Metal 501
+	trade Plastic 332
 	government "Sayari Plushie"
 	fleet "Small Northern Pirates" 1300
 	object
@@ -1247,7 +1247,7 @@ system Daxter
 	trade Industrial 538
 	trade "Luxury Goods" 1233
 	trade Medical 643
-	trade Metal 801
+	trade Metal 576
 	trade Plastic 876
 	government "Sayari Plushie"
 	fleet spa.small 900
@@ -1345,7 +1345,7 @@ system Poreu
 	trade "Luxury Goods" 987
 	trade Medical 305
 	trade Metal 432
-	trade Plastic 178
+	trade Plastic 378
 	government "Republic"
 	object
 		sprite "star/m0"
@@ -1540,8 +1540,8 @@ system Ouchar
 	trade Industrial 538
 	trade "Luxury Goods" 733
 	trade Medical 455
-	trade Metal 614
-	trade Plastic 631
+	trade Metal 284
+	trade Plastic 271
 	government "Sayari Plushie"
 	arrival 3440
 	habitable 503
@@ -1791,7 +1791,7 @@ system Posteli
 	trade Industrial 741
 	trade "Luxury Goods" 1408
 	trade Medical 431
-	trade Metal 631
+	trade Metal 431
 	trade Plastic 513
 	habitable 431
 	fleet "Small Republic" 1000
@@ -2203,7 +2203,7 @@ system Vachrau
 	trade "Luxury Goods" 1087
 	trade Medical 355
 	trade Metal 411
-	trade Plastic 198
+	trade Plastic 398
 	fleet spa.small 1200
 	fleet spa.medium 1500
 	fleet "Small Republic" 1200
@@ -2267,7 +2267,7 @@ system Nardacus
 	trade "Luxury Goods" 987
 	trade Medical 305
 	trade Metal 432
-	trade Plastic 178
+	trade Plastic 278
 	fleet spa.small 700
 	fleet spa.medium 1500
 	fleet "Small Republic" 900
@@ -2449,7 +2449,7 @@ system Arau
 	trade Industrial 656
 	trade "Luxury Goods" 1087
 	trade Medical 809
-	trade Metal 977
+	trade Metal 512
 	trade Plastic 452
 	fleet spa.small 700
 	fleet spa.medium 1500
@@ -2568,8 +2568,8 @@ system Deriato
 	trade Industrial 611
 	trade "Luxury Goods" 1433
 	trade Medical 543
-	trade Metal 711
-	trade Plastic 696
+	trade Metal 345
+	trade Plastic 497
 	fleet spa.small 500
 	fleet spa.medium 800
 	fleet spa.large 1100
@@ -2617,8 +2617,8 @@ system Purai
 	trade Industrial 611
 	trade "Luxury Goods" 1433
 	trade Medical 543
-	trade Metal 711
-	trade Plastic 696
+	trade Metal 387
+	trade Plastic 512
 	government "Sayari Plushie"
 	object
 		sprite "star/o5"
@@ -3278,8 +3278,8 @@ system "94 Merisai"
 	trade Industrial 544
 	trade "Luxury Goods" 1633
 	trade Medical 511
-	trade Metal 745
-	trade Plastic 610
+	trade Metal 443
+	trade Plastic 446
 	fleet "Large Republic" 2620
 	fleet "Small Republic" 1730
 	fleet "Large Northern Merchants" 840
@@ -3343,8 +3343,8 @@ system Onuka
 	trade Industrial 560
 	trade "Luxury Goods" 918
 	trade Medical 493
-	trade Metal 883
-	trade Plastic 803
+	trade Metal 213
+	trade Plastic 403
 	fleet spa.small 800
 	fleet spa.medium 1400
 	fleet spa.large 2000

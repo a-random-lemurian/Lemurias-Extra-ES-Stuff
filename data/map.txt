@@ -229,7 +229,7 @@ system Deriie
 	trade "Luxury Goods" 1092
 	trade Medical 915
 	trade Metal 333
-	trade Plastic 553
+	trade Plastic 513
 	object
 		sprite star/k5
 		distance 3
@@ -498,9 +498,9 @@ system Ghesie
 	fleet "Small Republic" 4000
 	fleet "Small Republic" 4000
 	fleet "Large Republic" 4000
-	trade Clothing 103
+	trade Clothing 156
 	trade Electronics 743
-	trade Equipment 296
+	trade Equipment 396
 	trade Food 733
 	trade "Heavy Metals" 683
 	trade Industrial 788
@@ -576,8 +576,8 @@ system Hiljaak
 	trade Industrial 770
 	trade "Luxury Goods" 1208
 	trade Medical 876
-	trade Metal 1009
-	trade Plastic 855
+	trade Metal 543
+	trade Plastic 455
 	object
 		sprite star/m-giant
 		period 10
@@ -699,7 +699,7 @@ system Illumina
 	trade Industrial 398
 	trade "Luxury Goods" 1344
 	trade Medical 502
-	trade Metal 664
+	trade Metal 522
 	trade Plastic 320
 	attributes earthlike illumina republic
 	object
@@ -765,7 +765,7 @@ system Illuria
 	trade "Luxury Goods" 1290
 	trade Medical 409
 	trade Metal 443
-	trade Plastic 560
+	trade Plastic 510
 	attributes "illumina regions" mining
 	object
 		sprite star/k0
@@ -828,7 +828,7 @@ system Jarkiiens
 	trade "Luxury Goods" 1277
 	trade Medical 435
 	trade Metal 552
-	trade Plastic 780
+	trade Plastic 380
 	object
 		sprite star/g3
 	object Yinachr
@@ -1142,14 +1142,14 @@ system Littike
 	arrival 900
 	trade Clothing 332
 	trade Electronics 710
-	trade Equipment 288
+	trade Equipment 388
 	trade Food 211
 	trade "Heavy Metals" 559
 	trade Industrial 831
 	trade "Luxury Goods" 1193
 	trade Medical 1121
 	trade Metal 439
-	trade Plastic 639
+	trade Plastic 539
 	object
 		sprite "star/g0"
 		distance 0
@@ -1275,7 +1275,7 @@ system Minjuuk
 	trade "Luxury Goods" 1209
 	trade Medical 477
 	trade Metal 421
-	trade Plastic 543
+	trade Plastic 523
 	object
 		sprite "star/g0"
 		period 0
@@ -1553,7 +1553,7 @@ system Suerolii
 	trade "Luxury Goods" 1398
 	trade Medical 409
 	trade Metal 211
-	trade Plastic 673
+	trade Plastic 316
 	object
 		sprite star/g0
 		period 10
@@ -1818,7 +1818,7 @@ system Suerolii
 	trade "Luxury Goods" 1398
 	trade Medical 409
 	trade Metal 211
-	trade Plastic 673
+	trade Plastic 373
 	object
 		sprite star/g0
 		period 10
