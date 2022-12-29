@@ -36,3 +36,8 @@ phrase spa.tr.visit
 phrase spa.tr.complete
 	word
 		"You receive your payment of <payment> as you unload the <cargo>."
+
+
+phrase spa.intelRetrievalVisit
+	word
+		"You still don't have the intel. Go get it and then you will be paid."

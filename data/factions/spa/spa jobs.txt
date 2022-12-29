@@ -331,7 +331,7 @@ mission "SPA CSSF Intel Retrieval [1]"
 	to offer
 		random > 1
 	on visit
-		dialog phrase spa.tr.visit
+		dialog phrase spa.intelRetrievalVisit
 	on stopover
 		dialog phrase "SPA intel retrieval in progress"
 	on complete
@@ -372,7 +372,7 @@ mission "SPA CSSF Intel Retrieval [2]"
 	to offer
 		random > 1
 	on visit
-		dialog phrase spa.tr.visit
+		dialog phrase spa.intelRetrievalVisit
 	on stopover
 		dialog phrase "SPA intel retrieval in progress"
 	on complete
@@ -413,7 +413,7 @@ mission "SPA CSSF Intel Retrieval [3]"
 	to offer
 		random > 1
 	on visit
-		dialog phrase spa.tr.visit
+		dialog phrase spa.intelRetrievalVisit
 	on stopover
 		dialog phrase "SPA intel retrieval in progress"
 	on complete
@@ -454,7 +454,7 @@ mission "SPA CSSF Intel Retrieval [4]"
 	to offer
 		random > 1
 	on visit
-		dialog phrase spa.tr.visit
+		dialog phrase spa.intelRetrievalVisit
 	on stopover
 		dialog phrase "SPA intel retrieval in progress"
 	on complete
