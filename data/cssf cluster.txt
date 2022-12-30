@@ -239,7 +239,6 @@ system Gensokyo
 	arrival 8400
 	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
-	arrival 7000
 	habitable 700
 	belt 1245
 	fleet cssf.large 1400
