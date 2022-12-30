@@ -311,3 +311,11 @@ mission "leest detect home for skadenga 3"
 	on offer
 		set "met carla von hausen"
 		fail
+
+mission "leest carla von hausen log"
+	landing
+	invisible
+	to offer
+		has "met carla von hausen"
+	on offer
+		log "People" "Carla von Hausen" "A property agent based in the Deep. All the times you have encountered her, you have only seen her in one of her many, many different pantsuits."
