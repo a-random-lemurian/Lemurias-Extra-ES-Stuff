@@ -53,7 +53,7 @@ None of the people mentioned here have endorsed the use of their image for this 
 | planet                    | author               | license                 | links |
 | ------------------------- | -------------------- | ----------------------- | --------------- |
 | Laateli                   | Themanilaxperience   | CC BY-SA 3.0            | ([orig](https://commons.wikimedia.org/wiki/File:Makatiskyline.jpg))
-| Markaii                   | Aleksandar Pasaric   | Downloaded from Pexels. | ([orig](https://www.pexels.com/photo/concrete-high-rise-buildings-under-blue-sky-618079/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels))
+| Markaii                   | [WeaponizingArchitecture](https://commons.wikimedia.org/wiki/User:WeaponizingArchitecture)   | CC BY-SA 4.0 "International" | ([orig](https://commons.wikimedia.org/wiki/File:Ann_Arbor_Skyline_2021.jpg))
 | Yinachr                   | Vyacheslav Argenberg | CC-BY 4.0               | ([orig](https://commons.wikimedia.org/wiki/File:Nile_River,_West_bank_2,_Aswan,_Egypt.jpg))
 | Pedinai                   | Vyacheslav Argenberg | CC-BY 4.0               | ([orig](https://commons.wikimedia.org/wiki/File:Manila_skyline_from_above,_approaching_the_Manila_airport,_Manila,_Philippines.jpg))
 | Rodoluki                  | Vyacheslav Argenberg | CC-BY 4.0               | ([orig](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Damascus%2C_Syria%2C_Panoramic_view_of_Damascus.jpg/800px-Damascus%2C_Syria%2C_Panoramic_view_of_Damascus.jpg))
