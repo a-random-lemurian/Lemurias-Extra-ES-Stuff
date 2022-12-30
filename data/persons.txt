@@ -79,6 +79,28 @@ phrase "Anne Rice file"
 		".jpg"
 		".tiff"
 
+phrase "disrespect anne rice, imperative"
+	word
+		"disrespect"
+		"desecrate"
+		"defame"
+		"insult"
+		"talk trash about"
+		"unconstructively criticize"
+	word
+		" Anne Rice"
+
+phrase "disrespect anne rice, imperative"
+	word
+		"burn"
+		"desecrate"
+		`destroy`
+	word
+		` an Anne Rice `
+	word
+		`novel`
+		`book`
+
 # Me. I created this plugin.
 person "Lemuria"
 	frequency 1000
@@ -104,6 +126,13 @@ person "Lemuria"
 			"Thank you to Zoura for the Amidala sprite."
 			"Burning Anne Rice books is a crime."
 			"Selling Sayari plushies is my thing."
+	phrase
+		word
+			"Don't you dare "
+		phrase
+			"disrespect anne rice, imperative"
+		word
+			"!"
 	personality
 		surveillance unconstrained forbearing
 	system
