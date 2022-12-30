@@ -2100,6 +2100,7 @@ planet Markaai
 	outfitter "Deep Sky Basics"
 	outfitter "Kraz Basics"
 	outfitter "Lovelace Basics"
+	outfitter "Sayari Outfits"
 	landscape land/markaai
 	description "Markaai is a thriving world in the Illuria system. However, its cousin, Illumina, has a similar name, meaning people regularly confuse the two planets together. Due to this, the residents have been discussing changing the name of the system lately."
 	spaceport "Most dockworkers you see at the port have been continually annoyed at constant cargo arrivals bound for Illumina. Annoyed dockworkers aside, merchants haggle for hours on end with sellers to get the lowest possible price. In addition, Markaai is home to a large ship refurbishment company, offering various types of ships for anyone's needs."
@@ -2120,6 +2121,7 @@ planet Laateli
 	outfitter "Deep Sky Advanced"
 	outfitter "Delta V Basics"
 	outfitter "Lovelace Basics"
+	outfitter "Sayari Outfits"
 	outfitter Nuke
 	landscape land/laateli
 	description "Laateli is an Earth-like planet home to a large shipyard and over 1.34 billion people. The streets of its largest city, Laadecki is bustling with small businesses strewn across the cityscape with the occasional chop-shop. The slave trade has proliferated deep within the planet's mantle. Amongst the inhabitants, there is rumor that deep in the nearby uninhabited systems lies an entrance to an alien civillization. No explorer has been daring enough to investigate this, and it is often dismissed as mere nonsense. Due to the large shipyards here, it is a popular stopping point for captains who wish to purchase new ships or upgrades."
@@ -2133,6 +2135,7 @@ planet Yinachr
 	outfitter "Basic Outfits"
 	outfitter "Basic Weapons"
 	outfitter "Common Outfits"
+	outfitter "Sayari Outfits"
 	landscape land/yinachr
 	description "Yinachr is a densely settled desert planet home to around 3.81 billion people. You are at one of the more sparse parts of the planet where the spaceport happens to be. The buildings of this part of Yinachr seem to match the color of the sand. Large deposits of important ship-building materials lie deep beneath the surface of Yinachr. In light of this, there are many mining operations on this planet and most of the residents here are either miners or their families, with the exception of the occasional rich person who you assume is one of the supervisors. Another part of the planet that seems to trigger you is the immense temperature differences between day and night (59 & -77 C respectively)."
 	spaceport "At the spaceport, which is quite small for the planet's size, is overcrowded and extremely hot to the point where you would want to wear your temperature-controlled environment suit. At one section of the spaceport, there seems to be construction work going on which you hope is a temperature control system for the whole place."
@@ -2155,6 +2158,7 @@ planet Merschre
 	shipyard "Sayari Advanced"
 	outfitter "Common Outfits"
 	outfitter "Ammo North"
+	outfitter "Sayari Outfits"
 	description "Merschre is another Earth-like planet held by the Sayari Plushie Authority. 40% of the planet is a nature reserve, and the remaining land is mainly for agricultural use, as one of the planets that maintain the SPA's active supply of food. Crops grown here range from wheat, rice, to more obscure crops such as native fruits and vegetables."
 	spaceport "The Merschre spaceport is relatively large. Many of the traders here sell food. The main spaceport, Merschre Central, is one of the busiest in the Illumina Regions, rivalling that of Laateli. There are several landing pads, some of them are unusually large, to accomodate the SPA's favorite ship, the Amidala. Most of the people here are farmers, as far as you can tell from their clothing. In addition to Merschre Central, there is a large SPA-controlled shipyard selling many types of ships."
 	government "Sayari Plushie"
@@ -2235,6 +2239,7 @@ planet Ekarai
 	shipyard "Southbound Advanced"
 	outfitter "Common Outfits"
 	outfitter "Basic Outfits"
+	outfitter "Sayari Outfits"
 	government "Sayari Plushie"
 	attributes urban
 	description "Ekarai is a Sayari Plushie Authority colony. With a population of 45.43 million, Ekarai is a relatively large colony, rivalling the capital Khoramelia, in size. Shipyards and outfitters here sell common ships and outifts used by the Sayari Plushie Authority."
@@ -2255,6 +2260,7 @@ planet Denchrao
 	outfitter "Common Outfits"
 	outfitter "Basic Outfits"
 	outfitter "Ammo North"
+	outfitter "Sayari Outfits"
 	government "Sayari Plushie"
 	attributes urban
 	description "Denchrao is a large and urbanized world with several cities scattered over the many continent. Rather strangely, 55% of the planet is land, whereas the average proportion of land to water on other planets was far lower, somewhere between 30 to 40%. Outside of the cities, the nature is surprisingly pristine and is well-preserved and catalogued."
