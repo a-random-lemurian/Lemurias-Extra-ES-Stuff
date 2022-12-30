@@ -16,28 +16,6 @@
 # as Lemuria#0685. Invite: https://discord.gg/ZeuASSx
 
 phrase spa.hails.hostile
-	phrase
-		spa.hails.hostile.sp1 48
-		spa.hails.hostile.sp2 8
-		spa.hails.hostile.sp3 7
-		spa.hails.hostile.sp4 3
-		spa.hails.hostile.sp5 144
-phrase spa.hails.friendly
-	phrase
-		spa.hails.friendly.sp1 6
-		spa.hails.friendly.sp2 34
-		spa.hails.friendly.sp3 72
-		spa.hails.friendly.sp4 360
-		spa.hails.friendly.sp5 20
-		spa.hails.friendly.sp6 48
-		spa.hails.friendly.sp7 72
-		spa.hails.friendly.sp8 5
-
-
-		spa.hails.funFacts 34
-
-
-phrase spa.hails.hostile.sp1
 	word
 		"You shall pay for "
 		"We shall bring you to justice for "
@@ -53,7 +31,7 @@ phrase spa.hails.hostile.sp1
 	word
 		"."
 		"!"
-phrase spa.hails.hostile.sp2
+phrase spa.hails.hostile
 	word
 		"<first> <last>, please"
 		"It would be better for you to"
@@ -68,7 +46,8 @@ phrase spa.hails.hostile.sp2
 		"."
 	word
 		" "
-phrase spa.hails.hostile.sp3
+
+phrase spa.hails.hostile
 	word
 		"(intercepted message) "
 	word
@@ -79,7 +58,7 @@ phrase spa.hails.hostile.sp3
 		"[Breaking encryption.......]" 200
 		"[Encrypted message. Cipher type cannot be brute-forced.]" 200
 		"[Scrambled message. Decoder attempt failed (395 attempts made)]" 200
-phrase spa.hails.hostile.sp4
+phrase spa.hails.hostile
 	word
 		"<first> <last> aboard <name>, "
 	word
@@ -90,7 +69,7 @@ phrase spa.hails.hostile.sp4
 		" under penalty of death upon violation"
 	word
 		"."
-phrase spa.hails.hostile.sp5
+phrase spa.hails.hostile
 	word
 		"You are"
 	word
@@ -106,7 +85,7 @@ phrase spa.hails.hostile.sp5
 		spa.hails.subphrases.mandates
 
 
-phrase spa.hails.friendly.sp1
+phrase spa.hails.friendly
 	word
 		"Greetings <first> <last>, we welcome you."
 		"We appreciate your presence here."
@@ -114,7 +93,7 @@ phrase spa.hails.friendly.sp1
 		"It is great that you have chosen not to associate yourself with the CSSF."
 
 
-phrase spa.hails.friendly.sp2
+phrase spa.hails.friendly
 	word
 		"Freya Winters"
 		"Sayari"
@@ -138,7 +117,7 @@ phrase spa.hails.friendly.sp2
 		"Not for sale to those associated with the CSSF."
 
 
-phrase spa.hails.friendly.sp3
+phrase spa.hails.friendly
 	word
 		"CSSF "
 	word
@@ -174,7 +153,7 @@ phrase spa.hails.friendly.sp3
 		"Report any suspicious persons to our office on Khoramelia."
 
 
-phrase spa.hails.friendly.sp4
+phrase spa.hails.friendly
 	word
 		"You look like a"
 	word
@@ -213,7 +192,7 @@ phrase spa.hails.friendly.sp4
 		", am I right?"
 
 
-phrase spa.hails.friendly.sp5
+phrase spa.hails.friendly
 	word
 		"Remember to visit "
 	word
@@ -235,7 +214,7 @@ phrase spa.hails.friendly.sp5
 		"Don't be shocked if everybody there looks like a giant squirrel."
 
 
-phrase spa.hails.friendly.sp6
+phrase spa.hails.friendly
 	word
 		"The CSSF"
 	word
@@ -257,13 +236,13 @@ phrase spa.hails.friendly.sp6
 		leest.timePeriods
 	word
 		"!"
-phrase spa.hails.friendly.sp7
+phrase spa.hails.friendly
 	word
 		"It is our "
 	phrase
 		spa.hails.subphrases.mandates
 
-phrase spa.hails.friendly.sp8
+phrase spa.hails.friendly
 	word
 		"Stay out of Hiljaak if you're transporting plushies. The CSSF usually attack that system. There's a wormhole in there that leads to the main CSSF territories."
 		"Would you like to volunteer for wormhole guard duty in Hiljaak? Visit our office on Khoramelia."
@@ -271,12 +250,11 @@ phrase spa.hails.friendly.sp8
 		"I'm going on a mission past the wormhole this month. I just hope I'll make it back alive."
 		"We're planning on running a few plushies into CSSF space later this week."
 
+phrase spa.hails.friendly
+	phrase
+		spa.hails.funFacts
 
 phrase spa.hails.subphrases.mandates
-	phrase
-		spa.hails.subphrases.mandates.sp1 72
-
-phrase spa.hails.subphrases.mandates.sp1
 	word
 		"responsibility to"
 		"duty to"
@@ -296,3 +274,43 @@ phrase spa.hails.subphrases.mandates.sp1
 		"our trade fleets"
 	word
 		"!"
+
+phrase spa.hails.funFacts.header
+	word
+		"Did you know that"
+		"Fun fact: Did you know that"
+	word
+		" "
+
+phrase spa.hails.funFacts
+	phrase
+		spa.hails.funFacts.header
+	word
+		"Emeka'a Isai is the governor of Varu Mer'ek, a planet in Wanderer space, just north of Hai space"
+		"Emeka'a Isai is a governor"
+		"Emeka'a Isai is the best female Wanderer ever"
+		"Emeka'a Isai is a great governor"
+	word
+		"?"
+
+phrase spa.hails.funFacts
+	phrase
+		spa.hails.funFacts.header
+	word
+		"Sayari is a female squirrel-like character from an ancient 'anime' released over 1,000 years ago"
+		"Sayari is a female squirrel-like character whose plushies are the most popular in human space"
+		"Sayari plushies are the most mass-produced product ever, with billions of units in circulation and so much more in stock?"
+	word
+		"?"
+
+phrase spa.hails.funFacts
+	phrase
+		spa.hails.funFacts.header
+	word
+		"Sayari plushies contain cotton from "
+		"Sayari plushies are manufactured with cotton from "
+		"Sayari plushies use cotton harvested on "
+	phrase
+		spa.hails.phrases.places.cottonFarmingPlanets
+	word
+		"?"
