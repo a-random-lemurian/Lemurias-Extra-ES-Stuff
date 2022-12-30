@@ -18,6 +18,7 @@
 government "Sayari Plushie"
 	"display name" "Sayari Plushies"
 	swizzle 24
+	fine 0.1
 	color 0.713999 0.505999 0.741
 	"attitude toward"
 		Pirate -.3
