@@ -3820,6 +3820,7 @@ planet Barachen
 	landscape "land/barachen"
 	shipyard "Sayari Advanced"
 	outfitter "Sayari Outfits"
+	outfitter "Basic Outfits"
 	attributes military manufacturing
 	description "Barachen is an ocean world where roughly 85% of the surface is an ocean. Small settlements are present on most of Barachen's islands, home to a few plushie stashes and factories, most of which are well-hidden."
 	description "One of the larger island chains is home to a massive SPA naval base, the spaceport, and shipyard, presumably to intimidate the Republic outpost on Voreo."
@@ -3916,6 +3917,7 @@ planet Tarsia
 	shipyard "Tarazed Advanced"
 	shipyard "Sayari Advanced"
 	outfitter "Sayari Outfits"
+	outfitter "Basic Outfits"
 	government "Republic"
 	attributes urban
 	description "Tarsia is another one of the developed and heavily urbanized planets of the southeast parts of the Pelitol Cluster. Tarsia is home to a significant SPA presence, though not enough for this planet to be governed outright by them. Tarsia is home to a large SPA distribution center, which is responsible for the sale and distribution of all plushies in the southeast Pelitol Cluster."
