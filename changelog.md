@@ -1,3 +1,14 @@
+### v0.10.16
+- Replaced Markaai's image with an image of Ann Arbor to prevent licensing issues with Pexels. (021ebca)
+- Fixed "popuation" typo.
+- Rebalanced trade prices and brought them within the limits.
+- Added trade prices to some systems.
+- Added the Sayari Ring, a partial ringworld operated by the SPA.
+- Added a separate dialog phrase for CSSF intel retrieval missions.
+- Added Lemuria as a person ship.
+- Fixed player not being fined on Martieu. The missions were giving negative payments which the game did not trigger. These have been replaced with fines.
+- Fixed dialog showing `<credits>` instead of the payment amount.
+
 ### v0.10.15 (2022-12-25)
 - Fixed Sundum's links to the non-existent systems Julitius and Pekora. #38 and #41
 - All SPA ships are now locked behind the (currently) unobtainable SPA License. An update in the far future may add a mission chain that gives you this license.
