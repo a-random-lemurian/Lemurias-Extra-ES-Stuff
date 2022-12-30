@@ -7,6 +7,7 @@ system Reimu
 	link Mugenkan
 	link Geidontei
 	arrival 4200
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -41,6 +42,7 @@ system Cirno
 	link "Myouren Temple"
 	link Marisa
 	arrival 3670
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -94,6 +96,7 @@ system Junya
 	link Mugenkan
 	link Gensokyo
 	arrival 5400
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -136,6 +139,7 @@ system Whiterock
 	pos -1450.815 -1132.759
 	link Gensokyo
 	arrival 3700
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -173,6 +177,7 @@ system Marisa
 	link Moriya
 	link "Road of Lingering Snow"
 	arrival 4500
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -198,6 +203,7 @@ system Margatroid
 	pos -1259.106 -971.208
 	link "Road of Reconsideration"
 	arrival 7500
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -231,6 +237,7 @@ system Gensokyo
 	link "Road of Liminality"
 	link Geidontei
 	arrival 8400
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	arrival 7000
 	habitable 700
@@ -367,6 +374,7 @@ system Netherworld
 	link "Road of Reconsideration"
 	link Gensokyo
 	arrival 4200
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -392,6 +400,7 @@ system Hakugyukurou
 	pos -1613.046 -964.417
 	link Mugenkan
 	arrival 3500
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -433,6 +442,7 @@ system "Road of Liminality"
 	pos -1324.509 -1009.602
 	link Gensokyo
 	arrival 2800
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -460,6 +470,7 @@ system "Road of Reconsideration"
 	link Margatroid
 	link Netherworld
 	arrival 2300
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -502,6 +513,7 @@ system "Road of Lingering Snow"
 	pos -1176.639 -1099.657
 	link Marisa
 	arrival 2870
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -540,6 +552,7 @@ system "Myouren Temple"
 	pos -1342.065 -1217.398
 	link Cirno
 	arrival 3100
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -576,6 +589,7 @@ system Geidontei
 	link Mugenkan
 	link Gensokyo
 	arrival 8000
+	haze "_menu/haze-none"
 	"invisible fence" 16000
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
@@ -640,6 +654,7 @@ system Moriya
 	pos -1271.079 -1179.884
 	link Marisa
 	arrival 5400
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
@@ -673,6 +688,7 @@ system Mugenkan
 	link Reimu
 	link Geidontei
 	arrival 3650
+	haze "_menu/haze-none"
 	government "Yuyuko Saigyouji"
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
