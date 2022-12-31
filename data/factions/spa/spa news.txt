@@ -56,6 +56,8 @@ phrase spa.miscPlushies.merchants.news
 		"Freya Winters " 20
 		"Emeka'a Isai" 6
 	word
+		" "
+	word
 		"plushies. "
 	word
 		"Pretty sure it's going to be great for business."
