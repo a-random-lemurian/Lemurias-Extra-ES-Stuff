@@ -55,7 +55,7 @@ phrase "spa, no prefix"
 		"politicians" 63
 		"leest surnames" 4
 		"leest standalone names" 2
-		"locations" 90
+		"locations" 91
 		"mountains" 170
 
 phrase "ingame characters"
@@ -98,7 +98,7 @@ phrase "SPA Republic Livery names"
 phrase "locations"
 	phrase
 		"Hai systems" 18
-		"cities" 72
+		"cities" 73
 
 # General category for people who:
 # - aren't politicians, and who
@@ -367,7 +367,7 @@ phrase "chemical elements"
 phrase "cities"
 	phrase
 		"philippine cities" 33
-		"american cities" 39
+		"american cities" 40
 
 phrase "philippine cities"
 	word
@@ -407,9 +407,9 @@ phrase "philippine cities"
 
 phrase "american cities"
 	word
-
 		"Albany"
 		"Albuquerque"
+		"Ann Arbor"
 		"Austin"
 		"Bakersfield"
 		"Baton Rouge"
