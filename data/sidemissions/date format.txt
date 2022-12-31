@@ -22,8 +22,9 @@ mission "Person ranting about date format"
 		government "Anime Organization" "Republic" "Free Worlds" "Sayari Plushie" "Hai" "Syndicate"
 	on offer
 		conversation
-			"Hey Captain, I'm having trouble reading this date. Can you help me?"
-			`	You approach the person and read the date that has been displayed. It says '04/07/3027'.`
+			"As you walk through the spaceport, a person approaches you."
+			`	"Hey Captain, I'm having trouble reading this date. Can you help me?"`
+			`You approach the person and read the date that has been displayed. It says '04/07/3027'.`
 			choice
 				`	"That's April 7th."`
 					goto mdy
@@ -38,9 +39,9 @@ mission "Person ranting about date format"
 			`	"It could also be April 7th", says the person.`
 
 			label ymdRant
-			`	The man pulls out a loudspeaker and begins speaking through it, broadcasting his opinions about the date format for the whole spaceport to hear.`
+			`	After a slight pause of a few seconds, the person pulls out a loudspeaker and begins speaking through it, broadcasting their opinions about the date format for the whole spaceport to hear.`
 			`	"It's all so confusing! At least spell out the date or use year-month-day! But seriously, year-month-day is so much better because it's just so logical! It goes largest to smallest, it's still logical when you add the time to it, and it's been an international standard for so long!", rants the person.`
-			`	He continues to rant, "It's always clear, and if everybody was using it we wouldn't have to be so confused about wheter a date like 04/07 is April 7th or the 4th of July! I've already sent so many emails to shipyards everywhere requesting they change their date format to year-month-day and they all keep saying no!"`
+			`	They continue their rant. "It's always clear, and if everybody was using it we wouldn't have to be so confused about wheter a date like 04/07 is April 7th or the 4th of July! I've already sent so many emails to shipyards everywhere requesting they change their date format to year-month-day and they all keep saying no!"`
 			`	"Year-month-day is the way to keep our society running without the evils of unclear date formats! Down with all other formats!"`
 			choice
 				"	(Continue listening.)"
