@@ -14,6 +14,7 @@
 - Added the "Sayari Outfits" outfitter to more SPA worlds, meaning they will also sell the SPA Scan Blocker. (94869ffd47c4)
 - Added Anime Organization mission to pick up anime from Alexandria. 8d4f3f6274f0
 - Added SPA log entry. It is added to your log book when you land on a SPA world for the first time.
+- You can now purchase Amidalas even without the SPA Ship License.
 
 ### v0.10.15 (2022-12-25)
 - Fixed Sundum's links to the non-existent systems Julitius and Pekora. #38 and #41
