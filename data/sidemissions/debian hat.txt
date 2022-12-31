@@ -86,22 +86,6 @@ mission debianHatRetrieval.conversation.begin
 				`	"Arch Linux."`
 					goto shipUsesLinux.distros.archbtw
 
-				`	"Manjaro."`
-					goto shipUsesLinux.distros.manjaro
-
-				`	"openSUSE."`
-					goto shipUsesLinux.distros.suse
-
-				`	"Fedora."`
-					goto shipUsesLinux.distros.fedora
-
-				`	"Red Hat."`
-					goto shipUsesLinux.distros.redHat
-
-				`	"Linux Mint."`
-					goto shipUsesLinux.distros.mint
-
-
 			label shipUsesLinux.distros.debian
 			`	"Debian. Great choice of distribution. I have a mission for you, and it has something to do with Debian.", the man says. He is visibly pleased by your response.`
 			choice
@@ -118,31 +102,6 @@ mission debianHatRetrieval.conversation.begin
 
 			label shipUsesLinux.distros.archbtw
 			`	"Arch user? Seems legit. I've seen a lot of captains use Arch on their ship computer."`
-			`	"Unfortunately, I'm looking for someone that uses Debian, so.. I don't want you. I'll find another captain instead.", the man says. He leaves, leaving you confused.`
-				decline
-
-			label shipUsesLinux.distros.manjaro
-			`	"Manjaro. That's just as great too!"`
-			`	"Unfortunately, I'm looking for someone that uses Debian, so.. I don't want you. I'll find another captain instead.", the man says. He leaves, leaving you confused.`
-				decline
-
-			label shipUsesLinux.distros.suse
-			`	"openSUSE, not sure I've heard of that distro before."`
-			`	"Unfortunately, I'm looking for someone that uses Debian, so.. I don't want you. I'll find another captain instead.", the man says. He leaves, leaving you confused.`
-				decline
-
-			label shipUsesLinux.distros.fedora
-			`	"Fedora. I heard Linus Torvalds used that back in the 21st century."`
-			`	"Unfortunately, I'm looking for someone that uses Debian, so.. I don't want you. I'll find another captain instead.", the man says. He leaves, leaving you confused.`
-				decline
-
-			label shipUsesLinux.distros.redHat
-			`	"Red Hat. Interesting."`
-			`	"Unfortunately, I'm looking for someone that uses Debian, so.. I don't want you. I'll find another captain instead.", the man says. He leaves, leaving you confused.`
-				decline
-
-			label shipUsesLinux.distros.mint
-			`	"Linux Mint. Interesting too."`
 			`	"Unfortunately, I'm looking for someone that uses Debian, so.. I don't want you. I'll find another captain instead.", the man says. He leaves, leaving you confused.`
 				decline
 
