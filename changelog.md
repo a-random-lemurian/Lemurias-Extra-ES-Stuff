@@ -8,11 +8,11 @@
 - Added Lemuria as a person ship.
 - Fixed player not being fined on Martieu. The missions were giving negative payments which the game did not trigger. These have been replaced with fines.
 - Fixed dialog showing `<credits>` instead of the payment amount.
-- Fixed the Local Map not being sold on Tarsia and Barachen. (c4acf975d868)
-- Reduced the distro choices in the Debian hat mission to just three. (8d0a34f5eca4)
-- Reduced fines given by the Sayari Plushie Authority by 90%. (1c10fb8cabc19)
+- Fixed the Local Map not being sold on Tarsia and Barachen. c4acf975d868
+- Reduced the distro choices in the Debian hat mission to just three. 8d0a34f5eca4
+- Reduced fines given by the Sayari Plushie Authority by 90%. 1c10fb8cabc19
 - Added the "Sayari Outfits" outfitter to more SPA worlds, meaning they will also sell the SPA Scan Blocker. (94869ffd47c4)
-- Added Anime Organization mission to pick up anime from Alexandria. (8d4f3f6274f0)
+- Added Anime Organization mission to pick up anime from Alexandria. 8d4f3f6274f0
 
 ### v0.10.15 (2022-12-25)
 - Fixed Sundum's links to the non-existent systems Julitius and Pekora. #38 and #41
