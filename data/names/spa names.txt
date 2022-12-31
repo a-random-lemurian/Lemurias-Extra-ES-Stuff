@@ -55,7 +55,7 @@ phrase "spa, no prefix"
 		"politicians" 63
 		"leest surnames" 4
 		"leest standalone names" 2
-		"locations" 91
+		"locations" 141
 		"mountains" 170
 
 phrase "ingame characters"
@@ -99,6 +99,7 @@ phrase "locations"
 	phrase
 		"Hai systems" 18
 		"cities" 73
+		"american states" 50
 
 # General category for people who:
 # - aren't politicians, and who
@@ -447,3 +448,56 @@ phrase "american cities"
 		"Tacoma"
 		"Tampa"
 		"Tucson"
+
+phrase "american states"
+	word
+		"Alabama"
+		"Alaska"
+		"Arizona"
+		"Arkansas"
+		"California"
+		"Colorado"
+		"Connecticut"
+		"Delaware"
+		"Florida"
+		"Georgia"
+		"Hawaii"
+		"Idaho"
+		"Illinois"
+		"Indiana"
+		"Iowa"
+		"Kansas"
+		"Kentucky"
+		"Louisiana"
+		"Maine"
+		"Maryland"
+		"Massachusetts"
+		"Michigan"
+		"Minnesota"
+		"Mississippi"
+		"Missouri"
+		"Montana"
+		"Nebraska"
+		"Nevada"
+		"New Hampshire"
+		"New Jersey"
+		"New Mexico"
+		"New York"
+		"North Carolina"
+		"North Dakota"
+		"Ohio"
+		"Oklahoma"
+		"Oregon"
+		"Pennsylvania"
+		"Rhode Island"
+		"South Carolina"
+		"South Dakota"
+		"Tennessee"
+		"Texas"
+		"Utah"
+		"Vermont"
+		"Virginia"
+		"Washington"
+		"West Virginia"
+		"Wisconsin"
+		"Wyoming"
