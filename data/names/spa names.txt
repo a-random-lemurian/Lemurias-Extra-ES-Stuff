@@ -53,7 +53,7 @@ phrase "spa, no prefix"
 		"ingame characters" 17
 		"people worthy of being ship names" 15
 		"politicians" 63
-		"leest surnames" 4
+		"leest surnames" 27
 		"leest standalone names" 2
 		"locations" 141
 		"mountains" 170
@@ -150,10 +150,33 @@ phrase "leest standalone names"
 
 phrase "leest surnames"
 	word
+		"Abe"
 		"Berenbaum"
+		"Cantwell"
+		"Charpentier"
 		"Couric"
+		"Elven"
+		"Goodman"
+		"Henderson"
+		"Hobbs"
+		"Howl"
 		"Kaufman"
+		"Li"
 		"Luria"
+		"May"
+		"Mills"
+		"Montani"
+		"Nurak"
+		"Palin"
+		"Raine"
+		"Rampling"
+		"Reburn"
+		"Reynolds"
+		"Rice"
+		"Schader"
+		"Su"
+		"Winters"
+		"Xi"
 
 phrase "politicians"
 	phrase
