@@ -1454,6 +1454,7 @@ system Raidei
 	pos -1123.6944 -130.74999
 	link Lakodelfraddi
 	arrival 1720
+	departure 830
 	fleet spa.small 400
 	fleet spa.medium 600
 	fleet spa.large 750

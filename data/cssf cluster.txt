@@ -241,6 +241,7 @@ system Gensokyo
 	government "Yuyuko Saigyouji"
 	habitable 700
 	belt 1245
+	departure 830
 	fleet cssf.large 1400
 	fleet cssf.medium 1200
 	fleet cssf.small 600
