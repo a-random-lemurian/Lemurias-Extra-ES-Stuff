@@ -11,6 +11,28 @@ Ingredients: VS Code, Endless Sky, Lemuria's brain cells, electricity, mac, swea
 # Let's play! (Installation instructions)
 LEESt only supports the continuous build of Endless Sky due to it's use of bleeding-edge features.
 
+## Download
+* If on GitHub, scroll up and click that big green `Code` button and download the zip file.
+
+### Windows
+* Copy the Lemurias-Extra-ES-Stuff-main.zip file into `C:\Users\<username>\AppData\Roaming\endless-sky\plugins`.
+* Unzip the file.
+* Remove the Lemurias-Extra-ES-Stuff-main.zip, if you want to.
+
+### macOS
+* Extract the zip to `/Users/Library/ApplicationSupport/endless-sky/plugins`. Or `Application Support`, depending on your version.
+
+### Linux
+The preferred way to install on Linux is to `cd $HOME/.local/share/endless-sky/plugins && git clone https://github.com/a-random-lemurian/Lemurias-Extra-ES-Stuff`. Updating is easy, just run `git pull`. We're assuming you know how to use a terminal here, by the way.
+
+Or, you can just download the zip and extract it to `~/.local/share/endless-sky/plugins`.
+
+### Verify installation
+* Start Endless Sky and click on Preferences.
+* Click on the Plugins tab.
+* If you see "Lemuria's Extra Endless Sky Stuff", the plugin has been installed correctly.
+* Go forth and play.
+
 ## Sayari disclaimer
 
 This Endless Sky plugin may contain traces of the Hai ambassador "Sayari". Exposure to Sayari may result in the following effects: Simping, being targeted by Yuyuko Saigyouji, being killed by Yuyuko Saigyouji, insomnia due to thinking about Sayari and Endless Sky constantly at night, gaming addiction.
