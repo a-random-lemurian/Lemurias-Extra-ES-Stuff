@@ -423,6 +423,17 @@ news "leest graffiti"
 			"1941-10-04 / 2021-12-11"
 			"Never forget December 11, 2021"
 			"1976-05-05"
+
+			# Random numbers
+			"0345334531"
+			"0394498216"
+
+			"69420"
+			"42069"
+			"19198736"
+			"395840187"
+
+
 			"May 5, 1976 - a great book was made known to humanity!"
 
 			"A drawing of a penguin using a computer."
