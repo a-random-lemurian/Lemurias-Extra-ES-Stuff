@@ -62,6 +62,7 @@ phrase "ingame characters"
 	word
 		"Albert Foster"
 		"Alondo Gruyere"
+		"Anna Fangvin"
 		"Carla von Hausen"
 		"Diana Howl"
 		"David Turner"
