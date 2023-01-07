@@ -101,6 +101,11 @@ phrase "disrespect anne rice, imperative"
 		`novel`
 		`book`
 
+phrase "book in tagalog"
+	word
+		"libro" 10
+		"aklat" 1
+
 # Me. I created this plugin.
 person "Lemuria"
 	frequency 1000
@@ -134,6 +139,16 @@ person "Lemuria"
 			"What's her last name?"
 			"What's her full name?"
 			"Affirming and acknowledging as always, Ann Arbor's actually an awesome area."
+	phrase
+		word
+			"Anong ginagawa mo?" # What are you doing?
+			"Ako si Lemuria." # I am Lemuria.
+			"Alam mo ba ang Tagalog?" # Do you know Tagalog?
+			"Nagbabasa ako!" # I am reading!
+			"Magbasa ka ng mga ${book in tagalog} ni Anne Rice! Magugustuhan mo!" # Read some Anne Rice books. You'll like it!
+			"Kamusta!" # Hello!
+			"Mag-aral ka ng Tagalog!" # Learn Tagalog!
+			"Salamat po sa pag-lalaro niyo ng aking plugin." # Thank you for playing my plugin.
 	phrase
 		word
 			"Don't you dare "
