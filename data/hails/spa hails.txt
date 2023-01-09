@@ -150,7 +150,11 @@ phrase spa.hails.friendly
 	word
 		". "
 	word
-		"Report any suspicious persons to our office on Khoramelia."
+		"Report any suspicious persons to our office on "
+	phrase
+		"SPA planets"
+	word
+		"."
 
 
 phrase spa.hails.friendly
@@ -245,10 +249,80 @@ phrase spa.hails.friendly
 phrase spa.hails.friendly
 	word
 		"Stay out of Hiljaak if you're transporting plushies. The CSSF usually attack that system. There's a wormhole in there that leads to the main CSSF territories."
-		"Would you like to volunteer for wormhole guard duty in Hiljaak? Visit our office on Khoramelia."
+		"Would you like to volunteer for wormhole guard duty in Hiljaak? Visit our office on ${SPA planets}."
 		"We're rallying a fleet for an expedition into the Hiljaak wormhole. Want to join us?"
 		"I'm going on a mission past the wormhole this month. I just hope I'll make it back alive."
 		"We're planning on running a few plushies into CSSF space later this week."
+
+phrase spa.discount
+	word
+		10
+		50
+		20
+		40
+		19
+	word
+		`%`
+	word
+		` off`
+		` discount`
+
+phrase spa.hails.friendly
+	phrase
+		spa.discount
+	word
+		` on all `
+	phrase
+		"spa products"
+	word
+		`!`
+
+phrase "SPA planets"
+	word
+		"Ancherum"
+		"Arlok"
+		"Aylar"
+		"Barachen"
+		"Bardanistra"
+		"Delistra"
+		"Denchrao"
+		"Ekarai"
+		"Eteristra"
+		"Kaistra"
+		"Khoramelia"
+		"Laateli"
+		"Lorok"
+		"Markaai"
+		"Melisida"
+		"Merschre"
+		"Mindai"
+		"Moristra"
+		"Naprai"
+		"Narchrai"
+		"Ondoristra"
+		"Parton"
+		"Pedinai"
+		"Peliru"
+		"Perechra"
+		"Ponarai"
+		"Renpaya"
+		"Rodoluki"
+		"Salistra"
+		"Steirek"
+		"Yinachr"
+
+
+phrase spa.hails.friendly
+	word
+		`Come on over to `
+	phrase
+		"SPA planets"
+	word
+		` and get your `
+	phrase
+		"spa products"
+	word
+		"!"
 
 phrase spa.hails.friendly
 	phrase
