@@ -141,6 +141,27 @@ person "Lemuria"
 			"Affirming and acknowledging as always, Ann Arbor's actually an awesome area."
 	phrase
 		word
+			"I did some"
+		word
+			" "
+		word
+			"stalking"
+			"research"
+			"digging"
+			"sleuthing"
+		word
+			"and now I know your name is <first> <last>."
+		word
+			" "
+		word
+			"Was I correct?"
+			"I hope I'm correct."
+			"The power of data!"
+			"The power of social media!"
+			"Thanks a lot, background check service!"
+			"Thanks a lot, scanner!"
+	phrase
+		word
 			"Anong ginagawa mo?" # What are you doing?
 			"Ako si Lemuria." # I am Lemuria.
 			"Alam mo ba ang Tagalog?" # Do you know Tagalog?
