@@ -67,6 +67,8 @@ phrase "hostile hidalgo shrine"
 	word
 		"We log all transmissions we intercept. "
 		"All transmissions that we pick up are logged. "
+		"You had a stuck mic. "
+		"You had a hot mic. "
 		""
 	word
 		"We heard you insult ${anne hidalgo} "
