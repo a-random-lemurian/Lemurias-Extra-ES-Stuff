@@ -55,6 +55,7 @@ phrase "spa, no prefix"
 		"politicians" 63
 		"leest surnames" 27
 		"leest standalone names" 2
+		"leest female names" 140
 		"locations" 141
 		"mountains" 170
 
@@ -148,6 +149,21 @@ phrase "leest standalone names"
 	word
 		"Radical Dreamland"
 		"Nautilus"
+
+phrase "leest female names"
+	phrase
+		"female names"
+
+phrase "leest female names"
+	word
+		"Anne" 40
+		"Anna" 20
+		"Ann" 10
+		"Freya" 30
+		"Jacinda"
+		"Marine"
+		"Elaine"
+		"Carla"
 
 phrase "leest surnames"
 	word
