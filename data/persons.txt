@@ -150,9 +150,7 @@ person "Lemuria"
 			"digging"
 			"sleuthing"
 		word
-			"and now I know your name is <first> <last>."
-		word
-			" "
+			"and now I know your name is <first> <last>. "
 		word
 			"Was I correct?"
 			"I hope I'm correct."
