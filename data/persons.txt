@@ -106,6 +106,44 @@ phrase "book in tagalog"
 		"libro" 10
 		"aklat" 1
 
+phrase "lemuria's down with chants"
+	word
+		"Down with "
+	word
+		"the vampire haters"
+		"book haters"
+		"book burners"
+	word
+		"! "
+	word
+		"Up with "
+	word
+		"Anne Rice"
+		"Anna Fangvin"
+	word
+		"!"
+
+phrase "lemuria's down with chants"
+	word
+		"Down with "
+	word
+		"the Republic"
+		"the Republic's tyrants"
+		"Parliament"
+		"those gunboats and their constant ship scans"
+		"those annoying Republic ships that keep fining me for nerve gas"
+	word
+		"! "
+	word
+		"Up with "
+	word
+		"the Free Worlds" 2
+		"Freya Winters" 10
+		"Katya Reynolds"
+		"Freya"
+	word
+		"!"
+
 # Me. I created this plugin.
 person "Lemuria"
 	frequency 1000
@@ -175,6 +213,9 @@ person "Lemuria"
 			"disrespect anne rice, imperative"
 		word
 			"!"
+	phrase
+		phrase
+			"down with chants"
 	personality
 		surveillance unconstrained forbearing
 	system
