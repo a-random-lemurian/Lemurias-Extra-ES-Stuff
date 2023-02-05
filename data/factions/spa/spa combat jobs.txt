@@ -578,7 +578,7 @@ mission "CSSF Illumina Regions Attack"
 			`The Sayari Plushie Authority has deployed a small fleet to help repel the CSSF attackers, who can come in packs larger than the greatest pirates of human space. You join them, and take off together...`
 				launch
 	on visit
-		dialog phrase "generic pirate fleet battle on visit"
+		dialog phrase "generic cssf fleet battle on visit"
 	on complete
 		payment 450000
-		dialog phrase "generic pirate attack payment dialog"
+		dialog phrase "generic cssf attack payment dialog"
