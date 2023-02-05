@@ -84,4 +84,4 @@ phrase "generic cssf fleet battle on visit"
 
 phrase "generic cssf attack payment dialog"
 	word
-		`The local SPA regional office on <planet> gratefully pays you <payment> alongside a few thousand credits worth of coupons for free SPA products, for eliminating the <npc> and their fleet.`
+		`The local SPA regional office on <planet> gratefully pays you <payment> alongside a few thousand credits worth of coupons for free SPA products, for eliminating the CSSF raiders.`
