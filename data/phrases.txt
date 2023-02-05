@@ -77,3 +77,11 @@ phrase mission.pirateFight.jobDialog
 phrase general.fighting.pirateFight.complete
 	word
 		"The government of <source> pays you <payment> for your assistance against the pirates."
+
+phrase "generic cssf fleet battle on visit"
+	word
+		`You've landed on <planet>, but there are still hostiles circling overhead. You should take off and help finish them off.`
+
+phrase "generic cssf attack payment dialog"
+	word
+		`The local SPA regional office on <planet> gratefully pays you <payment> alongside a few thousand credits worth of coupons for free SPA products, for eliminating the CSSF raiders.`
