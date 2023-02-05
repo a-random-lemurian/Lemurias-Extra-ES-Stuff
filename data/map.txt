@@ -659,7 +659,7 @@ system Iloke
 		sprite planet/dust1
 		distance 2587
 		period 1033
-	object
+	object "Lethmith"
 		sprite planet/gas14
 		distance 4095
 		period 1334
@@ -2316,6 +2316,13 @@ planet "Anna's World"
 	landscape "land/nasa10"
 	description "Anna's World (formally known as Aixafer VIII) is a gas giant. The planet got its name when Anna Fangvin, an author whose books saw moderate success on nearby Denchrao, revealed that she repeatedly traveled here to seek inspiration for her book, 'Beyond the Hyperdrive'. A small station exists in orbit, selling Fangvin's books, without providing basic spaceport services."
 	government Independent
+	security 0
+
+planet "Lethmith"
+	attributes "gas giant" "requires: gaslining"
+	landscape "land/nasa10"
+	description "Lethmith is a popular place for orbital funerals. Relatives leave the bodies, remains, or ashes of their fallen loved ones in orbit around this world, to forever orbit Lethmith, until the container's orbit decays. Sometimes, Lethmith is used as a starting point to launch remains into interstellar space"
+	government Uninhabited
 	security 0
 
 ###############################################################################
