@@ -3866,10 +3866,11 @@ planet "Heine"
 planet "Hidalgo Shrine"
 	landscape "land/hidalgoShrine"
 	government "Independent"
-	description `The Hidalgo Shrine, in orbit of Heine, is a massive planetwide shrine to Anne Hidalgo (born 1959 on Earth), who served as the mayor of a city named Paris on Earth in the early 21st century. The servers here have been continually running since 2871, surviving the war when the SPA split off from the Anime Organization. High-resolution images of Anne Hidalgo are stored on these servers, and are freely available for anyone to download.`
-	description `Tourists can often be seen walking across the shrine, with more people gravitating towards the large statue of Hidalgo located at the shrine's center. Aside from an Anne Hidalgo shrine, the station also acts as a general museum of French history. Aside from that the rest of the planet is undeveloped.`
-	spaceport `Thousands of Anne Hidalgo images are glued onto the walls of the spaceport, with many more on the floor. The station's docking ports are continually crowded with ships and tourists. Ships wanting to enter the station during peak hours sometimes wait in planetary orbit due to the unbearable traffic. The main spaceport building itself is a replica of the Hotel de Ville, where Anne Hidalgo resided during her tenure as the mayor of Paris.`
-	spaceport `The nearby shops sell items related to France, such as baguettes, croissants, and datachips either full of Anne Hidalgo images or information about French history and culture. The spaceport is the only settlement on this planet, home to roughly 11,000 people, the rest left barren and uninhabited.`
+	description `The Hidalgo Shrine, in orbit of Heine, is a planetwide museum of French history. The servers here have been continually running since 2871, surviving the war when the SPA split off from the Anime Organization.`
+	spaceport `The walls of the spaceport appear as if thousands of images were once stuck to them, only having been recently removed. The station's docking ports are continually crowded with ships and tourists. Ships wanting to enter the station during peak hours sometimes wait in planetary orbit due to the unbearable traffic. The main spaceport building itself is a replica of the Hotel de Ville.`
+	spaceport `The nearby shops sell items related to France, such as baguettes, croissants, and other French items. The spaceport is the only settlement on this planet, home to roughly 11,000 people, the rest left barren and uninhabited. The signs are twice as large, as they have both English and French text.`
+	spaceport `Nobody knows why it's called the Hidalgo Shrine.`
+	# Because of technical reasons like the potential for save file breakage. But that reason breaks the fourth wall anyway.
 
 planet Sparley
 	landscape "land/sparley"

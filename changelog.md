@@ -16,6 +16,7 @@
 - Added SPA log entry. It is added to your log book when you land on a SPA world for the first time.
 - You can now purchase Amidalas even without the SPA Ship License.
 - Added more surnames to SPA name lists. Some of them are references to the game's characters.
+- What's the Hidalgo Shrine? I forgor 💀 (It's now just a generic French history museum.)
 
 ### v0.10.15 (2022-12-25)
 - Fixed Sundum's links to the non-existent systems Julitius and Pekora. #38 and #41
