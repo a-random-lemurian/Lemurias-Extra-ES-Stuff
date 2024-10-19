@@ -2321,7 +2321,7 @@ planet "Anna's World"
 planet "Lethmith"
 	attributes "gas giant" "requires: gaslining"
 	landscape "land/nasa10"
-	description "Lethmith is a popular place for orbital funerals. Relatives leave the bodies, remains, or ashes of their fallen loved ones in orbit around this world, to forever orbit Lethmith, until the container's orbit decays. Sometimes, Lethmith is used as a starting point to launch remains into interstellar space"
+	description "Lethmith is a popular place for orbital funerals. Relatives leave the bodies, remains, or ashes of their fallen loved ones in orbit around this world, to forever orbit Lethmith, until the container's orbit decays. Sometimes, Lethmith is used as a starting point to launch remains into interstellar space."
 	government Uninhabited
 	security 0
 
