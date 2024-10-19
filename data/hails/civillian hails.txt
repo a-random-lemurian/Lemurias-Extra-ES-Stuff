@@ -239,3 +239,7 @@ phrase leest.foss.sp.proprietaryInsults.3
 		"you should have been blown up by pirates a long time ago"
 	word
 		"!"
+
+phrase technames.people.foss
+	"Linus Torvalds"
+	"Richard Stallman"
