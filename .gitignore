@@ -27,7 +27,7 @@ __pycache__
 #
 #===< Whitelist >===#
 #
-!Wintersconfig.yaml
+!Wintersconfig.json
 !.git
 !.gitignore
 !.gitattributes
