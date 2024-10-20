@@ -75,7 +75,7 @@ phrase animeorg.hails.hostile.2
 		"Hostility"
 		"Acts of aggression"
 		"Deliberate aggression"
-		"Premeditated agression"
+		"Premeditated aggression"
 	word
 		" "
 	word
