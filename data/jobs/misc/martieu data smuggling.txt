@@ -27,7 +27,7 @@ trade
 
 phrase "Martieu Data Smuggling Failure"
 	word
-		`While attempting to unload the <commodity>, you are stopped by a large group of armed police entering your ship. They check the data and find the illegal material. You are fined 4 million credits for posession of such a large amount of "objectionable" material. Thankfully, you receive your 2 million payment, so you only lose 2 million.`
+		`While attempting to unload the <commodity>, you are stopped by a large group of armed police entering your ship. They check the data and find the illegal material. You are fined 4 million credits for possession of such a large amount of "objectionable" material. Thankfully, you receive your 2 million payment, so you only lose 2 million.`
 
 phrase "Martieu Data Smuggling Success"
 	word
