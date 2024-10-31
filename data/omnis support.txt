@@ -50,6 +50,9 @@ planet "LEEST "
 	shipyard "LEEST"
 	bribe 0
 
+system "Human "
+	add link "LEEST "
+
 system "LEEST "
 	"jump range" 3000
 	government "Plugin"
