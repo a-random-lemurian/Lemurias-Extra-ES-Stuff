@@ -44,7 +44,7 @@ shipyard "LEEST"
 
 planet "LEEST "
 	description ""
-	port "Settings'
+	port "Settings"
 		recharges all
 		services all
 	shipyard "LEEST"
