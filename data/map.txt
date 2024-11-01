@@ -78,7 +78,7 @@ system Aixafer
 		sprite planet/ice1
 		distance 2883
 		period 682
-	object
+	object "Anna's World"
 		sprite planet/gas5
 		distance 4094
 		period 1123
@@ -659,7 +659,7 @@ system Iloke
 		sprite planet/dust1
 		distance 2587
 		period 1033
-	object
+	object "Lethmith"
 		sprite planet/gas14
 		distance 4095
 		period 1334
@@ -2308,6 +2308,37 @@ planet "Sayari Ring"
 	description "Massive thrusters have been mounted on the ring, to prevent its orbit from destabilizing."
 	spaceport "The ring is wide. Due to its immense size, there are multiple spaceports scattered across the ring. You are in one of the larger ones. A massive SPA department store is at the exit of the spaceports, easily accessible, with tall shelves of plushie boxes in the industrial-looking storage area, being tended to by fast-moving machinery either depositing or taking products."
 	spaceport "Most of the industrial storage area is separated from the spaceport hallways by thick glass. It appears that the Authority is proud of this particular storage system."
+
+###############################################################################
+#===< Gas Giants >===#
+planet "Anna's World"
+	attributes "gas giant" "requires: gaslining"
+	landscape "land/nasa10"
+	description "Anna's World (formally known as Aixafer VIII) is a gas giant. The planet got its name when Anna Fangvin, an author whose books saw moderate success on nearby Denchrao, revealed that she repeatedly traveled here to seek inspiration for her book, 'Beyond the Hyperdrive'. A small station exists in orbit, selling Fangvin's books, without providing basic spaceport services."
+	government Independent
+	security 0
+
+planet "Lethmith"
+	attributes "gas giant" "requires: gaslining"
+	landscape "land/nasa10"
+	description "Lethmith is a popular place for orbital funerals. Relatives leave the bodies, remains, or ashes of their fallen loved ones in orbit around this world, to forever orbit Lethmith, until the container's orbit decays. Sometimes, Lethmith is used as a starting point to launch remains into interstellar space."
+	government Uninhabited
+	security 0
+
+planet "Defal VI"
+	attributes "gas giant" "requires: gaslining"
+	landscape "land/nasa24"
+	description "Defal VI Station high above, you find yourself deep in the gas giant below. Some deuterium collectors are high above you, deactivated at the moment until the SPA decides if it wants to scale up Defal VI Station into a full-blown refinery."
+	government Uninhabited
+	security 0
+
+planet "Pechara"
+	attributes "gas giant" "requires: gaslining"
+	landscape "land/nasa17"
+	description "Pechara is a gas giant that was expelled from its star system hundreds of millions of years ago. Why it is linked to the hyperlane network remains unknown, but it has since been the subject of research. The nearby Pechara High station keeps an eye on the station."
+	government Uninhabited
+	security 0
+
 ###############################################################################
 #===< Wormholes >===#
 # planet "Pelitol-Sedlai Wormhole"

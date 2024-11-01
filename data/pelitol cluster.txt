@@ -178,7 +178,7 @@ system Defal
 		sprite "planet/gas5"
 		period 431
 		distance 1653
-	object
+	object "Defal VI"
 		sprite "planet/gas8"
 		period 553
 		distance 2344
@@ -3608,7 +3608,7 @@ system Pechara
 	fleet spa.medium 1800
 	fleet spa.large 3400
 	habitable 90000
-	object
+	object "Pechara"
 		sprite "planet/gas8"
 		distance 0
 		period 0
