@@ -1430,6 +1430,17 @@ system Karita
 	attributes "pelitol cluster"
 	habitable 503
 	arrival 2180
+	fleet "Large Republic" 6500
+	fleet "Small Republic" 3700
+	fleet "Large Northern Merchants" 840
+	fleet "Large Southern Merchants" 590
+	fleet spa.small 5350
+	fleet spa.large 8710
+	fleet cssf.small 5560
+	fleet cssf.large 7170
+	fleet "Large Northern Pirates" 11850
+	fleet "Large Southern Pirates" 11650
+	fleet "Small Northern Pirates" 12740
 	object
 		sprite "star/m3"
 		distance 0
@@ -2056,6 +2067,17 @@ system Vefrua
 	link Karita
 	attributes "pelitol cluster"
 	arrival 1500
+	fleet "Large Republic" 6500
+	fleet "Small Republic" 3700
+	fleet "Large Northern Merchants" 840
+	fleet "Large Southern Merchants" 590
+	fleet spa.small 5350
+	fleet spa.large 8710
+	fleet cssf.small 5560
+	fleet cssf.large 7170
+	fleet "Large Northern Pirates" 11850
+	fleet "Large Southern Pirates" 11650
+	fleet "Small Northern Pirates" 12740
 	object
 		sprite "star/m0"
 		distance 3.20
