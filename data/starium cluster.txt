@@ -136,6 +136,46 @@ system Saerun
 	link Orinu
 	link Paras
 	arrival 2600
+	object
+		sprite "star/g3"
+		distance 0
+		period 13.19
+	object
+		sprite "planet/rock4"
+		distance 171
+		period 38
+	object
+		sprite "planet/rock1"
+		distance 354
+		period 148
+	object
+		sprite "planet/rock8"
+		distance 557
+		period 271
+	object
+		sprite "planet/ocean0"
+		distance 817
+		period 304.18
+	object
+		sprite "planet/ice8"
+		distance 1320
+		period 448
+	object
+		sprite "planet/gas2"
+		distance 2140
+		period 677.17
+	object
+		sprite "planet/gas9"
+		distance 2887
+		period 1087.18
+	object
+		sprite "planet/gas13"
+		distance 3543
+		period 1447.18
+	object
+		sprite "planet/gas17"
+		distance 6757
+		period 277.17
 
 system "187 Barduk"
 	pos -3197.8889 353.88889
