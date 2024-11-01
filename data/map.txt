@@ -2325,6 +2325,13 @@ planet "Lethmith"
 	government Uninhabited
 	security 0
 
+planet "Defal VI"
+	attributes "gas giant" "requires: gaslining"
+	landscape "land/nasa24"
+	description "Defal VI Station high above, you find yourself deep in the gas giant below. Some deuterium collectors are high above you, deactivated at the moment until the SPA decides if it wants to scale up Defal VI Station into a full-blown refinery."
+	government Uninhabited
+	security 0
+
 ###############################################################################
 #===< Wormholes >===#
 # planet "Pelitol-Sedlai Wormhole"

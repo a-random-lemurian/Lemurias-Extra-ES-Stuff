@@ -1,7 +1,7 @@
 ### v0.10.17
 - Added singular they as a possible pronoun to spoiled child transport missions.
 - Fixed names of open-source developers not appearing in anti-proprietary software insults from captains.
-- Added 2 landable gas giants in the Illumina Regions.
+- Added 3 landable gas giants in the Illumina Regions.
 - Added Cavite's component cities to SPA name lists.
 - Added 37 new names of a certain theme to SPA name lists.
 

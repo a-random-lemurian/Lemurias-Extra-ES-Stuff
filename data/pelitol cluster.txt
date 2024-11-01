@@ -178,7 +178,7 @@ system Defal
 		sprite "planet/gas5"
 		period 431
 		distance 1653
-	object
+	object "Defal VI"
 		sprite "planet/gas8"
 		period 553
 		distance 2344
