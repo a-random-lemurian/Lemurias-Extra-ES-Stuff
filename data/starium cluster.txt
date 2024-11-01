@@ -340,6 +340,8 @@ system Duxa'setisen
 	pos -2865 -81.166667
 	link Sami'sen
 	arrival 1620
+	government "Starium"
+
 planet "Acuff"
 	attributes "starium cluster" "military" "urban"
 	landscape "land/acuff"
