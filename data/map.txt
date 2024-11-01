@@ -2332,6 +2332,13 @@ planet "Defal VI"
 	government Uninhabited
 	security 0
 
+planet "Pechara"
+	attributes "gas giant" "requires: gaslining"
+	landscape "land/nasa17"
+	description "Pechara is a gas giant that was expelled from its star system hundreds of millions of years ago. Why it is linked to the hyperlane network remains unknown, but it has since been the subject of research. The nearby Pechara High station keeps an eye on the station."
+	government Uninhabited
+	security 0
+
 ###############################################################################
 #===< Wormholes >===#
 # planet "Pelitol-Sedlai Wormhole"
