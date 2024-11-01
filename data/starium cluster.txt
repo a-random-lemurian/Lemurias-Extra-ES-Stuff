@@ -153,24 +153,20 @@ system Saerun
 		distance 0
 		period 13.19
 	object
-		sprite "planet/rock4"
-		distance 171
-		period 38
-	object
-		sprite "planet/rock1"
-		distance 354
-		period 148
+		sprite "planet/lava1"
+		distance 200
+		period 77
 	object
 		sprite "planet/rock8"
-		distance 557
+		distance 766
 		period 271
-	object
+	object "Acuff"
 		sprite "planet/ocean0"
-		distance 817
+		distance 1108
 		period 304.18
 	object
 		sprite "planet/ice8"
-		distance 1320
+		distance 1520
 		period 448
 	object
 		sprite "planet/gas2"
