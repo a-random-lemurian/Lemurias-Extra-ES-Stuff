@@ -3636,6 +3636,7 @@ system Deramii
 
 
 system "43 Merisai"
+	government "Uninhabited"
 	pos -3177.3746 22.076891
 	link "42 Merisai"
 	link "94 Merisai"
