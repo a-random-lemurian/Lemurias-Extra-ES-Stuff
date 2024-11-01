@@ -3,6 +3,7 @@
 - Fixed names of open-source developers not appearing in anti-proprietary software insults from captains.
 - Added Cavite's component cities to SPA name lists.
 - Added 37 new names of a certain theme to SPA name lists.
+- Added a station image to Pechara High.
 
 ### v0.10.16
 - Replaced Markaai's image with an image of Ann Arbor to prevent licensing issues with Pexels. (021ebca)
