@@ -14,6 +14,9 @@ def check_node(node: ep.Node):
         return
     if node.government() is None:
         print(f"No government in system {node.name()}")
+    else:
+        if node.government() == "Sayari Plushies":
+            print(f"Government in system {node.name()} uses `Sayari Plushies`, that is the display name. The actual name is `Sayari Plushie`.")
 
 def main(args):
     with open(args.file, "r") as f:
