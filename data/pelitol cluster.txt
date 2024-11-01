@@ -349,7 +349,7 @@ system Sarut
 		period 2776
 
 system Doler
-	government "Uninhabited"
+	government "Sayari Plushie"
 	pos -3497.2208 -341.10098
 	link Repolitea
 	link Maryn-qarou
@@ -1078,7 +1078,7 @@ system Ourais
 			period 344
 
 system Vourgat
-	government "Uninhabited"
+	government "Sayari Plushie"
 	pos -3546.5 -222.44444
 	link Presad
 	link Sarut
@@ -1146,7 +1146,7 @@ system Erou
 		period 2432
 
 system Sprad
-	government "Uninhabited"
+	government "Sayari Plushie"
 	pos -3510.0556 -141.55556
 	link Varisa
 	link Vensur
