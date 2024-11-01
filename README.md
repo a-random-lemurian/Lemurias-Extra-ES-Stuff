@@ -1,3 +1,15 @@
+# Notice: 2023-06-27
+
+I don't play Endless Sky very much anymore. I used to maintain this plugin because it was fun. But now I realize the many issues it has; such as the inherent implausibility of the factions such as the CSSF and Sayari Plushie Authority; the space LEEST uses for systems being taken up by new pull requests. It was great by 2021 standards for me, but in the two years since I have improved at an exponential rate and moved away from Endless Sky.
+
+If I ever returned to Endless Sky and wanted to make plugins; it is likely I would start from scratch and call it LEEST 2.
+
+- Lemuria
+
+## Extra Notice: 2024-10-19
+
+This repository has been unarchived after I decided to start playing Endless Sky again. However, this interest might be short-lived and only last a few days or weeks, but nonetheless it might be long enough to fix the plugin's typos and other issues.
+
 # About
 This is a plugin for Endless Sky, created by Lemuria. It adds so much new content to the game that it cannot be listed in this README. Please view [this document](./docs/NEWCONTENT.md) for more information.
 

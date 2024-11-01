@@ -1,3 +1,7 @@
+### v0.10.17
+- Added singular they as a possible pronoun to spoiled child transport missions.
+- Fixed names of open-source developers not appearing in anti-proprietary software insults from captains.
+
 ### v0.10.16
 - Replaced Markaai's image with an image of Ann Arbor to prevent licensing issues with Pexels. (021ebca)
 - Fixed "popuation" typo.
@@ -16,6 +20,7 @@
 - Added SPA log entry. It is added to your log book when you land on a SPA world for the first time.
 - You can now purchase Amidalas even without the SPA Ship License.
 - Added more surnames to SPA name lists. Some of them are references to the game's characters.
+- What's the Hidalgo Shrine? I forgor 💀 (It's now just a generic French history museum.)
 
 ### v0.10.15 (2022-12-25)
 - Fixed Sundum's links to the non-existent systems Julitius and Pekora. #38 and #41
@@ -35,7 +40,7 @@
 - Technical writers in human space will now sometimes rant about using the year-month-day format for dates.
 - You now have a chance of encountering a man in the spaceport who will rant about the date format. On a loudspeaker.
 - Added mission where someone is moving to Asgard and she wants you to transport her stuff. By the way, her landlord is Carla von Hausen.
-- After meeting Carla von Hausen during the Skadenga storyline, there is a 5% chance everytime you land on Asgard that she will enter your ship and attempt to sell you a house.
+- After meeting Carla von Hausen during the Skadenga storyline, there is a 5% chance every time you land on Asgard that she will enter your ship and attempt to sell you a house.
 - Fixed Liz Cheney claiming her "Kestrel was much cooler" when her person ship is a Star Queen.
 - Removed Liz Cheney person ship dialog referencing Donald Trump to avoid harassment from Trump supporters. Please, don't get me involved in the mess that is American politics.
 - Grammar and typo fixes.
@@ -258,7 +263,7 @@
    - Laateli description had an extra `3` at the end
 - Rebalanced Jarkiiens fleets, less CSSF presence
 - Added Emeka'a Isai's name to the phrase lists
-   - For reference, she's that one governer you meet during the
+   - For reference, she's that one governor you meet during the
      Wanderer campaign
 - Added a new planet called "Eisei", owned by the Anime Organization
 - Added more stuff about the Anime Organization
