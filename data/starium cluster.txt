@@ -344,3 +344,12 @@ system Duxa'setisen
 	pos -2865 -81.166667
 	link Sami'sen
 	arrival 1620
+planet "Acuff"
+	attributes "starium cluster" "military" "urban"
+	landscape "land/acuff"
+	government "Starium"
+	description "Acuff is the gateway to Starium space."
+	spaceport "."
+	shipyard "Eisei"
+	outfitter "Basic Outfits"
+	outfitter "Common Outfits"
