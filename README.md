@@ -150,6 +150,15 @@ None of the people mentioned here have endorsed the use of their image for this 
 | Liminal Bastion           | aconcagua            | CC BY-SA 3.0 "Unported" | ([orig](https://commons.wikimedia.org/wiki/File:130809_La_Defense.jpg))
 | Pechara High              | The wub              | CC BY-SA 4.0 "International" | ([orig](https://commons.wikimedia.org/wiki/File:London_King%27s_Cross_rainbow_light_tunnel_-_2023-06-25.jpg))
 
+#### Original landscapes
+One image, that of Acuff, is an original image by Lemuria.
+
+| planet | notes |
+|---|---|
+| Acuff | Taken with Lemuria's camera in the passenger seat of a car going southbound on Cavitex facing the sea.
+
+### Others
+
 Regarding the planet named Bredehoft: Please do not inquire about the name choice with regard to any 21st century defamation court case.
 
 Vyacheslav Argenberg's website: http://vascoplanet.com / http://vascoplanet.ru
