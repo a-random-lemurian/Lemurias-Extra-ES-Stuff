@@ -5,6 +5,7 @@
 - Added Cavite's component cities to SPA name lists.
 - Added 37 new names of a certain theme to SPA name lists.
 - Added a station image to Pechara High.
+- Fixed system governments not being set, by setting them either to uninhabited or a nearby faction. This resulted in the legend having a single full-white entry with no name, that looked ugly.
 
 ### v0.10.16
 - Replaced Markaai's image with an image of Ann Arbor to prevent licensing issues with Pexels. (021ebca)
